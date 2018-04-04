@@ -8,19 +8,42 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 from time import sleep
+import collections
+import json
 
+# Constants
+IMAGE_CACHE_FILE = "image_cache.txt"
 
-processed_page = set()
+image_cache = dict()
+
+def writeToCache(data):
+    with open(IMAGE_CACHE_FILE, 'w') as file:
+        file.write(json.dumps(data))
 
 def get_images(browser):
-    images = browser.find_elements_by_xpath("//table/tbody/tr/td/a[@target='_blank']")
-    print "This page has ",len(images)
-    for img in images:
-        print img.get_attribute('href')
+    global image_cache
+
+    try:
+        case_element = WebDriverWait(browser, 10).until(
+            EC.visibility_of_any_elements_located((By.XPATH, "//table/tbody/tr[@ng-hide='!event.id']/td"))
+        )
+        case_number = case_element[1].text
+
+        images = WebDriverWait(browser, 10).until(
+            EC.visibility_of_any_elements_located((By.XPATH, "//table/tbody/tr/td/a[@target='_blank']"))
+        )
+        print "This page has ",len(images)
+        image_cache[case_number] = [img.get_attribute('href') for img in images]
+    except:
+        # image_cache[case_number] = [""]
+        print "No image found"
+
 
 def get_ufo_sightings(browser):
-    ufo_entry = browser.find_elements_by_xpath("//table[@class='event-table ng-scope']/tbody")
-    return ufo_entry
+    element = WebDriverWait(browser, 10, ignored_exceptions=ignored_exceptions).until(
+        EC.visibility_of_any_elements_located((By.XPATH, "//table[@class='event-table ng-scope']/tbody"))
+    )
+    return element
 
 def get_next_page_pointer(browser):
     pagination = browser.find_elements_by_xpath("//ul[@class='pagination ng-scope']/li/a")
@@ -31,10 +54,6 @@ def get_pg_pointer(browser):
     return browser.find_elements_by_xpath("//ul[@class='pagination ng-scope']/li/a")
 
 def handle_page(browser):
-
-    # element = WebDriverWait(browser, 10).until(
-    #     EC.visibility_of_any_elements_located((By.XPATH, "//table[@class='event-table ng-scope']/tbody/tr/td"))
-    # )
 
     ufo_entry = get_ufo_sightings(browser)
     ufo_length = len(ufo_entry)
@@ -62,11 +81,8 @@ def handle_page(browser):
     )
 
     get_images(browser)
-    # browser.find_element_by_tag_name('body').send_keys(Keys.COMMAND + Keys.ARROW_LEFT)
     body = browser.find_element_by_tag_name('body')
     browser.get("http://www.ufostalker.com/tag/photo")
-        # browser.switch_to_window(browser.window_handles[0])
-        # sleep(4)
 
     print "Back to main page"
     element = WebDriverWait(browser, 10, ignored_exceptions=ignored_exceptions).until(
@@ -75,21 +91,13 @@ def handle_page(browser):
 
     return browser
 
-    # nxt_page = get_next_page_pointer(browser)
-    # nxt_page.click()
-
-    # return
-
-    # handle_page(browser, count+1)
-
-
+# Initializing webdriver with firefox
 browser = webdriver.Firefox()
 browser.get('http://www.ufostalker.com/tag/photo')
 browser.maximize_window()
 action = ActionChains(browser)
+
 ignored_exceptions=(EC.NoSuchElementException,EC.StaleElementReferenceException)
-
-
 element1 = WebDriverWait(browser, 10, ignored_exceptions=ignored_exceptions).until(
     EC.visibility_of_any_elements_located((By.XPATH, "//table[@class='event-table ng-scope']/tbody/tr/td"))
 )
@@ -101,18 +109,9 @@ nxt_page_pointer.click()
 element1 = WebDriverWait(browser, 10, ignored_exceptions=ignored_exceptions).until(
     EC.visibility_of_any_elements_located((By.XPATH, "//table[@class='event-table ng-scope']/tbody/tr/td"))
 )
-#
-# nxt_page_pointer = get_next_page_pointer(browser)
-# nxt_page_pointer.click()
-#
-# #
-# element = WebDriverWait(browser, 10, ignored_exceptions=ignored_exceptions).until(
-#     EC.visibility_of_any_elements_located((By.XPATH, "//table[@class='event-table ng-scope']/tbody"))
-# )
-# action.move_to_element(element[1]).click(element[1]).perform()
 
 def go_to_page(browser):
-    pages = range(1, 11)
+    pages = range(1, 30)
     for page_num in pages:
         page_ptr_list = get_pg_pointer(browser)
         for ptr_index in range(len(page_ptr_list)):
@@ -127,6 +126,9 @@ go_to_page(browser)
 
 # handle_page(browser, 0)
 # browser.back()
+
+print image_cache
+writeToCache(image_cache)
 
 sleep(5)
 browser.quit()
