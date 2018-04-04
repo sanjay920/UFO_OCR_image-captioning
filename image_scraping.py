@@ -3,9 +3,14 @@
 import selenium.webdriver as webdriver
 import selenium.webdriver.support.ui as ui
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.action_chains import ActionChains
 from time import sleep
 
-processed_req = set()
+
+processed_page = set()
 
 def get_images(browser):
     images = browser.find_elements_by_xpath("//table/tbody/tr/td/a[@target='_blank']")
@@ -17,29 +22,111 @@ def get_ufo_sightings(browser):
     ufo_entry = browser.find_elements_by_xpath("//table[@class='event-table ng-scope']/tbody")
     return ufo_entry
 
-browser = webdriver.Chrome('browser_drivers/chromedriver')
-browser.get('http://www.ufostalker.com/tag/photo')
-ufo_entry = browser.find_elements_by_xpath("//table[@class='event-table ng-scope']/tbody")
+def get_next_page_pointer(browser):
+    pagination = browser.find_elements_by_xpath("//ul[@class='pagination ng-scope']/li/a")
+    if len(pagination) == 13:
+        return pagination[11]
 
-ufo_length = len(ufo_entry)
+def get_pg_pointer(browser):
+    return browser.find_elements_by_xpath("//ul[@class='pagination ng-scope']/li/a")
 
-# 1) get a list of sightings,
-# 2) click on each entry, wait till it opens the second page and extract the images
-# 3) Go back to the previous page
-# 4) Get a list of ufo sightings (We do this again to avoid stale state, so we recompute and continue from where we left off)
-for i in range(ufo_length):
-    print i, len(ufo_entry)
-    ufo_entry[i].click()
-    sleep(2)
-    get_images(browser)
-    sleep(2)
-    browser.back()
-    sleep(2)
+def handle_page(browser):
+
+    # element = WebDriverWait(browser, 10).until(
+    #     EC.visibility_of_any_elements_located((By.XPATH, "//table[@class='event-table ng-scope']/tbody/tr/td"))
+    # )
+
     ufo_entry = get_ufo_sightings(browser)
+    ufo_length = len(ufo_entry)
+    ignored_exceptions=(EC.NoSuchElementException,EC.StaleElementReferenceException)
+    # 1) get a list of sightings,
+    # 2) click on each entry, wait till it opens the second page and extract the images
+    # 3) Go back to the previous page
+    # 4) Get a list of ufo sightings (We do this again to avoid stale state, so we recompute and continue from where we left off)
+    print "UFO length is ", ufo_length
+    # for i in range(ufo_length):
+    #     print i, len(ufo_entry)
+    #     ufo_entry[i].click()
+    #     get_images(browser)
+    #     browser.back()
+    #     ufo_entry = get_ufo_sightings(browser)
 
-browser.back()
+    element = WebDriverWait(browser, 10, ignored_exceptions=ignored_exceptions).until(
+        EC.visibility_of_any_elements_located((By.XPATH, "//table[@class='event-table ng-scope']/tbody"))
+    )
+    action = ActionChains(browser)
+    action.move_to_element(element[0]).click(element[0]).perform()
 
-print len(ufo_entry)
+    next_page_element = WebDriverWait(browser, 10).until(
+        EC.visibility_of_any_elements_located((By.XPATH, "//div[@class='sighting-questions']"))
+    )
+
+    get_images(browser)
+    # browser.find_element_by_tag_name('body').send_keys(Keys.COMMAND + Keys.ARROW_LEFT)
+    body = browser.find_element_by_tag_name('body')
+    browser.get("http://www.ufostalker.com/tag/photo")
+        # browser.switch_to_window(browser.window_handles[0])
+        # sleep(4)
+
+    print "Back to main page"
+    element = WebDriverWait(browser, 10, ignored_exceptions=ignored_exceptions).until(
+        EC.visibility_of_any_elements_located((By.XPATH, "//table[@class='event-table ng-scope']/tbody/tr/td"))
+    )
+
+    return browser
+
+    # nxt_page = get_next_page_pointer(browser)
+    # nxt_page.click()
+
+    # return
+
+    # handle_page(browser, count+1)
+
+
+browser = webdriver.Firefox()
+browser.get('http://www.ufostalker.com/tag/photo')
+browser.maximize_window()
+action = ActionChains(browser)
+ignored_exceptions=(EC.NoSuchElementException,EC.StaleElementReferenceException)
+
+
+element1 = WebDriverWait(browser, 10, ignored_exceptions=ignored_exceptions).until(
+    EC.visibility_of_any_elements_located((By.XPATH, "//table[@class='event-table ng-scope']/tbody/tr/td"))
+)
+
+
+nxt_page_pointer = get_next_page_pointer(browser)
+nxt_page_pointer.click()
+#
+element1 = WebDriverWait(browser, 10, ignored_exceptions=ignored_exceptions).until(
+    EC.visibility_of_any_elements_located((By.XPATH, "//table[@class='event-table ng-scope']/tbody/tr/td"))
+)
+#
+# nxt_page_pointer = get_next_page_pointer(browser)
+# nxt_page_pointer.click()
+#
+# #
+# element = WebDriverWait(browser, 10, ignored_exceptions=ignored_exceptions).until(
+#     EC.visibility_of_any_elements_located((By.XPATH, "//table[@class='event-table ng-scope']/tbody"))
+# )
+# action.move_to_element(element[1]).click(element[1]).perform()
+
+def go_to_page(browser):
+    pages = range(1, 11)
+    for page_num in pages:
+        page_ptr_list = get_pg_pointer(browser)
+        for ptr_index in range(len(page_ptr_list)):
+            if str(page_num) == page_ptr_list[ptr_index].text:
+                page_ptr_list[ptr_index].click()
+                browser = handle_page(browser)
+                page_ptr_list = get_pg_pointer(browser)
+
+
+
+go_to_page(browser)
+
+# handle_page(browser, 0)
+# browser.back()
 
 sleep(5)
 browser.quit()
