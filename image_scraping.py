@@ -45,41 +45,34 @@ def get_ufo_sightings(browser):
     )
     return element
 
+
 def get_next_page_pointer(browser):
     pagination = browser.find_elements_by_xpath("//ul[@class='pagination ng-scope']/li/a")
     if len(pagination) == 13:
         return pagination[11]
 
+
 def get_pg_pointer(browser):
     return browser.find_elements_by_xpath("//ul[@class='pagination ng-scope']/li/a")
+
 
 def handle_page(browser):
 
     ufo_entry = get_ufo_sightings(browser)
     ufo_length = len(ufo_entry)
     ignored_exceptions=(EC.NoSuchElementException,EC.StaleElementReferenceException)
-    # 1) get a list of sightings,
-    # 2) click on each entry, wait till it opens the second page and extract the images
-    # 3) Go back to the previous page
-    # 4) Get a list of ufo sightings (We do this again to avoid stale state, so we recompute and continue from where we left off)
+
     print "UFO length is ", ufo_length
-    # for i in range(ufo_length):
-    #     print i, len(ufo_entry)
-    #     ufo_entry[i].click()
-    #     get_images(browser)
-    #     browser.back()
-    #     ufo_entry = get_ufo_sightings(browser)
 
-    element = WebDriverWait(browser, 10, ignored_exceptions=ignored_exceptions).until(
-        EC.visibility_of_any_elements_located((By.XPATH, "//table[@class='event-table ng-scope']/tbody"))
-    )
     action = ActionChains(browser)
-    action.move_to_element(element[0]).click(element[0]).perform()
+    action.move_to_element(ufo_entry[0]).click(ufo_entry[0]).perform()
 
+    # look for the visibility of this element before extracting the images.
     next_page_element = WebDriverWait(browser, 10).until(
         EC.visibility_of_any_elements_located((By.XPATH, "//div[@class='sighting-questions']"))
     )
 
+    # extract the images from the page and go back to the main page
     get_images(browser)
     body = browser.find_element_by_tag_name('body')
     browser.get("http://www.ufostalker.com/tag/photo")
@@ -89,6 +82,7 @@ def handle_page(browser):
         EC.visibility_of_any_elements_located((By.XPATH, "//table[@class='event-table ng-scope']/tbody/tr/td"))
     )
 
+    # return the new instance of the browser as the old one is stale
     return browser
 
 # Initializing webdriver with firefox
