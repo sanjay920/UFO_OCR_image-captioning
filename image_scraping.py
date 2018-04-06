@@ -47,16 +47,29 @@ def get_ufo_sightings(browser):
 
 
 def get_next_page_pointer(browser):
-    pagination = browser.find_elements_by_xpath("//ul[@class='pagination ng-scope']/li/a")
+    # Before fetching pagination element emulate page down
+    browser.find_element_by_tag_name('body').send_keys(Keys.COMMAND + Keys.ARROW_DOWN)
+    pagination = WebDriverWait(browser, 10, ignored_exceptions=ignored_exceptions).until(
+        EC.visibility_of_any_elements_located((By.XPATH, "//ul[@class='pagination ng-scope']/li/a"))
+    )
+    # pagination = browser.find_elements_by_xpath("//ul[@class='pagination ng-scope']/li/a")
     if len(pagination) == 13:
         return pagination[11]
 
 
 def get_pg_pointer(browser):
-    return browser.find_elements_by_xpath("//ul[@class='pagination ng-scope']/li/a")
+    # Before fetching pagination element emulate page down
+    browser.find_element_by_tag_name('body').send_keys(Keys.COMMAND + Keys.ARROW_DOWN)
+    pagination = WebDriverWait(browser, 10, ignored_exceptions=ignored_exceptions).until(
+        EC.visibility_of_any_elements_located((By.XPATH, "//ul[@class='pagination ng-scope']/li/a"))
+    )
+    return pagination
+    # return browser.find_elements_by_xpath("//ul[@class='pagination ng-scope']/li/a")
 
 
 def handle_page(browser):
+
+    browser.find_element_by_tag_name('body').send_keys(Keys.COMMAND + Keys.ARROW_UP)
 
     ufo_entry = get_ufo_sightings(browser)
     ufo_length = len(ufo_entry)
@@ -104,24 +117,62 @@ element1 = WebDriverWait(browser, 10, ignored_exceptions=ignored_exceptions).unt
     EC.visibility_of_any_elements_located((By.XPATH, "//table[@class='event-table ng-scope']/tbody/tr/td"))
 )
 
+def find_page(browser, page_number):
+    print "finding page ", page_number
+    page_ptr_list = get_pg_pointer(browser)
+    not_found = True
+    pagination_characters = [item.text for item in page_ptr_list]
+    while not_found:
+        if str(page_number) in pagination_characters:
+            not_found = False
+        else:
+            nxt_pointer = get_next_page_pointer(browser)
+            nxt_pointer.click()
+            page_ptr_list = get_pg_pointer(browser)
+            pagination_characters = [item.text for item in page_ptr_list]
+
+    element = WebDriverWait(browser, 10, ignored_exceptions=ignored_exceptions).until(
+        EC.visibility_of_any_elements_located((By.XPATH, "//table[@class='event-table ng-scope']/tbody/tr/td"))
+    )
+    return browser
+
+
+# TODO : Need to modify this to make it more generic
 def go_to_page(browser):
     pages = range(1, 30)
     for page_num in pages:
         page_ptr_list = get_pg_pointer(browser)
-        for ptr_index in range(len(page_ptr_list)):
-            if str(page_num) == page_ptr_list[ptr_index].text:
-                page_ptr_list[ptr_index].click()
-                browser = handle_page(browser)
-                page_ptr_list = get_pg_pointer(browser)
+        pagination_characters = [item.text for item in page_ptr_list]
+
+        # Check if the page number is visibile in the pagination
+        if str(page_num) in pagination_characters:
+            index = pagination_characters.index(str(page_num))
+            page_ptr_list[index].click()
+            browser = handle_page(browser)
+            page_ptr_list = get_pg_pointer(browser)
+        else:# Keep clicking on the next button till you find the page
+            print "for page ", page_num
+            find_page(browser, page_num)
+            page_ptr_list = get_pg_pointer(browser)
+            pagination_characters = [item.text for item in page_ptr_list]
+            index = pagination_characters.index(str(page_num))
+            page_ptr_list[index].click()
+            browser = handle_page(browser)
+            print pagination_characters
+
 
 
 
 go_to_page(browser)
 
+# browser = find_page(browser, 30)
+# browser.find_element_by_tag_name('body').send_keys(Keys.COMMAND + Keys.ARROW_UP)
+# handle_page(browser)
+
 # handle_page(browser, 0)
 # browser.back()
 
-print image_cache
+# print image_cache
 writeToCache(image_cache)
 
 sleep(5)
