@@ -12,12 +12,12 @@ import json
 BASE_URL = "http://www.ufostalker.com/event/"
 
 # Enter the range
-START_ID = 81000
-END_ID = 90000
-IMAGE_CACHE_FILE = "image_cache.txt"
+START_ID = 90000
+END_ID = 90100
+IMAGE_CACHE_FILE = "image_cache_v2.txt"
 
 image_map = dict()
-image_map = json.load(open(IMAGE_CACHE_FILE))
+# image_map = json.load(open(IMAGE_CACHE_FILE))
 
 def writeToCache(data):
     with open(IMAGE_CACHE_FILE, 'w') as file:
@@ -33,12 +33,40 @@ def get_images(browser, case_id):
         images = WebDriverWait(browser, 5).until(
             EC.visibility_of_any_elements_located((By.XPATH, "//table/tbody/tr/td/a[@target='_blank']"))
         )
+
+        latitude = WebDriverWait(browser, 2).until(
+            EC.visibility_of_any_elements_located((By.XPATH, "//tr[@ng-hide='!event.latitude']/td[@class='ng-binding']"))
+        )
+
+        longitude = WebDriverWait(browser, 2).until(
+            EC.visibility_of_any_elements_located((By.XPATH, "//tr[@ng-hide='!event.longitude']/td[@class='ng-binding']"))
+        )
+
+        date_sighted_at = WebDriverWait(browser, 2).until(
+            EC.visibility_of_any_elements_located((By.XPATH, "//tr[@ng-hide='!event.occurred']/td[@class='ng-binding']/a/b"))
+        )
+
+        date_reported_at = WebDriverWait(browser, 2).until(
+            EC.visibility_of_any_elements_located((By.XPATH, "//tr[@ng-hide='!event.submitted']/td[@class='ng-binding']/a/b"))
+        )
+
+        summary = WebDriverWait(browser, 2).until(
+            EC.visibility_of_any_elements_located((By.XPATH, "//p[@id='summary']"))
+        )
+
         print "This page has ",len(images)
-        image_map[case_id] = [img.get_attribute('href') for img in images]
+        image_map[case_id] = {
+            'lat': latitude[0].text,
+            'lon': longitude[0].text,
+            'sighted_at': date_sighted_at[0].text,
+            'reported_at': date_reported_at[0].text,
+            'summary': summary[0].text,
+            'photos': [img.get_attribute('href') for img in images]
+        }
     except:
         # image_cache[case_number] = [""]
         print "No image found"
-        image_map[case_id] = ""
+        image_map[case_id] = {}
 
 browser = webdriver.Firefox()
 
@@ -51,6 +79,9 @@ def process(browser):
             sleep(5)
 
 process(browser)
+# browser.get(BASE_URL+"89944")
+# browser.maximize_window()
+# get_images(browser, "89944")
 writeToCache(image_map)
 
 # print sorted(image_map.keys())
