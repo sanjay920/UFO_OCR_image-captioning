@@ -12,12 +12,12 @@ import json
 BASE_URL = "http://www.ufostalker.com/event/"
 
 # Enter the range
-START_ID = 90000
-END_ID = 90100
+START_ID = 90200
+END_ID = 90300
 IMAGE_CACHE_FILE = "image_cache_v2.txt"
 
 image_map = dict()
-# image_map = json.load(open(IMAGE_CACHE_FILE))
+image_map = json.load(open(IMAGE_CACHE_FILE))
 
 def writeToCache(data):
     with open(IMAGE_CACHE_FILE, 'w') as file:
@@ -27,9 +27,7 @@ def get_images(browser, case_id):
     global image_map
 
     try:
-        case_element = WebDriverWait(browser, 5).until(
-            EC.visibility_of_any_elements_located((By.XPATH, "//table/tbody/tr[@ng-hide='!event.id']/td"))
-        )
+
         images = WebDriverWait(browser, 5).until(
             EC.visibility_of_any_elements_located((By.XPATH, "//table/tbody/tr/td/a[@target='_blank']"))
         )
@@ -66,7 +64,7 @@ def get_images(browser, case_id):
     except:
         # image_cache[case_number] = [""]
         print "No image found"
-        image_map[case_id] = {}
+        # image_map[case_id] = {}
 
 browser = webdriver.Firefox()
 
