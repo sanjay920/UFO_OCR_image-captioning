@@ -8,12 +8,13 @@ from selenium.webdriver.common.action_chains import ActionChains
 from time import sleep
 import collections
 import json
+import http
 
 BASE_URL = "http://www.ufostalker.com/event/"
 
 # Enter the range
-START_ID = 90200
-END_ID = 90300
+START_ID = 91600
+END_ID = 92000
 IMAGE_CACHE_FILE = "image_cache_v2.txt"
 
 image_map = dict()
@@ -25,7 +26,7 @@ def writeToCache(data):
 
 def get_images(browser, case_id):
     global image_map
-
+    print "Case id ", case_id
     try:
 
         images = WebDriverWait(browser, 5).until(

@@ -54,6 +54,7 @@ def get_next_page_pointer(browser):
     )
     # pagination = browser.find_elements_by_xpath("//ul[@class='pagination ng-scope']/li/a")
     if len(pagination) == 13:
+        # 11th index in the array has '>' (next button)
         return pagination[11]
 
 
@@ -64,36 +65,39 @@ def get_pg_pointer(browser):
         EC.visibility_of_any_elements_located((By.XPATH, "//ul[@class='pagination ng-scope']/li/a"))
     )
     return pagination
-    # return browser.find_elements_by_xpath("//ul[@class='pagination ng-scope']/li/a")
 
 
 def handle_page(browser):
 
-    browser.find_element_by_tag_name('body').send_keys(Keys.COMMAND + Keys.ARROW_UP)
+    try:
+        browser.find_element_by_tag_name('body').send_keys(Keys.COMMAND + Keys.ARROW_UP)
 
-    ufo_entry = get_ufo_sightings(browser)
-    ufo_length = len(ufo_entry)
-    ignored_exceptions=(EC.NoSuchElementException,EC.StaleElementReferenceException)
+        ufo_entry = get_ufo_sightings(browser)
+        ufo_length = len(ufo_entry)
+        ignored_exceptions=(EC.NoSuchElementException,EC.StaleElementReferenceException)
 
-    print "UFO length is ", ufo_length
+        print "UFO length is ", ufo_length
 
-    action = ActionChains(browser)
-    action.move_to_element(ufo_entry[0]).click(ufo_entry[0]).perform()
+        action = ActionChains(browser)
+        # TODO : Run this for all the 10 ufo entries instead of just the 1st one.
+        action.move_to_element(ufo_entry[0]).click(ufo_entry[0]).perform()
 
-    # look for the visibility of this element before extracting the images.
-    next_page_element = WebDriverWait(browser, 10).until(
-        EC.visibility_of_any_elements_located((By.XPATH, "//div[@class='sighting-questions']"))
-    )
+        # look for the visibility of this element before extracting the images.
+        next_page_element = WebDriverWait(browser, 10).until(
+            EC.visibility_of_any_elements_located((By.XPATH, "//div[@class='sighting-questions']"))
+        )
 
-    # extract the images from the page and go back to the main page
-    get_images(browser)
-    body = browser.find_element_by_tag_name('body')
-    browser.get("http://www.ufostalker.com/tag/photo")
+        # extract the images from the page and go back to the main page
+        get_images(browser)
+        body = browser.find_element_by_tag_name('body')
+        browser.get("http://www.ufostalker.com/tag/photo")
 
-    print "Back to main page"
-    element = WebDriverWait(browser, 10, ignored_exceptions=ignored_exceptions).until(
-        EC.visibility_of_any_elements_located((By.XPATH, "//table[@class='event-table ng-scope']/tbody/tr/td"))
-    )
+        print "Back to main page"
+        element = WebDriverWait(browser, 10, ignored_exceptions=ignored_exceptions).until(
+            EC.visibility_of_any_elements_located((By.XPATH, "//table[@class='event-table ng-scope']/tbody/tr/td"))
+        )
+    except:
+        print "Failed"
 
     # return the new instance of the browser as the old one is stale
     return browser
@@ -117,6 +121,7 @@ element1 = WebDriverWait(browser, 10, ignored_exceptions=ignored_exceptions).unt
     EC.visibility_of_any_elements_located((By.XPATH, "//table[@class='event-table ng-scope']/tbody/tr/td"))
 )
 
+# function to go to a particular page
 def find_page(browser, page_number):
     print "finding page ", page_number
     page_ptr_list = get_pg_pointer(browser)
@@ -143,7 +148,7 @@ def go_to_page(browser):
     for page_num in pages:
         page_ptr_list = get_pg_pointer(browser)
         pagination_characters = [item.text for item in page_ptr_list]
-
+        sleep(5)
         # Check if the page number is visibile in the pagination
         if str(page_num) in pagination_characters:
             index = pagination_characters.index(str(page_num))
@@ -160,17 +165,7 @@ def go_to_page(browser):
             browser = handle_page(browser)
             print pagination_characters
 
-
-
-
 go_to_page(browser)
-
-# browser = find_page(browser, 30)
-# browser.find_element_by_tag_name('body').send_keys(Keys.COMMAND + Keys.ARROW_UP)
-# handle_page(browser)
-
-# handle_page(browser, 0)
-# browser.back()
 
 # print image_cache
 writeToCache(image_cache)
