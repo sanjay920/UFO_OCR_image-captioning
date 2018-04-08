@@ -1,0 +1,65 @@
+URLs,Classnames,Format,Type
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90001_submitter_file1__2735649410214911253155996582110673897064736o.jpg,wing,jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90002_submitter_file1__FBIMG1517728701063.jpg,steam locomotive,jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90002_submitter_file2__FBIMG1517728689773.jpg,steam locomotive,jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90004_submitter_file1__UFOCloudPic.jpg,car mirror,jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90014_submitter_file1__20180203030950.mp4,ski mask,mp4,video
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90016_submitter_file1__20171104183900.mp4,"nematode, nematode worm, roundworm",mp4,video
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90017_submitter_file1__IMG20180204WA0004.jpg,velvet,jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90018_submitter_file1__IMG87462.JPG,jellyfish,JPG,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90018_submitter_file2__lights1211.jpg,tennis ball,jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90018_submitter_file3__MVI8756.MOV,"nematode, nematode worm, roundworm",MOV,video
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90026_submitter_file1__28C8CAF8DDF34F249167F069F7C33B70.jpeg,"cinema, movie theater, movie theatre, movie house, picture palace",jpeg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90027_submitter_file1__Feb04unk.gif,"puck, hockey puck",gif,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90028_submitter_file1__ISSonLive20180205051414558.mp4,coral reef,mp4,video
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90028_submitter_file2__ISSonLive20180205053932.jpg,planetarium,jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90037_submitter_file1__FBIMG1517744568713.jpg,"lakeside, lakeshore",jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90037_submitter_file2__received1706143739428410.jpeg,"lakeside, lakeshore",jpeg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90037_submitter_file3__received1706143339428450.jpeg,"lakeside, lakeshore",jpeg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90037_submitter_file4__received1706143192761798.jpeg,"lakeside, lakeshore",jpeg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90044_submitter_file1__0C1D6F4E6D6242009C1A764580476D04.MOV,"nematode, nematode worm, roundworm",MOV,video
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90051_submitter_file1__20180206073522HDR.jpg,"binder, ring-binder",jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90058_submitter_file1__ufo.jpg,"nematode, nematode worm, roundworm",jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90062_submitter_file1__AE5690CEA1744377BDC367F0410DE7D8.jpeg,pole,jpeg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90064_submitter_file1__1231.jpeg,geyser,jpeg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90064_submitter_file2__12312.jpeg,geyser,jpeg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90064_submitter_file3__12313.jpeg,fireboat,jpeg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90069_submitter_file1__A01A2AA241FC4720B106B23E98680EB2.MOV,"nematode, nematode worm, roundworm",MOV,video
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90069_submitter_file2__37A9E9F79A66418FB311C4A5660724A8.MOV,"nematode, nematode worm, roundworm",MOV,video
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90069_submitter_file3__47D4C5E3C5A048A7B35895E5C8FDD3EE.MOV,"nematode, nematode worm, roundworm",MOV,video
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90072_submitter_file1__20180206184936.jpg,"nematode, nematode worm, roundworm",jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90072_submitter_file2__20180206185032.jpg,"nematode, nematode worm, roundworm",jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90072_submitter_file3__20180206185059.jpg,"nematode, nematode worm, roundworm",jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90072_submitter_file4__20180206185127.jpg,"nematode, nematode worm, roundworm",jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90072_submitter_file5__20180206185212.jpg,"nematode, nematode worm, roundworm",jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90072_submitter_file6__20180206185258.jpg,"nematode, nematode worm, roundworm",jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90074_submitter_file1__20180206184936.jpg,"nematode, nematode worm, roundworm",jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90074_submitter_file2__20180206185032.jpg,"nematode, nematode worm, roundworm",jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90074_submitter_file3__20180206185059.jpg,"nematode, nematode worm, roundworm",jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90074_submitter_file4__20180206185127.jpg,"nematode, nematode worm, roundworm",jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90074_submitter_file5__20180206185212.jpg,"nematode, nematode worm, roundworm",jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90074_submitter_file6__20180206185258.jpg,"nematode, nematode worm, roundworm",jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90076_submitter_file1__276647FA21BC479AB66281F86C9C0839.jpeg,"great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias",jpeg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90076_submitter_file2__8BB9E9DE5B57423F8D5ECB36E281A7E7.jpeg,"nematode, nematode worm, roundworm",jpeg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90079_submitter_file1__IMG20180206183122.jpg,volcano,jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90079_submitter_file2__IMG20180206183126.jpg,torch,jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90079_submitter_file3__IMG20180206183129.jpg,planetarium,jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90079_submitter_file4__IMG20180206183130.jpg,planetarium,jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90080_submitter_file1__VID20180206193047018.mp4,jellyfish,mp4,video
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90081_submitter_file1__1.jpg,"church, church building",jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90081_submitter_file2__2.jpg,barn,jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90082_submitter_file1__20180206183015.jpg,"nematode, nematode worm, roundworm",jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90082_submitter_file2__20180206183018.jpg,"nematode, nematode worm, roundworm",jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90082_submitter_file3__20180206183144.jpg,"nematode, nematode worm, roundworm",jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90085_submitter_file1__Screenshot20180207014826.png,volcano,png,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90085_submitter_file2__20180207033558.jpg,jellyfish,jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90085_submitter_file3__20180207033501.jpg,volcano,jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90085_submitter_file4__20180207033716.jpg,matchstick,jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90088_submitter_file1__20180206193041.mp4,"nematode, nematode worm, roundworm",mp4,video
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90090_submitter_file1__IMG0432.jpg,"traffic light, traffic signal, stoplight",jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90093_submitter_file1__Feb06unk.gif,"puck, hockey puck",gif,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90095_submitter_file1__32E02885EF69457EAF3E70D32B7F891E.jpeg,"lakeside, lakeshore",jpeg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90095_submitter_file2__B301B90A39624D4AAB5DC9F2F761BCCE.MOV,chainlink fence,MOV,video
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90095_submitter_file3__A712CE92378C48B9811A8F371D2A3039.jpeg,chainlink fence,jpeg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90099_submitter_file1__ufo1.jpg,"lakeside, lakeshore",jpg,image
+http://localhost:8764/inception/v4/classify/video?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90099_submitter_file2__ufo2.jpg,"lakeside, lakeshore",jpg,image
