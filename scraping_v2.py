@@ -8,13 +8,12 @@ from selenium.webdriver.common.action_chains import ActionChains
 from time import sleep
 import collections
 import json
-import http
 
 BASE_URL = "http://www.ufostalker.com/event/"
 
 # Enter the range
-START_ID = 91600
-END_ID = 92000
+START_ID = 4000
+END_ID = 4892
 IMAGE_CACHE_FILE = "image_cache_v2.txt"
 
 image_map = dict()
@@ -70,12 +69,18 @@ def get_images(browser, case_id):
 browser = webdriver.Firefox()
 
 def process(browser):
-    for case_id in range(START_ID, END_ID):
-        if case_id not in image_map:
-            browser.get(BASE_URL+str(case_id))
-            browser.maximize_window()
-            get_images(browser, case_id)
-            sleep(5)
+    global image_map
+    try:
+        for case_id in range(START_ID, END_ID):
+            if case_id not in image_map:
+                browser.get(BASE_URL+str(case_id))
+                browser.maximize_window()
+                get_images(browser, case_id)
+                sleep(5)
+    except:
+        print "Error occurred"
+    finally:
+        writeToCache(image_map)
 
 process(browser)
 # browser.get(BASE_URL+"89944")
