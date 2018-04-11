@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.usc.cs.ir.tika.ner.corenlp.CoreNLPNERecogniserTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.158 sec

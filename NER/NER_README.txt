@@ -1,0 +1,1 @@
+Follow directions from: https://wiki.apache.org/tika/TikaAndNER
