@@ -4,7 +4,7 @@ import concurrent.futures
 import requests
 import json
 from aiohttp import ClientSession
-import pandas
+import pandas as pd
 
 
 def create_csv(urls, case_ids, classes):
@@ -30,35 +30,52 @@ async def fetch(url, case_id, session):
 async def run(data, dframe):
     loop = asyncio.get_event_loop()
     tasks = []
-    case_ids = []
-    urls = []
-    classes = []
+    case_ids = dframe['Case_ID'].tolist()
+    print(case_ids)
+    urls = dframe['URL'].tolist()
+    classes = dframe['Class'].tolist()
+
+    invalid_url_count = 0
 
     async with ClientSession() as session:
         for client_id, client_details in data.items():
-            if 'photos' in client_details:
+            # if int(client_id) in case_ids:
+            #     print("present")
+            # if ('photos' in client_details) and (int(client_id) not in case_ids):
+            if ('photos' in client_details):
                 for photo_url in client_details['photos']:
-                    if '.jpg' in photo_url or '.png' in photo_url or '.jpeg' in photo_url:
+                    if ('.jpg' in photo_url.lower() or '.png' in photo_url.lower() or '.jpeg' in photo_url.lower()):
                         url = TIKA_VISION_API + photo_url
-                        task = asyncio.ensure_future(fetch(url, client_id, session))
-                        tasks.append(task)
-                        await asyncio.sleep(1)
+                        if url not in urls:
+                            task = asyncio.ensure_future(fetch(url, client_id, session))
+                            tasks.append(task)
+                            await asyncio.sleep(1)
+                        else:
+                            print("Not processing url ",photo_url)
+                    else:
+                        print(photo_url)
+                        invalid_url_count += 1
+            else:
+                print("Client id already present in the csv ", client_id)
 
+        print("Invalid count is ", invalid_url_count)
         responses = await asyncio.gather(*tasks)
         for resp in responses:
-            print("The response is ", resp)
             case_ids.append(resp['case_id'])
             urls.append(resp['url'])
             classes.append(resp['class_names'])
 
-        df = pandas.DataFrame({"URL": urls, "Case_ID": case_ids, "Class": classes})
+        df = pd.DataFrame({"URL": urls, "Case_ID": case_ids, "Class": classes})
         df.to_csv('data_set_v2.csv', index=False)
 
 
 
 data_frame = pd.read_csv('data_set_v2.csv', encoding='ISO-8859-1')
+data_frame['Case_ID'] = data_frame['Case_ID'].fillna(0)
+data_frame[['Case_ID']] = data_frame[['Case_ID']].astype(int)
+
 
 image_cache_map = json.load(open('image_cache_v2.txt'))
 loop = asyncio.get_event_loop()
-future = asyncio.ensure_future(run(image_cache_map))
+future = asyncio.ensure_future(run(image_cache_map,data_frame))
 loop.run_until_complete(future)

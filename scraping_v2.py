@@ -5,15 +5,17 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.chrome.options import Options
 from time import sleep
 import collections
 import json
 
 BASE_URL = "http://www.ufostalker.com/event/"
-
+PATH_TO_CHROME_PLUGIN = "/Users/sachingb/Development/USC/CSCI_599/Assignments/HW2/UFO_ocr_image-captioning_enrichment/chrome_extensions/"
 # Enter the range
-START_ID = 4000
-END_ID = 4892
+# 90660
+START_ID = 80900
+END_ID = 81000
 IMAGE_CACHE_FILE = "image_cache_v2.txt"
 
 image_map = dict()
@@ -28,7 +30,7 @@ def get_images(browser, case_id):
     print "Case id ", case_id
     try:
 
-        images = WebDriverWait(browser, 5).until(
+        images = WebDriverWait(browser, 3).until(
             EC.visibility_of_any_elements_located((By.XPATH, "//table/tbody/tr/td/a[@target='_blank']"))
         )
 
@@ -62,11 +64,21 @@ def get_images(browser, case_id):
             'photos': [img.get_attribute('href') for img in images]
         }
     except:
-        # image_cache[case_number] = [""]
+    #     # image_cache[case_number] = [""]
         print "No image found"
         # image_map[case_id] = {}
 
-browser = webdriver.Firefox()
+# profile = webdriver.FirefoxProfile()
+# profile.add_extension(PATH_TO_FIREFOX_PLUGIN+"anonymox.xpi")
+# profile.add_extension(PATH_TO_FIREFOX_PLUGIN+"adblock.xpi")
+
+# browser = webdriver.Firefox()
+chrome_options = Options()
+chrome_options.add_extension(PATH_TO_CHROME_PLUGIN+'hola.crx') #anonymox
+chrome_options.add_extension(PATH_TO_CHROME_PLUGIN+'adblock.crx') #adblock
+#
+browser = webdriver.Chrome(executable_path='browser_drivers/chromedriver', chrome_options=chrome_options)
+
 
 def process(browser):
     global image_map
@@ -76,7 +88,7 @@ def process(browser):
                 browser.get(BASE_URL+str(case_id))
                 browser.maximize_window()
                 get_images(browser, case_id)
-                sleep(5)
+                sleep(3)
     except:
         print "Error occurred"
     finally:
