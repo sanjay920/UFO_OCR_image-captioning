@@ -8,7 +8,7 @@ import pandas as pd
 
 TIKA_CAPTION_API = "http://localhost:8764/inception/v3/caption/image?url="
 PROCESSED_URLS = "processed_url.txt"
-URL_LIST = "all_url.txt"
+URL_LIST = "new_all_url.txt"
 all_url_map = {"all":[]}
 processed_map = {"processed": []}
 
@@ -60,12 +60,15 @@ async def run(df, processed_url, all_url):
     async with ClientSession() as session:
         for ufo_url in all_url:
             url = TIKA_CAPTION_API + str(ufo_url)
-            if url not in processed_url:
-                task = asyncio.ensure_future(fetch(url,session))
-                tasks.append(task)
-                await asyncio.sleep(1)
+            if ('.jpg' in ufo_url.lower() or '.png' in ufo_url.lower() or '.jpeg' in ufo_url.lower()):
+                if url not in processed_url:
+                    task = asyncio.ensure_future(fetch(url,session))
+                    tasks.append(task)
+                    await asyncio.sleep(1)
+                else:
+                    print("URL is already processed, ",ufo_url)
             else:
-                print("URL is already processed, ",ufo_url)
+                print("Cannot process the url ", ufo_url)
 
         responses = await asyncio.gather(*tasks)
         print("Response is ",responses)
@@ -89,7 +92,10 @@ captions_data_frame = pd.read_csv('data_set_v2_with_caption.csv', encoding='ISO-
 processed_map = get_processed_urls()
 # writeToCache(processed_map, PROCESSED_URLS)
 processed_url = processed_map['processed']
+print(len(all_url))
+url_to_consider = all_url[1500:1600]
+
 # print(all_url)
 loop = asyncio.get_event_loop()
-future = asyncio.ensure_future(run(captions_data_frame ,processed_url, all_url))
+future = asyncio.ensure_future(run(captions_data_frame ,processed_url, url_to_consider))
 loop.run_until_complete(future)
