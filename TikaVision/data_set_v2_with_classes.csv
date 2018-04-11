@@ -1,0 +1,1029 @@
+Class,URL
+['jellyfish'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91189_submitter_file2__image.jpeg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91189_submitter_file3__image.jpeg
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91189_submitter_file4__image.jpeg
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91189_submitter_file5__image.jpeg
+['ping-pong ball'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91178_submitter_file1__20171006184101.jpg
+['wing'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91176_submitter_file1__IMG20180324074428.jpg
+"['flagpole, flagstaff']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91159_submitter_file1__01c406177bab83de4911e2bd57ec61c5180f3ff4a8.jpg
+"['solar dish, solar collector, solar furnace']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91159_submitter_file2__017233ef8d465922e9b6cc75d67867faa4e28c1526.jpg
+['fountain'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91156_submitter_file1__8599265AB24C43ABA17EA02A270701C8.jpeg
+['kite'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91154_submitter_file2__IMG2007.PNG
+['kite'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91154_submitter_file3__IMG2010.PNG
+['wing'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91154_submitter_file4__IMG2047.PNG
+['wing'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91154_submitter_file5__IMG2052.PNG
+"['hook, claw']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91154_submitter_file6__IMG2055.PNG
+['bubble'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91145_submitter_file1__551418D22AF54116A5144DD813224F1D.jpeg
+['wing'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91145_submitter_file2__10AB009BA6324A458EF29FFFA1623035.jpeg
+['airliner'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91137_submitter_file1__08A875374F2748048588C0927FCC9CD2.jpeg
+"['valley, vale']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91131_submitter_file1__DSC0235.JPG
+['rapeseed'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91131_submitter_file2__DSC0123.JPG
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91131_submitter_file3__DSC01232.JPG
+['missile'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91119_submitter_file1__8996A574AF974A2D860FBE268316424E.jpeg
+"['racket, racquet']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91119_submitter_file2__153D320F8B47445495D62FFFB23F32CD.jpeg
+"['radio telescope, radio reflector']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91082_submitter_file1__D2EBEDA9DF854ECEA99A1E5B6A80272F.jpeg
+"['lakeside, lakeshore']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91082_submitter_file2__114AC76BDD4F467987291036E310EE8B.jpeg
+['water tower'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91082_submitter_file3__1C7AFCCC7CA249CEB7C6B41990F4456E.jpeg
+['water tower'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91082_submitter_file4__9E70FD8FEE7A477A83AC28BABDFE1D0C.jpeg
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91082_submitter_file5__45E025AA0ED14786810C581CDD5FE4C9.jpeg
+['airliner'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91078_submitter_file1__IMG20180328071625.jpg
+['airliner'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91078_submitter_file2__IMG20180328071620.jpg
+"['church, church building']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91076_submitter_file1__bubble.jpg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91072_submitter_file1__405ED86A872C4CB8ADA30B2D52584C7C.jpeg
+"['stupa, tope']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91072_submitter_file2__1C36BFDB8A02453B8BFCA4980AE29EAC.jpeg
+['chainlink fence'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91072_submitter_file3__EF1C9BDB785746D3840B1B0FE462C279.jpeg
+['palace'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91072_submitter_file4__0177F074B9F6498ABC9CE7D5FFF47F83.jpeg
+['wreck'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91071_submitter_file1__IMG3056.JPG
+['tile roof'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91071_submitter_file2__IMG3057.JPG
+"['traffic light, traffic signal, stoplight']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91071_submitter_file3__maisonmdormoy.PNG
+"['common newt, Triturus vulgaris']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91071_submitter_file4__maisonmdormoy2.PNG
+"['puck, hockey puck']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91071_submitter_file5__croquis001.jpg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91064_submitter_file1__9F71096EC1CC4A10B23CDC17EBE3FAB2.jpeg
+['Norfolk terrier'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91057_submitter_file1__0CAAA790C3F64F0EB1E012CCA6BBF4F1.jpeg
+['bow'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91057_submitter_file2__4C5A3D07A6294F08BED4E65EE770E012.jpeg
+['bow'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91057_submitter_file3__66A8A4952F6246B78DB0E06804D2DECC.jpeg
+['miniature poodle'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91057_submitter_file4__49B955507DAC4FD8A068D121E3934255.jpeg
+"['notebook, notebook computer']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91057_submitter_file5__2C873DA732DF433FA42CBEA0C344ACE2.jpeg
+['digital clock'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91053_submitter_file1__201803270h11min.jpg
+"['tub, vat']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91032_submitter_file1__6B2B55228B1843618E99DA8BBCCF4907.jpeg
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91028_submitter_file1__IMG13071.jpg
+['suspension bridge'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91025_submitter_file1__image.jpeg
+['pole'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91022_submitter_file1__4A23B600D8814B60A86C559DED503BFF.jpeg
+['rapeseed'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91022_submitter_file2__81EFED6721814D0C82FC4AD118575803.jpeg
+"['valley, vale']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91012_submitter_file1__224754C05F924331A27001929630E197.jpeg
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/91003_submitter_file1__2DEBBE79E3C14887A33D89ECD0CBD34E.jpeg
+['fountain'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90979_submitter_file1__20180323150857.jpg
+['fountain'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90979_submitter_file2__20180323150856.jpg
+['fountain'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90979_submitter_file3__201803231508560.jpg
+"['traffic light, traffic signal, stoplight']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90977_submitter_file2__B9B915772E7E4C46B6AC13E7E734D3B2.jpeg
+"['megalith, megalithic structure']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90977_submitter_file3__27277CED698C4C1BA7C97095BE4705DB.jpeg
+"['thatch, thatched roof']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90973_submitter_file1__IMG36492.JPG
+['fountain'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90973_submitter_file2__IMG36562.JPG
+['fountain'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90973_submitter_file3__IMG36662.JPG
+"['lakeside, lakeshore']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90973_submitter_file4__IMG36681.JPG
+"['church, church building']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90973_submitter_file5__IMG36692.JPG
+['fountain'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90973_submitter_file6__IMG36702.JPG
+['car mirror'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90963_submitter_file1__9B317F547D7B4312930F79F9774C4429.jpeg
+['wing'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90956_submitter_file1__9D3DB743B5134431B1EDBA9ADA2BA43A.jpeg
+['knot'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90956_submitter_file2__039BCBEA4DEA41E3AC047AD5C2B54FBC.jpeg
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90956_submitter_file3__B5EBFB2B91DC4CFEA68353DF03E1C2A1.jpeg
+['knot'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90956_submitter_file4__7455813CE3354437A0AF26602E7515CD.jpeg
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90956_submitter_file5__034B16D4B3E94980967CA2B8CF7B27B1.jpeg
+['fountain'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90956_submitter_file6__AE486B24C81C47A4A4D0B6AA3FC29E1A.jpeg
+['wing'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90956_submitter_file7__485E442EE780442BAD1E37717337AC02.jpeg
+['bubble'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90956_submitter_file8__75DB65D0E07C4754A38016B66AED6CD8.jpeg
+['alp'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90949_submitter_file1__849D074B3F1E4B3E8CF062733B6790D3.jpeg
+['obelisk'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90933_submitter_file1__DumbbellshapedUFO20170821Time1335.jpg
+"['pool table, billiard table, snooker table']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90932_submitter_file2__DSC0401.JPG
+['sea snake'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90932_submitter_file3__DSC0387.JPG
+['balloon'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90932_submitter_file4__DSC0399.JPG
+"['patio, terrace']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90926_submitter_file1__Nic.UFOOrig.jpg
+"['airship, dirigible']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90926_submitter_file2__Nic.UFOzoom1.jpg
+"['quill, quill pen']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90926_submitter_file3__Nic.UFOzoom2.jpg
+"['albatross, mollymawk']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90926_submitter_file4__Nic.UFOzoom3.jpg
+['iPod'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90925_submitter_file1__SAM2902.JPG
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90925_submitter_file2__SAM2905.JPG
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90925_submitter_file3__SAM2906.JPG
+"['binder, ring-binder']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90925_submitter_file4__SAM2907.JPG
+"['liner, ocean liner']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90915_submitter_file1__51307submitterfile1DSC0069.jpg
+['alp'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90899_submitter_file1__20180317115756.jpg
+['alp'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90899_submitter_file2__20180317115817.jpg
+"['binder, ring-binder']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90892_submitter_file1__20180317060721SingleLight.jpg
+"['binder, ring-binder']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90892_submitter_file2__20180317060727SingleLIight2.jpg
+"['brambling, Fringilla montifringilla']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90889_submitter_file4__20180315063953DimLights.jpg
+['jellyfish'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90888_submitter_file1__DSC01982.JPG
+['jellyfish'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90888_submitter_file2__DSC01983.JPG
+['bubble'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90888_submitter_file3__DSC01986.JPG
+"['hammerhead, hammerhead shark']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90888_submitter_file4__DSC01988.JPG
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90888_submitter_file5__DSC02049.JPG
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90888_submitter_file6__DSC02050.JPG
+['jellyfish'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90888_submitter_file7__DSC02051.JPG
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90888_submitter_file8__DSC02052.JPG
+['wing'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90886_submitter_file1__201802260606223inaV.jpg
+['digital clock'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90882_submitter_file1__Screenshot201803191534291.png
+"['web site, website, internet site, site']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90882_submitter_file2__Screenshot20180319135508.png
+['stove'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90882_submitter_file3__Screenshot201803191926261.png
+['wing'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90854_submitter_file1__201802260606223inaV.jpg
+"['brambling, Fringilla montifringilla']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90854_submitter_file2__20180315063953DimLights.jpg
+['wing'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90852_submitter_file1__20180318065726.jpg
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90852_submitter_file2__20180318065716.jpg
+['fountain'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90852_submitter_file3__20180318065640.jpg
+['fountain'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90852_submitter_file4__20180318065639.jpg
+['fountain'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90852_submitter_file5__20180318065636.jpg
+['bubble'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90833_submitter_file1__20180317222739.png
+['park bench'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90833_submitter_file2__Screenshot20180317210305.jpg
+['obelisk'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90833_submitter_file3__20180317225547.jpg
+['obelisk'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90833_submitter_file4__20180317225534.jpg
+"['church, church building']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90827_submitter_file1__IMG5977.JPG
+['pier'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90806_submitter_file2__IMG20180316195929.jpg
+"['dock, dockage, docking facility']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90806_submitter_file3__IMG20180316195923.jpg
+"['traffic light, traffic signal, stoplight']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90806_submitter_file4__MVIMG20180316195903.jpg
+['pier'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90806_submitter_file5__MVIMG20180316195849.jpg
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90788_submitter_file1__fullsizeoutput4248.jpeg
+['llama'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90788_submitter_file2__fullsizeoutput47d2.jpeg
+"['valley, vale']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90788_submitter_file3__fullsizeoutput4249.jpeg
+['bubble'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90768_submitter_file1__IMG1307.JPG
+['wok'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90768_submitter_file2__IMG1308.JPG
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90768_submitter_file3__IMG1310.JPG
+['Petri dish'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90768_submitter_file4__IMG1311.JPG
+['Petri dish'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90768_submitter_file5__IMG1311.JPG
+['stingray'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90743_submitter_file1__IMG2605.JPG
+"['snowplow, snowplough']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90743_submitter_file2__IMG2603.JPG
+"['unicycle, monocycle']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90743_submitter_file3__IMG2604.JPG
+"['unicycle, monocycle']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90743_submitter_file4__IMG2604.JPG
+['stingray'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90743_submitter_file5__IMG2606.JPG
+"['snowplow, snowplough']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90737_submitter_file1__20180312195640.jpg
+"['snowplow, snowplough']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90737_submitter_file2__20180312195643.jpg
+['cuirass'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90737_submitter_file3__201803121956401.jpg
+"['snowplow, snowplough']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90737_submitter_file4__20180312195648.jpg
+"['jean, blue jean, denim']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90731_submitter_file1__DC343D14209140D3B8AADD95EE49EA0D.png
+"['balance beam, beam']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90731_submitter_file2__AE379AF0140F4B5889AE727F50EE4D70.png
+"['balance beam, beam']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90731_submitter_file3__4CAB280F969343538423F9B0C16B11CF.png
+"['balance beam, beam']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90731_submitter_file4__2CC8880F309748A7BD3CAE4544AB78FC.png
+"['jean, blue jean, denim']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90731_submitter_file5__15A5EBCAFC8245DF91D59886C5B5B90D.png
+"['seashore, coast, seacoast, sea-coast']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90729_submitter_file1__IMG1256.JPG
+['rapeseed'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90721_submitter_file1__ORIGINALPHOTOGRAPHc18.jpg
+['window screen'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90721_submitter_file2__UFO1.jpg
+['window screen'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90721_submitter_file3__UFO2.jpg
+['window screen'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90721_submitter_file4__UFOCLOSEUP.jpg
+"['traffic light, traffic signal, stoplight']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90707_submitter_file1__20171002113443.jpg
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90707_submitter_file2__GoldEgg.jpg
+['fountain'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90697_submitter_file1__IMG2967.JPG
+['fountain'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90683_submitter_file1__3138BB9E89214BE0B298F2E10FE51684.jpeg
+"['great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90683_submitter_file2__34A414ABA17441B6BD24D8B5F00A7612.jpeg
+['nail'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90661_submitter_file1__20180121101317.jpg
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90660_submitter_file1__01UFO.jpg
+['missile'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90660_submitter_file2__02UFO.jpg
+['missile'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90660_submitter_file3__03UFO.jpg
+['tick'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90660_submitter_file4__04croped.jpg
+"['lacewing, lacewing fly']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90660_submitter_file5__04cropedFilter.jpg
+['bubble'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90659_submitter_file1__IMG0501.JPG
+['bubble'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90659_submitter_file2__IMG0502.JPG
+['bubble'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90659_submitter_file3__IMG0503.JPG
+['bubble'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90659_submitter_file4__IMG0504.JPG
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90659_submitter_file5__28512014543627132673704415353958n.jpg
+['alp'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90652_submitter_file1__vzdlenfotka.png
+"['solar dish, solar collector, solar furnace']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90652_submitter_file2__velkpiblen.png
+"['web site, website, internet site, site']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90652_submitter_file3__sloenobrzeksufo.png
+['jellyfish'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90652_submitter_file4__prvnpiblen.png
+['abacus'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90652_submitter_file5__detailjednalod.png
+"['flagpole, flagstaff']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90629_submitter_file1__20180306180753.jpg
+"['traffic light, traffic signal, stoplight']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90626_submitter_file1__ufo.jpg
+"['lakeside, lakeshore']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90623_submitter_file1__BRIGHTLIGHT.jpg
+['alp'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90623_submitter_file2__UFO.jpg
+['balloon'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90623_submitter_file3__UFO2.jpg
+"['lakeside, lakeshore']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90617_submitter_file1__20160907192832.jpg
+"['lakeside, lakeshore']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90617_submitter_file2__20160907192830.jpg
+['jellyfish'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90599_submitter_file1__IMG6789.JPG
+['alp'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90587_submitter_file1__20170327082608.jpg
+['alp'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90587_submitter_file2__20170327082610.jpg
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90587_submitter_file3__20170327082612.jpg
+['alp'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90587_submitter_file4__20170327082600.jpg
+['alp'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90587_submitter_file5__20170327082624.jpg
+['kite'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90564_submitter_file1__IMG3337.jpg
+['vulture'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90564_submitter_file2__IMG3308.jpg
+"['bald eagle, American eagle, Haliaeetus leucocephalus']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90564_submitter_file3__IMG3322.jpg
+['kite'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90564_submitter_file4__IMG3316.jpg
+"['bald eagle, American eagle, Haliaeetus leucocephalus']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90564_submitter_file5__IMG3327.jpg
+['vulture'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90564_submitter_file6__IMG3307.jpg
+"['bald eagle, American eagle, Haliaeetus leucocephalus']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90564_submitter_file7__IMG3319.jpg
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90560_submitter_file1__image1.JPG
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90560_submitter_file2__IMG0136.JPG
+['crane'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90557_submitter_file1__20180304125753HDR.jpg
+['kite'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90557_submitter_file2__20180304125753HDR11.jpg
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90557_submitter_file3__20180304125753HDR111.jpg
+['castle'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90541_submitter_file1__IMG3658.JPG
+['castle'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90541_submitter_file2__IMG3659.JPG
+['castle'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90541_submitter_file3__IMG3660.JPG
+['castle'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90541_submitter_file4__IMG3661.JPG
+['castle'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90541_submitter_file5__IMG3662.JPG
+['pole'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90539_submitter_file1__KMC0366.JPG
+"['worm fence, snake fence, snake-rail fence, Virginia fence']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90539_submitter_file2__KMC0367.JPG
+['pole'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90539_submitter_file3__KMC0368.JPG
+['pole'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90539_submitter_file4__KMC0369.JPG
+"['trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90527_submitter_file1__1029111430.jpg
+['shower curtain'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90527_submitter_file2__1029111541.jpg
+"['walking stick, walkingstick, stick insect']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90527_submitter_file3__1029111542.jpg
+['stingray'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90527_submitter_file4__10291116430002.jpg
+"['lighter, light, igniter, ignitor']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90527_submitter_file5__10291115420005.jpg
+['vault'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90527_submitter_file6__10291116430001.jpg
+"['walking stick, walkingstick, stick insect']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90527_submitter_file7__10291115420001.jpg
+"['trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90526_submitter_file1__1029111430.jpg
+['shower curtain'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90526_submitter_file2__1029111541.jpg
+"['walking stick, walkingstick, stick insect']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90526_submitter_file3__1029111542.jpg
+['stingray'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90526_submitter_file4__10291116430002.jpg
+"['lighter, light, igniter, ignitor']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90526_submitter_file5__10291115420005.jpg
+['vault'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90526_submitter_file6__10291116430001.jpg
+"['trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90525_submitter_file1__1029111430.jpg
+['shower curtain'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90525_submitter_file2__1029111541.jpg
+"['walking stick, walkingstick, stick insect']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90525_submitter_file3__1029111542.jpg
+['stingray'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90525_submitter_file4__10291116430002.jpg
+"['lighter, light, igniter, ignitor']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90525_submitter_file5__10291115420005.jpg
+['vault'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90525_submitter_file6__10291116430001.jpg
+"['walking stick, walkingstick, stick insect']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90525_submitter_file7__10291115420001.jpg
+['alp'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90503_submitter_file2__IMG84841.JPG
+['kite'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90503_submitter_file3__IMG8484.JPG
+['fountain'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90488_submitter_file1__IMG2050.JPG
+['fountain'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90488_submitter_file2__IMG2050.JPG
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90479_submitter_file1__objectinsky1Feb152018.png
+"['television, television system']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90479_submitter_file2__objectinsky2Feb1520182.jpg
+['window screen'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90479_submitter_file3__objectinsky3Feb1520182.jpg
+['abaya'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90478_submitter_file1__coloredlightsinskyFeb62018.png
+"['megalith, megalithic structure']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90462_submitter_file1__26943022102155061084757881380208352n.jpg
+['rapeseed'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90462_submitter_file2__2699618110215506096715494330740942n.jpg
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90442_submitter_file1__IMG20180224222505.jpg
+"['common newt, Triturus vulgaris']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90442_submitter_file2__IMG20180224222639.jpg
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90442_submitter_file3__IMG20180224222437.jpg
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90442_submitter_file5__IMG20180226214634.jpg
+['balloon'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90433_submitter_file1__IMG20170821131622.jpg
+"['airship, dirigible']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90433_submitter_file2__20171015161739.png
+['matchstick'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90425_submitter_file1__IMG0366.JPG
+"['airship, dirigible']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90421_submitter_file1__IMG2018022416514901.jpeg
+"['web site, website, internet site, site']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90421_submitter_file2__Screenshot2018022522320801.jpeg
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90421_submitter_file3__IMG2018022416514902.jpeg
+['obelisk'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90418_submitter_file1__thumbnail.jpg
+['alp'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90368_submitter_file1__20171117155446.jpg
+"['valley, vale']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90368_submitter_file2__20171118124055.jpg
+"['valley, vale']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90368_submitter_file3__20171118124057.jpg
+"['seashore, coast, seacoast, sea-coast']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90346_submitter_file1__95D999F43DFA49B0871FC049FB33E182.png
+"['seashore, coast, seacoast, sea-coast']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90346_submitter_file2__566AE19777154DCCB0270B47084FA0E8.png
+"['seashore, coast, seacoast, sea-coast']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90346_submitter_file3__3D9164FA6ED94042B413422EDD6859D1.png
+"['web site, website, internet site, site']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90346_submitter_file4__9DB4034F3AA04408A9A701915DE3371C.png
+['envelope'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90334_submitter_file1__20180220193522.jpg
+['envelope'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90334_submitter_file2__20180220193537.jpg
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90326_submitter_file1__IMG20171009102432.jpg1.jpg
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90324_submitter_file4__20180216123153.jpg
+['fountain'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90324_submitter_file5__20180216123157.jpg
+['kite'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90323_submitter_file2__IMG3480.JPG
+"['warplane, military plane']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90323_submitter_file3__fullsizeoutput64.jpeg
+"['great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90317_submitter_file2__683CCBDE849845268707481CA4A382DC.png
+"['great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90317_submitter_file3__762E8C458059439681ECC8B22B0EF68D.jpeg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90317_submitter_file5__D99B73AD6F194C35949C94492C641008.png
+"['airship, dirigible']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90312_submitter_file1__ufo.JPG
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90308_submitter_file1__659BE8A103F44517A4C609836FF23F20.jpeg
+"['airship, dirigible']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90293_submitter_file1__1copywitharrow.jpg
+"['lakeside, lakeshore']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90293_submitter_file2__1original.JPG
+"['promontory, headland, head, foreland']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90293_submitter_file3__2copywitharrow.jpg
+"['sandbar, sand bar']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90293_submitter_file4__2original.JPG
+"['sandbar, sand bar']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90293_submitter_file5__3copywitharrow.jpg
+"['promontory, headland, head, foreland']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90293_submitter_file6__3original.JPG
+"['promontory, headland, head, foreland']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90293_submitter_file7__4copywitharrow.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90290_submitter_file2__IMG19071.JPG
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90290_submitter_file3__IMG18831.jpg
+['ping-pong ball'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90290_submitter_file4__IMG1882.jpg
+"['trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90271_submitter_file1__IMG20180131162246.jpg
+"['garbage truck, dustcart']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90271_submitter_file2__IMG20180131162310.jpg
+"['trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90271_submitter_file3__IMG20180131162431.jpg
+['pole'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90271_submitter_file4__IMG20180131162532.jpg
+['balloon'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90271_submitter_file5__IMG20180131162535.jpg
+['pole'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90271_submitter_file6__IMG20180131162550.jpg
+['pole'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90271_submitter_file7__IMG20180131162552.jpg
+"['seashore, coast, seacoast, sea-coast']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90264_submitter_file1__fountainhills.jpg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90223_submitter_file2__20180129024805.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90223_submitter_file4__20180129025343.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90217_submitter_file1__28053380202590190324196719752393n.jpg
+"['bell cote, bell cot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90203_submitter_file1__ufo.jpg
+"['container ship, containership, container vessel']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90184_submitter_file1__20180202003121.jpg
+['library'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90184_submitter_file2__20180201010331.jpg
+"['fire engine, fire truck']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90184_submitter_file3__20180201010325.jpg
+['library'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90184_submitter_file4__20180201010304.jpg
+"['container ship, containership, container vessel']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90184_submitter_file5__20180202003121.jpg
+['barn'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90180_submitter_file1__Screenshot20180211133853.jpg
+['golf ball'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90180_submitter_file2__Screenshot20180211133820.jpg
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90162_submitter_file1__IMG4815.JPG
+['kite'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90162_submitter_file2__IMG4835.PNG
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90162_submitter_file3__IMG4836.PNG
+"['leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90151_submitter_file3__IMG2583.JPG
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90151_submitter_file5__IMG2590.JPG
+['wing'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90144_submitter_file1__objextintrails.jpg
+['fireboat'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90144_submitter_file2__object2.jpg
+['suspension bridge'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90138_submitter_file1__LakefrontUfoPenrose.jpg
+"['lakeside, lakeshore']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90138_submitter_file2__LakefrontPenrose.jpg
+['barn'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90138_submitter_file3__LakefrontUfoPenroseedgedetection.jpg
+['barn'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90138_submitter_file4__LakefrontUfoPenroseedgedetectioncroppedsmaller.jpg
+"['mobile home, manufactured home']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90135_submitter_file1__image.jpg
+['rapeseed'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90135_submitter_file2__image.jpg
+"['traffic light, traffic signal, stoplight']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90135_submitter_file3__image.jpg
+"['beacon, lighthouse, beacon light, pharos']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90135_submitter_file4__image.jpg
+['fountain'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90135_submitter_file5__image.jpg
+"['cliff, drop, drop-off']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90132_submitter_file1__ufo.jpg
+"['cliff, drop, drop-off']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90132_submitter_file2__ufocloseup.jpg
+['jellyfish'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90104_submitter_file1__DSC00023.JPG
+['envelope'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90104_submitter_file2__omg.JPG
+['missile'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90104_submitter_file3__DSC00023copy.jpg
+"['lakeside, lakeshore']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90099_submitter_file1__ufo1.jpg
+"['lakeside, lakeshore']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90099_submitter_file2__ufo2.jpg
+"['lakeside, lakeshore']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90095_submitter_file1__32E02885EF69457EAF3E70D32B7F891E.jpeg
+['chainlink fence'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90095_submitter_file3__A712CE92378C48B9811A8F371D2A3039.jpeg
+"['traffic light, traffic signal, stoplight']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90090_submitter_file1__IMG0432.jpg
+"['church, church building']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90081_submitter_file1__1.jpg
+['barn'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90081_submitter_file2__2.jpg
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90079_submitter_file1__IMG20180206183122.jpg
+['torch'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90079_submitter_file2__IMG20180206183126.jpg
+['planetarium'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90079_submitter_file3__IMG20180206183129.jpg
+['planetarium'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90079_submitter_file4__IMG20180206183130.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90058_submitter_file1__ufo.jpg
+"['lakeside, lakeshore']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90037_submitter_file1__FBIMG1517744568713.jpg
+"['lakeside, lakeshore']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90037_submitter_file2__received1706143739428410.jpeg
+"['lakeside, lakeshore']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90037_submitter_file3__received1706143339428450.jpeg
+"['lakeside, lakeshore']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90037_submitter_file4__received1706143192761798.jpeg
+['jellyfish'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90018_submitter_file1__IMG87462.JPG
+['tennis ball'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90018_submitter_file2__lights1211.jpg
+['velvet'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90017_submitter_file1__IMG20180204WA0004.jpg
+['wing'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/90001_submitter_file1__2735649410214911253155996582110673897064736o.jpg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89957_submitter_file1__20180131053145.jpg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89957_submitter_file2__20180131053009.jpg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89957_submitter_file3__20180131053147.jpg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89957_submitter_file4__20180131054307.jpg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89957_submitter_file5__20180131054327.jpg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89957_submitter_file6__20180131054343.jpg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89957_submitter_file7__20180131054907.jpg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89957_submitter_file8__20180131054909.jpg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89956_submitter_file1__20180131053145.jpg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89956_submitter_file2__20180131053009.jpg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89956_submitter_file3__20180131053147.jpg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89956_submitter_file4__20180131054307.jpg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89956_submitter_file5__20180131054327.jpg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89956_submitter_file6__20180131054343.jpg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89956_submitter_file7__20180131054907.jpg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89956_submitter_file8__20180131054909.jpg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89943_submitter_file1__nsp28277.jpg
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89923_submitter_file1__sighting1118.jpg
+['yurt'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89917_submitter_file1__20161014174931.jpg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89916_submitter_file1__20180130230613.jpg
+['crane'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89899_submitter_file2__IMG26311.JPG
+"['patio, terrace']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89885_submitter_file2__20180124140726.jpg
+['cloak'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89876_submitter_file1__IMG1466.JPG
+['tarantula'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89876_submitter_file2__IMG1467.JPG
+['fountain'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89876_submitter_file3__IMG1468.JPG
+['triumphal arch'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89871_submitter_file2__IMG5656.JPG
+['bubble'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89868_submitter_file1__IMG20180121152900743.jpg
+['bubble'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89868_submitter_file2__IMG20180121152901530.jpg
+['fireboat'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89868_submitter_file3__IMG20180121152902290.jpg
+"['picket fence, paling']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89868_submitter_file4__IMG20180121152912024.jpg
+"['laptop, laptop computer']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89861_submitter_file1__6C5316B1DFAD4C57918D3A696155EB26.jpeg
+"['wallet, billfold, notecase, pocketbook']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89861_submitter_file2__621C0B03488F43E3A1AAECB1AD8BF2D9.png
+"['wallet, billfold, notecase, pocketbook']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89861_submitter_file3__67212695F9A94A24ACA3F8D5627719F5.png
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89833_submitter_file1__IMG07.jpg
+['kite'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89833_submitter_file2__IMG0743.JPG
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89833_submitter_file3__IMG0745.JPG
+"['solar dish, solar collector, solar furnace']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89825_submitter_file1__D37CB289BCAF446D9BCBAFF7BE9D32AE.jpeg
+['rapeseed'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89820_submitter_file1__UFO.JPG
+['rapeseed'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89820_submitter_file2__UFOCopy.JPG
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89819_submitter_file1__1318triangle.jpg
+['forklift'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89811_submitter_file1__217C908EF682482086E2D077BECB194F.jpeg
+['forklift'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89811_submitter_file2__A751DAA58D79400D845DF33440B2DDAF.jpeg
+['suspension bridge'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89798_submitter_file2__DSCN0016.JPG
+['crane'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89798_submitter_file3__DSCN0015.JPG
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89794_submitter_file1__14D2854CBD224119BC9CAF794C468ED9.jpeg
+"['web site, website, internet site, site']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89794_submitter_file2__8A2BEECC88DF4BFBA7CBA089A36BA567.jpeg
+"['web site, website, internet site, site']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89794_submitter_file3__4116B02971E44159AAEC7E7829A1F987.jpeg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89794_submitter_file4__E6C3F9F037F645F4B300C2767D4750CC.jpeg
+"['web site, website, internet site, site']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89794_submitter_file5__CEF0AF26480F415A97EC813A634E5EF6.jpeg
+['strainer'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89794_submitter_file6__57B0F09609694CF395EFEBE4F1948189.jpeg
+"['web site, website, internet site, site']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89794_submitter_file7__31B1179CF49F41D5A33356D76895C64A.jpeg
+"['promontory, headland, head, foreland']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89793_submitter_file1__UFO01.jpg
+"['flagpole, flagstaff']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89783_submitter_file1__DepthOfField4.JPG
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89744_submitter_file1__Screenshot20180121002501.png
+['fireboat'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89744_submitter_file2__Screenshot20180121002516.png
+"['traffic light, traffic signal, stoplight']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89744_submitter_file3__Screenshot20180121002448.png
+['car mirror'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89744_submitter_file4__2017120410.39.28.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89744_submitter_file5__PicsArt120410.23.05.jpg
+['water tower'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89744_submitter_file6__201712031556230.jpg
+['water tower'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89744_submitter_file7__20171203155623.jpg
+['missile'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89738_submitter_file1__received10213722541692040.jpeg
+"['aircraft carrier, carrier, flattop, attack aircraft carrier']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89738_submitter_file2__received10213722536171902.jpeg
+['whiskey jug'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89722_submitter_file1__PSX20180121183356.jpg
+"['bearskin, busby, shako']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89722_submitter_file2__PSX20180121183428.jpg
+['hay'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89714_submitter_file1__DB895C1FD66C4B40B53C470C3BC73CF5.jpeg
+['bubble'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89714_submitter_file2__99A87F558E2647E7B96236064D691932.jpeg
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89714_submitter_file3__F09499F7DB8B4E9EADE1502E261A598B.jpeg
+"['beacon, lighthouse, beacon light, pharos']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89714_submitter_file4__8A29162649DA4F6796A9B8E525F4509D.jpeg
+['minivan'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89714_submitter_file5__6888BE9B064C4EF0A63F815E156EE36D.jpeg
+['car wheel'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89714_submitter_file6__0D8E103AEF7E45439B70F2463C2466B1.jpeg
+['bubble'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89714_submitter_file7__20371861DC0342AC919639BCCEBC28F0.jpeg
+['pole'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89713_submitter_file1__2DB18200AAAA4AA09DC909E48BBE9D0A.jpeg
+"['valley, vale']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89705_submitter_file1__0000309.JPG
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89697_submitter_file1__P1160727Medium.JPG
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89697_submitter_file2__P1160731Medium.JPG
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89697_submitter_file3__P1160732Medium.JPG
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89697_submitter_file4__P1160726Medium.JPG
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89697_submitter_file5__P1160725Medium.JPG
+['barn'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89660_submitter_file1__IMGj9y9xa.jpg
+"['caldron, cauldron']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89660_submitter_file3__2018011819305315163225504301516332247535.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89657_submitter_file1__thumbnail.jpg
+"['file, file cabinet, filing cabinet']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89651_submitter_file1__F1566178A12146F3AAB53A8DCC48114C.jpeg
+['syringe'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89651_submitter_file2__E014F59753D74B0183616517AB5DA30C.jpeg
+"['valley, vale']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89640_submitter_file1__IMG1759.JPG
+"['valley, vale']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89640_submitter_file2__IMG1761.JPG
+['dough'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89637_submitter_file1__zoom0.JPG
+['envelope'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89637_submitter_file2__zoom1.png
+['envelope'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89637_submitter_file3__zoom2.png
+"['stupa, tope']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89623_submitter_file1__IMG6331.JPG
+"['stupa, tope']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89623_submitter_file2__IMG6332.JPG
+"['stupa, tope']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89623_submitter_file3__IMG6333.JPG
+['palace'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89623_submitter_file4__IMG6334.JPG
+"['bell cote, bell cot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89623_submitter_file5__IMG6335.JPG
+"['oscilloscope, scope, cathode-ray oscilloscope, CRO']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89623_submitter_file6__ScreenshotWikimapia.png
+['wing'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89611_submitter_file1__20180116143457.jpg
+['balloon'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89611_submitter_file2__20180116143503.jpg
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89611_submitter_file3__20180116143507.jpg
+['wing'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89611_submitter_file4__20180116143503.jpg
+"['megalith, megalithic structure']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89585_submitter_file1__137133481081462861924367889353549n.jpg
+['knot'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89571_submitter_file1__IMG2729.JPG
+"['warplane, military plane']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89571_submitter_file2__IMG2722.JPG
+"['warplane, military plane']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89571_submitter_file3__IMG2723.JPG
+"['flagpole, flagstaff']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89571_submitter_file4__IMG2724.JPG
+"['flagpole, flagstaff']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89571_submitter_file5__IMG2725.JPG
+['kite'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89571_submitter_file6__IMG2726.JPG
+"['flagpole, flagstaff']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89559_submitter_file1__Photo22122017.jpg
+"['motor scooter, scooter']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89540_submitter_file1__IMG20180112210716090.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89540_submitter_file2__20180112211253.jpg
+"['puck, hockey puck']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89540_submitter_file3__20180112211412.jpg
+['alp'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89522_submitter_file1__IMG0247.JPG
+['alp'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89522_submitter_file2__IMG0248.JPG
+"['Arabian camel, dromedary, Camelus dromedarius']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89517_submitter_file1__IMG58486alamohiko.jpg
+"['seashore, coast, seacoast, sea-coast']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89517_submitter_file2__IMG5803.jpg
+"['harvester, reaper']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89517_submitter_file4__IMG5828.jpg
+['crane'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89515_submitter_file1__FBIMG1515644000587.jpg
+"['flagpole, flagstaff']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89515_submitter_file2__FBIMG1515644040145.jpg
+"[""loupe, jeweler's loupe""]",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89515_submitter_file3__FBIMG1515644050005.jpg
+['suspension bridge'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89503_submitter_file1__20171218142534.jpg
+['bubble'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89503_submitter_file2__20171219091159.png
+"['traffic light, traffic signal, stoplight']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89495_submitter_file1__20180110080036.jpg
+"['garbage truck, dustcart']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89495_submitter_file2__20180110080045.jpg
+"['traffic light, traffic signal, stoplight']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89495_submitter_file3__20180110080046.jpg
+['bubble'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89465_submitter_file1__IMG2413.JPG
+['missile'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89465_submitter_file2__IMG2424.JPG
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89465_submitter_file3__IMG2429.JPG
+['jellyfish'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89465_submitter_file4__IMG2436.JPG
+['jellyfish'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89465_submitter_file5__IMG2439.JPG
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89465_submitter_file6__IMG2425.JPG
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89465_submitter_file7__IMG2426.JPG
+['sliding door'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89445_submitter_file1__DenverObjectView1OriginalSize.jpg
+"['patio, terrace']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89445_submitter_file2__DenverObjectView2OriginalSize.jpg
+['balloon'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89442_submitter_file1__CIGARDAYNIGHT.jpg
+['envelope'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89411_submitter_file2__UFODrawingShapeandColor.PNG
+['airliner'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89389_submitter_file1__IMG1002.JPG
+['obelisk'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89382_submitter_file1__IMG0442.JPG
+"['projectile, missile']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89382_submitter_file3__IMG4573.JPG
+['barn'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89377_submitter_file1__Sat06January2018111213AM.JPG
+['monastery'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89377_submitter_file2__Sat06January2018111029AM.JPG
+['wing'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89368_submitter_file1__IMG20161010184627.jpg
+"['airship, dirigible']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89368_submitter_file2__IMG20161010184635.jpg
+['wing'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89368_submitter_file3__IMG20161010184642.jpg
+"['airship, dirigible']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89368_submitter_file4__IMG20161010184645.jpg
+"['platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89367_submitter_file1__IMG3624.JPG
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89367_submitter_file2__IMG3060.PNG
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89367_submitter_file3__IMG2905.JPG
+"['computer keyboard, keypad']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89367_submitter_file4__IMG2950.JPG
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89367_submitter_file5__IMG2811.JPG
+['stage'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89317_submitter_file3__6D9F1CFB97A5437E845E57D634CBE461.png
+"['water ouzel, dipper']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89317_submitter_file4__C4843B2D302944EE88CD35035AC08277.png
+['stage'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89317_submitter_file5__43F7F6F0EB984C6EB40F18ED20E1EBF8.png
+['rapeseed'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89309_submitter_file1__IMG0087.JPG
+"['mountain bike, all-terrain bike, off-roader']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89309_submitter_file2__IMG0086.JPG
+['rapeseed'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89309_submitter_file3__IMG0059.JPG
+['bubble'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89309_submitter_file4__IMG1046.JPG
+"['hook, claw']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89309_submitter_file5__IMG1049.JPG
+['pole'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89309_submitter_file6__IMG1051.JPG
+['pole'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89309_submitter_file7__IMG1028.JPG
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89305_submitter_file1__IMG0950.JPG
+"['great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89305_submitter_file2__IMG0951.JPG
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89305_submitter_file3__IMG0953.JPG
+['bubble'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89305_submitter_file4__bijnabotsing2.jpg
+['abacus'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89298_submitter_file2__IMG7045.JPG
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89298_submitter_file3__IMG7046.PNG
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89298_submitter_file4__IMG7048.PNG
+"['screen, CRT screen']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89297_submitter_file1__3monthsago.jpg
+"['punching bag, punch bag, punching ball, punchball']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89297_submitter_file3__closeup.jpg
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89288_submitter_file1__Screenshot20180102201918.png
+"['breakwater, groin, groyne, mole, bulwark, seawall, jetty']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89272_submitter_file1__GreenLightinSky.jpeg
+['car mirror'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89261_submitter_file1__20180101012757.jpg
+"['feather boa, boa']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89261_submitter_file2__20180101012810.jpg
+"['platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89257_submitter_file1__631.jpg
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89218_submitter_file1__DSC0724cropped.JPG
+"['lakeside, lakeshore']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89210_submitter_file1__38E87E1C66354FF9B606A3D87D8287DF.jpeg
+"['lakeside, lakeshore']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89210_submitter_file2__CB859C7035E341E19233A0A64F56953E.jpeg
+"['church, church building']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89210_submitter_file3__101C7EE48DD9415FAC982DEC051B60D8.jpeg
+"['beacon, lighthouse, beacon light, pharos']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89210_submitter_file4__031566BE5DAA4DF3AD142ADD0507BD8B.jpeg
+['envelope'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89208_submitter_file1__IMG1149.JPG
+['envelope'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89206_submitter_file1__IMG1149.JPG
+['carton'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89150_submitter_file2__1210171757d.jpg
+"['web site, website, internet site, site']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89142_submitter_file1__3343B3B497B642F1868872CD2E7A0646.png
+['space shuttle'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89142_submitter_file2__129DFECE89114DDE813B6F8E89CDDF15.png
+['space shuttle'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89142_submitter_file3__5554B638B0B943F494E701BDDB921F70.png
+"['web site, website, internet site, site']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89142_submitter_file4__10C55FC1A2B34B6BB5AC5EF721364B80.png
+['maypole'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89140_submitter_file1__BBEC7A5E471A43CC9D0421379B3AB91F.jpeg
+"['airship, dirigible']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89139_submitter_file1__FBIMG1502050955572.jpg
+"['airship, dirigible']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89139_submitter_file2__FBIMG1502050968167.jpg
+['space shuttle'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89138_submitter_file1__20170210153531.jpg
+"['bobsled, bobsleigh, bob']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89138_submitter_file2__20161228154505.jpg
+"['bobsled, bobsleigh, bob']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89138_submitter_file3__20161228154512.jpg
+['jellyfish'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89127_submitter_file1__DSC1389.JPG
+['kite'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89127_submitter_file2__DSC1421.JPG
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89127_submitter_file3__DSC1424.JPG
+['balloon'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89127_submitter_file4__DSC1334.JPG
+['kite'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89127_submitter_file5__DSC1429.JPG
+"['traffic light, traffic signal, stoplight']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89100_submitter_file1__1UFOgreenLights1.jpg
+"['traffic light, traffic signal, stoplight']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89100_submitter_file2__2UFOgreenLights2.jpg
+"['brass, memorial tablet, plaque']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89096_submitter_file1__UFOCHancellorsville2ndphoto.jpg
+['street sign'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89096_submitter_file2__UFOCHANCELLORSVILLElongshotphoto0001.jpg
+"['platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89073_submitter_file1__5F98B7D2F7A243C1AE5AA1251BECF837.jpeg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89073_submitter_file2__92B2134140984B629BC4C3655B7C6074.jpeg
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89072_submitter_file1__201707231823201.jpg
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89072_submitter_file2__201707231823211.jpg
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89065_submitter_file1__IMG2211.JPG
+['suspension bridge'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89062_submitter_file1__UFOSighting.jpg
+['suspension bridge'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89062_submitter_file2__UFOSighting.jpg
+['velvet'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89051_submitter_file1__3.JPG
+"[""plunger, plumber's helper""]",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89051_submitter_file2__300dpi3.JPG
+"['bell cote, bell cot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89046_submitter_file1__IMG2204.jpg
+['hay'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89042_submitter_file1__DSC0159.JPG
+"['traffic light, traffic signal, stoplight']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89024_submitter_file1__IMG14351513993110454.jpg
+['minivan'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89024_submitter_file2__20171222174018.jpg
+"['airship, dirigible']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/89024_submitter_file3__20171222173748.jpg
+['bubble'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88996_submitter_file1__20171206190941.jpg
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88994_submitter_file1__IMAG1376Worm1.jpg
+['soccer ball'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88994_submitter_file2__IMAG13772.jpg
+['balloon'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88994_submitter_file3__IMAG13773.jpg
+['balloon'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88994_submitter_file4__IMAG13774.jpg
+"['warplane, military plane']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88994_submitter_file5__IMAG13775.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88970_submitter_file1__20171220200830.jpg
+"['flagpole, flagstaff']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88970_submitter_file2__20171220200959.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88970_submitter_file3__Screenshot20171220031635.png
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88970_submitter_file4__Screenshot20171220031602.png
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88970_submitter_file5__20171220223407.jpg
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88966_submitter_file1__20171220154701.jpg
+"['web site, website, internet site, site']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88966_submitter_file2__Screenshot20171220181931.jpg
+['consomme'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88966_submitter_file3__SmartSelectImage20171220222548.png
+['minivan'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88951_submitter_file1__927D57DB203E4E15B5C5EECF694599C8.jpeg
+"['hammerhead, hammerhead shark']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88951_submitter_file2__FA1C9B6D92A64B0CB8E09E26C7E7990B.jpeg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88882_submitter_file1__20171017062830.jpg
+"['mouse, computer mouse']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88882_submitter_file2__ufo2InPixio.jpg
+"['fire engine, fire truck']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88876_submitter_file2__neighborsphoto.jpg
+['fountain'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88855_submitter_file1__2539573017351540298629106974195567840096816n.jpg
+"['grand piano, grand']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88855_submitter_file2__2544313017351539898629147183977689157930188n.jpg
+"['traffic light, traffic signal, stoplight']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88855_submitter_file3__2535408917351539398629197253589745418289771n.jpg
+"['traffic light, traffic signal, stoplight']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88855_submitter_file4__2550809017351538998629232786727605284802909n.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88848_submitter_file2__IMG20171213002356ufo4Zoomx4.png
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88848_submitter_file4__IMG20171213021735ufo10Zoom.png
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88848_submitter_file5__IMG20171213001541ufo1.png
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88832_submitter_file1__20171216202119.jpeg
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88816_submitter_file1__A12D1C25482D4E2BB9B6FB46B4B25A87.jpeg
+"['cliff, drop, drop-off']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88816_submitter_file2__C62F5A4FF5D6491681211B869A5BC3C5.jpeg
+"['mobile home, manufactured home']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88810_submitter_file1__1002139.JPG
+"['mobile home, manufactured home']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88810_submitter_file2__1002140.JPG
+['car mirror'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88810_submitter_file3__1002153.JPG
+"['beacon, lighthouse, beacon light, pharos']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88800_submitter_file1__FBIMG1513390167001.jpg
+"['sandbar, sand bar']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88780_submitter_file2__25400942101549570054969651551453402o.jpg
+"['drilling platform, offshore rig']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88780_submitter_file3__2543423210154957005481965174773412o.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88731_submitter_file1__lights.jpg
+"['breastplate, aegis, egis']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88710_submitter_file1__Mazaredo1.PNG
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88710_submitter_file2__Mazaredo2.PNG
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88710_submitter_file3__Mazaredo3.PNG
+"['jeep, landrover']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88710_submitter_file4__Mazaredo4.png
+"['church, church building']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88699_submitter_file1__DSC1027.JPG
+"['beacon, lighthouse, beacon light, pharos']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88699_submitter_file2__DSC1028.JPG
+"['church, church building']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88699_submitter_file3__DSC1029.JPG
+['missile'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88689_submitter_file1__20170609200141.jpg
+['pole'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88689_submitter_file2__20170609200117.jpg
+['freight car'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88689_submitter_file3__20170609200132.jpg
+['fireboat'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88682_submitter_file3__20171210115333.jpg
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88682_submitter_file4__Screenshot20171210122813.png
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88682_submitter_file5__Screenshot20171210143111.png
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88668_submitter_file1__ufogroup.jpg
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88668_submitter_file2__ufospread.jpg
+['suspension bridge'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88660_submitter_file1__IMG9639.jpg
+['hay'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88624_submitter_file1__IMG8851.jpg
+['hay'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88624_submitter_file2__IMG8852.jpg
+['rapeseed'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88624_submitter_file3__IMG8853.jpg
+"['limousine, limo']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88620_submitter_file1__017.JPG
+"['mobile home, manufactured home']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88620_submitter_file2__016.JPG
+"['limousine, limo']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88620_submitter_file3__0172.JPG
+"['web site, website, internet site, site']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88607_submitter_file1__Screenshot20171208090806.jpg
+"['trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88607_submitter_file2__Screenshot20171208090921.jpg
+"['trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88607_submitter_file3__Screenshot20171208091038.jpg
+"['trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88607_submitter_file4__Screenshot20171208091120.jpg
+['envelope'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88607_submitter_file5__20171208091221.jpg
+['bubble'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88603_submitter_file1__Screenshot20171207204109.jpg
+['bubble'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88603_submitter_file2__Screenshot20171207204213.jpg
+['bubble'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88603_submitter_file3__Screenshot20171207204302.jpg
+['analog clock'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88603_submitter_file4__Screenshot20171207204325.jpg
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88603_submitter_file5__Screenshot20171207204553.jpg
+['torch'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88597_submitter_file1__IMG20171207073915.jpg
+['torch'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88597_submitter_file2__IMG20171207073910.jpg
+['pole'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88597_submitter_file3__IMG20171207073643.jpg
+['sliding door'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88597_submitter_file4__IMG20171207073634.jpg
+['sliding door'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88597_submitter_file5__IMG20171207073616.jpg
+['yurt'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88585_submitter_file1__DSC3350.JPG
+['yurt'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88585_submitter_file2__DSC3351.JPG
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88585_submitter_file3__20171206124650.JPG
+['velvet'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88585_submitter_file4__20171206131419.JPG
+"['pedestal, plinth, footstall']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88554_submitter_file1__Screenshot20170906170748.png
+['vulture'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88554_submitter_file2__Screenshot20170906170844.png
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88550_submitter_file1__20171203232801.jpg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88550_submitter_file2__20171204000141.jpg
+['fountain'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88542_submitter_file1__1stShot.jpg
+['castle'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88542_submitter_file2__2ndShot.jpg
+"['seashore, coast, seacoast, sea-coast']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88542_submitter_file3__3rdShot.jpg
+"['seashore, coast, seacoast, sea-coast']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88542_submitter_file4__1stShotEnhanced.jpg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88541_submitter_file1__20171202210829.jpg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88541_submitter_file2__20171202210833.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88535_submitter_file1__UFO0.jpg
+['torch'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88535_submitter_file2__UFO1copy.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88535_submitter_file3__UFO01.jpg
+"['flagpole, flagstaff']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88535_submitter_file4__UFO02.jpg
+"['lampshade, lamp shade']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88531_submitter_file1__20171130204526.jpg
+"['traffic light, traffic signal, stoplight']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88518_submitter_file1__IMG20171201094421.jpg
+['volleyball'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88518_submitter_file2__IMG20171201092647.jpg
+['missile'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88518_submitter_file3__IMG20171201092644.jpg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88518_submitter_file4__IMG20171201092548.jpg
+"['bell cote, bell cot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88491_submitter_file2__MadridPhoto1JPG.JPG
+"['bell cote, bell cot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88491_submitter_file3__MadridPhoto2.JPG
+"['bell cote, bell cot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88491_submitter_file4__MadridPhoto3.JPG
+"['breakwater, groin, groyne, mole, bulwark, seawall, jetty']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88482_submitter_file1__IMG1178.jpg
+"['seashore, coast, seacoast, sea-coast']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88482_submitter_file2__IMG1177.jpg
+['car mirror'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88482_submitter_file3__IMG1176.jpg
+['rapeseed'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88479_submitter_file1__6.jpg
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88479_submitter_file2__7.jpg
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88479_submitter_file3__8.jpg
+['car mirror'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88479_submitter_file4__9.JPG
+"['cinema, movie theater, movie theatre, movie house, picture palace']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88463_submitter_file1__UFO.jpg
+['hay'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88448_submitter_file1__unnamed5.jpg
+['wing'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88448_submitter_file2__unnamed11.jpg
+['wing'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88448_submitter_file3__unnamed12.jpg
+"['beacon, lighthouse, beacon light, pharos']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88448_submitter_file4__unnamed8.jpg
+['hay'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88447_submitter_file1__unnamed5.jpg
+['wing'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88447_submitter_file2__unnamed11.jpg
+['wing'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88447_submitter_file3__unnamed12.jpg
+"['beacon, lighthouse, beacon light, pharos']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88447_submitter_file4__unnamed8.jpg
+['steel arch bridge'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88444_submitter_file1__PurplelightoverNorthernBlvd.40thAvenuesubwaytrack.jpg
+['scoreboard'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88444_submitter_file2__PurplelightoverFoodBazaarBEFOREHomeDepot.jpg
+['guillotine'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88444_submitter_file3__PurplelightoverunknownsouthsideofNorthernBlvd.location.jpg
+"['restaurant, eating house, eating place, eatery']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88444_submitter_file4__PurplelightoverHomeDepotuponexiting.jpg
+['crane'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88423_submitter_file1__2412982710155898365443630850091400945730820n.jpg
+['fountain'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88406_submitter_file1__4CD188CEC9BB4681863F0E851A600FE5.jpeg
+"['drilling platform, offshore rig']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88393_submitter_file1__DSC04705.JPG
+"['drilling platform, offshore rig']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88393_submitter_file2__DSC04706.JPG
+"['pay-phone, pay-station']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88392_submitter_file2__IMG8564.JPG
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88392_submitter_file3__IMG8565.JPG
+['steel arch bridge'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88384_submitter_file1__PurplelightoverNorthernBlvd.40thAvenuesubwaytrack.jpg
+['scoreboard'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88384_submitter_file2__PurplelightoverFoodBazaarBEFOREHomeDepot.jpg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88375_submitter_file1__IMG3657.jpg
+"[""jack-o'-lantern""]",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88375_submitter_file2__IMG365711.jpg
+['pole'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88375_submitter_file3__IMG3663.JPG
+['consomme'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88356_submitter_file1__UFO1.jpg
+"['candle, taper, wax light']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88356_submitter_file2__UFO2.jpg
+['wing'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88356_submitter_file3__KireetImage.JPG
+"['valley, vale']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88347_submitter_file1__STC0219.JPG
+"['lakeside, lakeshore']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88347_submitter_file2__STC0680.JPG
+['alp'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88347_submitter_file3__STC0681.JPG
+['balloon'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88339_submitter_file1__1868511A9D72400EAC12C174BC1382B7.jpeg
+"['seashore, coast, seacoast, sea-coast']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88323_submitter_file1__IMG0884.JPG
+"['beacon, lighthouse, beacon light, pharos']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88323_submitter_file2__IMG1278.PNG
+"['beacon, lighthouse, beacon light, pharos']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88323_submitter_file3__IMG1279.PNG
+"['beacon, lighthouse, beacon light, pharos']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88323_submitter_file4__IMG1280.PNG
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88323_submitter_file5__IMG1281.PNG
+['car mirror'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88321_submitter_file1__IMG20171013084621.jpg
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88321_submitter_file2__IMG20171013150121.jpg
+['balloon'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88321_submitter_file3__IMG20171013164840.jpg
+"['patio, terrace']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88321_submitter_file4__IMG20171013084740.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88305_submitter_file1__16.11.04RedObject2FmVideoMoveWider.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88305_submitter_file2__16.11.04RedObject2FmVideo.jpg
+"['airship, dirigible']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88305_submitter_file3__16.11.04Photo1a2016.11.04IphoneBrighten4.jpg
+"['web site, website, internet site, site']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88305_submitter_file4__16.11.04RRUMarsMoonVenueSatturnIMG644916.jpg
+"['book jacket, dust cover, dust jacket, dust wrapper']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88305_submitter_file5__16.11.04Photo82016.11.04IphoneTwoRedObjectsApproachVenusDrawing.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88303_submitter_file1__16.11.04RedLight2FmVideoMoveWider.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88303_submitter_file2__16.11.04RedLight2FmVideo.jpg
+"['airship, dirigible']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88303_submitter_file3__16.11.04Photo1a2016.11.04IphoneBrighten4.jpg
+"['web site, website, internet site, site']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88303_submitter_file4__16.11.04RRUMarsMoonVenueSatturnIMG644916.jpg
+"['book jacket, dust cover, dust jacket, dust wrapper']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88303_submitter_file5__16.11.042016Photo82016.11.04IphoneTwoRedObjectsApproachVenusDrawing.jpg
+['obelisk'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88287_submitter_file1__20171118150455.jpg
+['rapeseed'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88287_submitter_file2__20171118150504.jpg
+['kite'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88287_submitter_file3__20171119170218.jpg
+"['puck, hockey puck']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88287_submitter_file4__20171119211928.jpg
+['military uniform'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88286_submitter_file1__20171122190119.jpg
+['envelope'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88286_submitter_file2__20171122190131.jpg
+"['valley, vale']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88278_submitter_file1__20170924114700.jpg
+['alp'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88264_submitter_file1__MapUFO.JPG
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88261_submitter_file1__13E203D89E8D40CB92BEC9F14AC486EE.jpeg
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88234_submitter_file4__2017091720.png
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88234_submitter_file5__201709204.png
+['steel arch bridge'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88197_submitter_file1__PurplelightoverNorthernBlvd.40thAvenuesubwaytrack.jpg
+['scoreboard'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88197_submitter_file2__PurplelightoverFoodBazaarBEFOREHomeDepot.jpg
+['guillotine'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88197_submitter_file3__PurplelightoverunknownsouthsideofNorthernBlvd.location.jpg
+"['restaurant, eating house, eating place, eatery']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88197_submitter_file4__PurplelightoverHomeDepotuponexiting.jpg
+"['traffic light, traffic signal, stoplight']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88187_submitter_file1__IMG950051.jpg
+"['traffic light, traffic signal, stoplight']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88187_submitter_file2__IMG950049.jpg
+"['lakeside, lakeshore']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88137_submitter_file1__nov192017024045PMcleared.JPG
+"['lakeside, lakeshore']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88137_submitter_file2__nov192017024045PM.JPG
+"['recreational vehicle, RV, R.V.']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88137_submitter_file3__nov192017023645PMcleared.JPG
+"['bathtub, bathing tub, bath, tub']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88137_submitter_file4__nov192017023645PM.JPG
+"['gong, tam-tam']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88134_submitter_file1__IMG7609.jpg
+"['gong, tam-tam']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88134_submitter_file2__IMG7608.jpg
+"['mountain bike, all-terrain bike, off-roader']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88131_submitter_file1__2377020210155944357518734417861364o.jpg
+"['mountain bike, all-terrain bike, off-roader']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88131_submitter_file2__23732366101559443575237341250538820o.jpg
+"['web site, website, internet site, site']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88128_submitter_file1__IMG05092.jpg
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88128_submitter_file2__IMG9504961.jpg
+"['cinema, movie theater, movie theatre, movie house, picture palace']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88113_submitter_file1__20171109214252.jpg
+['steel arch bridge'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88111_submitter_file1__PurplelightoverNorthernBlvd.40thAvenuesubwaytrack.jpg
+['scoreboard'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88111_submitter_file2__PurplelightoverFoodBazaarBEFOREHomeDepot.jpg
+['guillotine'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88111_submitter_file3__PurplelightoverunknownsouthsideofNorthernBlvd.location.jpg
+"['restaurant, eating house, eating place, eatery']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88111_submitter_file4__PurplelightoverHomeDepotuponexiting.jpg
+['envelope'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88111_submitter_file5__NorthernBoulevardrouteofpurplelight.png
+"['promontory, headland, head, foreland']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88087_submitter_file1__oct29201734310PM.jpg
+"['lakeside, lakeshore']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88087_submitter_file2__oct29201734322PM.JPG
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88087_submitter_file3__oct29201734310PM3.jpg
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88087_submitter_file4__oct29201734310PM4.jpg
+"['lakeside, lakeshore']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88087_submitter_file5__oct29201734323PM.JPG
+"['seashore, coast, seacoast, sea-coast']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88069_submitter_file1__OperaSnapshot20171116115149www.google.com.png
+['car mirror'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88047_submitter_file1__FullSizeRender.jpg
+['German short-haired pointer'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88032_submitter_file1__IMG2257.JPG
+"['Newfoundland, Newfoundland dog']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88032_submitter_file2__IMG2278.JPG
+['wreck'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88032_submitter_file3__IMG2306.JPG
+['German short-haired pointer'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88031_submitter_file1__IMG2257.JPG
+"['Newfoundland, Newfoundland dog']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88031_submitter_file2__IMG2278.JPG
+['wreck'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88031_submitter_file3__IMG2306.JPG
+"['seashore, coast, seacoast, sea-coast']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88004_submitter_file1__IMG5708Nov040542PM.jpg
+"['promontory, headland, head, foreland']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88004_submitter_file2__IMG5709Nov040549PM.jpg
+"['drilling platform, offshore rig']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88004_submitter_file3__IMG5710Nov040551PM.jpg
+"['lakeside, lakeshore']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88004_submitter_file4__IMG5711Nov040551PM.jpg
+"['drilling platform, offshore rig']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88004_submitter_file5__IMG5712Nov040551PM.jpg
+['pier'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88004_submitter_file6__IMG5713Nov040551PM.jpg
+['balloon'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88004_submitter_file7__IMG5714Nov040551PM.jpg
+"['beacon, lighthouse, beacon light, pharos']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/88004_submitter_file8__IMG5715Nov040551PM.jpg
+['stage'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87989_submitter_file1__1225010151330889182958633381353n.jpg
+"['television, television system']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87979_submitter_file1__IMG20170924175230021.jpg
+['snowmobile'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87979_submitter_file2__IMG20170924175316083HDR.jpg
+"['screen, CRT screen']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87979_submitter_file3__IMG20170924175426834HDR.jpg
+"['lakeside, lakeshore']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87971_submitter_file1__20170716204534.jpg
+"['cliff, drop, drop-off']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87971_submitter_file2__20170716204650.jpg
+"['seashore, coast, seacoast, sea-coast']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87971_submitter_file3__20170716204410.jpg
+"['trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87925_submitter_file1__20171110144539.jpg
+"['breakwater, groin, groyne, mole, bulwark, seawall, jetty']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87925_submitter_file2__20171110144535.jpg
+"['trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87925_submitter_file3__201711101445391.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87907_submitter_file1__Screenshot20171110002828.png
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87907_submitter_file2__Screenshot20171109223931.png
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87907_submitter_file3__IMG20170922194838.jpg
+"['web site, website, internet site, site']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87907_submitter_file4__Screenshot20171109223917.png
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87907_submitter_file5__Screenshot20171109223803.png
+['car mirror'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87896_submitter_file1__20140610155508.jpg
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87896_submitter_file2__output.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87896_submitter_file3__ufo1.jpg
+"['file, file cabinet, filing cabinet']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87894_submitter_file1__MayherStrip3460.jpg
+['menu'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87894_submitter_file2__RainwaterLetter600.jpg
+"['rule, ruler']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87894_submitter_file3__MayherStrip2.jpg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87878_submitter_file1__Screenshot20171011024842.png
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87878_submitter_file2__Screenshot20171011024753.png
+"['valley, vale']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87878_submitter_file3__Screenshot20171011024919.png
+"['pool table, billiard table, snooker table']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87878_submitter_file4__Screenshot20171011024928.png
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87878_submitter_file5__Screenshot20171011024924.png
+"['web site, website, internet site, site']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87866_submitter_file1__6857A15402104B668F7AE98D7622AC9A.jpeg
+"['mobile home, manufactured home']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87866_submitter_file2__58551D4EF9B444639E821F8448E3392D.jpeg
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87866_submitter_file3__F435FFCAE2D04CC0951C875E2BC93969.png
+"['jersey, T-shirt, tee shirt']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87863_submitter_file2__IMG3338.PNG
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87863_submitter_file4__IMG3299.JPG
+['pelican'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87858_submitter_file1__Screenshot20171107194646.png
+"['breakwater, groin, groyne, mole, bulwark, seawall, jetty']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87858_submitter_file2__Screenshot20171107194637.png
+['sunglass'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87858_submitter_file3__Screenshot20171107194626.png
+"['sunglasses, dark glasses, shades']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87858_submitter_file4__Screenshot20171107194655.png
+['sunglass'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87857_submitter_file1__Screenshot20171107194626.png
+"['breakwater, groin, groyne, mole, bulwark, seawall, jetty']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87857_submitter_file2__Screenshot20171107194637.png
+['pelican'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87857_submitter_file3__Screenshot20171107194646.png
+"['sunglasses, dark glasses, shades']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87857_submitter_file4__Screenshot20171107194655.png
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87853_submitter_file1__4883EB55F87C4FFF8FAE72F97815BC5B.jpeg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87853_submitter_file2__7CC7BCEFA7334FC5980D6E73BE349929.jpeg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87853_submitter_file3__0EA5CA6432C94A86A170DA40B1650EF2.jpeg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87853_submitter_file4__7DA275ADE3FC4434BC9830C94590FE76.jpeg
+['stage'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87853_submitter_file5__2194852D92784E539F4059E7DB424F40.jpeg
+['stove'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87853_submitter_file6__0130E35CD772453A95BAF3DBEF194669.jpeg
+['envelope'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87849_submitter_file1__image.jpg
+['suspension bridge'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87832_submitter_file1__IMG2129.jpg
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87832_submitter_file2__IMG2128.jpg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87817_submitter_file1__BeaverMoonObject.jpg
+['torch'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87812_submitter_file1__IMG3923.JPG
+"['traffic light, traffic signal, stoplight']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87812_submitter_file2__IMG3922.JPG
+"['traffic light, traffic signal, stoplight']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87812_submitter_file3__IMG3921.JPG
+"['traffic light, traffic signal, stoplight']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87812_submitter_file4__IMG3920.JPG
+['umbrella'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87777_submitter_file1__newfolder81of123.jpg
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87771_submitter_file1__IMG2017103112361831501.jpg
+['pole'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87771_submitter_file2__IMG20171031123618315.jpg
+['alp'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87765_submitter_file1__IMG201711021536511.jpg
+['black grouse'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87752_submitter_file1__IMG2269.JPG
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87752_submitter_file2__IMG2267.JPG
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87752_submitter_file3__IMG2266.JPG
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87752_submitter_file4__IMG2265.JPG
+['black grouse'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87751_submitter_file1__IMG2269.JPG
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87751_submitter_file2__IMG2267.JPG
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87751_submitter_file3__IMG2266.JPG
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87751_submitter_file4__IMG2265.JPG
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87751_submitter_file5__IMG2264.JPG
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87751_submitter_file6__IMG2263.JPG
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87751_submitter_file7__IMG2262.JPG
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87751_submitter_file8__IMG2260.JPG
+['jellyfish'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87682_submitter_file1__ufo.jpg
+"['airship, dirigible']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87669_submitter_file1__DSC7291.jpg
+['kite'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87669_submitter_file2__DSC7294.jpg
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87668_submitter_file1__IMG0311.PNG
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87668_submitter_file2__IMG0311.PNG
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87668_submitter_file3__IMG0310.PNG
+['wing'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87666_submitter_file1__ufocloud.jpg
+"['airship, dirigible']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87666_submitter_file2__ufocloud1.jpg
+"['airship, dirigible']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87664_submitter_file1__45C4BC7B000005785026369AnotherviewoftheindentedplanesharedbyplayerJoshHuestisa415091933987011.jpg
+['airliner'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87634_submitter_file1__IMG9460.jpg
+['airliner'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87634_submitter_file2__IMG9461.jpg
+['crane'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87634_submitter_file3__IMG9462.jpg
+['airliner'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87634_submitter_file4__IMG9463.JPG
+['airliner'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87634_submitter_file5__IMG9464.JPG
+"['buckeye, horse chestnut, conker']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87628_submitter_file1__20171027170015528.jpg
+['castle'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87613_submitter_file1__FB6C2BE1DA4B4AD2BA3166B29D7EC6C1.jpeg
+"['airship, dirigible']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87609_submitter_file1__20170901154934.jpg
+"['airship, dirigible']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87609_submitter_file2__20170901154935.jpg
+"['cliff, drop, drop-off']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87609_submitter_file6__20170901155119.jpg
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87609_submitter_file7__20170901155123.jpg
+"['airship, dirigible']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87609_submitter_file8__20170901155125.jpg
+"['ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87607_submitter_file1__ycelerdin99.jpg
+"['solar dish, solar collector, solar furnace']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87607_submitter_file2__uzeyli2.png
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87607_submitter_file3__ycelerdin2Kopya.jpg
+['minibus'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87601_submitter_file2__image.jpg
+"['platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87586_submitter_file1__ufooutsideofDenverAirport.JPG
+"['platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87586_submitter_file2__IMG0122.JPG
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87586_submitter_file3__IMG0121.JPG
+"['platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87586_submitter_file4__IMG0123.JPG
+"['prison, prison house']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87561_submitter_file1__IMG4595.jpg
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87553_submitter_file1__165334arrowed.jpg
+['tennis ball'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87553_submitter_file2__165334isolated.jpg
+['wing'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87550_submitter_file1__20171020164547.jpg
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87550_submitter_file2__20171020164535.jpg
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87550_submitter_file3__20171020164504.jpg
+['wing'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87550_submitter_file4__Screenshot20171023175913.png
+"['flagpole, flagstaff']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87508_submitter_file1__15055852101547859560671396835700618442792321n.jpg
+['alp'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87498_submitter_file1__IMG1003.JPG
+"['lakeside, lakeshore']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87483_submitter_file1__weirdthing1.jpg
+['wing'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87483_submitter_file2__weirdthing2.jpg
+['suspension bridge'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87448_submitter_file1__IMG1012.JPG
+['suspension bridge'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87448_submitter_file2__IMG1013.JPG
+['suspension bridge'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87448_submitter_file3__IMG1014.JPG
+"['cliff, drop, drop-off']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87435_submitter_file1__FBIMG1508293370613.jpg
+"['seashore, coast, seacoast, sea-coast']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87435_submitter_file2__FBIMG1508293387169.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87412_submitter_file1__2017072105202711.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87412_submitter_file2__2017072105203111.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87412_submitter_file3__2017072105203711.jpg
+['digital clock'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87412_submitter_file4__FBIMG1502062107048.jpg
+['matchstick'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87403_submitter_file1__20171016192137.jpg
+['matchstick'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87403_submitter_file2__20171016192154.jpg
+"['wardrobe, closet, press']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87385_submitter_file1__20171017001050.jpg
+"['lampshade, lamp shade']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87385_submitter_file2__20171017001126.jpg
+['window shade'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87385_submitter_file3__20171017001131.jpg
+"['cliff, drop, drop-off']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87385_submitter_file4__20171017001144.jpg
+['pole'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87385_submitter_file5__20171017001153.jpg
+"['mobile home, manufactured home']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87369_submitter_file1__DD5348E644014AE0B2FACE9BBE3529BD.jpeg
+"['cab, hack, taxi, taxicab']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87369_submitter_file2__F7E40C5D425C408192139C3F85078B2D.jpeg
+"['cinema, movie theater, movie theatre, movie house, picture palace']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87369_submitter_file3__35CBAD028919486C8C9B04837D3C0396.jpeg
+['modem'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87369_submitter_file4__0B3816017E774A398B68C10AD974066E.jpeg
+['ping-pong ball'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87365_submitter_file1__4A387273E7434AC38411825E53C1A01E.jpeg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87365_submitter_file2__716FDDFD481C4AEAB0A06539CC4AD782.jpeg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87365_submitter_file3__711C6870A97A454FBD3F9D396A7F1703.jpeg
+['jellyfish'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87365_submitter_file4__BB014718A7A1416A80A20F61F487DF66.jpeg
+['menu'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87363_submitter_file1__mufon.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87343_submitter_file1__IMG30371.JPG
+"['bannister, banister, balustrade, balusters, handrail']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87310_submitter_file1__dennisuap.jpg
+"['sunglasses, dark glasses, shades']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87310_submitter_file2__dennisuap1.jpg
+['palace'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87293_submitter_file1__IMG1631.jpgUFO.jpg
+['fountain'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87284_submitter_file2__PicsArt100904.20.22.jpg
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87284_submitter_file3__20171009154019Burst01.jpg
+['fountain'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87284_submitter_file4__PicsArt100904.23.16.jpg
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87284_submitter_file5__Screenshot20171009160616.png
+['fountain'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87284_submitter_file6__PicsArt100904.29.24.jpg
+['fountain'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87284_submitter_file7__PicsArt100904.31.41.jpg
+['fountain'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87284_submitter_file8__PicsArt100904.37.49.jpg
+['convertible'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87274_submitter_file1__1.JPG
+"['warplane, military plane']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87274_submitter_file2__2.png
+['wing'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87274_submitter_file3__3.png
+['missile'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87274_submitter_file4__4.png
+['jellyfish'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87268_submitter_file1__IMG6330.JPG
+['balloon'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87268_submitter_file2__IMG6331.JPG
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87268_submitter_file3__IMG6332.JPG
+['balloon'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87268_submitter_file4__IMG6334.JPG
+"['traffic light, traffic signal, stoplight']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87261_submitter_file1__TiffanysUFO1Sept282017.jpeg
+['fountain'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87261_submitter_file2__TiffanysUFO2Sept282017.jpeg
+['obelisk'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87225_submitter_file1__20171002121337.jpg
+"['lakeside, lakeshore']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87225_submitter_file2__20171002121337Kopie.jpg
+['crane'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87213_submitter_file1__86F8AAAF96CD44AEB9AFC320E1629359.jpeg
+['crane'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87213_submitter_file2__2FCF129F96DD40889A9A4E3BAF16C73A.jpeg
+['crane'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87213_submitter_file3__31FC9F6830FF4A2FBFEE7BD47BDC58BB.jpeg
+['ski'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87210_submitter_file1__IMG07491.JPG
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87195_submitter_file1__Capture6.PNG
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87195_submitter_file2__Capture3.PNG
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87195_submitter_file3__Capture4.PNG
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87195_submitter_file4__Capture5.PNG
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87195_submitter_file5__samestars.PNG
+"['seashore, coast, seacoast, sea-coast']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87185_submitter_file1__DSC0058.JPG
+"['seashore, coast, seacoast, sea-coast']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87185_submitter_file2__DSC0059.JPG
+"['seashore, coast, seacoast, sea-coast']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87185_submitter_file3__DSC0060.JPG
+"['promontory, headland, head, foreland']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87183_submitter_file1__DSC0163cropped.JPG
+"['promontory, headland, head, foreland']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87183_submitter_file2__DSC0164cropped.JPG
+['barn'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87177_submitter_file1__IMG20170821101645.jpg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87177_submitter_file2__IMG20170821101724.jpg
+"['megalith, megalithic structure']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87177_submitter_file3__PHOTO20170504143652.jpg
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87177_submitter_file4__PHOTO20170504143659.jpg
+"['megalith, megalithic structure']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87177_submitter_file5__PHOTO20170504143706.jpg
+['alp'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87170_submitter_file1__DSC2655.jpg
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87167_submitter_file3__Edgedetection6.10.17.png
+"['puck, hockey puck']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87167_submitter_file4__imageenhanced.png
+"['brass, memorial tablet, plaque']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87167_submitter_file5__siteforsighting.png
+['envelope'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87167_submitter_file6__2014streetviewwithimagenexttoit2017.png
+['pole'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87162_submitter_file2__20171003190159.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87162_submitter_file3__20170607050427.jpg
+['kite'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87147_submitter_file1__20171005091540.jpg
+"['web site, website, internet site, site']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87147_submitter_file2__Screenshot20171005134318.png
+"['megalith, megalithic structure']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87145_submitter_file1__IMG19041.jpg
+['alp'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87145_submitter_file2__IMG1904.jpg
+"['airship, dirigible']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87145_submitter_file3__ScreenShot20171005at3.23.31AM.png
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87145_submitter_file4__ScreenShot20171005at3.24.42AM.png
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87139_submitter_file1__IMG20171005011707.jpg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87139_submitter_file2__IMG20171005011715.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87139_submitter_file3__IMG20171005011816.jpg
+"['drilling platform, offshore rig']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87138_submitter_file1__received446184215775222.jpeg
+['kite'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87131_submitter_file1__image.jpeg
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87127_submitter_file1__9447FF3453AF49E997FE83CC59029AC6.jpeg
+['kite'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87127_submitter_file2__1772FB2236BD4C15BC686A5871D56C86.png
+"['parachute, chute']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87127_submitter_file3__C26DC8B6B2F14E44A3DE9E35FF9F3523.png
+"['cliff, drop, drop-off']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87106_submitter_file1__IMG3064.JPG
+['knot'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87106_submitter_file3__IMG3067.JPG
+['jellyfish'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/87103_submitter_file1__IMG6233.JPG
+"['seashore, coast, seacoast, sea-coast']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86565_submitter_file1__k.jpg
+"['submarine, pigboat, sub, U-boat']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86565_submitter_file2__a.jpg
+"['seashore, coast, seacoast, sea-coast']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86565_submitter_file3__j.jpg
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86560_submitter_file1__DSC01113.JPG
+"['traffic light, traffic signal, stoplight']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86560_submitter_file2__DSC011133.JPG
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86560_submitter_file3__DSC011134.JPG
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86560_submitter_file4__DSC01114.JPG
+"['picket fence, paling']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86551_submitter_file1__HouseofNibiru.jpeg
+['plastic bag'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86551_submitter_file2__Nibiru.jpg
+['Granny Smith'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86551_submitter_file3__Nibiru2.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86550_submitter_file1__162.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86550_submitter_file2__170.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86550_submitter_file3__163.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86550_submitter_file4__176.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86550_submitter_file5__164.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86550_submitter_file6__161.jpg
+['barn'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86550_submitter_file7__171.jpg
+['alp'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86531_submitter_file1__20170114113936.jpg
+"['valley, vale']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86531_submitter_file2__20170114115117.jpg
+['jellyfish'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86515_submitter_file1__Capture2.PNG
+"['albatross, mollymawk']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86515_submitter_file2__InkedCapture3LI.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86515_submitter_file3__Capture2embossed.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86515_submitter_file4__InkedCapture3embossedLI.jpg
+"['beacon, lighthouse, beacon light, pharos']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86514_submitter_file1__20170901173304.jpg
+"['lakeside, lakeshore']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86514_submitter_file2__20170901173259.jpg
+['balloon'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86514_submitter_file3__20170901173222.jpg
+['balloon'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86514_submitter_file4__20170901173155.jpg
+"['shield, buckler']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86409_submitter_file1__Rectangle.jpg
+['vulture'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86402_submitter_file1__201708211222201.jpg
+"['spotlight, spot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86402_submitter_file2__20170821130017.jpg
+['bubble'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86402_submitter_file3__20170821130704.jpg
+['Granny Smith'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86402_submitter_file4__20170822165958.jpg
+['pole'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86390_submitter_file1__20170831203420.jpg
+['pole'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86390_submitter_file2__20170831203419.jpg
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86378_submitter_file1__EclipseLightsreport1.jpg
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86378_submitter_file2__EclipseLightsreport2.jpg
+"['nematode, nematode worm, roundworm']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86378_submitter_file3__EclipseLightsreport3.jpg
+['ping-pong ball'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86375_submitter_file1__IMG3396.JPG
+"['pool table, billiard table, snooker table']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86375_submitter_file2__IMG3402.JPG
+['digital clock'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86375_submitter_file3__IMG3404.JPG
+['crane'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86375_submitter_file4__IMG3409.JPG
+['ping-pong ball'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86374_submitter_file1__IMG3396.JPG
+"['pool table, billiard table, snooker table']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86374_submitter_file2__IMG3402.JPG
+['digital clock'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86374_submitter_file3__IMG3404.JPG
+['crane'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86374_submitter_file4__IMG3409.JPG
+"['radio telescope, radio reflector']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86371_submitter_file1__IMG6607.PNG
+"['seashore, coast, seacoast, sea-coast']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86371_submitter_file2__IMG6610.PNG
+"['seashore, coast, seacoast, sea-coast']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86371_submitter_file3__IMG6608.PNG
+['wing'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86371_submitter_file4__IMG6609.PNG
+['crane'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86359_submitter_file1__IMG4498.JPG
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86355_submitter_file1__cubeufo1.PNG
+['volcano'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86355_submitter_file2__cubeufo2.PNG
+['bubble'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86355_submitter_file3__cubeufo3.PNG
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86349_submitter_file1__IMG1198.JPG
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86349_submitter_file2__IMG1197.JPG
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86349_submitter_file3__IMG1196.JPG
+['geyser'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86349_submitter_file4__IMG1195.JPG
+['torch'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86345_submitter_file1__IMG5390.JPG
+"['traffic light, traffic signal, stoplight']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86345_submitter_file2__IMG5391.JPG
+"['traffic light, traffic signal, stoplight']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86345_submitter_file3__IMG5392.JPG
+"['patio, terrace']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86334_submitter_file1__IMG7361.JPG
+['airliner'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86333_submitter_file1__LisbonJuly302017.JPG
+['airliner'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86333_submitter_file2__DSC8168.JPG
+['airliner'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86333_submitter_file3__DSC8171.JPG
+['jellyfish'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86324_submitter_file1__IMG1350.JPG
+['palace'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86319_submitter_file1__IMG3808.JPG
+"['seashore, coast, seacoast, sea-coast']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86301_submitter_file1__27aug201704h55m49sPM2.JPG
+"['seashore, coast, seacoast, sea-coast']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86301_submitter_file2__27aug201704h55m49sPM3.JPG
+"['cliff, drop, drop-off']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86284_submitter_file1__IMG3346.PNG
+"['bell cote, bell cot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86277_submitter_file1__20170821144106resized.jpg
+"['bell cote, bell cot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86277_submitter_file2__20170821144327resized.jpg
+['crane'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86277_submitter_file3__20170821144132resized.jpg
+"['bell cote, bell cot']",http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86277_submitter_file4__20170821144130resized.jpg
+['crane'],http://localhost:8764/inception/v4/classify/image?topn=1&min_confidence=0.03&url=http://www.mufoncms.com/files_jeud8334j/86277_submitter_file5__20170821144133resized.jpg
