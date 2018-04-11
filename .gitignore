@@ -1,3 +1,7 @@
+CS599_HW_EXTRACT_ENRICH_UFO.pdf
 .ipynb_checkpoints/
 geckodriver.log
+british-ufo-files/DEFE-*/*.pdf
+british-ufo-files/DEFE-*/temp/*
+british-ufo-files/DEFE-*/tiff/*
 
