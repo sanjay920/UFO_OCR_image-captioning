@@ -14,8 +14,8 @@
 
 5) In another terminal make sure that tika vision and caption dockers are running and the endpoints are accessible.   
 The steps to activate the docker are here:
-* <h3> Tika Vision </h3> https://wiki.apache.org/tika/TikaAndVision#Step_2._Create_a_Tika-Config_XML_to_enable_Tensorflow_parser
-* <h3> Image Caption </h3> https://wiki.apache.org/tika/ImageCaption
+* <h4> Tika Vision </h4> https://wiki.apache.org/tika/TikaAndVision#Step_2._Create_a_Tika-Config_XML_to_enable_Tensorflow_parser
+* <h4> Image Caption </h4> https://wiki.apache.org/tika/ImageCaption
 
 <b>Step 1:</b> First extract the classes for each url and write it into a csv.   
 
