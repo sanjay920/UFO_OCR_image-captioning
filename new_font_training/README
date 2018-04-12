@@ -4,7 +4,7 @@ Following are our observations on the files we worked with:
 - Border
 - Typed Content, Cursive handwriting
 - Skewed table
-    <li>Text very blur</li>
+- Text very blur
  
 We used the guidelines provided on tesseract-ocr github repo to improve the performance of OCR.   
 [https://github.com/tesseract-ocr/tesseract/wiki/ImproveQuality#tools--libraries]
