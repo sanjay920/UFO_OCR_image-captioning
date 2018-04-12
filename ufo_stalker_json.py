@@ -7,15 +7,20 @@ import requests
 import json
 from time import sleep
 
-def writeLinks(lks):
-    with open('ufo_stalker_urls.csv', 'a') as usu:
+def writeLinks(lks, summary, latitude, longitude):
+    with open('ufo_stalker_urls_v3.csv', 'a') as usu:
         for l in lks:
-            usu.write(l+"\n")
+            usu.write(l+ "," + summary + "," + latitude + "," + longitude + "\n")
 
+def is_ascii(s):
+    return all(ord(c) < 128 for c in s)
 
 url = "http://ufostalker.com:8080/eventsByTag"
 totalPages = 0
 totalElements = 0
+
+with open('ufo_stalker_urls_v3.csv', 'a') as usu:
+    usu.write("URL,Summary,Latitude,Longitude" + "\n")
 
 params = dict(
    page='1',
@@ -33,8 +38,18 @@ print "Total Pages: ["+str(totalPages)+"] Total Elements: ["+str(totalElements)+
 print "Processing page 1 of "+str(totalPages)
 
 for d in data["content"]:
+    summary = ""
+    latitude = "0"
+    longitude = "0"
+    if d["latitude"] != None:
+        latitude = str(d["latitude"])
+    if d["longitude"] != None:
+        longitude = str(d["longitude"])
+    if d["summary"] != None and is_ascii(d["summary"]):
+        summary = d["summary"]
+        # print summary
     if d["urls"] != None and len(d["urls"]) > 0:
-        writeLinks(d["urls"])
+        writeLinks(d["urls"], summary, latitude, longitude)
 
 for i in range(2, totalPages):
     print "Processing page "+str(i)+" of "+str(totalPages)
@@ -49,7 +64,10 @@ for i in range(2, totalPages):
     data = resp.json()
 
     for d in data["content"]:
+        summary = ""
+        if d["summary"] != None and is_ascii(d["summary"]):
+            summary = d["summary"]
         if d["urls"] != None and len(d["urls"]) > 0:
-            writeLinks(d["urls"])
+            writeLinks(d["urls"], summary, latitude, longitude)
 
     sleep(2)
