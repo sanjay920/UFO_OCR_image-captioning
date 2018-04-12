@@ -14,7 +14,7 @@ Tika vision
 
 5) In another terminal make sure that tika vision and caption dockers are running and the endpoints are accessible
 
-Step 1: First extract the classes for each url and write it into a csv.   
+<b>Step 1:</b> First extract the classes for each url and write it into a csv.   
 
 Columns - Classes, URL, Case_ID   
 
@@ -25,7 +25,7 @@ Columns - Classes, URL, Case_ID
 5) Once this is done, we will have the classes for all the urls passed   
 
 
-Step 2: Secondly we need to extract captions for each url and write it into a new csv.
+<b>Step 2:</b> Secondly we need to extract captions for each url and write it into a new csv.
 
 Columns - URL, Caption
 
@@ -39,8 +39,6 @@ Columns - URL, Caption
 
 5) Once this is done, we will have the caption for all the urls passed
 
-Step 3:
-
-Once we have these files going through step1 and step2, we can merge these into single csv by running merge_data_sets.py   
+<b>Step 3:</b> Once we have these files going through step1 and step2, we can merge these into single csv by running merge_data_sets.py   
 
 merge_data_sets.py merges the two files as pandas dataframes and we merge them based on the common column "URL"
