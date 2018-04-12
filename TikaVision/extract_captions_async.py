@@ -33,22 +33,23 @@ def get_processed_urls():
     return processed_map
 
 
-async def fetch(url,session):
+async def fetch(ufo_url,session):
     try:
+        url = TIKA_CAPTION_API + ufo_url
         if len(url) == 0:
             return {"description": "NA"}
         async with session.get(url) as response:
             status = response.status
-            print(status, url)
+            print(status, ufo_url)
             if status == 200:
                 print("Inside fetch")
                 json_data =  await response.json()
                 processed_map['processed'].append(url)
-                return {"url":url,"description": json_data['captions'][0]['sentence']}
-        return {"url":url,"description": "NA"}
+                return {"url":ufo_url,"description": json_data['captions'][0]['sentence']}
+        return {"url":ufo_url,"description": "NA"}
     except:
         print("Exception occurred ",url)
-        return {"url":url,"description": "NA"}
+        return {"url":ufo_url,"description": "NA"}
 
 
 async def run(df, processed_url, all_url):
@@ -62,7 +63,7 @@ async def run(df, processed_url, all_url):
             url = TIKA_CAPTION_API + str(ufo_url)
             if ('.jpg' in ufo_url.lower() or '.png' in ufo_url.lower() or '.jpeg' in ufo_url.lower()):
                 if url not in processed_url:
-                    task = asyncio.ensure_future(fetch(url,session))
+                    task = asyncio.ensure_future(fetch(ufo_url,session))
                     tasks.append(task)
                     await asyncio.sleep(1)
                 else:
@@ -93,7 +94,7 @@ processed_map = get_processed_urls()
 # writeToCache(processed_map, PROCESSED_URLS)
 processed_url = processed_map['processed']
 print(len(all_url))
-url_to_consider = all_url[1500:1600]
+url_to_consider = all_url[2200:2300]
 
 # print(all_url)
 loop = asyncio.get_event_loop()
