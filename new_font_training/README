@@ -1,9 +1,9 @@
 The files that we have are scanned pdfs.   
 Following are our observations on the files we worked with:
-* Light vertical lines
-* Border
-* Typed Content, Cursive handwriting
-    <li>Skewed table
+- Light vertical lines
+- Border
+- Typed Content, Cursive handwriting
+- Skewed table
     <li>Text very blur</li>
  
 We used the guidelines provided on tesseract-ocr github repo to improve the performance of OCR.   
