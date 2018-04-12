@@ -21,7 +21,7 @@ The steps to activate the docker are here:
 
 Columns - Classes, URL   
 
-1) To achieve this execute async_test.py in the terminal with python 3   
+1) To achieve this execute extract_classes_async.py in the terminal with python 3   
 2) Some of the requests to the TIKA vision API may time out. In that case we make note of that and try to extract the details in the next run   
 3) Once the script runs, it creates a csv named <u>"data_set_v2_with_classes.csv"</u>
 4) Re-run async_test.py to get urls which failed in the previous run   
@@ -45,3 +45,5 @@ Columns - URL, Caption
 <b>Step 3:</b> Once we have these files going through step1 and step2, we can merge these into single csv by running merge_data_sets.py   
 
 merge_data_sets.py merges the two files as pandas dataframes and we merge them based on the common column <b>"URL"<b>
+
+<b>Step 4:</b> Run post_processing.py

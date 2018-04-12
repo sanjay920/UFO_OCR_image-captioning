@@ -15,4 +15,5 @@ print(len(intersect))
 
 #Merge the two files based on the common column "URL"
 merged_data_frame = pd.merge(captions_data, classes_data, on="URL")
+merged_data_frame.index.name = "id"
 merged_data_frame.to_csv("captions_and_classes.csv", encoding='ISO-8859-1')
