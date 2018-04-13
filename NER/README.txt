@@ -7,6 +7,6 @@ Start CoreNLP client: java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreN
 
 1) Run cells in CoreNLP_notebook to produce pdfs_with_ner.csv -- this CSV will have each PDF page from british UFO files as a row. This notebook also saves the named entities from the text of each sighting as a dict to {TIME_OF_CREATION}.pickle and the resultant dataframe to {TIME_OF_CREATION}_df.pickle
 
-2) Run reportedSighted_at notebook -- reads in {TIME_OF_CREATION}_df.pickle and goes through each row and its named entities to find a reported_at and sighted_at. Since sighted_at always is before reported_at, we look for at max 2 dates in the NEs and assign them accordingly. This will produce PDFs_reported_sighted_at.csv and a pickle that contains that DF in 
+2) Run reportedSighted_at notebook -- reads in {TIME_OF_CREATION}_df.pickle and goes through each row and its named entities to find a reported_at and sighted_at. Since sighted_at always is before reported_at, we look for at max 2 dates in the NEs and assign them accordingly. This will produce PDFs_reported_sighted_at.csv and a pickle that contains that DF in PDFs_reported_sighted_at.pickle
 
-3) 
+3) Run description_field notebook. This will take in PDFs_reported_sighted_at.csv and add a description field (if any found) for each UFO sighting. This notebook will output PDFs_description.csv
