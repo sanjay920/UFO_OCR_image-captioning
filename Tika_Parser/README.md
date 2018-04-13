@@ -1,5 +1,5 @@
 <b><h4>UFO_Parser_ReadME</h4></b> 
-&nbsp;&nbsp; Ufo_parser extends the TXTParser and helps in parsing the information of the files in the folder to a much accessible format 
+&nbsp; Ufo_parser extends the TXTParser and helps in parsing the information of the files in the folder to a much accessible format 
 
 <b>Jars Needed </b></br>
 	
