@@ -20,7 +20,7 @@ Large Scale OCR Extraction, Image Captioning and Object Recognition and Enrichme
     * This folder contains files for training tesseract with new fonts
     
 * <b>TIKA_NER_Extra_Credit</b>
-    * This folder contains results of running Core NLP, Open NLP and MITIE on the parsed text
+    * This folder contains results of running CoreNLP, OpenNLP and MITIE on the parsed text
 ## Final files
 <b> UFO_sightings_final.csv </b>   
 <b> UFO_sightings_final.tsv </b>
