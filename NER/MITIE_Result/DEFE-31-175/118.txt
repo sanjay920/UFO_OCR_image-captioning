@@ -1,8 +1,0 @@
-   Score: 0.479: ORGANIZATION: Scum H M L997
-   Score: 0.175: PERSON: Ho o objects
-   Score: 0.425: ORGANIZATION: NON Ascii text
-   Score: 0.519: PERSON: Au
-   Score: 0.608: ORGANIZATION: Angle of Sight
-   Score: 0.234: PERSON: Estimated Distance
-   Score: 0.411: PERSON: marsh
-   Score: 1.067: PERSON: Spires

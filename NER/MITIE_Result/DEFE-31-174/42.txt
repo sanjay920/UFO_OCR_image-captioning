@@ -1,5 +1,0 @@
-   Score: 1.237: ORGANIZATION: O O O O
-   Score: 0.582: PERSON: H.
-   Score: 0.822: PERSON: Il
-   Score: 0.583: PERSON: III
-   Score: 0.508: PERSON: NON Ascii text

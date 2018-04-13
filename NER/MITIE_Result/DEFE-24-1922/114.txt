@@ -1,9 +1,0 @@
-   Score: 0.485: ORGANIZATION: nm OBJECTS
-   Score: 0.413: PERSON: marsh
-   Score: 0.401: PERSON: cm WITNESSES
-   Score: 0.491: PERSON: NON Ascii text
-   Score: 1.259: ORGANIZATION: GE
-   Score: 1.001: ORGANIZATION: RAF
-   Score: 0.792: ORGANIZATION: DI File Em Bm Rm
-   Score: 0.591: ORGANIZATION: g Main
-   Score: 0.522: ORGANIZATION: Metropo

@@ -1,8 +1,0 @@
-   Score: 0.296: PERSON: Raf
-   Score: 0.767: PERSON: Lo gaugaftar
-   Score: 0.413: ORGANIZATION: Izizst
-   Score: 0.323: PERSON: Kna
-   Score: 0.677: PERSON: yau hays probabl
-   Score: 0.534: PERSON: Ry
-   Score: 0.672: PERSON: NON Ascii text
-   Score: 1.142: PERSON: Qi

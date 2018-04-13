@@ -1,8 +1,0 @@
-   Score: 0.393: LOCATION: UFOs
-   Score: 0.352: LOCATION: UFOs
-   Score: 0.484: LOCATION: UFOs
-   Score: 0.453: PERSON: Lord Clancarty
-   Score: 1.103: MISC: British
-   Score: 0.844: ORGANIZATION: First Fourth Norfolks
-   Score: 0.489: PERSON: Hill
-   Score: 1.002: ORGANIZATION: Army Historical Branch

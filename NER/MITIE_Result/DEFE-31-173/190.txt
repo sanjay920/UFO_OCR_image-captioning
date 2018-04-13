@@ -1,6 +1,0 @@
-   Score: 0.838: ORGANIZATION: Duration of Sighting
-   Score: 0.814: ORGANIZATION: Kins DESCRIPTION OF OBJECT
-   Score: 0.251: PERSON: NON Ascii text
-   Score: 0.327: LOCATION: ANGLE
-   Score: 0.395: LOCATION: Estimated Heights
-   Score: 0.934: PERSON: NON Ascii text

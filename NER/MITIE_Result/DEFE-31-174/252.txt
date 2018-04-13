@@ -1,7 +1,0 @@
-   Score: 0.430: PERSON: Boreham Wood Herts
-   Score: 0.204: PERSON: NON Ascii text
-   Score: 0.611: ORGANIZATION: Time of Receipt
-   Score: 0.428: PERSON: NON Ascii text
-   Score: 0.609: ORGANIZATION: AS
-   Score: 0.578: ORGANIZATION: AEw/GE
-   Score: 0.254: MISC: AF Ops

@@ -1,7 +1,0 @@
-   Score: 0.527: ORGANIZATION: NON Ascii text
-   Score: 0.410: ORGANIZATION: Ramsgate Kent
-   Score: 0.275: LOCATION: April
-   Score: 1.227: LOCATION: UK
-   Score: 0.541: PERSON: NON Ascii text
-   Score: 0.335: PERSON: NON Ascii text
-   Score: 1.032: PERSON: Lu

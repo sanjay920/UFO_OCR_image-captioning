@@ -1,8 +1,0 @@
-   Score: 0.802: PERSON: NON Ascii text
-   Score: 0.155: PERSON: Lociflon
-   Score: 0.637: PERSON: Dawley
-   Score: 0.640: PERSON: NON Ascii text
-   Score: 0.444: PERSON: Estlmated Eelghta
-   Score: 0.293: PERSON: F
-   Score: 0.452: PERSON: alouda
-   Score: 0.500: PERSON: Eaze

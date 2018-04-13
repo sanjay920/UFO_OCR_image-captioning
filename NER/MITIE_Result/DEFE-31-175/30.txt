@@ -1,8 +1,0 @@
-   Score: 0.397: PERSON: NON Ascii text
-   Score: 0.869: ORGANIZATION: UQT
-   Score: 1.134: ORGANIZATION: NON Ascii text
-   Score: 0.854: ORGANIZATION: Rib SIC
-   Score: 0.513: ORGANIZATION: CLOUDY GOOD VISIBILITY
-   Score: 0.533: ORGANIZATION: NO SUL
-   Score: 1.332: ORGANIZATION: SEC
-   Score: 0.560: PERSON: NON Ascii text

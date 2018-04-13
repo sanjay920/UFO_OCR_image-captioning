@@ -1,9 +1,0 @@
-   Score: 0.098: PERSON: IDENTIFIED
-   Score: 0.402: PERSON: NON Ascii text
-   Score: 0.752: ORGANIZATION: NON Ascii text
-   Score: 0.489: PERSON: NON Ascii text
-   Score: 0.524: PERSON: Angle
-   Score: 0.484: PERSON: Sig heights
-   Score: 0.766: PERSON: Mel
-   Score: 0.411: PERSON: marsh
-   Score: 0.483: MISC: Hl-udli

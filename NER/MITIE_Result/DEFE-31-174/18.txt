@@ -1,9 +1,0 @@
-   Score: 0.717: ORGANIZATION: NUU
-   Score: 0.789: ORGANIZATION: SIC IKFxISJ
-   Score: 0.348: LOCATION: NRKFO
-   Score: 0.559: ORGANIZATION: PP
-   Score: 0.468: PERSON: Ru
-   Score: 0.670: ORGANIZATION: SECME
-   Score: 0.373: PERSON: NON Ascii text
-   Score: 0.537: PERSON: Tf 'n
-   Score: 0.264: ORGANIZATION: I}

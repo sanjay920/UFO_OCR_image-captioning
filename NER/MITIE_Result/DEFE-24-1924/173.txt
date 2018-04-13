@@ -1,6 +1,0 @@
-   Score: 0.459: PERSON: A. E.
-   Score: 0.606: ORGANIZATION: {OL-LNB
-   Score: 0.518: ORGANIZATION: Terminal Building
-   Score: 0.450: ORGANIZATION: Assistant
-   Score: 0.333: ORGANIZATION: DFTI
-   Score: 0.237: ORGANIZATION: Radar

@@ -1,8 +1,0 @@
-   Score: 0.527: ORGANIZATION: Telex
-   Score: 0.422: LOCATION: Cannock Road
-   Score: 0.692: PERSON: Stafford
-   Score: 0.212: LOCATION: my Force
-   Score: 1.001: ORGANIZATION: London Air Traffic Control Centre , Porters Way
-   Score: 0.631: LOCATION: West Drayton
-   Score: 0.699: ORGANIZATION: Middlesex
-   Score: 0.358: PERSON: UB7

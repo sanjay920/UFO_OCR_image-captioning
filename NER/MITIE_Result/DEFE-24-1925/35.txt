@@ -1,6 +1,0 @@
-   Score: 0.865: LOCATION: LONDON
-   Score: 0.320: PERSON: S.W.l
-   Score: 0.829: ORGANIZATION: Air Ministry Secret Intelligence Summary
-   Score: 1.347: PERSON: Anthony Montague Browne
-   Score: 0.259: PERSON: NON Ascii text
-   Score: 0.379: ORGANIZATION: 3

@@ -1,5 +1,0 @@
-   Score: 0.773: ORGANIZATION: Nest Midlands Police
-   Score: 1.435: ORGANIZATION: NON Ascii text
-   Score: 0.208: MISC: Sqn Ldr Dutg
-   Score: 0.497: ORGANIZATION: AS
-   Score: 1.060: ORGANIZATION: ASH/GE DI

@@ -1,9 +1,0 @@
-   Score: 0.562: ORGANIZATION: Southend
-   Score: 0.552: ORGANIZATION: Unusual Meteorological
-   Score: 0.573: ORGANIZATION: Southend
-   Score: 0.877: ORGANIZATION: ATC
-   Score: 0.654: ORGANIZATION: 182249A Mag
-   Score: 0.523: ORGANIZATION: Sqn Ldr Dutg Ops OFFicer Date
-   Score: 0.533: ORGANIZATION: AS
-   Score: 1.076: ORGANIZATION: AEw/GE DI
-   Score: 0.479: ORGANIZATION: AF Ops/E/S/l

@@ -1,6 +1,0 @@
-   Score: 0.911: ORGANIZATION: SEC
-   Score: 0.449: ORGANIZATION: NON Ascii text
-   Score: 0.333: PERSON: NON Ascii text
-   Score: 0.564: ORGANIZATION: Corqmentsz
-   Score: 0.422: PERSON: NON Ascii text
-   Score: 1.009: ORGANIZATION: NON Ascii text

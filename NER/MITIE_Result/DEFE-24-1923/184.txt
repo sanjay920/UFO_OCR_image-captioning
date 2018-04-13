@@ -1,8 +1,0 @@
-   Score: 0.461: ORGANIZATION: {A
-   Score: 0.315: LOCATION: BRISTOL
-   Score: 0.915: ORGANIZATION: Secretariat ( Air Staff
-   Score: 0.418: ORGANIZATION: MOD Main Building
-   Score: 0.605: LOCATION: Whitehall
-   Score: 0.953: LOCATION: LONDON
-   Score: 0.565: ORGANIZATION: SWlA ZHB
-   Score: 0.375: LOCATION: aurora

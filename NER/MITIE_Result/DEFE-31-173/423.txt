@@ -1,5 +1,0 @@
-   Score: 0.613: ORGANIZATION: NON Ascii text
-   Score: 0.579: ORGANIZATION: Com/wk
-   Score: 0.378: PERSON: NON Ascii text
-   Score: 0.420: PERSON: Gab
-   Score: 0.506: PERSON: M

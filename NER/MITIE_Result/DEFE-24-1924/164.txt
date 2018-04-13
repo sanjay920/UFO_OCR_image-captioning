@@ -1,8 +1,0 @@
-   Score: 0.420: PERSON: Mw~
-   Score: 0.270: MISC: M. Name
-   Score: 0.351: ORGANIZATION: NON Ascii text
-   Score: 0.759: PERSON: P. Date
-   Score: 0.886: PERSON: R. Remargi
-   Score: 0.561: ORGANIZATION: AS
-   Score: 1.086: ORGANIZATION: AEW/GE DI
-   Score: 0.394: MISC: AF Ops

@@ -1,5 +1,0 @@
-   Score: 0.291: PERSON: K.\\
-   Score: 0.915: ORGANIZATION: Civil Aviation Authority Control Tower
-   Score: 1.094: LOCATION: Gatwick Airport
-   Score: 0.469: LOCATION: West Sussex
-   Score: 0.649: ORGANIZATION: OLD Telephone

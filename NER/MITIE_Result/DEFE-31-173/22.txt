@@ -1,5 +1,0 @@
-   Score: 0.368: ORGANIZATION: JWatJC
-   Score: 0.207: ORGANIZATION: Ae/iwdd/ 16f
-   Score: 0.561: ORGANIZATION: AS
-   Score: 0.962: ORGANIZATION: NON Ascii text
-   Score: 0.339: MISC: AF Ops

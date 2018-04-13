@@ -1,4 +1,0 @@
-   Score: 0.408: PERSON: NON Ascii text
-   Score: 0.654: ORGANIZATION: NON Ascii text
-   Score: 1.491: ORGANIZATION: Ministry of Defence Department S4
-   Score: 0.631: ORGANIZATION: Air

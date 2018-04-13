@@ -1,3 +1,0 @@
-   Score: 0.481: LOCATION: Observer Location
-   Score: 0.616: ORGANIZATION: Angle of Sight
-   Score: 0.411: PERSON: marsh

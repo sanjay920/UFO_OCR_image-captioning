@@ -1,4 +1,0 @@
-   Score: 0.706: ORGANIZATION: CONT/ N. Police
-   Score: 0.394: PERSON: Lady
-   Score: 0.737: PERSON: P.
-   Score: 0.707: ORGANIZATION: ATCO II

@@ -1,6 +1,0 @@
-   Score: 0.460: ORGANIZATION: VIM
-   Score: 0.820: ORGANIZATION: C~I;H4-hl>
-   Score: 0.382: MISC: 3}
-   Score: 0.568: MISC: U-<f
-   Score: 0.820: ORGANIZATION: NHL
-   Score: 0.292: ORGANIZATION: NON Ascii text

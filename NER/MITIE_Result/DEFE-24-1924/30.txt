@@ -1,7 +1,0 @@
-   Score: 0.605: ORGANIZATION: BC
-   Score: 0.190: LOCATION: I//
-   Score: 0.317: ORGANIZATION: NON Ascii text
-   Score: 0.857: PERSON: Angle
-   Score: 0.329: PERSON: F
-   Score: 0.455: PERSON: NON Ascii text
-   Score: 0.986: LOCATION: MN

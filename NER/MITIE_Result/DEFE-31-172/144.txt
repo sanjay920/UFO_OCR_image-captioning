@@ -1,5 +1,0 @@
-   Score: 0.328: PERSON: Elmo
-   Score: 0.737: LOCATION: Aurora
-   Score: 0.308: PERSON: Borealis
-   Score: 0.484: PERSON: NON Ascii text
-   Score: 0.955: PERSON: Moe

@@ -1,8 +1,0 @@
-   Score: 0.167: PERSON: K. NEARBY OBJECTS
-   Score: 0.411: PERSON: marsh
-   Score: 0.349: ORGANIZATION: NON Ascii text
-   Score: 0.629: ORGANIZATION: RAF Shawbury
-   Score: 0.928: ORGANIZATION: GE
-   Score: 0.515: MISC: DI 55
-   Score: 0.739: ORGANIZATION: File Rm Section
-   Score: 0.201: ORGANIZATION: RmSection

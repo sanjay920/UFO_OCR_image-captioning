@@ -1,3 +1,0 @@
-   Score: 0.668: PERSON: Lay
-   Score: 0.924: ORGANIZATION: NON Ascii text
-   Score: 0.590: MISC: F

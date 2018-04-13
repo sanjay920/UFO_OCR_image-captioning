@@ -1,7 +1,0 @@
-   Score: 0.390: PERSON: NON Ascii text
-   Score: 0.249: PERSON: QODLoi
-   Score: 1.045: ORGANIZATION: EEC
-   Score: 0.297: PERSON: NON Ascii text
-   Score: 0.715: ORGANIZATION: HG
-   Score: 0.568: ORGANIZATION: SGC
-   Score: 0.542: ORGANIZATION: BOZJZO 33W

@@ -1,9 +1,0 @@
-   Score: 0.656: PERSON: Ssen
-   Score: 0.785: PERSON: z.
-   Score: 0.428: LOCATION: NC
-   Score: 0.395: PERSON: veunr
-   Score: 0.337: ORGANIZATION: Angular Elevation
-   Score: 0.569: PERSON: T.
-   Score: 0.764: PERSON: Ml
-   Score: 0.706: ORGANIZATION: LRTC
-   Score: 1.051: PERSON: Ma

@@ -1,3 +1,0 @@
-   Score: 0.717: PERSON: D.
-   Score: 0.493: PERSON: NON Ascii text
-   Score: 0.720: ORGANIZATION: GM

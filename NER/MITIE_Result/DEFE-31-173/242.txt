@@ -1,7 +1,0 @@
-   Score: 0.054: PERSON: Unrulcd
-   Score: 0.560: PERSON: NON Ascii text
-   Score: 0.721: ORGANIZATION: Air Traffic Control
-   Score: 0.759: ORGANIZATION: SM
-   Score: 1.135: ORGANIZATION: Ministry of Defence
-   Score: 0.571: ORGANIZATION: QA
-   Score: 0.593: MISC: ii A

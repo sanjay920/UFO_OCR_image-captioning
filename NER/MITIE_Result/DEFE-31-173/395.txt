@@ -1,8 +1,0 @@
-   Score: 0.675: ORGANIZATION: NON Ascii text
-   Score: 0.483: PERSON: NON Ascii text
-   Score: 0.262: ORGANIZATION: Telephone
-   Score: 0.956: ORGANIZATION: ATC
-   Score: 0.250: ORGANIZATION: COUNSWK
-   Score: 0.368: MISC: NON Ascii text
-   Score: 0.387: PERSON: O. Other
-   Score: 0.886: PERSON: P. Date

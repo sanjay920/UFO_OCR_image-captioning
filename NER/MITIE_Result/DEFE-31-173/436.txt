@@ -1,8 +1,0 @@
-   Score: 0.616: PERSON: l. 4/
-   Score: 0.584: ORGANIZATION: JU~ AUL
-   Score: 0.233: PERSON: L3TCCJ
-   Score: 0.424: ORGANIZATION: I;Ll\
-   Score: 0.254: ORGANIZATION: UM Hausa
-   Score: 0.717: ORGANIZATION: NON Ascii text
-   Score: 1.144: ORGANIZATION: RAF
-   Score: 0.710: ORGANIZATION: NON Ascii text

@@ -1,3 +1,0 @@
-   Score: 0.524: ORGANIZATION: MOD
-   Score: 0.464: ORGANIZATION: NON Ascii text
-   Score: 1.167: PERSON: Li

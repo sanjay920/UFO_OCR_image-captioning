@@ -1,4 +1,0 @@
-   Score: 0.754: ORGANIZATION: MU
-   Score: 0.410: PERSON: NON Ascii text
-   Score: 0.092: PERSON: NON Ascii text
-   Score: 0.405: PERSON: J\

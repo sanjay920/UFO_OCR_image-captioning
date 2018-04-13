@@ -1,5 +1,0 @@
-   Score: 0.601: PERSON: Paper Tunstall
-   Score: 0.383: PERSON: Pu First UFO Phenomenao
-   Score: 0.470: ORGANIZATION: Int
-   Score: 0.675: ORGANIZATION: NON Ascii text
-   Score: 0.457: ORGANIZATION: UTO

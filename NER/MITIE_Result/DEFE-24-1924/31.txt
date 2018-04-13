@@ -1,6 +1,0 @@
-   Score: 0.286: ORGANIZATION: HMG
-   Score: 0.741: PERSON: Qud
-   Score: 0.787: PERSON: Angle
-   Score: 0.329: PERSON: F
-   Score: 0.549: ORGANIZATION: " Meteorological
-   Score: 0.315: PERSON: NON Ascii text

@@ -1,8 +1,0 @@
-   Score: 0.539: ORGANIZATION: St Mawgan Newquay Cornwall
-   Score: 0.452: ORGANIZATION: Sec AS
-   Score: 0.391: ORGANIZATION: R O
-   Score: 0.670: ORGANIZATION: MOD Main BID
-   Score: 0.476: PERSON: Baa
-   Score: 0.426: PERSON: A. SM/1627/1/brg
-   Score: 1.092: ORGANIZATION: Plymouth UFO Investigation Centre
-   Score: 0.497: PERSON: Enclosure

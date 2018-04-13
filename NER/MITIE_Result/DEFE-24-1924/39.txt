@@ -1,2 +1,0 @@
-   Score: 0.584: PERSON: L.
-   Score: 1.407: ORGANIZATION: AI

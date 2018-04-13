@@ -1,4 +1,0 @@
-   Score: 0.868: ORGANIZATION: Royal Air Force
-   Score: 0.173: ORGANIZATION: COMPLAINTS
-   Score: 0.387: ORGANIZATION: Hawthorn Wiltshire
-   Score: 0.323: ORGANIZATION: Telephone Hawmmn

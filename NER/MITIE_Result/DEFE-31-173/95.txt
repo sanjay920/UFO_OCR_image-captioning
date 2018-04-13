@@ -1,5 +1,0 @@
-   Score: 0.705: ORGANIZATION: M
-   Score: 0.321: MISC: NON Ascii text
-   Score: 0.445: PERSON: Nov/
-   Score: 0.330: LOCATION: NM
-   Score: 0.307: PERSON: NON Ascii text

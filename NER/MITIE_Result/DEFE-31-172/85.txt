@@ -1,9 +1,0 @@
-   Score: 1.197: ORGANIZATION: DEC
-   Score: 0.339: PERSON: OBSERVER
-   Score: 0.208: ORGANIZATION: {I-Ianamark
-   Score: 0.712: LOCATION: West
-   Score: 0.366: LOCATION: Croydon/Clapham
-   Score: 0.155: ORGANIZATION: ~1andmark
-   Score: 0.302: PERSON: F
-   Score: 0.355: PERSON: CIouds
-   Score: 0.627: ORGANIZATION: NON Ascii text

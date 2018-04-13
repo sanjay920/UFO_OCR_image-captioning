@@ -1,5 +1,0 @@
-   Score: 0.515: ORGANIZATION: OHW
-   Score: 0.497: ORGANIZATION: NON Ascii text
-   Score: 1.004: ORGANIZATION: NON Ascii text
-   Score: 0.316: PERSON: AH
-   Score: 0.519: PERSON: NON Ascii text

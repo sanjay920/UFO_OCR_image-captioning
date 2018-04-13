@@ -1,5 +1,0 @@
-   Score: 0.772: ORGANIZATION: Duration of Sighting
-   Score: 0.879: PERSON: NON Ascii text
-   Score: 0.330: PERSON: C.
-   Score: 0.390: LOCATION: ANGLE
-   Score: 0.971: ORGANIZATION: WW WWW

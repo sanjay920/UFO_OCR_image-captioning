@@ -1,9 +1,0 @@
-   Score: 0.167: MISC: White
-   Score: 0.389: PERSON: Newton Tracey
-   Score: 0.493: ORGANIZATION: Steady Meteorological
-   Score: 0.529: MISC: Off RAF Chivenor Name
-   Score: 0.163: LOCATION: Exeter
-   Score: 1.151: LOCATION: Taunton
-   Score: 0.313: LOCATION: Exeter
-   Score: 0.332: LOCATION: South Brent
-   Score: 0.540: PERSON: Devon

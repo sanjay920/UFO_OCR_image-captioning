@@ -1,4 +1,0 @@
-   Score: 0.336: PERSON: U
-   Score: 0.780: PERSON: E. III
-   Score: 0.352: ORGANIZATION: NON Ascii text
-   Score: 0.302: PERSON: LLIHI

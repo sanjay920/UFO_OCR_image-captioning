@@ -1,7 +1,0 @@
-   Score: 0.861: PERSON: Au JJx
-   Score: 0.328: PERSON: ~\
-   Score: 0.255: PERSON: {Aim I-X
-   Score: 1.212: ORGANIZATION: Tu CAS
-   Score: 0.705: PERSON: V. W
-   Score: 0.385: PERSON: LTyNE
-   Score: 0.417: ORGANIZATION: I~io~\/F~>

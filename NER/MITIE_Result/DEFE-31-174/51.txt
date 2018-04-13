@@ -1,5 +1,0 @@
-   Score: 0.490: ORGANIZATION: Local
-   Score: 0.339: PERSON: JWf
-   Score: 0.420: PERSON: F
-   Score: 0.810: PERSON: Angle
-   Score: 0.333: PERSON: F

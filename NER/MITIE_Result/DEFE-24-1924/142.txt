@@ -1,2 +1,0 @@
-   Score: 0.364: LOCATION: WEST
-   Score: 0.450: PERSON: o W

@@ -1,6 +1,0 @@
-   Score: 0.818: LOCATION: Chelmsford
-   Score: 0.913: LOCATION: Chelmsford
-   Score: 0.410: PERSON: Imotner
-   Score: 0.400: PERSON: Witnesses Bone Date
-   Score: 0.578: ORGANIZATION: Unusual Meteorological
-   Score: 0.439: MISC: Duty Operations

@@ -1,7 +1,0 @@
-   Score: 0.929: PERSON: Dov He
-   Score: 0.721: ORGANIZATION: Intormnt Section
-   Score: 0.135: PERSON: Nut-mung
-   Score: 0.521: PERSON: NON Ascii text
-   Score: 0.237: PERSON: Sqn Ldr
-   Score: 0.520: ORGANIZATION: AS
-   Score: 1.003: ORGANIZATION: AEN/GE DI

@@ -1,8 +1,0 @@
-   Score: 0.708: MISC: F
-   Score: 0.281: PERSON: NON Ascii text
-   Score: 0.145: ORGANIZATION: Pm Spherical
-   Score: 0.797: LOCATION: Horsham
-   Score: 0.961: ORGANIZATION: W. Sussex
-   Score: 0.216: PERSON: Approx
-   Score: 1.167: LOCATION: Gatwick
-   Score: 0.837: ORGANIZATION: Surrey

@@ -1,5 +1,0 @@
-   Score: 0.606: ORGANIZATION: DEC
-   Score: 0.401: ORGANIZATION: E/I/m
-   Score: 0.923: PERSON: NON Ascii text
-   Score: 0.540: ORGANIZATION: n. ' Section
-   Score: 0.351: ORGANIZATION: IIAIS

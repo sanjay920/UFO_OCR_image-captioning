@@ -1,2 +1,0 @@
-   Score: 0.254: PERSON: Ci
-   Score: 0.782: ORGANIZATION: NON Ascii text

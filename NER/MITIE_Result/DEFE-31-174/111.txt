@@ -1,6 +1,0 @@
-   Score: 0.234: PERSON: NON Ascii text
-   Score: 0.610: PERSON: Il ' E-II
-   Score: 0.450: ORGANIZATION: HUM
-   Score: 0.206: ORGANIZATION: NON Ascii text
-   Score: 0.115: PERSON: Mini
-   Score: 0.182: PERSON: NON Ascii text

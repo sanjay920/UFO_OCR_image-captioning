@@ -1,8 +1,0 @@
-   Score: 1.110: PERSON: A. Date
-   Score: 1.077: PERSON: B. Descri
-   Score: 0.114: MISC: James/ad WW2
-   Score: 0.630: PERSON: Di_s_t__
-   Score: 0.614: ORGANIZATION: MSW
-   Score: 0.347: PERSON: F
-   Score: 0.405: ORGANIZATION: NON Ascii text
-   Score: 0.381: LOCATION: CW

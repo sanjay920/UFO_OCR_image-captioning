@@ -1,4 +1,0 @@
-   Score: 0.348: PERSON: NON Ascii text
-   Score: 0.544: PERSON: H. Name
-   Score: 0.500: PERSON: NON Ascii text
-   Score: 0.816: PERSON: P. Date

@@ -1,3 +1,0 @@
-   Score: 0.694: LOCATION: CW
-   Score: 0.388: ORGANIZATION: NON Ascii text
-   Score: 0.214: MISC: NON Ascii text

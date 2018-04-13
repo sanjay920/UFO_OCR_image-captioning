@@ -1,5 +1,0 @@
-   Score: 1.080: PERSON: Ma
-   Score: 0.416: PERSON: ;_L
-   Score: 0.588: ORGANIZATION: EAL
-   Score: 0.398: ORGANIZATION: NON Ascii text
-   Score: 0.561: PERSON: M. :

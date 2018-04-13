@@ -1,3 +1,0 @@
-   Score: 0.892: PERSON: Wan
-   Score: 0.194: PERSON: Dcfcncc
-   Score: 0.983: ORGANIZATION: Ministry of Defence

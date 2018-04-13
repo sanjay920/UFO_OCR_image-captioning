@@ -1,3 +1,0 @@
-   Score: 0.674: ORGANIZATION: NON Ascii text
-   Score: 0.381: LOCATION: g north
-   Score: 0.741: ORGANIZATION: Wm M Section

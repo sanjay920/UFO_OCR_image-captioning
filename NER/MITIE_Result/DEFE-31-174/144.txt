@@ -1,2 +1,0 @@
-   Score: 0.713: PERSON: o
-   Score: 0.315: ORGANIZATION: IlPIv

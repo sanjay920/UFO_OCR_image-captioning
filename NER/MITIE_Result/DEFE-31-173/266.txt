@@ -1,5 +1,0 @@
-   Score: 0.244: ORGANIZATION: NON Ascii text
-   Score: 0.198: ORGANIZATION: Easterly
-   Score: 0.168: LOCATION: Hounslow
-   Score: 0.541: LOCATION: E
-   Score: 0.346: PERSON: QIoEEe

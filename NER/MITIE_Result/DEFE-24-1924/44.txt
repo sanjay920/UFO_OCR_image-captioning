@@ -1,6 +1,0 @@
-   Score: 0.693: LOCATION: FL
-   Score: 0.636: ORGANIZATION: EV
-   Score: 0.912: PERSON: l. v
-   Score: 0.384: ORGANIZATION: \
-   Score: 0.585: PERSON: NON Ascii text
-   Score: 0.413: PERSON: H.

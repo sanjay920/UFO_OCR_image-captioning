@@ -1,8 +1,0 @@
-   Score: 0.983: ORGANIZATION: u N.
-   Score: 0.330: PERSON: Brivht Amber
-   Score: 0.339: PERSON: Bentley
-   Score: 0.836: PERSON: Angle
-   Score: 0.278: PERSON: Ho
-   Score: 0.289: PERSON: Hone
-   Score: 0.826: ORGANIZATION: RAF
-   Score: 0.225: ORGANIZATION: NON Ascii text

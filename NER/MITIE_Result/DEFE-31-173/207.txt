@@ -1,6 +1,0 @@
-   Score: 0.818: ORGANIZATION: SIC
-   Score: 0.522: ORGANIZATION: DISTRHCE
-   Score: 0.398: PERSON: ;.HV
-   Score: 0.472: PERSON: D.
-   Score: 0.504: PERSON: P. TDR
-   Score: 0.866: ORGANIZATION: DSC

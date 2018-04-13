@@ -1,8 +1,0 @@
-   Score: 0.442: PERSON: marsh
-   Score: 0.990: ORGANIZATION: RAF Lossiemouth
-   Score: 0.158: PERSON: Bi VOLUNTEERED
-   Score: 0.179: ORGANIZATION: UNUSUAL
-   Score: 0.470: PERSON: Nimrod
-   Score: 0.970: ORGANIZATION: GE
-   Score: 0.624: ORGANIZATION: Rm Section
-   Score: 0.480: ORGANIZATION: Rm Section

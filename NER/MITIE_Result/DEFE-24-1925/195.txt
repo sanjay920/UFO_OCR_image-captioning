@@ -1,6 +1,0 @@
-   Score: 0.575: ORGANIZATION: Air
-   Score: 0.414: ORGANIZATION: Room
-   Score: 0.906: LOCATION: Whitehall London
-   Score: 0.047: LOCATION: Switchboard
-   Score: 1.363: PERSON: Holt
-   Score: 0.115: ORGANIZATION: Hansard

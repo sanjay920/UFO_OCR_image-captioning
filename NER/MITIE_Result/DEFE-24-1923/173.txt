@@ -1,4 +1,0 @@
-   Score: 0.748: PERSON: J. V
-   Score: 0.425: ORGANIZATION: NON Ascii text
-   Score: 0.374: PERSON: NON Ascii text
-   Score: 0.325: PERSON: NON Ascii text

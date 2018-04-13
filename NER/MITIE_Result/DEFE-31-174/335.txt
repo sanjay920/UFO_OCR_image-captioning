@@ -1,9 +1,0 @@
-   Score: 0.570: ORGANIZATION: NON Ascii text
-   Score: 0.344: MISC: K. Near-b1
-   Score: 0.230: ORGANIZATION: Telephone
-   Score: 0.681: PERSON: NON Ascii text
-   Score: 0.489: PERSON: M. Name
-   Score: 0.583: PERSON: NON Ascii text
-   Score: 0.385: ORGANIZATION: MMQ
-   Score: 0.787: PERSON: Alix
-   Score: 0.413: PERSON: NON Ascii text

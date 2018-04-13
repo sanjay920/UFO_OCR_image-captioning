@@ -1,6 +1,0 @@
-   Score: 0.613: PERSON: J. Meteorolqgical
-   Score: 0.873: PERSON: Santana
-   Score: 0.628: PERSON: K. Nearobz
-   Score: 0.600: LOCATION: MA
-   Score: 0.663: PERSON: M. Name
-   Score: 0.376: PERSON: N. Agy

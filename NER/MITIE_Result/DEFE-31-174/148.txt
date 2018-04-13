@@ -1,5 +1,0 @@
-   Score: 1.060: ORGANIZATION: SEC
-   Score: 0.294: PERSON: D/Sec
-   Score: 0.489: LOCATION: October
-   Score: 1.065: ORGANIZATION: AAC
-   Score: 0.253: PERSON: Whlch

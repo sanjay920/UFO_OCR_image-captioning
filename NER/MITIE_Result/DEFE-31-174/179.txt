@@ -1,5 +1,0 @@
-   Score: 0.260: PERSON: JIM
-   Score: 1.256: ORGANIZATION: O C O O O
-   Score: 0.713: PERSON: E.
-   Score: 0.782: PERSON: O O O O O O
-   Score: 1.335: ORGANIZATION: O O O O O

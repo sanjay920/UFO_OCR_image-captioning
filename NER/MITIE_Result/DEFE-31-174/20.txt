@@ -1,6 +1,0 @@
-   Score: 0.760: ORGANIZATION: wooton Park Police & military
-   Score: 1.605: ORGANIZATION: HOD Air Force Operations Name & Address
-   Score: 0.578: ORGANIZATION: Parkland
-   Score: 0.430: ORGANIZATION: Northampton
-   Score: 0.603: ORGANIZATION: SectAS
-   Score: 0.890: ORGANIZATION: Aew/ce DI

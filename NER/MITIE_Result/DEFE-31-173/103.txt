@@ -1,8 +1,0 @@
-   Score: 0.411: PERSON: marsh
-   Score: 0.361: ORGANIZATION: METEOROLOGICAL
-   Score: 0.749: ORGANIZATION: A/O/
-   Score: 0.992: ORGANIZATION: GE
-   Score: 0.903: ORGANIZATION: RAF
-   Score: 1.065: ORGANIZATION: NON Ascii text
-   Score: 0.700: ORGANIZATION: Rm Section
-   Score: 0.657: ORGANIZATION: Main Bldg Main Bldg Metrogole

@@ -1,5 +1,0 @@
-   Score: 0.429: PERSON: NON Ascii text
-   Score: 0.284: ORGANIZATION: U\
-   Score: 1.046: PERSON: O. Other Witnesses
-   Score: 0.736: ORGANIZATION: NON Ascii text
-   Score: 1.031: ORGANIZATION: Fecelat

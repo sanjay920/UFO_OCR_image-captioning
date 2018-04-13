@@ -1,9 +1,0 @@
-   Score: 0.686: ORGANIZATION: Secretariat ( Air Staff
-   Score: 0.750: LOCATION: Whitehall London
-   Score: 0.554: PERSON: Talephone
-   Score: 0.114: PERSON: Switchboard
-   Score: 0.198: PERSON: NON Ascii text
-   Score: 0.414: LOCATION: UFOs
-   Score: 0.511: ORGANIZATION: MOD
-   Score: 0.462: ORGANIZATION: UFO
-   Score: 0.947: ORGANIZATION: Public Records Office

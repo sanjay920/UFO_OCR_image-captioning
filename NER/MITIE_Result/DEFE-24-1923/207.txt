@@ -1,7 +1,0 @@
-   Score: 0.784: LOCATION: MN
-   Score: 0.187: PERSON: SOUth
-   Score: 0.520: PERSON: Dalwhinnie
-   Score: 1.193: LOCATION: Perth
-   Score: 0.371: LOCATION: Badenoch
-   Score: 0.339: LOCATION: Dalwhinnie
-   Score: 0.545: PERSON: NON Ascii text

@@ -1,7 +1,0 @@
-   Score: 0.427: PERSON: J. Meteorological
-   Score: 0.638: PERSON: K. Nearobz
-   Score: 0.261: ORGANIZATION: Telephone
-   Score: 0.920: PERSON: /ka Macmiu
-   Score: 1.004: PERSON: L. To
-   Score: 0.330: MISC: MA M. Name
-   Score: 0.868: PERSON: P. Date

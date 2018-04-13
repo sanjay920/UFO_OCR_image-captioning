@@ -1,9 +1,0 @@
-   Score: 0.397: PERSON: K. NEARBY OBJECTS
-   Score: 0.411: PERSON: marsh
-   Score: 1.201: ORGANIZATION: Civil Police
-   Score: 0.646: PERSON: B.
-   Score: 0.519: ORGANIZATION: Mar
-   Score: 0.840: ORGANIZATION: GE
-   Score: 0.504: MISC: DI 55
-   Score: 1.071: ORGANIZATION: File Rm Section
-   Score: 0.241: ORGANIZATION: RmSection

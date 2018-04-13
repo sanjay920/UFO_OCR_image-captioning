@@ -1,9 +1,0 @@
-   Score: 0.303: PERSON: Rom
-   Score: 0.334: PERSON: Datej Time
-   Score: 0.402: ORGANIZATION: IWL
-   Score: 0.329: PERSON: Angle of Sight
-   Score: 0.583: PERSON: Movements}
-   Score: 0.504: ORGANIZATION: NIG
-   Score: 0.500: PERSON: Descrigtiom
-   Score: 0.590: ORGANIZATION: TWV
-   Score: 0.271: MISC: 5}

@@ -1,9 +1,0 @@
-   Score: 0.263: PERSON: NON Ascii text
-   Score: 1.413: ORGANIZATION: Wu CYD CAV CAV
-   Score: 0.543: ORGANIZATION: DI 55
-   Score: 0.723: ORGANIZATION: DSTI DD OpS
-   Score: 0.881: ORGANIZATION: GE
-   Score: 0.377: ORGANIZATION: RAE
-   Score: 0.629: ORGANIZATION: DIN
-   Score: 0.317: MISC: V\ \\
-   Score: 0.970: PERSON: NON Ascii text

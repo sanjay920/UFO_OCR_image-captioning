@@ -1,7 +1,0 @@
-   Score: 0.106: PERSON: NON Ascii text
-   Score: 0.685: LOCATION: NON Ascii text
-   Score: 0.876: ORGANIZATION: United Kingdom Ministry
-   Score: 0.333: LOCATION: UFOs
-   Score: 1.258: ORGANIZATION: Ministry of Defence
-   Score: 1.089: LOCATION: United Kingdom
-   Score: 0.738: LOCATION: UFOs

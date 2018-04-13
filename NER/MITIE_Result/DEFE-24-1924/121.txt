@@ -1,9 +1,0 @@
-   Score: 0.557: PERSON: C.J. Act
-   Score: 0.595: ORGANIZATION: NLC
-   Score: 0.525: PERSON: Datedthe
-   Score: 0.265: PERSON: Cowpliffe
-   Score: 0.215: ORGANIZATION: Huddersfield
-   Score: 0.816: LOCATION: Huddersfield Town Centre
-   Score: 0.520: PERSON: Castle Hill
-   Score: 0.775: LOCATION: South
-   Score: 0.152: ORGANIZATION: Teiephone

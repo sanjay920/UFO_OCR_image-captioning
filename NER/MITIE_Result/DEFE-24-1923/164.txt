@@ -1,9 +1,0 @@
-   Score: 0.596: MISC: S A
-   Score: 0.639: PERSON: C.
-   Score: 0.566: ORGANIZATION: NON Ascii text
-   Score: 0.221: ORGANIZATION: NON Ascii text
-   Score: 0.776: PERSON: NON Ascii text
-   Score: 0.457: ORGANIZATION: LE
-   Score: 0.138: MISC: NON Ascii text
-   Score: 0.558: ORGANIZATION: Flrgr/Fp
-   Score: 0.369: PERSON: {Kirwhv

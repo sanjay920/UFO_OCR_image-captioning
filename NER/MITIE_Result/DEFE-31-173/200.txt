@@ -1,7 +1,0 @@
-   Score: 0.283: ORGANIZATION: Areal
-   Score: 0.798: ORGANIZATION: Checked MWWOW _Section
-   Score: 0.479: ORGANIZATION: NON Ascii text
-   Score: 0.524: LOCATION: North
-   Score: 0.782: PERSON: dan 'ghxemlm
-   Score: 0.354: ORGANIZATION: NON Ascii text
-   Score: 0.290: LOCATION: UNCLASSIFIED

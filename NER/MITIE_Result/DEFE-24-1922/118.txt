@@ -1,6 +1,0 @@
-   Score: 0.604: PERSON: K.
-   Score: 0.529: PERSON: marsh
-   Score: 0.448: ORGANIZATION: ML
-   Score: 0.678: ORGANIZATION: mad {am
-   Score: 0.239: PERSON: Man
-   Score: 0.904: ORGANIZATION: RAF File

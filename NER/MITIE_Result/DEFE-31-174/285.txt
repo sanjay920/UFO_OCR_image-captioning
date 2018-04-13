@@ -1,8 +1,0 @@
-   Score: 0.434: ORGANIZATION: NON Ascii text
-   Score: 0.739: ORGANIZATION: GQQ
-   Score: 0.319: ORGANIZATION: NON Ascii text
-   Score: 1.171: PERSON: Angle
-   Score: 0.495: PERSON: Norma
-   Score: 0.469: ORGANIZATION: Commo
-   Score: 0.617: PERSON: NON Ascii text
-   Score: 1.371: ORGANIZATION: Rank

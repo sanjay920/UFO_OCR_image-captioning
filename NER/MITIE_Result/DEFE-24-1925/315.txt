@@ -1,2 +1,0 @@
-   Score: 0.669: PERSON: Z.
-   Score: 0.164: ORGANIZATION: NON Ascii text

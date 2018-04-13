@@ -1,9 +1,0 @@
-   Score: 0.611: ORGANIZATION: NON Ascii text
-   Score: 0.369: PERSON: OBSERVER
-   Score: 0.303: PERSON: Locatfon
-   Score: 0.534: ORGANIZATION: QQVM
-   Score: 0.193: MISC: NON Ascii text
-   Score: 0.292: LOCATION: NON Ascii text
-   Score: 0.485: PERSON: G. DISTANCE
-   Score: 0.149: PERSON: NON Ascii text
-   Score: 0.644: PERSON: J.

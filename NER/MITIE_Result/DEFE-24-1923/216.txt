@@ -1,2 +1,0 @@
-   Score: 0.643: ORGANIZATION: O
-   Score: 0.507: ORGANIZATION: n _.m

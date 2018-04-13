@@ -1,8 +1,0 @@
-   Score: 0.638: PERSON: L. To
-   Score: 0.276: MISC: M. Name
-   Score: 0.825: PERSON: P. Date
-   Score: 0.754: ORGANIZATION: Time of Receipt
-   Score: 0.569: ORGANIZATION: Unusual Meteorological Nil
-   Score: 0.542: ORGANIZATION: AS
-   Score: 1.078: ORGANIZATION: AEW/GE DI
-   Score: 0.538: ORGANIZATION: File AF

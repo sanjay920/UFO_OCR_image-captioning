@@ -1,6 +1,0 @@
-   Score: 0.420: PERSON: COM/wow
-   Score: 0.432: ORGANIZATION: NON Ascii text
-   Score: 0.234: LOCATION: 6
-   Score: 0.187: PERSON: NON Ascii text
-   Score: 0.342: PERSON: NON Ascii text
-   Score: 0.542: ORGANIZATION: IIF

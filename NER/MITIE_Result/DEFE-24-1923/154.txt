@@ -1,7 +1,0 @@
-   Score: 0.821: PERSON: L. To
-   Score: 0.420: ORGANIZATION: CM
-   Score: 0.389: PERSON: M. Name
-   Score: 0.405: PERSON: Witnesses P. Date
-   Score: 0.541: ORGANIZATION: AS
-   Score: 1.099: ORGANIZATION: AEW/GE DI
-   Score: 0.348: MISC: AF Ops

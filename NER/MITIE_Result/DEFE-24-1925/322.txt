@@ -1,6 +1,0 @@
-   Score: 0.575: PERSON: NON Ascii text
-   Score: 0.374: PERSON: Jo "
-   Score: 0.227: MISC: NON Ascii text
-   Score: 0.451: MISC: MMHRCILM
-   Score: 0.179: PERSON: V. \
-   Score: 0.420: ORGANIZATION: JUW

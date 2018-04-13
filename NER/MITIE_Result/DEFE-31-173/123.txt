@@ -1,9 +1,0 @@
-   Score: 0.634: PERSON: HumSer
-   Score: 0.405: ORGANIZATION: Orange
-   Score: 0.592: LOCATION: West
-   Score: 0.314: LOCATION: Tomintoul
-   Score: 0.414: LOCATION: North West
-   Score: 0.749: LOCATION: Grantown
-   Score: 0.432: LOCATION: Spey
-   Score: 0.292: LOCATION: EstIEEted Heights
-   Score: 0.551: LOCATION: E

@@ -1,3 +1,0 @@
-   Score: 0.999: PERSON: o X
-   Score: 0.248: PERSON: NON Ascii text
-   Score: 0.704: PERSON: A.

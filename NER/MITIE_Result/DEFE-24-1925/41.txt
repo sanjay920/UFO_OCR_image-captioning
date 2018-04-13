@@ -1,5 +1,0 @@
-   Score: 0.301: PERSON: NON Ascii text
-   Score: 1.103: PERSON: NON Ascii text
-   Score: 0.373: PERSON: NON Ascii text
-   Score: 0.395: PERSON: NON Ascii text
-   Score: 0.666: PERSON: M. X

@@ -1,9 +1,0 @@
-   Score: 0.956: PERSON: Dunn
-   Score: 0.592: PERSON: NumSer
-   Score: 0.797: PERSON: Ion
-   Score: 0.329: LOCATION: , Indoors
-   Score: 0.494: ORGANIZATION: Aldershot
-   Score: 0.271: LOCATION: NON Ascii text
-   Score: 0.227: ORGANIZATION: NON Ascii text
-   Score: 0.443: ORGANIZATION: MOVEMENTS
-   Score: 0.314: PERSON: cEanges in E F

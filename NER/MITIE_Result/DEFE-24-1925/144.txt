@@ -1,4 +1,0 @@
-   Score: 0.549: PERSON: J.
-   Score: 0.454: PERSON: K. Meteorological
-   Score: 0.304: ORGANIZATION: Telephone
-   Score: 0.769: PERSON: H. P. To

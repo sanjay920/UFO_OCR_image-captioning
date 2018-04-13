@@ -1,2 +1,0 @@
-   Score: 0.474: PERSON: SEu
-   Score: 0.725: ORGANIZATION: AEH/GE

@@ -1,8 +1,0 @@
-   Score: 0.484: PERSON: C.J. Act
-   Score: 0.263: PERSON: NON Ascii text
-   Score: 0.599: PERSON: Datedthe
-   Score: 0.664: LOCATION: Edgiilare
-   Score: 0.307: ORGANIZATION: Police Station
-   Score: 0.159: ORGANIZATION: Stanmore
-   Score: 0.416: ORGANIZATION: Miss Section
-   Score: 1.188: PERSON: she

@@ -1,9 +1,0 @@
-   Score: 0.451: MISC: NON Ascii text
-   Score: 0.199: PERSON: E. Direction
-   Score: 0.479: PERSON: G. Distance
-   Score: 0.309: PERSON: NON Ascii text
-   Score: 0.445: PERSON: M. Name
-   Score: 0.381: PERSON: N. Anly
-   Score: 0.717: PERSON: NON Ascii text
-   Score: 0.641: PERSON: Nu
-   Score: 0.415: ORGANIZATION: NC

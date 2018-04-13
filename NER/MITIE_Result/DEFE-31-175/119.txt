@@ -1,7 +1,0 @@
-   Score: 0.348: ORGANIZATION: NON Ascii text
-   Score: 0.522: PERSON: Lo
-   Score: 0.483: PERSON: Scc
-   Score: 0.467: ORGANIZATION: AS
-   Score: 0.358: ORGANIZATION: NON Ascii text
-   Score: 0.376: ORGANIZATION: NON Ascii text
-   Score: 0.170: MISC: Lou-A

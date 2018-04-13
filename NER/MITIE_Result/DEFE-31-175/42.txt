@@ -1,5 +1,0 @@
-   Score: 0.239: ORGANIZATION: Sighting 20W
-   Score: 0.474: LOCATION: Mar
-   Score: 0.139: LOCATION: RzAmncduaan
-   Score: 0.416: ORGANIZATION: Angle of Sight
-   Score: 0.411: PERSON: marsh

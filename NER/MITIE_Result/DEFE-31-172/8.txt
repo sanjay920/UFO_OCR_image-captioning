@@ -1,4 +1,0 @@
-   Score: 0.224: PERSON: COSCWd
-   Score: 0.831: ORGANIZATION: RAF
-   Score: 0.698: PERSON: ma Puma
-   Score: 0.200: ORGANIZATION: NON Ascii text

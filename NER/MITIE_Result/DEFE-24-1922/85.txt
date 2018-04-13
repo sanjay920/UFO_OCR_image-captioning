@@ -1,9 +1,0 @@
-   Score: 0.515: LOCATION: NON Ascii text
-   Score: 0.632: ORGANIZATION: Da
-   Score: 0.254: MISC: 83
-   Score: 0.551: PERSON: htin Loca
-   Score: 1.112: ORGANIZATION: Ltv JCM AU
-   Score: 0.551: ORGANIZATION: VA
-   Score: 0.596: ORGANIZATION: LCQC
-   Score: 0.539: PERSON: NON Ascii text
-   Score: 0.456: ORGANIZATION: Pl NE

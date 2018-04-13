@@ -1,8 +1,0 @@
-   Score: 0.426: LOCATION: UFOs
-   Score: 1.107: ORGANIZATION: CIA
-   Score: 0.282: LOCATION: UFOs
-   Score: 0.842: ORGANIZATION: House
-   Score: 0.215: LOCATION: UFOs
-   Score: 1.177: LOCATION: South America
-   Score: 0.155: MISC: Becauseihese
-   Score: 0.478: PERSON: mind/full mind/Mana

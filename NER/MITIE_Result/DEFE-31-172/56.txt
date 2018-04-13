@@ -1,8 +1,0 @@
-   Score: 0.411: PERSON: marsh
-   Score: 0.747: ORGANIZATION: Isle of Sheppey Police
-   Score: 0.577: PERSON: passed~reoort Lo Flt
-   Score: 0.848: ORGANIZATION: GE
-   Score: 0.832: ORGANIZATION: RAF
-   Score: 0.769: ORGANIZATION: RAF
-   Score: 0.723: ORGANIZATION: File ' ' RmSection
-   Score: 0.475: ORGANIZATION: ~Main Bldg Main Bldg Netropole

@@ -1,8 +1,0 @@
-   Score: 0.782: LOCATION: NEW SCOTLAND
-   Score: 0.321: LOCATION: LONDOR
-   Score: 0.617: LOCATION: NJ
-   Score: 0.269: MISC: u K._..-____
-   Score: 0.325: PERSON: NON Ascii text
-   Score: 0.870: PERSON: Mu
-   Score: 1.193: PERSON: Li
-   Score: 0.152: PERSON: JzJE

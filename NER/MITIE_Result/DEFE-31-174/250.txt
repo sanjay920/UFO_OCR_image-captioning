@@ -1,5 +1,0 @@
-   Score: 0.699: MISC: WP-9v
-   Score: 0.647: PERSON: NON Ascii text
-   Score: 0.504: ORGANIZATION: NON Ascii text
-   Score: 0.499: PERSON: NON Ascii text
-   Score: 0.463: ORGANIZATION: NON Ascii text

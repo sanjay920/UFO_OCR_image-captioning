@@ -1,3 +1,0 @@
-   Score: 0.295: PERSON: Tavuawy
-   Score: 1.186: PERSON: Li
-   Score: 0.828: PERSON: L.

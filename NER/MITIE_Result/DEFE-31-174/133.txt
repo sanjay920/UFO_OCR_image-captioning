@@ -1,8 +1,0 @@
-   Score: 0.372: PERSON: M
-   Score: 0.596: ORGANIZATION: IE
-   Score: 0.726: ORGANIZATION: NON Ascii text
-   Score: 0.441: MISC: NON Ascii text
-   Score: 0.673: PERSON: NON Ascii text
-   Score: 0.638: PERSON: t. C.
-   Score: 0.433: PERSON: ~_
-   Score: 0.603: ORGANIZATION: NON Ascii text

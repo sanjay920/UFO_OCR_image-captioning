@@ -1,9 +1,0 @@
-   Score: 0.499: ORGANIZATION: GUARDROOM
-   Score: 0.654: ORGANIZATION: RAF
-   Score: 0.302: PERSON: M. Name
-   Score: 0.670: ORGANIZATION: Time of Receipt
-   Score: 0.781: ORGANIZATION: pngsual Meteorological NIL
-   Score: 0.358: PERSON: SeC
-   Score: 0.585: ORGANIZATION: AS
-   Score: 0.803: ORGANIZATION: AEW/GE
-   Score: 0.320: MISC: AF Ops

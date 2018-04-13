@@ -1,8 +1,0 @@
-   Score: 0.367: PERSON: 3mg
-   Score: 0.304: PERSON: Mfg
-   Score: 0.737: PERSON: NON Ascii text
-   Score: 0.353: PERSON: NON Ascii text
-   Score: 0.448: ORGANIZATION: AWE
-   Score: 0.403: LOCATION: IA
-   Score: 0.516: ORGANIZATION: NON Ascii text
-   Score: 0.389: PERSON: NON Ascii text

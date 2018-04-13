@@ -1,4 +1,0 @@
-   Score: 0.305: PERSON: SWLCa
-   Score: 0.895: ORGANIZATION: Press Office Section
-   Score: 1.345: ORGANIZATION: Ministry of Defence Main Building
-   Score: 0.250: LOCATION: Whitehall LONDON SWlA

@@ -1,5 +1,0 @@
-   Score: 0.553: MISC: NE A
-   Score: 1.087: LOCATION: Benin
-   Score: 0.489: MISC: NON Ascii text
-   Score: 0.543: PERSON: >r
-   Score: 0.418: ORGANIZATION: NON Ascii text

@@ -1,6 +1,0 @@
-   Score: 0.888: ORGANIZATION: NON Ascii text
-   Score: 0.260: PERSON: LJu
-   Score: 0.606: PERSON: {a
-   Score: 0.676: ORGANIZATION: n b
-   Score: 0.416: ORGANIZATION: PD
-   Score: 1.043: ORGANIZATION: MU

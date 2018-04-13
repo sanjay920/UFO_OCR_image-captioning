@@ -1,6 +1,0 @@
-   Score: 0.649: LOCATION: MI
-   Score: 0.497: PERSON: Nhharnv
-   Score: 0.581: ORGANIZATION: mm 4...
-   Score: 0.792: PERSON: NON Ascii text
-   Score: 0.813: PERSON: NON Ascii text
-   Score: 0.820: ORGANIZATION: WWW

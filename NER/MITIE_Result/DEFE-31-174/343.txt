@@ -1,8 +1,0 @@
-   Score: 0.505: ORGANIZATION: GUARDROOM
-   Score: 0.737: ORGANIZATION: RAF
-   Score: 0.627: ORGANIZATION: Unusual Meteorological
-   Score: 0.858: ORGANIZATION: N IL
-   Score: 0.546: ORGANIZATION: AS
-   Score: 1.096: ORGANIZATION: AEW/GE DI
-   Score: 0.465: MISC: Duty Operations
-   Score: 0.339: MISC: AF Ops

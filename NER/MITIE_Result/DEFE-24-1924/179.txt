@@ -1,7 +1,0 @@
-   Score: 1.051: PERSON: Wu
-   Score: 0.699: ORGANIZATION: ADOO
-   Score: 0.312: MISC: AF Ops M. Name
-   Score: 0.804: PERSON: P. Date
-   Score: 0.514: ORGANIZATION: AS
-   Score: 1.050: ORGANIZATION: AEW/GE DI
-   Score: 0.508: ORGANIZATION: File AF

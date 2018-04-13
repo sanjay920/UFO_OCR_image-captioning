@@ -1,7 +1,0 @@
-   Score: 1.072: PERSON: Spires
-   Score: 0.203: PERSON: Moxu
-   Score: 0.403: PERSON: NON Ascii text
-   Score: 0.352: ORGANIZATION: {Police
-   Score: 0.733: ORGANIZATION: NON Ascii text
-   Score: 0.685: LOCATION: Nome
-   Score: 0.449: ORGANIZATION: Witnezo05~

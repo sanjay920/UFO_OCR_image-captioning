@@ -1,3 +1,0 @@
-   Score: 0.308: ORGANIZATION: Lord Trefgarne
-   Score: 0.270: LOCATION: NON Ascii text
-   Score: 0.603: ORGANIZATION: DS

@@ -1,8 +1,0 @@
-   Score: 0.406: PERSON: NON Ascii text
-   Score: 0.566: PERSON: NON Ascii text
-   Score: 0.381: PERSON: Tick
-   Score: 0.618: ORGANIZATION: II/A Jet
-   Score: 0.362: LOCATION: NON Ascii text
-   Score: 1.161: ORGANIZATION: NON Ascii text
-   Score: 1.004: ORGANIZATION: NON Ascii text
-   Score: 0.341: PERSON: NON Ascii text

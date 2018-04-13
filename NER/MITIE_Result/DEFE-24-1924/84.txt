@@ -1,6 +1,0 @@
-   Score: 0.259: ORGANIZATION: Round
-   Score: 0.350: PERSON: White/orange
-   Score: 0.508: PERSON: Dobbs Weir
-   Score: 0.676: ORGANIZATION: NW Angle of Sight
-   Score: 0.282: ORGANIZATION: NNW
-   Score: 0.489: PERSON: marsh

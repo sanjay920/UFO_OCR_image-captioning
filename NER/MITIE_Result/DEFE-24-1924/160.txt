@@ -1,5 +1,0 @@
-   Score: 0.386: PERSON: ~u
-   Score: 0.357: PERSON: MMummw
-   Score: 0.410: PERSON: NON Ascii text
-   Score: 0.721: ORGANIZATION: MAMA
-   Score: 0.287: PERSON: NON Ascii text

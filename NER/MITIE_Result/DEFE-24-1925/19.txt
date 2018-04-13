@@ -1,6 +1,0 @@
-   Score: 0.862: PERSON: NON Ascii text
-   Score: 0.200: PERSON: Elgidla
-   Score: 1.174: PERSON: Wu
-   Score: 0.679: PERSON: W}
-   Score: 0.795: ORGANIZATION: J&J
-   Score: 0.269: PERSON: NON Ascii text

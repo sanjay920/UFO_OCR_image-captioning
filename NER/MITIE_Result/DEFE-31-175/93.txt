@@ -1,3 +1,0 @@
-   Score: 0.467: ORGANIZATION: AS
-   Score: 0.573: ORGANIZATION: ASH/GE DI
-   Score: 0.774: ORGANIZATION: File AF Ops/Z/S/I

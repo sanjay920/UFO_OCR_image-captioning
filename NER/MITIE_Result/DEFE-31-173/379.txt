@@ -1,4 +1,0 @@
-   Score: 0.601: ORGANIZATION: Elgin
-   Score: 0.336: LOCATION: Bishopsmill
-   Score: 0.594: LOCATION: Heights
-   Score: 0.291: PERSON: NON Ascii text

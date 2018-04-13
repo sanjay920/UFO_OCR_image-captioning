@@ -1,9 +1,0 @@
-   Score: 1.111: ORGANIZATION: AMI
-   Score: 0.808: ORGANIZATION: NON Ascii text
-   Score: 0.736: ORGANIZATION: HAN
-   Score: 0.707: PERSON: Cami
-   Score: 0.703: ORGANIZATION: AA
-   Score: 0.942: ORGANIZATION: AMP
-   Score: 0.264: ORGANIZATION: NON Ascii text
-   Score: 0.481: PERSON: Au
-   Score: 0.537: ORGANIZATION: NON Ascii text

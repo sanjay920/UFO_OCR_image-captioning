@@ -1,4 +1,0 @@
-   Score: 0.497: PERSON: D.
-   Score: 0.744: ORGANIZATION: mm ,
-   Score: 0.500: PERSON: J.
-   Score: 0.174: ORGANIZATION: DEFENCE

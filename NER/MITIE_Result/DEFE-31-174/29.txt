@@ -1,4 +1,0 @@
-   Score: 1.138: ORGANIZATION: Aberdeen Police M. Name
-   Score: 0.424: PERSON: Witnesses Ibne P. Date
-   Score: 0.523: ORGANIZATION: AS
-   Score: 1.078: ORGANIZATION: AEW/GE DI

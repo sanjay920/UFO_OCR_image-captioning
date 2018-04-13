@@ -1,7 +1,0 @@
-   Score: 0.444: MISC: NON Ascii text
-   Score: 0.420: MISC: NON Ascii text
-   Score: 0.375: PERSON: NON Ascii text
-   Score: 0.670: PERSON: NON Ascii text
-   Score: 0.377: PERSON: w/rjn
-   Score: 0.226: PERSON: Sgiiga
-   Score: 0.238: PERSON: NON Ascii text

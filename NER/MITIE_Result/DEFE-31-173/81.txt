@@ -1,8 +1,0 @@
-   Score: 0.400: PERSON: marsh
-   Score: 0.923: ORGANIZATION: GE
-   Score: 0.863: ORGANIZATION: RAF
-   Score: 0.636: ORGANIZATION: Rm Section
-   Score: 1.198: ORGANIZATION: Main Bldg Main Bldg Section
-   Score: 0.902: ORGANIZATION: RAF
-   Score: 0.303: ORGANIZATION: RmSection
-   Score: 0.588: ORGANIZATION: Metropole File

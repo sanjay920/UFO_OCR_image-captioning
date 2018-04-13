@@ -1,3 +1,0 @@
-   Score: 0.950: PERSON: O
-   Score: 0.640: PERSON: O
-   Score: 0.620: PERSON: O

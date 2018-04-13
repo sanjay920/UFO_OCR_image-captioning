@@ -1,2 +1,0 @@
-   Score: 0.582: ORGANIZATION: CAR
-   Score: 0.804: ORGANIZATION: NON Ascii text

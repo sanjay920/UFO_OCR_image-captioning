@@ -1,7 +1,0 @@
-   Score: 0.552: ORGANIZATION: NON Ascii text
-   Score: 0.408: ORGANIZATION: BOW
-   Score: 0.700: PERSON: n. ng
-   Score: 0.335: PERSON: Mole
-   Score: 0.553: ORGANIZATION: NON Ascii text
-   Score: 0.837: PERSON: Pam
-   Score: 0.406: ORGANIZATION: Liam Military Organisation

@@ -1,5 +1,0 @@
-   Score: 0.269: ORGANIZATION: The Craft
-   Score: 0.379: LOCATION: UFOs
-   Score: 0.132: PERSON: Portholes
-   Score: 0.529: PERSON: NON Ascii text
-   Score: 0.261: MISC: Eurggse

@@ -1,5 +1,0 @@
-   Score: 0.401: LOCATION: Observer Location
-   Score: 0.629: ORGANIZATION: Angle of Sight
-   Score: 0.300: ORGANIZATION: elevatlon Distance
-   Score: 0.433: MISC: Clear
-   Score: 0.411: PERSON: marsh

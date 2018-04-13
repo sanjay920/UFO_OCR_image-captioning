@@ -1,5 +1,0 @@
-   Score: 0.411: PERSON: {i
-   Score: 0.472: LOCATION: Observer Location
-   Score: 0.751: ORGANIZATION: Swindon Angle of Sight
-   Score: 0.641: ORGANIZATION: Met
-   Score: 0.411: PERSON: marsh

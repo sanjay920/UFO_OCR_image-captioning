@@ -1,7 +1,0 @@
-   Score: 0.381: ORGANIZATION: RAF Boulmer
-   Score: 0.888: ORGANIZATION: Night Security Guard
-   Score: 0.563: ORGANIZATION: Ang Unusual Meteorological
-   Score: 0.298: MISC: Duty Ops
-   Score: 0.524: ORGANIZATION: AS
-   Score: 1.076: ORGANIZATION: AEw/GE DI
-   Score: 0.342: ORGANIZATION: AF Ups/ZIS/l

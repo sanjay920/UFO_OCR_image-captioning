@@ -1,6 +1,0 @@
-   Score: 0.602: ORGANIZATION: Painter & Decorator
-   Score: 0.815: ORGANIZATION: Unusual Meteorological
-   Score: 0.477: ORGANIZATION: Sqn Ldr
-   Score: 0.454: PERSON: Dutg Ops
-   Score: 0.515: ORGANIZATION: AS
-   Score: 1.039: ORGANIZATION: AER/GE DI

@@ -1,7 +1,0 @@
-   Score: 0.393: PERSON: marsh
-   Score: 0.211: ORGANIZATION: IactOriies
-   Score: 1.467: LOCATION: NW
-   Score: 0.508: PERSON: MN_____
-   Score: 0.485: MISC: NON Ascii text
-   Score: 0.810: ORGANIZATION: RAF
-   Score: 0.848: ORGANIZATION: RAF

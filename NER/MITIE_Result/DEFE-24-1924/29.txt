@@ -1,4 +1,0 @@
-   Score: 0.867: ORGANIZATION: Civil Aviation Authority Control Tower
-   Score: 1.135: LOCATION: Gatwick Airport
-   Score: 0.482: LOCATION: West Sussex
-   Score: 0.489: ORGANIZATION: OLD Telephone

@@ -1,8 +1,0 @@
-   Score: 0.372: PERSON: White Light
-   Score: 0.210: MISC: White
-   Score: 1.024: LOCATION: East
-   Score: 0.379: ORGANIZATION: Angle of Sight
-   Score: 0.591: PERSON: Bu
-   Score: 0.982: ORGANIZATION: Newcastle
-   Score: 0.340: PERSON: marsh
-   Score: 0.340: LOCATION: Floodlights

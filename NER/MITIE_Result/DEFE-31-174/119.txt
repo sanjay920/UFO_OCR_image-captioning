@@ -1,8 +1,0 @@
-   Score: 0.585: PERSON: w.mu
-   Score: 0.421: PERSON: Hanm
-   Score: 0.531: PERSON: \.Mu
-   Score: 0.407: PERSON: M_
-   Score: 0.841: PERSON: Cai
-   Score: 0.775: PERSON: J.
-   Score: 0.233: PERSON: M...L.H..
-   Score: 0.677: PERSON: M.

@@ -1,4 +1,0 @@
-   Score: 0.293: ORGANIZATION: MEMORANDUM
-   Score: 0.516: PERSON: {La J
-   Score: 0.399: PERSON: NON Ascii text
-   Score: 0.861: PERSON: Block Lett

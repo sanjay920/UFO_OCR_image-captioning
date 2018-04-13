@@ -1,8 +1,0 @@
-   Score: 0.839: PERSON: NON Ascii text
-   Score: 0.128: ORGANIZATION: WKCKQML
-   Score: 0.232: LOCATION: Geographical location . Indoors
-   Score: 0.919: PERSON: F. Angle
-   Score: 0.468: PERSON: G. Distance
-   Score: 0.400: PERSON: H. Movements
-   Score: 0.342: PERSON: F
-   Score: 0.260: MISC: A/

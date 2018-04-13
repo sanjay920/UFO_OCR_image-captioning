@@ -1,9 +1,0 @@
-   Score: 0.481: LOCATION: Observer Location
-   Score: 0.341: LOCATION: Edgevare
-   Score: 0.250: LOCATION: Eierxiori
-   Score: 0.549: ORGANIZATION: Angle of Sight
-   Score: 0.580: MISC: E ( Z /
-   Score: 0.411: PERSON: marsh
-   Score: 0.288: ORGANIZATION: Lom
-   Score: 0.427: PERSON: NON Ascii text
-   Score: 0.540: PERSON: D O

@@ -1,6 +1,0 @@
-   Score: 0.275: PERSON: Polioe
-   Score: 0.403: ORGANIZATION: Milton Keynes
-   Score: 0.892: PERSON: Buck
-   Score: 0.737: LOCATION: UFOs
-   Score: 0.972: ORGANIZATION: AER/GE DI
-   Score: 0.492: MISC: NON Ascii text

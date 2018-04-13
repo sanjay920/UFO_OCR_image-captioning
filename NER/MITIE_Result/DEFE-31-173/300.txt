@@ -1,5 +1,0 @@
-   Score: 0.200: ORGANIZATION: $31.qu l. 29
-   Score: 0.618: ORGANIZATION: NON Ascii text
-   Score: 0.398: LOCATION: Charing Road
-   Score: 0.439: LOCATION: Hothfield
-   Score: 0.152: ORGANIZATION: Hothfield Angle of Sight

@@ -1,6 +1,0 @@
-   Score: 0.464: ORGANIZATION: NON Ascii text
-   Score: 0.582: ORGANIZATION: iuzzn Air
-   Score: 0.423: PERSON: Ia
-   Score: 0.244: PERSON: lufnnnntinu Act
-   Score: 0.407: PERSON: Jada
-   Score: 0.582: PERSON: NON Ascii text

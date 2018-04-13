@@ -1,4 +1,0 @@
-   Score: 0.384: PERSON: Wmmwwwwwxmwzwwmmg
-   Score: 0.651: ORGANIZATION: CAU
-   Score: 1.002: ORGANIZATION: NON Ascii text
-   Score: 0.362: PERSON: NON Ascii text

@@ -1,7 +1,0 @@
-   Score: 1.105: ORGANIZATION: ATC Watch
-   Score: 1.359: ORGANIZATION: OATCC National Air Traffic Service
-   Score: 0.490: LOCATION: Sherwood Road
-   Score: 0.401: PERSON: Prestwick
-   Score: 0.344: ORGANIZATION: Ayghire
-   Score: 0.836: ORGANIZATION: Civil A viation Aumority
-   Score: 1.615: ORGANIZATION: Ministry of Defence Service

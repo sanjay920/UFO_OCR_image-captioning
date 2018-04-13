@@ -1,5 +1,0 @@
-   Score: 0.221: ORGANIZATION: CIRCULATION
-   Score: 0.511: ORGANIZATION: CQAA
-   Score: 0.308: PERSON: NON Ascii text
-   Score: 0.395: MISC: WA A
-   Score: 0.531: MISC: US

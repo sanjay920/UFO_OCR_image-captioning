@@ -1,4 +1,0 @@
-   Score: 0.422: PERSON: xftsz
-   Score: 0.506: ORGANIZATION: JX3C
-   Score: 0.302: MISC: F Angle of Sight
-   Score: 0.409: PERSON: marsh

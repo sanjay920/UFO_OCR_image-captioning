@@ -1,8 +1,0 @@
-   Score: 0.430: MISC: U.
-   Score: 0.915: ORGANIZATION: U2
-   Score: 0.774: PERSON: O
-   Score: 0.515: ORGANIZATION: 1
-   Score: 0.330: PERSON: U
-   Score: 0.673: PERSON: I. O
-   Score: 0.492: MISC: F :
-   Score: 0.335: ORGANIZATION: U

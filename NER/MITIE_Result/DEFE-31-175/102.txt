@@ -1,4 +1,0 @@
-   Score: 0.563: PERSON: Tina \
-   Score: 0.616: ORGANIZATION: Angle of Sight
-   Score: 0.190: PERSON: Telemhone
-   Score: 0.400: PERSON: marsh

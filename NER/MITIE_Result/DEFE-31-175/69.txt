@@ -1,8 +1,0 @@
-   Score: 0.803: ORGANIZATION: Hins Description of ObJect
-   Score: 0.421: ORGANIZATION: Cigar
-   Score: 0.262: ORGANIZATION: North Angle of Sight
-   Score: 0.929: ORGANIZATION: Approx
-   Score: 0.180: PERSON: Bg
-   Score: 0.524: ORGANIZATION: Clear Skq
-   Score: 0.340: PERSON: marsh
-   Score: 0.634: ORGANIZATION: Newcastle Airport

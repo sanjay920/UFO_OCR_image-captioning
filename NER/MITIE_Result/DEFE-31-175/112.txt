@@ -1,9 +1,0 @@
-   Score: 0.538: PERSON: Ader
-   Score: 0.294: PERSON: NON Ascii text
-   Score: 0.438: ORGANIZATION: NON Ascii text
-   Score: 0.615: ORGANIZATION: AU Rama
-   Score: 0.726: PERSON: Angle
-   Score: 0.455: ORGANIZATION: Movement of Object
-   Score: 0.524: MISC: A %Q
-   Score: 0.458: ORGANIZATION: GW
-   Score: 0.900: ORGANIZATION: Signet BLE

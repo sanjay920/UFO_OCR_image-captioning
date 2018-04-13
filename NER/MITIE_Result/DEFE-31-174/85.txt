@@ -1,5 +1,0 @@
-   Score: 0.430: ORGANIZATION: NON Ascii text
-   Score: 0.554: PERSON: H. HHKYT
-   Score: 0.567: ORGANIZATION: HEM
-   Score: 0.322: ORGANIZATION: U}FY
-   Score: 0.443: ORGANIZATION: NH

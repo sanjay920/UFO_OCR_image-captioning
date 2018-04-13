@@ -1,4 +1,0 @@
-   Score: 1.322: ORGANIZATION: Officer-in-Charie Military Barracks Knightsbridge Londcn S.E.l
-   Score: 1.341: LOCATION: Knightsbridge
-   Score: 0.442: LOCATION: your Barracks
-   Score: 0.436: LOCATION: which

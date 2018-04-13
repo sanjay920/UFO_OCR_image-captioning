@@ -1,2 +1,0 @@
-   Score: 0.533: PERSON: Iri
-   Score: 0.634: PERSON: Bi

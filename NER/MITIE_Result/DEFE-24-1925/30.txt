@@ -1,9 +1,0 @@
-   Score: 0.596: ORGANIZATION: Air Staff
-   Score: 0.344: ORGANIZATION: Room
-   Score: 0.718: LOCATION: Whitehall London
-   Score: 0.412: ORGANIZATION: SB/TB Ourraferonce
-   Score: 1.188: ORGANIZATION: Ministry of Defence
-   Score: 0.665: MISC: UFOs
-   Score: 0.561: MISC: Welsh
-   Score: 0.933: ORGANIZATION: Yorkshire
-   Score: 0.286: ORGANIZATION: Thames Valley/London

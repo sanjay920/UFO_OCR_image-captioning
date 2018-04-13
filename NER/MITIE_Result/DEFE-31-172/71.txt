@@ -1,9 +1,0 @@
-   Score: 0.698: ORGANIZATION: Duration of Sighting
-   Score: 1.246: ORGANIZATION: DEC
-   Score: 0.545: PERSON: o o ee
-   Score: 0.479: ORGANIZATION: DOME
-   Score: 0.167: LOCATION: NON Ascii text
-   Score: 0.403: ORGANIZATION: EeIghts
-   Score: 0.662: LOCATION: Ft
-   Score: 0.797: ORGANIZATION: MINS
-   Score: 0.409: ORGANIZATION: THEN

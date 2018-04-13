@@ -1,6 +1,0 @@
-   Score: 1.135: MISC: British
-   Score: 0.575: ORGANIZATION: Duty Desk
-   Score: 1.119: LOCATION: Whitehall
-   Score: 0.377: ORGANIZATION: MOD
-   Score: 0.287: ORGANIZATION: MOD
-   Score: 0.743: ORGANIZATION: RAF

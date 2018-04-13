@@ -1,5 +1,0 @@
-   Score: 0.639: PERSON: Lat
-   Score: 0.486: ORGANIZATION: NC
-   Score: 0.757: LOCATION: Ill
-   Score: 0.331: ORGANIZATION: UH
-   Score: 0.130: ORGANIZATION: NON Ascii text

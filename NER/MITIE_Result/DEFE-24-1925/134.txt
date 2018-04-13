@@ -1,7 +1,0 @@
-   Score: 0.405: MISC: NON Ascii text
-   Score: 0.743: PERSON: NON Ascii text
-   Score: 0.665: ORGANIZATION: Air Staff
-   Score: 1.791: ORGANIZATION: Roonrlllllll40 Ministry of Defence Main Building Whitehall SWlA
-   Score: 0.974: ORGANIZATION: MoD
-   Score: 0.948: ORGANIZATION: RAF
-   Score: 0.365: MISC: UFO

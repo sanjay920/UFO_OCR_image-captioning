@@ -1,7 +1,0 @@
-   Score: 0.398: ORGANIZATION: PSS/alS/L
-   Score: 0.306: PERSON: Cbrvdwhu
-   Score: 0.867: ORGANIZATION: United Kingdom Military Int
-   Score: 0.280: ORGANIZATION: Lav Flying Area
-   Score: 0.352: ORGANIZATION: LFA
-   Score: 0.551: LOCATION: BASE
-   Score: 0.417: ORGANIZATION: PKuSSUJK

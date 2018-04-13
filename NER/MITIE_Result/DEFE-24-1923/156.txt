@@ -1,2 +1,0 @@
-   Score: 0.573: PERSON: x. m n z
-   Score: 0.300: LOCATION: IA

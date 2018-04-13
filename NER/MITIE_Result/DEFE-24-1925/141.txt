@@ -1,6 +1,0 @@
-   Score: 0.554: ORGANIZATION: MINlSTRY OF DEFENCE Main Building Whiteha
-   Score: 0.332: LOCATION: London SW1A
-   Score: 0.341: PERSON: Ttlopho
-   Score: 0.351: ORGANIZATION: Direct Dialling
-   Score: 0.126: MISC: Switchboard
-   Score: 0.702: ORGANIZATION: RAF Fylingdales

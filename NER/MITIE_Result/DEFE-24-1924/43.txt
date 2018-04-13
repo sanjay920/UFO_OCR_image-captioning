@@ -1,3 +1,0 @@
-   Score: 0.278: MISC: L-\n
-   Score: 0.354: ORGANIZATION: NON Ascii text
-   Score: 0.654: ORGANIZATION: 2}

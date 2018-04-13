@@ -1,8 +1,0 @@
-   Score: 0.466: PERSON: Lo
-   Score: 0.245: ORGANIZATION: NON Ascii text
-   Score: 0.462: PERSON: NON Ascii text
-   Score: 0.908: PERSON: Angle
-   Score: 0.241: PERSON: NON Ascii text
-   Score: 0.263: ORGANIZATION: DistanCe
-   Score: 0.510: PERSON: H. Movements
-   Score: 0.342: PERSON: F

@@ -1,9 +1,0 @@
-   Score: 0.422: PERSON: Dalwhinnie
-   Score: 0.367: PERSON: Aviemore
-   Score: 0.374: PERSON: Dalwhinnie
-   Score: 0.603: ORGANIZATION: Inverness
-   Score: 1.223: LOCATION: Perth
-   Score: 0.334: LOCATION: Badenoch
-   Score: 0.227: PERSON: Strathspey
-   Score: 0.382: PERSON: Dalwhinnie
-   Score: 0.435: PERSON: Sectio

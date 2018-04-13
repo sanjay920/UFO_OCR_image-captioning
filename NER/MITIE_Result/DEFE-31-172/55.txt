@@ -1,8 +1,0 @@
-   Score: 0.800: PERSON: Nhnber
-   Score: 0.250: ORGANIZATION: NON Ascii text
-   Score: 0.291: PERSON: White
-   Score: 0.262: PERSON: NON Ascii text
-   Score: 0.457: LOCATION: Wardens Point
-   Score: 0.267: ORGANIZATION: Isle of Sheppey
-   Score: 0.213: LOCATION: Wardens Point
-   Score: 0.359: PERSON: F

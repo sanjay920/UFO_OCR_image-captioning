@@ -1,8 +1,0 @@
-   Score: 1.099: ORGANIZATION: Duration
-   Score: 0.397: ORGANIZATION: KbXai
-   Score: 0.104: ORGANIZATION: NON Ascii text
-   Score: 0.332: ORGANIZATION: DISTAKCE
-   Score: 0.298: PERSON: Sena
-   Score: 0.329: PERSON: F
-   Score: 0.607: ORGANIZATION: NON Ascii text
-   Score: 0.623: LOCATION: MA

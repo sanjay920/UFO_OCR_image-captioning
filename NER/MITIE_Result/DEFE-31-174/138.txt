@@ -1,2 +1,0 @@
-   Score: 0.937: ORGANIZATION: o o o o o
-   Score: 0.585: PERSON: o :

@@ -1,6 +1,0 @@
-   Score: 0.238: PERSON: NON Ascii text
-   Score: 0.303: PERSON: Ta -.h.v~
-   Score: 0.613: PERSON: L.
-   Score: 0.335: PERSON: NON Ascii text
-   Score: 0.291: PERSON: NON Ascii text
-   Score: 0.336: PERSON: NON Ascii text

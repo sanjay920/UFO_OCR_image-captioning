@@ -1,8 +1,0 @@
-   Score: 0.454: ORGANIZATION: RAF Woodbridge
-   Score: 0.627: ORGANIZATION: Alleged Incident
-   Score: 0.398: ORGANIZATION: NON Ascii text
-   Score: 0.568: PERSON: 111cSccrc111rv
-   Score: 0.425: ORGANIZATION: Dczcncc
-   Score: 0.756: ORGANIZATION: RAF
-   Score: 0.846: ORGANIZATION: United Kingdom;
-   Score: 0.318: PERSON: Conrad

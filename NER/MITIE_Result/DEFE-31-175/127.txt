@@ -1,5 +1,0 @@
-   Score: 0.441: ORGANIZATION: NW Scum WMBNDGE
-   Score: 0.288: ORGANIZATION: Angle
-   Score: 0.433: ORGANIZATION: Clear
-   Score: 0.340: PERSON: marsh
-   Score: 0.393: LOCATION: Floodlights

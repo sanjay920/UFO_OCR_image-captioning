@@ -1,4 +1,0 @@
-   Score: 0.438: PERSON: J. Meteorological
-   Score: 0.603: PERSON: K. Nearobz
-   Score: 0.303: ORGANIZATION: Telephone
-   Score: 0.123: PERSON: NON Ascii text

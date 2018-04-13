@@ -1,6 +1,0 @@
-   Score: 0.331: PERSON: Ck
-   Score: 0.306: ORGANIZATION: NON Ascii text
-   Score: 0.645: PERSON: NON Ascii text
-   Score: 0.498: ORGANIZATION: 1
-   Score: 0.515: PERSON: W.
-   Score: 0.655: PERSON: n H.

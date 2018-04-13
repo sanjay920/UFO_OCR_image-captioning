@@ -1,8 +1,0 @@
-   Score: 0.895: PERSON: NON Ascii text
-   Score: 0.279: PERSON: OBSERVER
-   Score: 0.347: MISC: NON Ascii text
-   Score: 0.239: PERSON: NON Ascii text
-   Score: 0.504: LOCATION: Estimated Heights
-   Score: 0.458: PERSON: F
-   Score: 0.280: LOCATION: ~landmark
-   Score: 0.341: PERSON: Chm

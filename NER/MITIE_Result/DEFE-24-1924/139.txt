@@ -1,6 +1,0 @@
-   Score: 0.786: ORGANIZATION: Ministry of Defence
-   Score: 0.336: MISC: Duty Controller
-   Score: 0.678: ORGANIZATION: Aeronautical Information Services
-   Score: 1.122: ORGANIZATION: RAF
-   Score: 0.335: LOCATION: West Drayton
-   Score: 1.426: ORGANIZATION: Huddersfield Division of this Force

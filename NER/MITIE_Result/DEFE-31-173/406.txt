@@ -1,4 +1,0 @@
-   Score: 0.459: PERSON: NON Ascii text
-   Score: 0.572: PERSON: Milite
-   Score: 0.739: PERSON: Jigixji
-   Score: 0.158: ORGANIZATION: NON Ascii text

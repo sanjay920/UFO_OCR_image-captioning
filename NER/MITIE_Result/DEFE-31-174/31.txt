@@ -1,6 +1,0 @@
-   Score: 0.360: ORGANIZATION: JJIIA
-   Score: 0.218: ORGANIZATION: NON Ascii text
-   Score: 0.530: PERSON: g A.
-   Score: 0.566: PERSON: NON Ascii text
-   Score: 0.162: LOCATION: J l. .
-   Score: 0.617: PERSON: P.

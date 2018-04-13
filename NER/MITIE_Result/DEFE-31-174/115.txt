@@ -1,4 +1,0 @@
-   Score: 1.032: ORGANIZATION: Norwich Norfolk NR1OSAJ Teiephone
-   Score: 0.357: PERSON: N0rwich
-   Score: 0.849: PERSON: Dye
-   Score: 0.224: ORGANIZATION: U\IIU

@@ -1,3 +1,0 @@
-   Score: 0.800: PERSON: Li G
-   Score: 0.324: PERSON: NON Ascii text
-   Score: 0.591: ORGANIZATION: M5}

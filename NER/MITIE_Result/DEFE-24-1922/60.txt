@@ -1,8 +1,0 @@
-   Score: 0.750: ORGANIZATION: BET
-   Score: 0.202: ORGANIZATION: Sighting
-   Score: 0.562: ORGANIZATION: NON Ascii text
-   Score: 0.441: ORGANIZATION: Object J4I
-   Score: 0.551: ORGANIZATION: Mia WILWJ Movements of Object
-   Score: 0.948: PERSON: Hoving
-   Score: 0.876: PERSON: J. lhom Re
-   Score: 0.169: LOCATION: YLsa

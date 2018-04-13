@@ -1,5 +1,0 @@
-   Score: 0.237: ORGANIZATION: Eta
-   Score: 0.723: ORGANIZATION: NON Ascii text
-   Score: 0.765: ORGANIZATION: RESTRICTED
-   Score: 0.182: PERSON: Witness;es
-   Score: 0.938: PERSON: P. Dat

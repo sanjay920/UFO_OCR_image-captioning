@@ -1,9 +1,0 @@
-   Score: 0.341: PERSON: im W/ng
-   Score: 0.612: PERSON: NON Ascii text
-   Score: 0.144: LOCATION: Mi/Ma
-   Score: 0.246: LOCATION: Geographical location . Indoors
-   Score: 0.297: PERSON: NON Ascii text
-   Score: 0.836: PERSON: Angle
-   Score: 0.274: PERSON: F
-   Score: 0.552: ORGANIZATION: m/m Meteorological
-   Score: 0.417: ORGANIZATION: SUH

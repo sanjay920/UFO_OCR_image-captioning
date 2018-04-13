@@ -1,8 +1,0 @@
-   Score: 0.309: ORGANIZATION: BC
-   Score: 0.366: MISC: F
-   Score: 0.528: PERSON: H. DOLLQR
-   Score: 0.419: LOCATION: BF
-   Score: 0.414: ORGANIZATION: TIHE
-   Score: 0.486: PERSON: P.
-   Score: 0.969: ORGANIZATION: BCT
-   Score: 0.351: ORGANIZATION: Joc/nrbo

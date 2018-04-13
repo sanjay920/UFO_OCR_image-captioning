@@ -1,3 +1,0 @@
-   Score: 0.476: PERSON: A.
-   Score: 0.623: LOCATION: OH
-   Score: 0.365: PERSON: CR5

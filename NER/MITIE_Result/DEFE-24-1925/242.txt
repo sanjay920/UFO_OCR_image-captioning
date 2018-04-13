@@ -1,5 +1,0 @@
-   Score: 0.371: PERSON: NON Ascii text
-   Score: 0.436: ORGANIZATION: \
-   Score: 0.302: PERSON: NON Ascii text
-   Score: 0.219: ORGANIZATION: NON Ascii text
-   Score: 0.354: ORGANIZATION: MMLQEOL

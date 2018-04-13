@@ -1,7 +1,0 @@
-   Score: 0.382: ORGANIZATION: ROYAL AIR FORCE Linton-on-Ouse York
-   Score: 0.555: ORGANIZATION: NON Ascii text
-   Score: 0.210: LOCATION: M
-   Score: 0.998: ORGANIZATION: NON Ascii text
-   Score: 0.278: PERSON: West Drayton
-   Score: 0.369: MISC: Dme UB7
-   Score: 0.976: ORGANIZATION: NON Ascii text

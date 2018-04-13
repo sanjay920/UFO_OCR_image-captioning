@@ -1,3 +1,0 @@
-   Score: 0.627: PERSON: l. q..
-   Score: 0.660: PERSON: NON Ascii text
-   Score: 0.928: PERSON: Irv

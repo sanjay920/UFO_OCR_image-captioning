@@ -1,8 +1,0 @@
-   Score: 1.779: ORGANIZATION: MOD Air Force Operations Name & Address
-   Score: 0.747: ORGANIZATION: InFormant Section
-   Score: 0.797: ORGANIZATION: HertFord Section
-   Score: 0.606: ORGANIZATION: Ang Unusual Meteorological
-   Score: 0.644: ORGANIZATION: AS
-   Score: 1.147: ORGANIZATION: AEw/GE DI
-   Score: 0.591: ORGANIZATION: / File AF
-   Score: 0.745: ORGANIZATION: NON Ascii text

@@ -1,6 +1,0 @@
-   Score: 0.415: PERSON: C.J. Act
-   Score: 0.655: PERSON: M.C. Rules
-   Score: 0.775: ORGANIZATION: Sky aoove
-   Score: 0.669: PERSON: Lvii
-   Score: 0.943: PERSON: W.
-   Score: 1.256: PERSON: dele

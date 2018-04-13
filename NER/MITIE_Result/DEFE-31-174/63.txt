@@ -1,9 +1,0 @@
-   Score: 0.422: ORGANIZATION: ObJect
-   Score: 0.926: ORGANIZATION: Stockwell
-   Score: 0.904: LOCATION: London
-   Score: 0.640: LOCATION: NE
-   Score: 0.689: ORGANIZATION: Stockwell Angle of Sight
-   Score: 1.154: LOCATION: NE
-   Score: 0.467: ORGANIZATION: Stockwell
-   Score: 0.340: PERSON: marsh
-   Score: 0.396: LOCATION: Floodlights

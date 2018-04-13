@@ -1,8 +1,0 @@
-   Score: 0.911: ORGANIZATION: _Fe 'b '
-   Score: 0.271: LOCATION: Orange
-   Score: 0.347: MISC: Vapour
-   Score: 0.318: ORGANIZATION: Derbysnire
-   Score: 0.976: LOCATION: NE
-   Score: 0.733: PERSON: Angle
-   Score: 0.419: LOCATION: HOpe valley
-   Score: 0.589: ORGANIZATION: speed Meteorological

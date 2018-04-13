@@ -1,8 +1,0 @@
-   Score: 1.037: ORGANIZATION: ROYAL AIR FORCE St Mawgan Newquay Cornwall
-   Score: 0.763: ORGANIZATION: NON Ascii text
-   Score: 0.223: ORGANIZATION: Ma in Building
-   Score: 0.720: PERSON: Gus
-   Score: 0.928: PERSON: Li
-   Score: 0.812: ORGANIZATION: PJFCIC KR/SR
-   Score: 0.526: ORGANIZATION: NON Ascii text
-   Score: 0.270: ORGANIZATION: PUFEIC

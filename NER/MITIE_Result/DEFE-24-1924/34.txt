@@ -1,8 +1,0 @@
-   Score: 0.899: ORGANIZATION: ATC Watch
-   Score: 0.800: ORGANIZATION: Sc & OATCC
-   Score: 1.256: ORGANIZATION: National Air Traffic Services Atlantic House
-   Score: 0.594: LOCATION: Sherwood Road
-   Score: 0.387: PERSON: Prestwick
-   Score: 0.490: ORGANIZATION: Ayr
-   Score: 1.108: ORGANIZATION: Civil A viation Authority
-   Score: 1.437: ORGANIZATION: Ministry of Defence Service

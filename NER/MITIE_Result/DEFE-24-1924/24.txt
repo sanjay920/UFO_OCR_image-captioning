@@ -1,6 +1,0 @@
-   Score: 0.442: PERSON: NON Ascii text
-   Score: 0.512: ORGANIZATION: NON Ascii text
-   Score: 0.842: ORGANIZATION: London Air Traffic Control Centre
-   Score: 0.310: MISC: Royal Air F
-   Score: 0.393: LOCATION: West Drayton
-   Score: 0.370: MISC: U West

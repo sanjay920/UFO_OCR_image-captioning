@@ -1,6 +1,0 @@
-   Score: 0.521: PERSON: NON Ascii text
-   Score: 0.702: ORGANIZATION: NON Ascii text
-   Score: 0.802: PERSON: NON Ascii text
-   Score: 0.633: PERSON: NON Ascii text
-   Score: 0.357: PERSON: Lg
-   Score: 0.597: ORGANIZATION: g 3%

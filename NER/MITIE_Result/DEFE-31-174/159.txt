@@ -1,5 +1,0 @@
-   Score: 0.871: PERSON: NON Ascii text
-   Score: 0.640: PERSON: O
-   Score: 0.637: ORGANIZATION: A.A r. L Alfuhkrlbl
-   Score: 0.382: MISC: Yu {I A
-   Score: 0.325: PERSON: NON Ascii text

@@ -1,5 +1,0 @@
-   Score: 0.627: ORGANIZATION: BLVOCULAFL
-   Score: 0.395: ORGANIZATION: Object from Observer
-   Score: 0.643: ORGANIZATION: UA
-   Score: 0.478: PERSON: H. Name
-   Score: 0.415: LOCATION: Receipt of Report

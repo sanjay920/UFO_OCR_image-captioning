@@ -1,9 +1,0 @@
-   Score: 0.481: PERSON: Certainty
-   Score: 0.719: ORGANIZATION: Sussex
-   Score: 1.086: PERSON: Bratton
-   Score: 0.554: ORGANIZATION: Hampshire
-   Score: 0.729: LOCATION: Andover
-   Score: 1.037: LOCATION: Wiltshire
-   Score: 0.520: MISC: UFO
-   Score: 0.866: PERSON: Jenny Rondles
-   Score: 0.618: ORGANIZATION: THE UNKNOWN

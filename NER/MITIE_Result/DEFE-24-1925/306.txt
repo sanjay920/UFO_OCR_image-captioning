@@ -1,5 +1,0 @@
-   Score: 0.218: LOCATION: y&pexa
-   Score: 0.884: ORGANIZATION: he Ministry
-   Score: 0.433: LOCATION: NON Ascii text
-   Score: 0.800: PERSON: $uffelk
-   Score: 0.671: LOCATION: U.S.A.F.

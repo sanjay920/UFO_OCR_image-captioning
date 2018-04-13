@@ -1,2 +1,0 @@
-   Score: 0.608: PERSON: Km Camus
-   Score: 0.912: PERSON: Lawson Sum

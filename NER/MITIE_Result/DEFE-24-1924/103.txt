@@ -1,6 +1,0 @@
-   Score: 0.581: PERSON: B. Descrigtion
-   Score: 0.440: LOCATION: Stationary
-   Score: 0.627: ORGANIZATION: NON Ascii text
-   Score: 0.107: ORGANIZATION: Objgngygs
-   Score: 0.943: ORGANIZATION: o m
-   Score: 0.638: PERSON: Ge Digggggg

@@ -1,8 +1,0 @@
-   Score: 0.793: ORGANIZATION: Newcastle Airport
-   Score: 1.065: ORGANIZATION: Newcastle
-   Score: 0.365: ORGANIZATION: Customs
-   Score: 0.585: ORGANIZATION: Ang Unusual Meteorological
-   Score: 0.349: ORGANIZATION: Ol
-   Score: 0.233: MISC: Sqn Ldr
-   Score: 0.489: MISC: Duty Ops
-   Score: 0.278: MISC: AF Ops

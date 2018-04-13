@@ -1,3 +1,0 @@
-   Score: 0.499: ORGANIZATION: ComElaint
-   Score: 0.645: ORGANIZATION: IQISIOiOCT
-   Score: 0.205: LOCATION: ~a

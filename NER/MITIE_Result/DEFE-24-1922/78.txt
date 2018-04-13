@@ -1,8 +1,0 @@
-   Score: 0.755: PERSON: A. ' Date
-   Score: 0.448: PERSON: Des
-   Score: 0.863: PERSON: C. Ezra
-   Score: 0.299: PERSON: NON Ascii text
-   Score: 0.496: PERSON: Siati
-   Score: 0.877: PERSON: Hal
-   Score: 0.739: PERSON: NON Ascii text
-   Score: 0.423: LOCATION: E

@@ -1,5 +1,0 @@
-   Score: 0.504: PERSON: B. Description
-   Score: 1.015: PERSON: F. Angle
-   Score: 0.511: PERSON: G. Distance
-   Score: 0.632: PERSON: E. Movements
-   Score: 0.347: PERSON: F

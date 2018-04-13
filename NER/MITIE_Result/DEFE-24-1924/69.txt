@@ -1,4 +1,0 @@
-   Score: 0.356: LOCATION: OH
-   Score: 0.512: ORGANIZATION: Imionnati on Services
-   Score: 0.344: PERSON: NON Ascii text
-   Score: 0.338: ORGANIZATION: NON Ascii text

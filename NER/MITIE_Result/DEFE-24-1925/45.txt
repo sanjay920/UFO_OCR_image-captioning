@@ -1,9 +1,0 @@
-   Score: 0.488: ORGANIZATION: Room
-   Score: 0.344: PERSON: NON Ascii text
-   Score: 1.176: ORGANIZATION: SC
-   Score: 0.817: PERSON: F.
-   Score: 0.534: PERSON: L.
-   Score: 0.917: PERSON: O
-   Score: 0.481: LOCATION: IA
-   Score: 0.733: ORGANIZATION: O
-   Score: 0.658: LOCATION: DC

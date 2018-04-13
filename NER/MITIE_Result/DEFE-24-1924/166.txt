@@ -1,5 +1,0 @@
-   Score: 0.283: PERSON: P4-y
-   Score: 1.101: ORGANIZATION: Air Force Operatiohs Date
-   Score: 0.547: ORGANIZATION: AS
-   Score: 1.048: LOCATION: UK
-   Score: 0.855: PERSON: P. Date

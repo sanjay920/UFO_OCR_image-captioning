@@ -1,8 +1,0 @@
-   Score: 0.463: PERSON: J. J. Meteorological
-   Score: 0.353: ORGANIZATION: CtC
-   Score: 0.373: PERSON: K.
-   Score: 0.264: ORGANIZATION: Telephone
-   Score: 0.696: PERSON: L. To
-   Score: 0.400: PERSON: M. Name
-   Score: 0.638: PERSON: P. Date
-   Score: 0.658: PERSON: _i

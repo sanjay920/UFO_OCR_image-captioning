@@ -1,5 +1,0 @@
-   Score: 0.698: PERSON: NON Ascii text
-   Score: 0.395: PERSON: NON Ascii text
-   Score: 0.837: LOCATION: MN
-   Score: 0.335: ORGANIZATION: NON Ascii text
-   Score: 0.304: PERSON: NON Ascii text

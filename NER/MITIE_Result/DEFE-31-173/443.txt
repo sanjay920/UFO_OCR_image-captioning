@@ -1,6 +1,0 @@
-   Score: 0.501: PERSON: Photostat
-   Score: 0.696: ORGANIZATION: Surrey
-   Score: 0.683: LOCATION: South Croydon
-   Score: 0.786: ORGANIZATION: Surrey
-   Score: 0.237: ORGANIZATION: NON Ascii text
-   Score: 0.380: ORGANIZATION: 3am

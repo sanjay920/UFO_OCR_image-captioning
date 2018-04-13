@@ -1,7 +1,0 @@
-   Score: 1.173: ORGANIZATION: o o o o o
-   Score: 0.688: ORGANIZATION: o o o o
-   Score: 1.297: ORGANIZATION: HQ
-   Score: 0.502: PERSON: J.
-   Score: 0.804: ORGANIZATION: O O
-   Score: 0.685: PERSON: O O
-   Score: 0.428: ORGANIZATION: O

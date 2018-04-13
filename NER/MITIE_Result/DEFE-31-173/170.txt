@@ -1,3 +1,0 @@
-   Score: 0.839: ORGANIZATION: GE
-   Score: 0.613: ORGANIZATION: RAF
-   Score: 0.797: ORGANIZATION: DI ' '

@@ -1,2 +1,0 @@
-   Score: 0.391: PERSON: Lady
-   Score: 1.030: ORGANIZATION: ATCO II

@@ -1,4 +1,0 @@
-   Score: 0.400: ORGANIZATION: EX
-   Score: 0.674: ORGANIZATION: NON Ascii text
-   Score: 0.479: ORGANIZATION: AS
-   Score: 0.990: ORGANIZATION: AEW/GE DI

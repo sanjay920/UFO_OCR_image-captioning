@@ -1,8 +1,0 @@
-   Score: 0.452: ORGANIZATION: NON Ascii text
-   Score: 1.113: ORGANIZATION: FUM
-   Score: 0.538: ORGANIZATION: NINt Bu
-   Score: 0.565: PERSON: Hhxi
-   Score: 0.666: ORGANIZATION: NON Ascii text
-   Score: 0.520: ORGANIZATION: NEH
-   Score: 0.665: ORGANIZATION: HUS
-   Score: 0.390: ORGANIZATION: U ULMQfN

@@ -1,8 +1,0 @@
-   Score: 0.111: PERSON: Medea
-   Score: 1.102: PERSON: Lana
-   Score: 0.242: PERSON: Jest Wmalztmggm
-   Score: 0.329: MISC: NON Ascii text
-   Score: 0.682: ORGANIZATION: MUM
-   Score: 0.367: PERSON: marsh
-   Score: 1.089: ORGANIZATION: RAF
-   Score: 0.100: ORGANIZATION: W665

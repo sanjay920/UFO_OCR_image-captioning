@@ -1,6 +1,0 @@
-   Score: 0.245: PERSON: ERIE
-   Score: 0.846: ORGANIZATION: SIV Ol GSSSV&
-   Score: 0.174: PERSON: Voa
-   Score: 0.619: LOCATION: NON Ascii text
-   Score: 0.719: ORGANIZATION: SSBEOOV GNU BMVN
-   Score: 0.411: PERSON: Hsauu

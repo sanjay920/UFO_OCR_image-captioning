@@ -1,7 +1,0 @@
-   Score: 0.512: PERSON: w. _
-   Score: 0.670: ORGANIZATION: y.
-   Score: 0.604: PERSON: H.
-   Score: 0.475: ORGANIZATION: IZHLH
-   Score: 0.451: PERSON: Ii
-   Score: 0.351: PERSON: N.
-   Score: 0.392: MISC: NON Ascii text

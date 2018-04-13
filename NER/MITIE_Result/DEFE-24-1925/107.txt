@@ -1,4 +1,0 @@
-   Score: 0.500: PERSON: F
-   Score: 0.591: PERSON: Ho
-   Score: 0.319: PERSON: NON Ascii text
-   Score: 0.342: PERSON: NON Ascii text

@@ -1,8 +1,0 @@
-   Score: 0.400: PERSON: marsh
-   Score: 0.445: ORGANIZATION: Operations Room
-   Score: 0.378: PERSON: Kinloss
-   Score: 0.856: ORGANIZATION: Main Bldg Main Bldg Ops
-   Score: 1.079: ORGANIZATION: NON Ascii text
-   Score: 0.469: ORGANIZATION: RAP
-   Score: 0.745: ORGANIZATION: Rm Section
-   Score: 0.782: ORGANIZATION: Metropole File

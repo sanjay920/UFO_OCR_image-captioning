@@ -1,6 +1,0 @@
-   Score: 0.503: ORGANIZATION: DMK
-   Score: 0.840: PERSON: Masai
-   Score: 0.378: PERSON: Lezley
-   Score: 0.560: PERSON: NON Ascii text
-   Score: 0.333: PERSON: F
-   Score: 0.479: ORGANIZATION: CQZDCQWVQOQ SEQ/wax

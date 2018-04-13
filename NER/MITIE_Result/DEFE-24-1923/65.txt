@@ -1,4 +1,0 @@
-   Score: 0.324: PERSON: Lane
-   Score: 0.725: ORGANIZATION: NON Ascii text
-   Score: 0.180: PERSON: Mk
-   Score: 0.459: PERSON: NON Ascii text

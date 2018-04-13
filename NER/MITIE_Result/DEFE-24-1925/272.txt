@@ -1,4 +1,0 @@
-   Score: 0.375: PERSON: NON Ascii text
-   Score: 0.916: ORGANIZATION: your Department
-   Score: 0.878: ORGANIZATION: your Department
-   Score: 0.872: PERSON: Wan

@@ -1,6 +1,0 @@
-   Score: 1.100: PERSON: Ami
-   Score: 0.373: ORGANIZATION: LOOSE MINUTE // D/Sec
-   Score: 0.484: ORGANIZATION: AS
-   Score: 0.645: ORGANIZATION: RAF Wyton
-   Score: 0.336: MISC: UFO
-   Score: 0.452: ORGANIZATION: AS

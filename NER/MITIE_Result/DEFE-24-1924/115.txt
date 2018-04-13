@@ -1,3 +1,0 @@
-   Score: 0.692: PERSON: m. E
-   Score: 0.601: PERSON: L. um
-   Score: 0.538: PERSON: V.

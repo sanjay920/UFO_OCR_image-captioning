@@ -1,7 +1,0 @@
-   Score: 0.647: ORGANIZATION: EPaBT
-   Score: 0.712: MISC: GMT
-   Score: 0.251: PERSON: NON Ascii text
-   Score: 0.344: ORGANIZATION: 0K H&Jcmg Award
-   Score: 0.480: PERSON: mg
-   Score: 0.724: PERSON: Nina
-   Score: 0.411: ORGANIZATION: NON Ascii text

@@ -1,3 +1,0 @@
-   Score: 0.758: ORGANIZATION: NON Ascii text
-   Score: 1.017: PERSON: ma
-   Score: 0.245: LOCATION: LC

@@ -1,7 +1,0 @@
-   Score: 1.407: ORGANIZATION: Ministry of Defence
-   Score: 0.685: LOCATION: Whitehall
-   Score: 0.494: LOCATION: RAF Rudloe Manor
-   Score: 1.360: ORGANIZATION: Air Staff Secretariatsl
-   Score: 0.675: ORGANIZATION: your Department
-   Score: 0.171: ORGANIZATION: NON Ascii text
-   Score: 0.858: ORGANIZATION: your Department

@@ -1,5 +1,0 @@
-   Score: 0.686: PERSON: K. Nearby
-   Score: 1.244: ORGANIZATION: ON ' YJI
-   Score: 0.697: ORGANIZATION: TJZN
-   Score: 0.475: ORGANIZATION: NON Ascii text
-   Score: 0.898: PERSON: Amy

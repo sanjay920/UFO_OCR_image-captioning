@@ -1,7 +1,0 @@
-   Score: 0.733: PERSON: Rich Object
-   Score: 1.134: ORGANIZATION: Angular Elezaticn of Object W KNOWN
-   Score: 0.276: MISC: Receipt of Report
-   Score: 0.958: ORGANIZATION: Ministry of Defence
-   Score: 0.869: ORGANIZATION: AIS
-   Score: 0.930: ORGANIZATION: Royal Air Force LATCC
-   Score: 1.039: ORGANIZATION: IDIEON SH

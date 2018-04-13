@@ -1,9 +1,0 @@
-   Score: 0.298: LOCATION: K. NE
-   Score: 0.536: LOCATION: Ilood_lights
-   Score: 0.437: PERSON: marsh
-   Score: 0.809: ORGANIZATION: WM
-   Score: 0.949: ORGANIZATION: GE
-   Score: 0.629: ORGANIZATION: RAF
-   Score: 0.386: MISC: NON Ascii text
-   Score: 0.999: ORGANIZATION: RAF
-   Score: 0.459: ORGANIZATION: NON Ascii text

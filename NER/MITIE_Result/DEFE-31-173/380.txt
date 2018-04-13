@@ -1,9 +1,0 @@
-   Score: 0.550: PERSON: K. NEARBY OBJECTS
-   Score: 0.442: PERSON: marsh
-   Score: 0.830: ORGANIZATION: RAF Lossiemou
-   Score: 0.598: ORGANIZATION: Extn Section
-   Score: 0.250: ORGANIZATION: KANE
-   Score: 0.390: ORGANIZATION: DIFORMPM Mrs_Section
-   Score: 0.529: PERSON: Nimrod
-   Score: 0.648: LOCATION: San
-   Score: 1.093: ORGANIZATION: File Rm Section

@@ -1,6 +1,0 @@
-   Score: 0.357: PERSON: L}
-   Score: 0.692: PERSON: NON Ascii text
-   Score: 0.585: LOCATION: Whitehall
-   Score: 0.710: LOCATION: London
-   Score: 0.175: PERSON: Commisssioner CDYTL
-   Score: 0.306: PERSON: L7L

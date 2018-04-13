@@ -1,6 +1,0 @@
-   Score: 0.679: PERSON: J. Me
-   Score: 0.272: ORGANIZATION: Telephone
-   Score: 0.443: PERSON: H. Name
-   Score: 0.648: ORGANIZATION: RC
-   Score: 0.907: PERSON: g. MAJ}
-   Score: 0.342: PERSON: mg

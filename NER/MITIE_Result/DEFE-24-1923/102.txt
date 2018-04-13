@@ -1,8 +1,0 @@
-   Score: 0.516: PERSON: Duvi
-   Score: 0.551: ORGANIZATION: Informant
-   Score: 0.908: PERSON: P. Date
-   Score: 0.307: ORGANIZATION: JUL
-   Score: 0.827: ORGANIZATION: JUL
-   Score: 0.483: ORGANIZATION: AS
-   Score: 1.147: ORGANIZATION: AEW/GE DI
-   Score: 0.416: ORGANIZATION: File AF

@@ -1,3 +1,0 @@
-   Score: 0.911: ORGANIZATION: COD
-   Score: 0.355: PERSON: NON Ascii text
-   Score: 0.407: ORGANIZATION: 4

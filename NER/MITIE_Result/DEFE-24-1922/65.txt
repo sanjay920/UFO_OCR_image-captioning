@@ -1,2 +1,0 @@
-   Score: 0.401: PERSON: Zr
-   Score: 0.801: ORGANIZATION: \

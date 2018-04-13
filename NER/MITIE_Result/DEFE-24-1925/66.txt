@@ -1,3 +1,0 @@
-   Score: 0.250: LOCATION: REGENTS PARK
-   Score: 0.934: LOCATION: LONDON
-   Score: 0.286: PERSON: z

@@ -1,6 +1,0 @@
-   Score: 0.233: ORGANIZATION: MAME
-   Score: 0.303: PERSON: NON Ascii text
-   Score: 0.852: PERSON: NON Ascii text
-   Score: 0.477: ORGANIZATION: NON Ascii text
-   Score: 0.388: ORGANIZATION: 1
-   Score: 0.300: PERSON: NON Ascii text

@@ -1,5 +1,0 @@
-   Score: 0.440: ORGANIZATION: Aldershot
-   Score: 1.152: ORGANIZATION: Ministry of Defence
-   Score: 0.596: LOCATION: Gasworks Bridge
-   Score: 0.433: LOCATION: Government Road
-   Score: 1.013: LOCATION: North Town

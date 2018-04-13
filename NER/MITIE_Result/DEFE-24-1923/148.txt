@@ -1,8 +1,0 @@
-   Score: 0.638: PERSON: L. To
-   Score: 0.913: ORGANIZATION: MOD AFDC
-   Score: 0.369: PERSON: Sqn Ldr
-   Score: 0.902: PERSON: P. Date
-   Score: 0.664: ORGANIZATION: Time of Receipt
-   Score: 0.580: ORGANIZATION: AS
-   Score: 1.099: ORGANIZATION: AEW/GE DI
-   Score: 0.348: MISC: AF Ops

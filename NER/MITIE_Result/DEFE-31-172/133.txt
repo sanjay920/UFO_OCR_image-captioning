@@ -1,7 +1,0 @@
-   Score: 0.916: ORGANIZATION: RAF Vulcan
-   Score: 0.376: ORGANIZATION: UFO
-   Score: 0.536: ORGANIZATION: MOD
-   Score: 1.069: LOCATION: South
-   Score: 1.737: LOCATION: England
-   Score: 0.520: ORGANIZATION: UFO
-   Score: 0.557: ORGANIZATION: UFO

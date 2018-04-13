@@ -1,9 +1,0 @@
-   Score: 0.154: PERSON: UNcmmFIED
-   Score: 0.786: ORGANIZATION: Duration of Sighting
-   Score: 0.182: PERSON: NON Ascii text
-   Score: 0.652: ORGANIZATION: NON Ascii text
-   Score: 0.912: ORGANIZATION: Pe DVC
-   Score: 0.505: ORGANIZATION: RAF
-   Score: 0.303: ORGANIZATION: Domcaster Anx
-   Score: 0.297: ORGANIZATION: NON Ascii text
-   Score: 0.227: ORGANIZATION: NON Ascii text

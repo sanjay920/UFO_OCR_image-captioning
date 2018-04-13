@@ -1,2 +1,0 @@
-   Score: 0.687: PERSON: J.
-   Score: 0.867: LOCATION: LA

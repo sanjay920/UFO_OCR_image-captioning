@@ -1,5 +1,0 @@
-   Score: 0.342: PERSON: Ahh
-   Score: 0.707: PERSON: Hay
-   Score: 1.253: LOCATION: NW
-   Score: 0.481: ORGANIZATION: Steady Meteorological
-   Score: 0.427: ORGANIZATION: RAF Chivenor Name

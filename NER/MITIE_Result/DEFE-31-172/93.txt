@@ -1,6 +1,0 @@
-   Score: 0.960: PERSON: H. T
-   Score: 0.760: PERSON: o -.nn
-   Score: 0.728: ORGANIZATION: NON Ascii text
-   Score: 1.199: ORGANIZATION: SIC
-   Score: 0.886: ORGANIZATION: RAF
-   Score: 0.259: ORGANIZATION: S

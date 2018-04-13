@@ -1,8 +1,0 @@
-   Score: 0.910: ORGANIZATION: NON Ascii text
-   Score: 0.770: ORGANIZATION: NON Ascii text
-   Score: 0.537: LOCATION: UM
-   Score: 0.588: LOCATION: LA
-   Score: 0.428: PERSON: NON Ascii text
-   Score: 0.240: PERSON: I;i
-   Score: 1.113: ORGANIZATION: LUM
-   Score: 0.391: ORGANIZATION: H NIL

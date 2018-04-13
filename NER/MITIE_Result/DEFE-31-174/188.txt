@@ -1,2 +1,0 @@
-   Score: 1.366: ORGANIZATION: PA
-   Score: 0.744: PERSON: O O

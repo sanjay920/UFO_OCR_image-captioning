@@ -1,9 +1,0 @@
-   Score: 0.364: PERSON: Walklng
-   Score: 0.360: ORGANIZATION: E. Direction
-   Score: 0.560: LOCATION: Brockley
-   Score: 0.328: PERSON: F. Angle of Sight
-   Score: 0.390: PERSON: G. Distance
-   Score: 0.527: MISC: F &
-   Score: 0.493: ORGANIZATION: J. Met
-   Score: 0.312: LOCATION: lake Nil
-   Score: 0.409: PERSON: marsh

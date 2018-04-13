@@ -1,5 +1,0 @@
-   Score: 0.831: PERSON: J. EEEEbI Objeqtg
-   Score: 0.494: LOCATION: TY
-   Score: 0.391: ORGANIZATION: NON Ascii text
-   Score: 0.209: ORGANIZATION: Receint of Retort
-   Score: 0.690: PERSON: Margie

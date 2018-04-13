@@ -1,6 +1,0 @@
-   Score: 0.290: PERSON: NON Ascii text
-   Score: 0.276: ORGANIZATION: NON Ascii text
-   Score: 0.545: PERSON: W.
-   Score: 1.212: ORGANIZATION: NON Ascii text
-   Score: 0.554: PERSON: H. Movements
-   Score: 0.342: PERSON: F
