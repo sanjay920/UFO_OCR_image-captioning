@@ -1,0 +1,11 @@
+   Score: 0.603: ORGANIZATION: ;FOR
+   Score: 0.369: PERSON: NON Ascii text
+   Score: 0.837: ORGANIZATION: NDU
+   Score: 0.583: ORGANIZATION: RAF
+   Score: 0.159: ORGANIZATION: AERIAL
+   Score: 0.514: PERSON: O. UIFE
+   Score: 0.731: PERSON: E. Ii
+   Score: 0.714: PERSON: NON Ascii text
+   Score: 0.683: MISC: F _
+   Score: 0.619: ORGANIZATION: CXJ CYD
+   Score: 0.242: PERSON: W3

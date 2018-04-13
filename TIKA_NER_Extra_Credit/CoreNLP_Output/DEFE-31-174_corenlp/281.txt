@@ -1,0 +1,8 @@
+NER_MONEY: $~
+NER_ORGANIZATION: Department
+NER_ORGANIZATION: Ministry of Defence
+NER_ORGANIZATION: RAF
+NER_ORGANIZATION: Defence establishments
+NER_ORGANIZATION: Whitehall
+NER_ORGANIZATION: Air Staff Secretariatsl 2 & 8
+NER_ORGANIZATION: Defence

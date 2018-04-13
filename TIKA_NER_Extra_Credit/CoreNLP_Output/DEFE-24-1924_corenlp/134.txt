@@ -1,0 +1,6 @@
+NER_DATE: 0101
+NER_MONEY: 45¢
+NER_ORGANIZATION: Exact Position of Observer Location
+NER_ORGANIZATION: Time & Duration of Sighting
+NER_PERCENT: 361%
+NER_PERCENT: 90%

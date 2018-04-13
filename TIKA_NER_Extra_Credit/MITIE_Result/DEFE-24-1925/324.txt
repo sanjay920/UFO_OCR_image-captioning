@@ -1,0 +1,10 @@
+   Score: 0.478: ORGANIZATION: North Yorkshire
+   Score: 0.588: PERSON: Giles Esurt
+   Score: 0.754: ORGANIZATION: RAF Fylingdales
+   Score: 0.640: ORGANIZATION: BLD/Rm elateci
+   Score: 0.257: ORGANIZATION: Fe
+   Score: 0.716: ORGANIZATION: NON Ascii text
+   Score: 0.318: PERSON: lettar
+   Score: 0.543: PERSON: Rafa
+   Score: 0.293: LOCATION: which
+   Score: 0.626: ORGANIZATION: Civilian Aerial Phengmena Raaearch Organizatione

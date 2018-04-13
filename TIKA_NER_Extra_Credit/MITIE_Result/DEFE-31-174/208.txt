@@ -1,0 +1,15 @@
+   Score: 1.442: ORGANIZATION: Army Air Corps
+   Score: 0.554: ORGANIZATION: Wallop Stockbridge Hams
+   Score: 0.395: LOCATION: Middle Wellop
+   Score: 0.327: MISC: NON Ascii text
+   Score: 1.122: ORGANIZATION: RAF ' ' ' Main Building Ream
+   Score: 0.664: LOCATION: LONDON
+   Score: 0.138: PERSON: NON Ascii text
+   Score: 0.322: PERSON: Enclosed
+   Score: 0.350: PERSON: White
+   Score: 0.795: ORGANIZATION: MOD CS
+   Score: 0.502: MISC: Rep
+   Score: 0.644: PERSON: NON Ascii text
+   Score: 0.504: MISC: BIKINI ATOL Atomic Explosion
+   Score: 0.623: ORGANIZATION: Avn Stds HQ DAAC
+   Score: 0.398: MISC: NON Ascii text

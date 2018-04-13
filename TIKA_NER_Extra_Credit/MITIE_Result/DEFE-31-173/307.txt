@@ -1,0 +1,9 @@
+   Score: 0.364: ORGANIZATION: NON Ascii text
+   Score: 0.293: PERSON: Swda
+   Score: 0.328: PERSON: Vea
+   Score: 0.310: ORGANIZATION: E. Direction
+   Score: 0.991: PERSON: F. Angle
+   Score: 0.419: ORGANIZATION: MAW G. Distance
+   Score: 0.466: PERSON: H. Movements
+   Score: 0.369: PERSON: F
+   Score: 0.574: PERSON: mn\wwt&v EDA/

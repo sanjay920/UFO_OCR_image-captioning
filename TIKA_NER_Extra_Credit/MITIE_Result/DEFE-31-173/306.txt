@@ -1,0 +1,15 @@
+   Score: 1.003: ORGANIZATION: CXJ
+   Score: 0.122: ORGANIZATION: AFDo
+   Score: 0.554: PERSON: ;wu
+   Score: 0.624: PERSON: A.
+   Score: 0.699: PERSON: H. J. K
+   Score: 0.664: PERSON: L. M. N.
+   Score: 0.616: PERSON: D. E.
+   Score: 0.951: PERSON: Wu
+   Score: 1.338: ORGANIZATION: HA
+   Score: 0.398: MISC: COLOUR
+   Score: 0.369: PERSON: B~u
+   Score: 0.866: ORGANIZATION: SIC
+   Score: 0.427: ORGANIZATION: AZ%%%Z
+   Score: 1.035: ORGANIZATION: NON Ascii text
+   Score: 1.119: ORGANIZATION: NON Ascii text

@@ -1,0 +1,4 @@
+NER_DATE: 1211
+NER_ORGANIZATION: Time Duration of Sighting
+NER_ORGANIZATION: I. Itetcorologiczl Condition During Observwﬁons
+NER_ORGANIZATION: ATR

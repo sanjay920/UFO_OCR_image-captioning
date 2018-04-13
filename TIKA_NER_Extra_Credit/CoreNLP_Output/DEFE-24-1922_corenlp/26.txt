@@ -1,0 +1,3 @@
+NER_DATE: 1920
+NER_DATE: December
+NER_ORGANIZATION: N. Police

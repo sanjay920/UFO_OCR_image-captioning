@@ -1,0 +1,7 @@
+NER_LOCATION: Kingston Road
+NER_LOCATION: Shoreditch
+NER_LOCATION: City
+NER_MONEY: ~¢£¢J1¢
+NER_ORGANIZATION: Time &
+NER_ORGANIZATION: Shoreditch Church F. Angle of Sight
+NER_PERCENT: nm%

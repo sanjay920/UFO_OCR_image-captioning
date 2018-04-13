@@ -1,0 +1,15 @@
+   Score: 0.620: PERSON: Jr ,
+   Score: 0.267: PERSON: NON Ascii text
+   Score: 0.761: ORGANIZATION: SIC
+   Score: 0.524: LOCATION: RUTHERFORD
+   Score: 0.591: PERSON: NON Ascii text
+   Score: 0.679: PERSON: O
+   Score: 0.355: PERSON: NON Ascii text
+   Score: 0.952: ORGANIZATION: BT
+   Score: 0.203: PERSON: AFoo
+   Score: 1.009: ORGANIZATION: CAM ACS
+   Score: 0.997: ORGANIZATION: GE
+   Score: 0.964: ORGANIZATION: RAF
+   Score: 1.259: ORGANIZATION: CAI DI
+   Score: 0.325: ORGANIZATION: NON Ascii text
+   Score: 0.313: PERSON: NON Ascii text

@@ -1,0 +1,9 @@
+   Score: 0.661: ORGANIZATION: Air Staff
+   Score: 0.540: ORGANIZATION: Room
+   Score: 1.010: ORGANIZATION: MINISTRY OF DEFENCE Main Building
+   Score: 0.355: LOCATION: Whitehall London SW1A
+   Score: 0.085: MISC: Switchboard
+   Score: 1.316: ORGANIZATION: Ministry of Defence
+   Score: 1.089: LOCATION: United Kingdom
+   Score: 1.284: LOCATION: UK
+   Score: 0.907: ORGANIZATION: Leicestershire

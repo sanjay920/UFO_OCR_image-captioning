@@ -1,0 +1,13 @@
+   Score: 0.885: ORGANIZATION: Duration of Sighting
+   Score: 0.514: PERSON: NON Ascii text
+   Score: 0.874: LOCATION: South
+   Score: 0.793: LOCATION: North West
+   Score: 0.331: ORGANIZATION: Overhead Object
+   Score: 1.619: ORGANIZATION: Object from Observer Movements of Object Straight Line Meteorological
+   Score: 1.098: ORGANIZATION: Ministry of Defence
+   Score: 0.847: ORGANIZATION: AIS
+   Score: 1.076: ORGANIZATION: Royal Air Force LATCC Main Building
+   Score: 0.303: LOCATION: Whitehall
+   Score: 0.602: ORGANIZATION: LONDON SW
+   Score: 0.483: PERSON: Z.
+   Score: 0.263: PERSON: {xi/W

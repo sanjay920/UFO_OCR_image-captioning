@@ -1,0 +1,11 @@
+NER_LOCATION: FL
+NER_MONEY: $01
+NER_MONEY: $1GHTHQC
+NER_MONEY: $9.
+NER_ORGANIZATION: Nearby Objc ets
+NER_ORGANIZATION: Ti‘ufc Duration of Sighting
+NER_ORGANIZATION: Time of Receipt of Report
+NER_ORGANIZATION: HT Enact Position of Observer
+NER_ORGANIZATION: COMET Luce LAC
+NER_ORGANIZATION: T Kcteorologiezl Condiﬁicns During Observations
+NER_PERCENT: \%

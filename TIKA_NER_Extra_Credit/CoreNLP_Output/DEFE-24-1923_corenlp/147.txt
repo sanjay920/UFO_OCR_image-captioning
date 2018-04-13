@@ -1,0 +1,11 @@
+NER_DATE: 2000
+NER_DATE: 5128
+NER_DATE: Bay 83
+NER_LOCATION: Borehamwood
+NER_ORGANIZATION: Time &
+NER_ORGANIZATION: A. Date
+NER_ORGANIZATION: St Albans and Location
+NER_ORGANIZATION: Shenlej C. Exact Position of Observer
+NER_PERCENT: 09%
+NER_PERSON: B. Descrlptlon
+NER_PERSON: Cowley

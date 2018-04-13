@@ -1,0 +1,11 @@
+   Score: 0.411: PERSON: marsh
+   Score: 0.474: PERSON: NON Ascii text
+   Score: 1.167: ORGANIZATION: UNUSUAL METEOROLOGICAL
+   Score: 0.325: ORGANIZATION: Comgoxs$
+   Score: 0.918: ORGANIZATION: GE
+   Score: 0.580: ORGANIZATION: RAF
+   Score: 0.495: MISC: DI 55
+   Score: 0.956: ORGANIZATION: RAF
+   Score: 1.109: ORGANIZATION: File Rm Section
+   Score: 0.723: ORGANIZATION: Rm Section
+   Score: 0.740: ORGANIZATION: Bldg Main Bldg Metropole

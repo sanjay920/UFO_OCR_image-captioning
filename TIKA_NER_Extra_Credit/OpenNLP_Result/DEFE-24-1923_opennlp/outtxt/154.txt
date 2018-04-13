@@ -1,0 +1,2 @@
+NER_LOCATION: To
+NER_ORGANIZATION: Duty Operations Officer AF Ops

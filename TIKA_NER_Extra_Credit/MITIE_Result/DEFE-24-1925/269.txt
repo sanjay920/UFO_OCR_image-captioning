@@ -1,0 +1,16 @@
+   Score: 0.316: ORGANIZATION: Room
+   Score: 1.218: ORGANIZATION: Ministry of Defence
+   Score: 0.736: LOCATION: London
+   Score: 1.121: MISC: British
+   Score: 0.426: ORGANIZATION: MOD
+   Score: 0.922: LOCATION: Rudloe Manor
+   Score: 1.043: ORGANIZATION: CAA
+   Score: 0.508: ORGANIZATION: MOD
+   Score: 1.006: LOCATION: Whitehall
+   Score: 0.657: ORGANIZATION: MOD
+   Score: 0.825: ORGANIZATION: Air
+   Score: 0.480: ORGANIZATION: MOD
+   Score: 0.849: ORGANIZATION: Public Records Office
+   Score: 1.165: MISC: British
+   Score: 0.990: ORGANIZATION: RAF
+   Score: 0.251: PERSON: Bentwaters/ Lakenheath

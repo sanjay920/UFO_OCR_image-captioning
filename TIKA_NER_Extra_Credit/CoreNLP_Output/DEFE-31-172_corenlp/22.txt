@@ -1,0 +1,6 @@
+NER_DATE: Feb 82
+NER_LOCATION: Northampton
+NER_ORGANIZATION: INFORMANT THAT nu ma Housewife
+NER_ORGANIZATION: Bldg Main Bldg Rm Secﬂon40 Metropole
+NER_ORGANIZATION: Campbell Square
+NER_ORGANIZATION: GE

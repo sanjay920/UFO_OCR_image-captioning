@@ -1,0 +1,5 @@
+   Score: 0.524: PERSON: NON Ascii text
+   Score: 0.557: PERSON: V. Fx;1
+   Score: 0.323: ORGANIZATION: NON Ascii text
+   Score: 0.678: ORGANIZATION: "
+   Score: 0.391: ORGANIZATION: COI

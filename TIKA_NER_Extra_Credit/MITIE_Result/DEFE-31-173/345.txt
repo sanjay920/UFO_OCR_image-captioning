@@ -1,0 +1,21 @@
+   Score: 0.569: ORGANIZATION: CAV
+   Score: 1.011: ORGANIZATION: DEC
+   Score: 0.257: ORGANIZATION: INDDDRS
+   Score: 0.417: ORGANIZATION: D.INAKED EYE~
+   Score: 0.877: PERSON: Eu
+   Score: 0.615: PERSON: H.
+   Score: 0.407: ORGANIZATION: TI
+   Score: 0.319: PERSON: NON Ascii text
+   Score: 0.378: PERSON: H.ALH
+   Score: 0.907: PERSON: Ma
+   Score: 0.684: PERSON: A.
+   Score: 0.389: PERSON: NON Ascii text
+   Score: 0.824: PERSON: P.
+   Score: 0.822: ORGANIZATION: M NN
+   Score: 0.577: ORGANIZATION: CAB
+   Score: 0.421: ORGANIZATION: DSCIAFDo
+   Score: 0.362: LOCATION: ACSIP
+   Score: 0.770: ORGANIZATION: GE
+   Score: 0.879: ORGANIZATION: RAF
+   Score: 0.662: ORGANIZATION: CAV
+   Score: 0.485: PERSON: A.

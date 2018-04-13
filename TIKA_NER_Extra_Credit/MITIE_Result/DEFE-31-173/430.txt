@@ -1,0 +1,22 @@
+   Score: 0.427: PERSON: -Ila%naqbpv
+   Score: 0.612: PERSON: NON Ascii text
+   Score: 0.464: PERSON: NON Ascii text
+   Score: 0.435: LOCATION: AL
+   Score: 0.183: PERSON: ROUTINE
+   Score: 0.824: ORGANIZATION: LATCCMIL TO MODUK AIR
+   Score: 0.244: PERSON: NON Ascii text
+   Score: 0.968: ORGANIZATION: SIC
+   Score: 0.313: PERSON: NON Ascii text
+   Score: 0.399: PERSON: I.
+   Score: 0.922: ORGANIZATION: PACE
+   Score: 0.830: PERSON: H.
+   Score: 0.452: PERSON: K. HILLS
+   Score: 0.123: ORGANIZATION: C.IHQNE
+   Score: 1.214: ORGANIZATION: CAE
+   Score: 1.005: ORGANIZATION: DSC
+   Score: 0.500: ORGANIZATION: AFDO
+   Score: 0.868: ORGANIZATION: CAM ACS
+   Score: 0.514: ORGANIZATION: CYD
+   Score: 1.019: ORGANIZATION: GE
+   Score: 1.047: ORGANIZATION: RAF
+   Score: 1.096: ORGANIZATION: CAV DI

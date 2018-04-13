@@ -1,0 +1,4 @@
+NER_DATE: Aug 85‘ 2305
+NER_ORGANIZATION: wci Date
+NER_ORGANIZATION: Time of Receipt of Report
+NER_ORGANIZATION: Address of Informant

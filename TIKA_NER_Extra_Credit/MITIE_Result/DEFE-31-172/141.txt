@@ -1,0 +1,4 @@
+   Score: 0.499: ORGANIZATION: UC
+   Score: 0.251: PERSON: NON Ascii text
+   Score: 0.675: LOCATION: Pa
+   Score: 0.292: ORGANIZATION: UlJ

@@ -1,0 +1,6 @@
+   Score: 0.588: PERSON: NON Ascii text
+   Score: 0.497: ORGANIZATION: HJWC ALWLMAI
+   Score: 0.701: PERSON: Tu
+   Score: 0.312: PERSON: NON Ascii text
+   Score: 0.136: ORGANIZATION: NURTH
+   Score: 0.481: PERSON: NON Ascii text

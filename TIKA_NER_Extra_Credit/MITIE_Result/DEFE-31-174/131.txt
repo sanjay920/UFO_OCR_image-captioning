@@ -1,0 +1,5 @@
+   Score: 0.676: ORGANIZATION: {to
+   Score: 0.403: PERSON: Mai
+   Score: 0.538: LOCATION: CI
+   Score: 0.873: PERSON: J.
+   Score: 0.596: PERSON: NON Ascii text

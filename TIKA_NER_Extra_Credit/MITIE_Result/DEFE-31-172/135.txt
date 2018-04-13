@@ -1,0 +1,5 @@
+   Score: 0.348: ORGANIZATION: Lord Clancarty
+   Score: 0.280: PERSON: Lord Clancarty
+   Score: 0.528: MISC: UFO
+   Score: 0.735: PERSON: Vbich
+   Score: 1.119: ORGANIZATION: CIA

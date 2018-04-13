@@ -1,0 +1,2 @@
+   Score: 0.577: PERSON: Grating;
+   Score: 0.382: ORGANIZATION: NON Ascii text

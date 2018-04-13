@@ -1,0 +1,12 @@
+   Score: 0.996: PERSON: A. Date
+   Score: 0.820: LOCATION: Mo
+   Score: 0.524: PERSON: wva
+   Score: 0.419: LOCATION: LO
+   Score: 1.012: PERSON: Waldo
+   Score: 1.227: PERSON: F. Angle
+   Score: 0.722: ORGANIZATION: NON Ascii text
+   Score: 0.529: PERSON: NON Ascii text
+   Score: 0.289: ORGANIZATION: Vb 'f
+   Score: 0.581: PERSON: G. Distance
+   Score: 0.367: PERSON: NON Ascii text
+   Score: 0.342: PERSON: F

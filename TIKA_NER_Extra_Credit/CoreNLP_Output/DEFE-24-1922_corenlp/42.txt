@@ -1,0 +1,3 @@
+NER_LOCATION: Eaze
+NER_ORGANIZATION: Estlmated Eelghta
+NER_PERSON: Dawley

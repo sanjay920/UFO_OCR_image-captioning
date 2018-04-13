@@ -1,0 +1,4 @@
+   Score: 1.018: LOCATION: London
+   Score: 0.370: PERSON: Venus
+   Score: 0.446: LOCATION: N.W.
+   Score: 0.226: ORGANIZATION: Plough

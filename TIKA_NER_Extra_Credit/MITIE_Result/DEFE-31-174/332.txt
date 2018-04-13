@@ -1,0 +1,10 @@
+   Score: 0.281: ORGANIZATION: Secok
+   Score: 1.060: LOCATION: UK
+   Score: 1.681: ORGANIZATION: FCF Main Building RAF Rudloe Manor
+   Score: 0.609: ORGANIZATION: Hawthorn
+   Score: 1.450: ORGANIZATION: Corsham Wilts SN13 OPQ
+   Score: 1.186: PERSON: Kay
+   Score: 0.464: PERSON: NON Ascii text
+   Score: 0.679: PERSON: This Headquarters
+   Score: 0.284: PERSON: P&SS
+   Score: 1.139: LOCATION: UK

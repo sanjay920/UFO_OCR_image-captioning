@@ -1,0 +1,4 @@
+   Score: 1.019: ORGANIZATION: Royal Air Force
+   Score: 0.693: ORGANIZATION: RAF
+   Score: 0.538: ORGANIZATION: ZTurnstile House
+   Score: 0.771: LOCATION: London

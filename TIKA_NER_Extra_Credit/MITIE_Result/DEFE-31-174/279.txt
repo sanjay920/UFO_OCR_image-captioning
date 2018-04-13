@@ -1,0 +1,7 @@
+   Score: 0.150: PERSON: Hf
+   Score: 0.490: PERSON: /tuaw_
+   Score: 0.551: ORGANIZATION: Pm M
+   Score: 0.649: ORGANIZATION: DGT
+   Score: 0.413: ORGANIZATION: Fleet Lord Hill-Norton
+   Score: 0.235: ORGANIZATION: Lord Trefgarne
+   Score: 0.298: LOCATION: Lord Hill-Norton

@@ -1,0 +1,6 @@
+   Score: 0.320: PERSON: NON Ascii text
+   Score: 0.389: LOCATION: RM
+   Score: 0.727: ORGANIZATION: NON Ascii text
+   Score: 0.387: PERSON: Leadev
+   Score: 0.354: LOCATION: IA
+   Score: 0.393: ORGANIZATION: AEw/ca

@@ -1,0 +1,13 @@
+   Score: 0.645: ORGANIZATION: Secretariat ( Air Staff
+   Score: 0.383: ORGANIZATION: Room-O
+   Score: 0.600: ORGANIZATION: Whitehall London SW1A ZHB
+   Score: 0.071: MISC: Switchboard
+   Score: 0.399: PERSON: D/SeC
+   Score: 0.876: ORGANIZATION: United Kingdom Ministry
+   Score: 0.333: LOCATION: UFOs
+   Score: 1.258: ORGANIZATION: Ministry of Defence
+   Score: 1.089: LOCATION: United Kingdom
+   Score: 0.768: LOCATION: UFOs
+   Score: 0.197: ORGANIZATION: , meteorological balloons
+   Score: 1.028: ORGANIZATION: RAF
+   Score: 1.279: ORGANIZATION: CAA

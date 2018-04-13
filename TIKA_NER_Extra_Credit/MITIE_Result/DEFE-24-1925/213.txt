@@ -1,0 +1,7 @@
+   Score: 0.227: LOCATION: EXETER
+   Score: 0.541: ORGANIZATION: DEVON EXS
+   Score: 0.363: ORGANIZATION: Civilian Aerial Phenomena Research Orwanization
+   Score: 0.606: ORGANIZATION: ATC
+   Score: 0.367: MISC: F
+   Score: 0.554: PERSON: k.
+   Score: 0.253: PERSON: NON Ascii text

@@ -1,0 +1,9 @@
+   Score: 0.608: PERSON: K. NEARBY OBJECTS
+   Score: 0.400: PERSON: marsh
+   Score: 0.384: ORGANIZATION: F%nJCET
+   Score: 0.512: ORGANIZATION: DEC
+   Score: 0.937: ORGANIZATION: GE
+   Score: 0.875: ORGANIZATION: RAF
+   Score: 0.933: ORGANIZATION: RAF
+   Score: 0.844: ORGANIZATION: Rm Rm Rm Maln
+   Score: 0.510: ORGANIZATION: Metropo

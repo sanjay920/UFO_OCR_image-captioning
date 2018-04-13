@@ -1,0 +1,19 @@
+   Score: 0.529: ORGANIZATION: RAF Rudloe Manor
+   Score: 0.728: PERSON: Hawthorne
+   Score: 0.258: LOCATION: Wiltshire
+   Score: 0.768: ORGANIZATION: RAF Operations
+   Score: 0.740: PERSON: Cowley Hill
+   Score: 0.795: LOCATION: Borehamwood
+   Score: 0.970: LOCATION: Hertfordshire
+   Score: 0.238: ORGANIZATION: Elstree
+   Score: 1.018: LOCATION: South East
+   Score: 0.425: ORGANIZATION: Operations Room
+   Score: 1.263: LOCATION: South East
+   Score: 0.323: PERSON: Heath Row
+   Score: 1.191: ORGANIZATION: British Astronomical Association
+   Score: 1.575: LOCATION: London
+   Score: 0.375: ORGANIZATION: Operations Room
+   Score: 0.346: ORGANIZATION: Duty Desk
+   Score: 0.542: ORGANIZATION: MOD Main Building
+   Score: 0.635: LOCATION: Whitehall
+   Score: 0.540: LOCATION: Hertfordshire;

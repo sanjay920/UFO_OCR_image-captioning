@@ -1,0 +1,10 @@
+   Score: 0.170: PERSON: DQerrlowgl
+   Score: 0.367: PERSON: NON Ascii text
+   Score: 0.294: ORGANIZATION: HMAM H. Xame
+   Score: 0.968: LOCATION: CO
+   Score: 0.480: ORGANIZATION: NON Ascii text
+   Score: 1.225: PERSON: wkow
+   Score: 0.788: PERSON: Kai
+   Score: 0.413: ORGANIZATION: NON Ascii text
+   Score: 0.409: PERSON: LUL<C
+   Score: 0.680: PERSON: P. Date

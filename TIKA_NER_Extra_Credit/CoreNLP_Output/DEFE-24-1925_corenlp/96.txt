@@ -1,0 +1,6 @@
+NER_DATE: Oct 85
+NER_DATE: 15 Oct 85
+NER_ORGANIZATION: Controller Yomrﬂmuwe AIS
+NER_ORGANIZATION: RAF
+NER_ORGANIZATION: Royal Air Force Omrﬁmmme West Drayton LIN/ll7/2/Air MIDDLESEX _# Dme
+NER_PERCENT: 5%

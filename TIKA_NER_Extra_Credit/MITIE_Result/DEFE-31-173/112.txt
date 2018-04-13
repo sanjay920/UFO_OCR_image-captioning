@@ -1,0 +1,12 @@
+   Score: 0.709: PERSON: NON Ascii text
+   Score: 0.423: MISC: NON Ascii text
+   Score: 0.446: ORGANIZATION: NON Ascii text
+   Score: 0.988: ORGANIZATION: O .
+   Score: 0.650: PERSON: H.
+   Score: 0.159: ORGANIZATION: Ob
+   Score: 0.435: PERSON: NON Ascii text
+   Score: 0.117: ORGANIZATION: Voluntecrcd
+   Score: 0.578: LOCATION: MA
+   Score: 0.311: ORGANIZATION: Vamubu/ Qua/DA
+   Score: 0.911: ORGANIZATION: Date &
+   Score: 0.869: PERSON: Rupert

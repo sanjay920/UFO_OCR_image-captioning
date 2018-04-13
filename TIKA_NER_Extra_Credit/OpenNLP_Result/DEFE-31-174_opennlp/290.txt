@@ -1,0 +1,4 @@
+NER_ORGANIZATION: WEST
+NER_ORGANIZATION: Calderdale Division
+NER_ORGANIZATION: Ministry of Defence Department
+NER_PERSON: 0

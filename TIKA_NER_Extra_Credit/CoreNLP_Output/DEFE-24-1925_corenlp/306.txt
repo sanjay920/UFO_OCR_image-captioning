@@ -1,0 +1,8 @@
+NER_DATE: 1985
+NER_LOCATION: E.S.
+NER_MONEY: $uffelk
+NER_MONEY: $tryf
+NER_ORGANIZATION: Ehis 19 & katter
+NER_ORGANIZATION: Eefence Miai
+NER_ORGANIZATION: U‘S.A°F. in oonfiso&$ed zad&r
+NER_TIME: ﬁhaﬁ night

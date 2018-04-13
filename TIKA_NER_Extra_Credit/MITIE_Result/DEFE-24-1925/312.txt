@@ -1,0 +1,10 @@
+   Score: 0.274: ORGANIZATION: Vk/TO
+   Score: 0.272: ORGANIZATION: C&CJMHA
+   Score: 0.321: PERSON: 2\M
+   Score: 0.716: PERSON: NON Ascii text
+   Score: 0.440: PERSON: Eg
+   Score: 0.237: ORGANIZATION: I...C\v\
+   Score: 0.578: ORGANIZATION: KNII
+   Score: 0.346: PERSON: NON Ascii text
+   Score: 1.147: ORGANIZATION: UN
+   Score: 0.258: PERSON: 22\

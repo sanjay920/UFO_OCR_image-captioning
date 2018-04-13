@@ -1,0 +1,3 @@
+NER_LOCATION: Object
+NER_PERSON: O'v'E
+NER_PERSON: Von

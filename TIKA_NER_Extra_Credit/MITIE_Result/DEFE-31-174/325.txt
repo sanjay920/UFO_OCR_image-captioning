@@ -1,0 +1,12 @@
+   Score: 0.909: PERSON: L.
+   Score: 0.289: PERSON: I\I
+   Score: 0.423: ORGANIZATION: NON Ascii text
+   Score: 0.428: PERSON: NON Ascii text
+   Score: 0.297: PERSON: L/NJE
+   Score: 0.564: PERSON: NON Ascii text
+   Score: 1.257: ORGANIZATION: JV
+   Score: 0.600: PERSON: Iqr
+   Score: 0.432: ORGANIZATION: NON Ascii text
+   Score: 1.253: ORGANIZATION: NON Ascii text
+   Score: 0.620: PERSON: L.
+   Score: 0.258: ORGANIZATION: I.K

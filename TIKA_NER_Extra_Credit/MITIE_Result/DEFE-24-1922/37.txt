@@ -1,0 +1,11 @@
+   Score: 0.675: PERSON: A. Date
+   Score: 0.398: PERSON: NON Ascii text
+   Score: 0.369: PERSON: E. DIRECTION
+   Score: 0.115: LOCATION: NENOQTH
+   Score: 0.337: PERSON: NON Ascii text
+   Score: 0.613: PERSON: NON Ascii text
+   Score: 0.745: PERSON: G. DISTANCE
+   Score: 0.558: LOCATION: E
+   Score: 0.414: ORGANIZATION: NON Ascii text
+   Score: 0.436: PERSON: Ciouda
+   Score: 0.506: ORGANIZATION: NON Ascii text

@@ -1,0 +1,13 @@
+NER_LOCATION: US. Air
+NER_LOCATION: Rendlesham Forest
+NER_LOCATION: Bentwaters
+NER_LOCATION: England
+NER_LOCATION: Wright-Patterson Air
+NER_ORGANIZATION: USAF
+NER_ORGANIZATION: Federal Regulations
+NER_ORGANIZATION: Air Force
+NER_ORGANIZATION: Dot Street,
+NER_ORGANIZATION: UFO
+NER_PERSON: Barry Goldwater,
+NER_PERSON: Neil Hosenball. Theoretically,
+NER_PERSON: Brenda Butler

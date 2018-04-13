@@ -1,0 +1,5 @@
+NER_ORGANIZATION: Sec
+NER_ORGANIZATION: Meteorological PJQ Condltlons / R. Remarks Copies
+NER_ORGANIZATION: 1 Squadron ea er Duty Operations Officer AF Ops
+NER_ORGANIZATION: M. Name & Address of Informant E
+NER_ORGANIZATION: Time of Receipt

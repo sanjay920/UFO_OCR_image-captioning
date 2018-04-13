@@ -1,0 +1,7 @@
+   Score: 0.638: PERSON: L. To
+   Score: 0.295: MISC: M. Name
+   Score: 0.166: ORGANIZATION: TYNE
+   Score: 1.079: ORGANIZATION: RAF AIR TRAFFIC
+   Score: 0.657: PERSON: O.
+   Score: 0.542: ORGANIZATION: AS
+   Score: 1.078: ORGANIZATION: AEW/GE DI

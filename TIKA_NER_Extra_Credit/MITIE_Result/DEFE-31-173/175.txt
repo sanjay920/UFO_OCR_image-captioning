@@ -1,0 +1,4 @@
+   Score: 0.724: PERSON: Humber
+   Score: 0.167: LOCATION: IanKEark
+   Score: 0.729: LOCATION: Manchester Airport
+   Score: 0.170: PERSON: NON Ascii text

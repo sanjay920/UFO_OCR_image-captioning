@@ -1,0 +1,8 @@
+   Score: 0.914: PERSON: f. O
+   Score: 1.006: ORGANIZATION: O O
+   Score: 0.543: PERSON: L.
+   Score: 0.623: PERSON: C.
+   Score: 0.468: PERSON: V.....
+   Score: 0.955: PERSON: O
+   Score: 0.510: PERSON: Ir
+   Score: 0.135: ORGANIZATION: IIIII

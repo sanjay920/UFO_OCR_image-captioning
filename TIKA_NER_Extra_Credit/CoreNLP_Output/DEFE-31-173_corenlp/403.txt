@@ -1,0 +1,3 @@
+NER_MONEY: $3
+NER_ORGANIZATION: Rama and Address of Informant
+NER_ORGANIZATION: Time of Receipt of Report

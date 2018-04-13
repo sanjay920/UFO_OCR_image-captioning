@@ -1,0 +1,3 @@
+NER_ORGANIZATION: Sec
+NER_ORGANIZATION: Time of Receipt 02184019 Q. Any Unusual Meteorological Nil Conditions R. Remarks Nil Squadron Leader T Duty Operations Officer Date
+NER_ORGANIZATION: M. Name & Address of Informant _ d‘som N. Background of Informant

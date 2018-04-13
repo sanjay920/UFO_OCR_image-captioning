@@ -1,0 +1,3 @@
+   Score: 0.730: ORGANIZATION: Congress
+   Score: 0.417: LOCATION: Parliahent
+   Score: 0.215: ORGANIZATION: H.Pa

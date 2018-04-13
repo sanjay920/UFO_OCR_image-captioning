@@ -1,0 +1,7 @@
+   Score: 0.755: ORGANIZATION: Newcastle
+   Score: 0.380: PERSON: Tyne
+   Score: 0.370: ORGANIZATION: NON Ascii text
+   Score: 0.262: PERSON: Pone
+   Score: 0.741: ORGANIZATION: PC Section
+   Score: 0.502: ORGANIZATION: AS
+   Score: 0.777: ORGANIZATION: File AF

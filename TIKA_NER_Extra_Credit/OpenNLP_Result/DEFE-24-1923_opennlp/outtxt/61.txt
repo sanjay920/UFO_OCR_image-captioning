@@ -1,0 +1,3 @@
+NER_ORGANIZATION: Squadron Leader Duty Operations Officer AF Ops
+NER_PERSON: AEW/GE DI
+NER_PERSON: Sec(AS)2'J

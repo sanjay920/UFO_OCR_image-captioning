@@ -1,0 +1,2 @@
+NER_ORGANIZATION: NM
+NER_PERSON: Nﬁ-éuﬁadaf‘qyadad. Name

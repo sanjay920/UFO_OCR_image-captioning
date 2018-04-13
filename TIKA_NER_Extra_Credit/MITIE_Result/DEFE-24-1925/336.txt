@@ -1,0 +1,5 @@
+   Score: 0.564: PERSON: Jim Q
+   Score: 0.225: LOCATION: NON Ascii text
+   Score: 0.285: PERSON: NON Ascii text
+   Score: 0.571: PERSON: H.
+   Score: 0.438: PERSON: NON Ascii text

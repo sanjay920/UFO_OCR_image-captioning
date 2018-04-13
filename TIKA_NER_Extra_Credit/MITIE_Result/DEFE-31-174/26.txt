@@ -1,0 +1,9 @@
+   Score: 0.199: LOCATION: indoor/outdoor , Indoors
+   Score: 0.293: ORGANIZATION: E. Direction
+   Score: 1.005: ORGANIZATION: Aberdeen
+   Score: 0.341: PERSON: F. Angle of Sight
+   Score: 0.419: ORGANIZATION: Near Tree Tops Hotel
+   Score: 1.026: ORGANIZATION: Aberdeen
+   Score: 0.537: ORGANIZATION: J. Met
+   Score: 0.621: PERSON: K. Nearby Objects
+   Score: 0.411: PERSON: marsh

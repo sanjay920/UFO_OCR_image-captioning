@@ -1,0 +1,7 @@
+   Score: 0.724: PERSON: z.
+   Score: 0.284: PERSON: Jumamxca
+   Score: 0.502: PERSON: J/
+   Score: 0.400: ORGANIZATION: NON Ascii text
+   Score: 0.296: PERSON: NON Ascii text
+   Score: 0.645: PERSON: NON Ascii text
+   Score: 1.238: PERSON: Li

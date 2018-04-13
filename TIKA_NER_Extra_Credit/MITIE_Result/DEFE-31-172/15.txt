@@ -1,0 +1,41 @@
+   Score: 0.471: PERSON: Viscount Long
+   Score: 0.420: LOCATION: Lord Phil-Norton
+   Score: 1.210: ORGANIZATION: Ministry of Defence
+   Score: 0.262: MISC: NON Ascii text
+   Score: 0.825: ORGANIZATION: Royal Navy
+   Score: 0.602: ORGANIZATION: NON Ascii text
+   Score: 0.538: ORGANIZATION: UFO
+   Score: 0.433: LOCATION: Northampton
+   Score: 0.314: PERSON: My Lords
+   Score: 0.304: PERSON: Sheltaransky
+   Score: 0.406: PERSON: NON Ascii text
+   Score: 0.877: PERSON: Anatoly Shehaiansky
+   Score: 0.443: LOCATION: Soviet Cimcmntent
+   Score: 0.856: PERSON: Anatoly Sheharansky
+   Score: 1.122: MISC: Soviet
+   Score: 0.738: ORGANIZATION: LORDS
+   Score: 0.290: LOCATION: NON Ascii text
+   Score: 0.503: LOCATION: MI ShihaIanskvs Case
+   Score: 0.314: PERSON: Sheharansky
+   Score: 0.836: PERSON: v. IIether
+   Score: 0.408: MISC: Soviet Govern-
+   Score: 0.667: LOCATION: Helsinki
+   Score: 0.959: ORGANIZATION: IMF
+   Score: 0.539: ORGANIZATION: MBFR
+   Score: 1.334: LOCATION: Vienna
+   Score: 1.098: LOCATION: Helsinki
+   Score: 0.760: PERSON: Mr Brezhnev
+   Score: 0.742: ORGANIZATION: House
+   Score: 0.489: LOCATION: Soviet Embassy
+   Score: 0.500: LOCATION: MI
+   Score: 0.439: PERSON: ShchaIansky
+   Score: 0.585: MISC: Soviet UI
+   Score: 0.486: LOCATION: MI
+   Score: 0.586: PERSON: Mr Brezhnev
+   Score: 0.825: LOCATION: Soviet Union
+   Score: 0.629: LOCATION: sovereign States
+   Score: 0.647: LOCATION: Soviet agrieulturai industry
+   Score: 0.644: LOCATION: West
+   Score: 0.240: PERSON: Sheharunsky
+   Score: 0.832: ORGANIZATION: United Nations
+   Score: 0.589: LOCATION: MI

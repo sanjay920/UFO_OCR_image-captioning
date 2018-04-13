@@ -1,0 +1,18 @@
+   Score: 0.447: ORGANIZATION: NON Ascii text
+   Score: 0.583: ORGANIZATION: Redalsh Star
+   Score: 0.772: ORGANIZATION: Telescope
+   Score: 0.875: ORGANIZATION: Binoculars E. Direction
+   Score: 0.296: ORGANIZATION: Jorfh
+   Score: 0.549: PERSON: Urs
+   Score: 0.575: PERSON: F. Angle of Sight
+   Score: 0.701: PERSON: G. Distance
+   Score: 0.327: ORGANIZATION: Infinlte H. Movements
+   Score: 0.973: ORGANIZATION: NON Ascii text
+   Score: 0.424: ORGANIZATION: Hercules
+   Score: 0.051: LOCATION: Pegasus
+   Score: 0.700: ORGANIZATION: Stonned J. Met
+   Score: 0.523: PERSON: Movin
+   Score: 0.421: ORGANIZATION: g '
+   Score: 0.752: ORGANIZATION: Clear K. Nearby Objects
+   Score: 0.396: PERSON: marsh
+   Score: 0.361: LOCATION: Hercules

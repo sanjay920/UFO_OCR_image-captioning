@@ -1,0 +1,15 @@
+   Score: 0.552: LOCATION: Newquay
+   Score: 0.908: PERSON: Hay
+   Score: 0.543: ORGANIZATION: UFO
+   Score: 0.259: PERSON: observad V@zy
+   Score: 0.781: ORGANIZATION: Air Force Base
+   Score: 0.544: ORGANIZATION: Plymouth
+   Score: 0.485: LOCATION: NON Ascii text
+   Score: 0.995: ORGANIZATION: Provost and Security Services
+   Score: 0.249: ORGANIZATION: Araa Military Authoritiea
+   Score: 0.488: PERSON: Nawgau
+   Score: 0.618: ORGANIZATION: UFO Sighting
+   Score: 0.551: ORGANIZATION: Military Al
+   Score: 0.160: ORGANIZATION: Air Base
+   Score: 0.394: ORGANIZATION: Air Ebrca Base
+   Score: 0.363: PERSON: NON Ascii text

@@ -1,0 +1,7 @@
+   Score: 0.396: PERSON: L.
+   Score: 0.346: ORGANIZATION: FJ O
+   Score: 0.469: LOCATION: Observer Location
+   Score: 0.460: ORGANIZATION: Angle of Sight
+   Score: 0.471: PERSON: NON Ascii text
+   Score: 0.411: PERSON: marsh
+   Score: 0.168: PERSON: Kot

@@ -1,0 +1,9 @@
+   Score: 0.528: PERSON: Iii
+   Score: 0.718: ORGANIZATION: Duration of Sighting
+   Score: 0.294: PERSON: OBSERVER
+   Score: 0.457: PERSON: 3inaoor/outdoor
+   Score: 0.382: ORGANIZATION: OBSERVED
+   Score: 0.487: PERSON: Person
+   Score: 0.362: PERSON: Dawley
+   Score: 0.235: ORGANIZATION: Oakengate
+   Score: 0.474: LOCATION: {Estimated Heights

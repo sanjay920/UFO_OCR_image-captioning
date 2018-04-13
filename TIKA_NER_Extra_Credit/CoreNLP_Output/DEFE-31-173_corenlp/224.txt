@@ -1,0 +1,6 @@
+NER_DATE: '15
+NER_MONEY: $HAPFO
+NER_ORGANIZATION: Alandmnrk
+NER_ORGANIZATION: RAF
+NER_ORGANIZATION: Metcrorological Conditions During Observations
+NER_PERSON: Binocnlars

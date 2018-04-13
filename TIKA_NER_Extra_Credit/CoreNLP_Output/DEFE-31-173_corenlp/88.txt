@@ -1,0 +1,17 @@
+NER_DATE: November 1967
+NER_DATE: Tuesday 27 November 1984
+NER_DATE: Wednesday 28 November 1984
+NER_LOCATION: Wharfedale Valley
+NER_LOCATION: North East
+NER_LOCATION: Yeadon Airport
+NER_MONEY: €'
+NER_ORGANIZATION: Otley Chevin
+NER_ORGANIZATION: South of Otley
+NER_ORGANIZATION: Ministry of Defence
+NER_ORGANIZATION: Headquarters
+NER_ORGANIZATION: Knotford Nook
+NER_ORGANIZATION: Headquarters Admin
+NER_ORGANIZATION: Air Traffic Controller
+NER_PERSON: Otley Chevin
+NER_PERSON: Otley
+NER_PERSON: Farnley Hall

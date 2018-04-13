@@ -1,0 +1,21 @@
+   Score: 1.204: PERSON: David
+   Score: 0.595: LOCATION: JUNE
+   Score: 0.424: PERSON: Les been
+   Score: 0.806: PERSON: David Prookter
+   Score: 0.152: LOCATION: RECOGNISEABLE
+   Score: 0.758: PERSON: Edward Karrie
+   Score: 0.289: PERSON: NON Ascii text
+   Score: 0.481: PERSON: NON Ascii text
+   Score: 0.307: ORGANIZATION: NOT_SO GOOD
+   Score: 0.332: MISC: UFO
+   Score: 0.161: LOCATION: ybu
+   Score: 0.225: PERSON: White
+   Score: 0.265: LOCATION: NON Ascii text
+   Score: 0.480: ORGANIZATION: b
+   Score: 0.469: LOCATION: NEW READERS
+   Score: 0.389: ORGANIZATION: CEK
+   Score: 0.452: ORGANIZATION: CNK
+   Score: 0.897: PERSON: Rita
+   Score: 0.273: ORGANIZATION: RITA
+   Score: 0.075: PERSON: It~wes
+   Score: 1.015: LOCATION: London

@@ -1,0 +1,8 @@
+   Score: 0.672: ORGANIZATION: Duration of Sighting
+   Score: 0.284: LOCATION: LOUGHTON
+   Score: 0.250: PERSON: NON Ascii text
+   Score: 0.389: PERSON: Lstlmated Selghts
+   Score: 0.732: LOCATION: LOUGHTON
+   Score: 0.304: PERSON: F
+   Score: 0.337: LOCATION: WINDY
+   Score: 0.144: ORGANIZATION: CLOUDLESS

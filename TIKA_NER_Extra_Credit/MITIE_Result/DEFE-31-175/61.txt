@@ -1,0 +1,8 @@
+   Score: 0.410: ORGANIZATION: NON Ascii text
+   Score: 0.542: ORGANIZATION: NON Ascii text
+   Score: 0.501: LOCATION: Tel
+   Score: 0.302: PERSON: NON Ascii text
+   Score: 0.569: PERSON: NON Ascii text
+   Score: 0.626: PERSON: AWWWAe
+   Score: 0.210: PERSON: Mb
+   Score: 0.406: LOCATION: Namein

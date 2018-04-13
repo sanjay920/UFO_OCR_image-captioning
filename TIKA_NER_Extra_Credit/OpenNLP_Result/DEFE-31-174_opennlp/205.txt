@@ -1,0 +1,2 @@
+NER_LOCATION: \3/,
+NER_PERSON: O O O .0. 0.

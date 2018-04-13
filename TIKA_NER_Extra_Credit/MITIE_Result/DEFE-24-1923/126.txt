@@ -1,0 +1,5 @@
+   Score: 0.528: ORGANIZATION: NON Ascii text
+   Score: 0.448: PERSON: Sectibn
+   Score: 0.731: PERSON: E. KOvemcnts
+   Score: 0.346: ORGANIZATION: LOCI
+   Score: 0.655: PERSON: O.

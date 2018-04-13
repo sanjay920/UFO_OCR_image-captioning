@@ -1,0 +1,4 @@
+   Score: 0.597: ORGANIZATION: RAF
+   Score: 0.350: ORGANIZATION: OOICDODDIIDIJOC
+   Score: 0.777: LOCATION: North Yorkshire
+   Score: 0.635: PERSON: Bowever

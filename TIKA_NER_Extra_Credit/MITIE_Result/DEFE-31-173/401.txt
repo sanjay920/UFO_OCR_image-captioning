@@ -1,0 +1,12 @@
+   Score: 0.411: PERSON: marsh
+   Score: 0.692: ORGANIZATION: NON Ascii text
+   Score: 1.189: ORGANIZATION: RAF Loss
+   Score: 0.868: ORGANIZATION: MAY BE School Crossing Patrol
+   Score: 0.276: ORGANIZATION: MisaSthion
+   Score: 0.935: ORGANIZATION: GE
+   Score: 0.743: ORGANIZATION: RAF
+   Score: 0.406: MISC: DI 55
+   Score: 0.879: ORGANIZATION: RAF
+   Score: 1.079: ORGANIZATION: File Rm Section
+   Score: 0.727: ORGANIZATION: Rm Section
+   Score: 0.340: ORGANIZATION: NON Ascii text

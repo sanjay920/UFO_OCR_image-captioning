@@ -1,0 +1,3 @@
+   Score: 0.641: PERSON: w.
+   Score: 0.570: PERSON: O
+   Score: 0.139: PERSON: Ir

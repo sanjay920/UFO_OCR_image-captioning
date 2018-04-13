@@ -1,0 +1,6 @@
+NER_MONEY: A¢
+NER_MONEY: $\
+NER_MONEY: €$?
+NER_ORGANIZATION: J. Meteorological
+NER_PERCENT: 33%%
+NER_PERSON: K. Nearkbz

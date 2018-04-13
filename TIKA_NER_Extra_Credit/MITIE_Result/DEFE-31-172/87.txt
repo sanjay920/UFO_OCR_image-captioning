@@ -1,0 +1,12 @@
+   Score: 0.253: PERSON: NON Ascii text
+   Score: 0.227: LOCATION: Fawn
+   Score: 0.395: ORGANIZATION: NON Ascii text
+   Score: 0.340: PERSON: E. Direct3on
+   Score: 0.475: ORGANIZATION: NON Ascii text
+   Score: 0.891: PERSON: F. Anggulax
+   Score: 0.599: PERSON: n. Hovemonts
+   Score: 0.353: PERSON: /@
+   Score: 0.419: PERSON: NON Ascii text
+   Score: 0.776: PERSON: o. Otl
+   Score: 0.972: ORGANIZATION: Date & Time
+   Score: 1.227: LOCATION: NW

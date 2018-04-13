@@ -1,0 +1,13 @@
+   Score: 0.316: PERSON: NON Ascii text
+   Score: 0.883: ORGANIZATION: Local Times
+   Score: 1.262: PERSON: Zeb
+   Score: 0.491: ORGANIZATION: NON Ascii text
+   Score: 0.459: PERSON: NPNEk
+   Score: 0.821: LOCATION: SW
+   Score: 0.376: PERSON: NON Ascii text
+   Score: 0.608: PERSON: G. Djsgj
+   Score: 0.474: ORGANIZATION: MlLfS LJcn
+   Score: 0.117: PERSON: Scsrcam H. Movements
+   Score: 0.342: PERSON: F
+   Score: 0.697: ORGANIZATION: NON Ascii text
+   Score: 0.688: ORGANIZATION: Lama PVT FMZST Clack

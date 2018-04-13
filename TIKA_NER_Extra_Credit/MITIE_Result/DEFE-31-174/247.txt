@@ -1,0 +1,8 @@
+   Score: 0.850: PERSON: A. Date
+   Score: 0.830: PERSON: B. Descn
+   Score: 1.429: PERSON: F. Angle
+   Score: 0.761: PERSON: H. Movements
+   Score: 0.342: PERSON: F
+   Score: 0.274: MISC: NON Ascii text
+   Score: 0.268: PERSON: NON Ascii text
+   Score: 0.403: PERSON: May/MW

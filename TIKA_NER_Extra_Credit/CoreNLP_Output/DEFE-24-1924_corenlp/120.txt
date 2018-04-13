@@ -1,0 +1,6 @@
+NER_DATE: November 1985
+NER_DATE: February 1986
+NER_LOCATION: West Draytona
+NER_ORGANIZATION: Kirklees Division
+NER_ORGANIZATION: The0 Ministry of Defence Duty Controller Aeronautical Information Services
+NER_ORGANIZATION: WFI

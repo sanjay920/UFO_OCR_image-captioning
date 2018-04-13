@@ -1,0 +1,5 @@
+NER_MONEY: 3i¢
+NER_ORGANIZATION: E. Direction
+NER_ORGANIZATION: H. Movements
+NER_PERCENT: 1.24%
+NER_PERSON: B. Descrigtion

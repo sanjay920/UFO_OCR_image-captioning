@@ -1,0 +1,10 @@
+   Score: 0.312: PERSON: Poiicc
+   Score: 0.224: ORGANIZATION: NON Ascii text
+   Score: 0.319: ORGANIZATION: CAN/JAM
+   Score: 0.372: PERSON: Hoyuu4+g
+   Score: 0.811: PERSON: Mama
+   Score: 0.709: PERSON: Nova n V
+   Score: 0.557: MISC: NON Ascii text
+   Score: 0.540: PERSON: NON Ascii text
+   Score: 0.535: ORGANIZATION: NON Ascii text
+   Score: 0.886: PERSON: H.

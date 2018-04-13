@@ -1,0 +1,5 @@
+   Score: 0.863: PERSON: h.
+   Score: 0.484: PERSON: C.
+   Score: 0.887: PERSON: O
+   Score: 0.848: PERSON: O. O O O O O
+   Score: 0.706: ORGANIZATION: O O O O O

@@ -1,0 +1,10 @@
+   Score: 0.242: PERSON: Sightiug
+   Score: 0.712: ORGANIZATION: DESCRIPTION OF OBJECT
+   Score: 0.330: PERSON: OBSERVER
+   Score: 0.661: ORGANIZATION: MAM
+   Score: 0.517: ORGANIZATION: HOV OBSERVED
+   Score: 0.154: LOCATION: ANGLE
+   Score: 0.696: PERSON: NON Ascii text
+   Score: 0.494: ORGANIZATION: NON Ascii text
+   Score: 0.054: ORGANIZATION: ~1andmark
+   Score: 0.331: PERSON: F

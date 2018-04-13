@@ -1,0 +1,10 @@
+   Score: 0.664: ORGANIZATION: o o
+   Score: 0.268: PERSON: r J.
+   Score: 0.825: PERSON: : ng e S
+   Score: 0.463: PERSON: NON Ascii text
+   Score: 0.560: ORGANIZATION: 1
+   Score: 0.693: ORGANIZATION: NON Ascii text
+   Score: 0.259: PERSON: NON Ascii text
+   Score: 0.367: PERSON: NON Ascii text
+   Score: 0.630: LOCATION: dc
+   Score: 0.595: ORGANIZATION: xi

@@ -1,0 +1,13 @@
+   Score: 0.257: ORGANIZATION: NON Ascii text
+   Score: 0.408: ORGANIZATION: NON Ascii text
+   Score: 0.823: ORGANIZATION: LOOSE MINUTE
+   Score: 0.915: PERSON: A. D/SEC
+   Score: 0.453: ORGANIZATION: AS
+   Score: 0.920: PERSON: B. D/US
+   Score: 0.632: ORGANIZATION: DGT
+   Score: 0.631: MISC: US
+   Score: 0.470: LOCATION: NON Ascii text
+   Score: 0.453: LOCATION: UFOs
+   Score: 0.660: MISC: US
+   Score: 0.544: MISC: UFO
+   Score: 0.700: PERSON: alia

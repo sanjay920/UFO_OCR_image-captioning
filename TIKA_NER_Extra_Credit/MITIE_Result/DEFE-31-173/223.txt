@@ -1,0 +1,5 @@
+   Score: 0.475: ORGANIZATION: Royal A " Force
+   Score: 0.205: ORGANIZATION: Umtcd Klngdam
+   Score: 0.458: ORGANIZATION: Hawlhom Willshire
+   Score: 0.867: ORGANIZATION: SNB
+   Score: 0.517: PERSON: Ielephone HawthornSeCt

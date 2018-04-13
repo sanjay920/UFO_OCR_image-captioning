@@ -1,0 +1,22 @@
+   Score: 0.497: PERSON: Xv
+   Score: 0.525: ORGANIZATION: NON Ascii text
+   Score: 0.800: ORGANIZATION: ETA
+   Score: 0.573: ORGANIZATION: MODUK AIR
+   Score: 0.171: PERSON: C. HARD HILL
+   Score: 0.262: LOCATION: BENHAR
+   Score: 0.823: PERSON: D. BINOCUEARS
+   Score: 0.700: PERSON: F.
+   Score: 0.690: PERSON: A.
+   Score: 0.506: PERSON: J. SKY
+   Score: 0.957: ORGANIZATION: SAC
+   Score: 1.039: ORGANIZATION: TA AYNSLEY PAEE
+   Score: 0.539: PERSON: O. YES
+   Score: 1.081: ORGANIZATION: CAB
+   Score: 0.319: LOCATION: DSCIAFDO
+   Score: 0.446: PERSON: NON Ascii text
+   Score: 0.335: LOCATION: E._.
+   Score: 0.873: ORGANIZATION: GE
+   Score: 0.819: ORGANIZATION: RAF
+   Score: 0.818: ORGANIZATION: NON Ascii text
+   Score: 0.939: ORGANIZATION: DST
+   Score: 0.644: PERSON: NON Ascii text

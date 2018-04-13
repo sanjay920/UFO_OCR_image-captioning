@@ -1,0 +1,21 @@
+   Score: 0.303: ORGANIZATION: NON Ascii text
+   Score: 0.675: PERSON: Humber
+   Score: 0.988: PERSON: Jo 0L3$icui
+   Score: 0.438: PERSON: C. xaet
+   Score: 0.667: ORGANIZATION: LA
+   Score: 0.452: PERSON: Ian
+   Score: 0.750: PERSON: De mOre
+   Score: 0.371: PERSON: I.\
+   Score: 0.235: PERSON: L\LL\\
+   Score: 0.665: PERSON: NON Ascii text
+   Score: 0.352: PERSON: NON Ascii text
+   Score: 0.288: ORGANIZATION: \_\A
+   Score: 0.319: PERSON: NON Ascii text
+   Score: 0.918: PERSON: G. Disrance
+   Score: 0.426: ORGANIZATION: NON Ascii text
+   Score: 0.800: PERSON: NON Ascii text
+   Score: 0.768: PERSON: NON Ascii text
+   Score: 0.613: PERSON: t. $L\
+   Score: 0.188: PERSON: S
+   Score: 0.614: ORGANIZATION: OLF
+   Score: 0.339: PERSON: ~;V\

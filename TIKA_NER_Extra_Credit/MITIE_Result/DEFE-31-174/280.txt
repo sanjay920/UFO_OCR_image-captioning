@@ -1,0 +1,11 @@
+   Score: 0.358: PERSON: Jle;L
+   Score: 0.890: ORGANIZATION: Armed Forces , House of Lords
+   Score: 0.975: LOCATION: London
+   Score: 0.741: PERSON: Mi
+   Score: 1.373: LOCATION: London
+   Score: 1.220: ORGANIZATION: Ministry of Defence
+   Score: 1.109: ORGANIZATION: Civil Aviation Authority
+   Score: 1.107: MISC: British
+   Score: 0.639: MISC: civilian
+   Score: 1.143: ORGANIZATION: United States Air Force
+   Score: 0.842: ORGANIZATION: your Department

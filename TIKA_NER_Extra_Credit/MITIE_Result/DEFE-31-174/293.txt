@@ -1,0 +1,6 @@
+   Score: 0.296: PERSON: Spherical
+   Score: 0.661: LOCATION: Horsham
+   Score: 0.352: PERSON: w. Sussex
+   Score: 1.153: LOCATION: Gatwick
+   Score: 0.626: ORGANIZATION: Air Traffic
+   Score: 0.788: ORGANIZATION: Surrey

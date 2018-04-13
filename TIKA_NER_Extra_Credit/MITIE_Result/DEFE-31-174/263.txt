@@ -1,0 +1,3 @@
+   Score: 0.559: PERSON: wci Date
+   Score: 0.278: ORGANIZATION: Receipt of Report
+   Score: 0.291: MISC: NON Ascii text

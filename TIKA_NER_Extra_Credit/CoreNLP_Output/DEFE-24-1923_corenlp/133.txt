@@ -1,0 +1,3 @@
+NER_MONEY: $355
+NER_PERCENT: #%
+NER_PERSON: K. Nearobz

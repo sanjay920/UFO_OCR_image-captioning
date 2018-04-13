@@ -1,0 +1,7 @@
+NER_LOCATION: United States
+NER_ORGANIZATION: Ministry of Defence,
+NER_ORGANIZATION: UKLF
+NER_ORGANIZATION: DSTI D Air Def
+NER_PERSON: Lord Hill— Norton
+NER_PERSON: Lord Hill-Norton
+NER_PERSON: Lord Trefgarne

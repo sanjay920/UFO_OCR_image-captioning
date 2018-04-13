@@ -1,0 +1,5 @@
+NER_DATE: May 86
+NER_ORGANIZATION: Sec
+NER_ORGANIZATION: M. Name & Address of Informant vondon L N. Background
+NER_ORGANIZATION: Time of Receipt
+NER_ORGANIZATION: Conditions R. Remarks Nil Squadron Leader Duty Operations Officer Date

@@ -1,0 +1,17 @@
+   Score: 0.829: ORGANIZATION: The Department
+   Score: 0.936: MISC: British
+   Score: 0.760: ORGANIZATION: Cable News Network
+   Score: 0.545: ORGANIZATION: MOD
+   Score: 0.429: PERSON: Halt
+   Score: 0.428: ORGANIZATION: USAF
+   Score: 0.696: ORGANIZATION: British Service
+   Score: 0.560: ORGANIZATION: RAF Watton
+   Score: 0.408: ORGANIZATION: MOD
+   Score: 0.493: ORGANIZATION: MOD
+   Score: 0.526: ORGANIZATION: MOD
+   Score: 0.977: MISC: British
+   Score: 0.409: ORGANIZATION: USAF
+   Score: 0.580: ORGANIZATION: MOD
+   Score: 0.598: ORGANIZATION: USAF
+   Score: 1.322: MISC: British
+   Score: 1.121: PERSON: Ralph Noyes

@@ -1,0 +1,6 @@
+   Score: 0.912: ORGANIZATION: NON Ascii text
+   Score: 0.448: ORGANIZATION: u ,
+   Score: 0.286: PERSON: NON Ascii text
+   Score: 0.537: PERSON: Z.
+   Score: 0.440: PERSON: I_
+   Score: 0.534: PERSON: NON Ascii text

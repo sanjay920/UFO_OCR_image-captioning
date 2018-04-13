@@ -1,0 +1,5 @@
+NER_LOCATION: Camp Farm
+NER_ORGANIZATION: Aldershot News
+NER_ORGANIZATION: Royal Electrical and Mechanical Engineers
+NER_ORGANIZATION: National Enquirer,
+NER_ORGANIZATION: Surrey Investigation Group

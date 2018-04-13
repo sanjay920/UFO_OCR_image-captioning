@@ -1,0 +1,5 @@
+NER_LOCATION: 3.
+NER_ORGANIZATION: OBJECT
+NER_PERSON: Objects. M ’
+NER_PERSON: Ebteorolo;ic-l Conditions During Observations. Hoving
+NER_PERSON: 1.

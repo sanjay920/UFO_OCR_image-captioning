@@ -1,0 +1,9 @@
+   Score: 0.168: PERSON: Sightirbg
+   Score: 0.431: ORGANIZATION: MTW
+   Score: 0.305: PERSON: NON Ascii text
+   Score: 0.268: PERSON: E. Direction
+   Score: 0.905: PERSON: J. Meteorolggical
+   Score: 0.314: PERSON: NON Ascii text
+   Score: 0.512: PERSON: M. Name
+   Score: 0.594: PERSON: NON Ascii text
+   Score: 0.901: PERSON: Nu P. Date

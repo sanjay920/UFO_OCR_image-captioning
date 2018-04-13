@@ -1,0 +1,9 @@
+   Score: 0.508: PERSON: J. Meteorological
+   Score: 0.753: ORGANIZATION: VW
+   Score: 0.693: PERSON: K. Nearobz
+   Score: 0.258: ORGANIZATION: Telephone
+   Score: 1.056: PERSON: Spires
+   Score: 0.478: PERSON: L. To
+   Score: 0.512: ORGANIZATION: N.
+   Score: 0.637: PERSON: Ma
+   Score: 0.437: ORGANIZATION: P.

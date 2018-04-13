@@ -1,0 +1,6 @@
+NER_LOCATION: Earth
+NER_ORGANIZATION: Local Sidereal Time: RA;
+NER_ORGANIZATION: ORION
+NER_ORGANIZATION: YORK Astronomical Society Halley‘s Comet
+NER_PERSON: Martin Dawson
+NER_PERSON: Roger C° Moldander

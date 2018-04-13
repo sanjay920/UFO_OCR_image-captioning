@@ -1,0 +1,8 @@
+NER_DATE: 0
+NER_DATE: 04
+NER_ORGANIZATION: G. Distance of Object
+NER_ORGANIZATION: Time Duration of Sighting
+NER_ORGANIZATION: C. Exact Position of Observer
+NER_ORGANIZATION: B. Direction
+NER_PERCENT: 364%
+NER_PERSON: J. Iictcorolog

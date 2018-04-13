@@ -1,0 +1,3 @@
+NER_LOCATION: London
+NER_LOCATION: Ta
+NER_PERSON: Conditions M

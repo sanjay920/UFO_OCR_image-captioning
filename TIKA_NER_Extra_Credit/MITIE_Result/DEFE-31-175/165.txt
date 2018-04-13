@@ -1,0 +1,18 @@
+   Score: 0.381: ORGANIZATION: NON Ascii text
+   Score: 0.927: ORGANIZATION: RAF
+   Score: 1.277: ORGANIZATION: NODUK AIR
+   Score: 0.927: ORGANIZATION: NON Ascii text
+   Score: 0.789: ORGANIZATION: Id In
+   Score: 0.470: PERSON: H
+   Score: 0.891: ORGANIZATION: NON Ascii text
+   Score: 0.818: PERSON: p. H
+   Score: 0.455: ORGANIZATION: IJB
+   Score: 0.497: PERSON: E. TO
+   Score: 0.638: PERSON: NON Ascii text
+   Score: 0.275: PERSON: 00f UNCLAS
+   Score: 1.156: ORGANIZATION: DEC
+   Score: 0.310: PERSON: O. P. PT
+   Score: 0.509: ORGANIZATION: 0M
+   Score: 0.843: ORGANIZATION: DD GE/AEN DI
+   Score: 1.362: ORGANIZATION: DSTI
+   Score: 0.723: ORGANIZATION: CAU CAV

@@ -1,0 +1,5 @@
+NER_DATE: June 1985
+NER_DATE: July 1985
+NER_LOCATION: London
+NER_ORGANIZATION: Sec
+NER_ORGANIZATION: the Ministry of Defence

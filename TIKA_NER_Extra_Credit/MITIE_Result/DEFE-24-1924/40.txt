@@ -1,0 +1,8 @@
+   Score: 0.924: ORGANIZATION: Time &
+   Score: 0.513: PERSON: Landau Locatian
+   Score: 0.237: PERSON: Distance {Bu
+   Score: 0.621: PERSON: H. Mavements
+   Score: 0.525: MISC: E. F &
+   Score: 1.107: LOCATION: NE
+   Score: 0.429: ORGANIZATION: J. Met
+   Score: 0.360: PERSON: Nan

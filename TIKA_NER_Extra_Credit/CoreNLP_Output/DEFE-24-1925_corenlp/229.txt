@@ -1,0 +1,15 @@
+NER_DATE: June 1985
+NER_DATE: May
+NER_DATE: earlier this month
+NER_DATE: February
+NER_LOCATION: Cornwall
+NER_LOCATION: Cheshire
+NER_LOCATION: Plymouth
+NER_LOCATION: NEWQUAY
+NER_LOCATION: London
+NER_LOCATION: Devon
+NER_LOCATION: Winsford
+NER_ORGANIZATION: Air Fbrce Baae
+NER_ORGANIZATION: the Ministry of Defence
+NER_ORGANIZATION: UFD Assaciationa
+NER_PERSON: St Mawgan

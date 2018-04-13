@@ -1,0 +1,6 @@
+   Score: 0.620: PERSON: Minister
+   Score: 0.442: ORGANIZATION: MOD
+   Score: 0.539: ORGANIZATION: DS
+   Score: 0.511: ORGANIZATION: AS
+   Score: 0.700: ORGANIZATION: MB
+   Score: 0.326: ORGANIZATION: MB

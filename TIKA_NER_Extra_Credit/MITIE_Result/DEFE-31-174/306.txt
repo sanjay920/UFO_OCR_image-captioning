@@ -1,0 +1,15 @@
+   Score: 0.474: PERSON: NON Ascii text
+   Score: 0.827: ORGANIZATION: NON Ascii text
+   Score: 0.765: ORGANIZATION: NON Ascii text
+   Score: 0.287: PERSON: Vlth
+   Score: 0.574: ORGANIZATION: Ob5erver hallsend Police Station
+   Score: 0.672: PERSON: Tyne & Weir
+   Score: 0.371: ORGANIZATION: E. Direction
+   Score: 0.934: LOCATION: South
+   Score: 0.289: LOCATION: Wallsend
+   Score: 0.525: ORGANIZATION: Police Station
+   Score: 0.345: PERSON: F. Angle of Sight
+   Score: 0.749: ORGANIZATION: F &
+   Score: 0.433: ORGANIZATION: J. Met
+   Score: 0.411: PERSON: marsh
+   Score: 0.243: ORGANIZATION: Cranes

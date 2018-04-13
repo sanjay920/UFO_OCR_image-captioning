@@ -1,0 +1,11 @@
+   Score: 0.632: PERSON: L.
+   Score: 0.334: MISC: M. Name
+   Score: 1.110: ORGANIZATION: Informant Air Force Operatidns Weston-Super- Mare
+   Score: 0.796: ORGANIZATION: UFO Society
+   Score: 0.662: PERSON: P. Date
+   Score: 0.554: ORGANIZATION: Unusual Meteorological
+   Score: 0.355: PERSON: /\
+   Score: 0.561: ORGANIZATION: AS
+   Score: 1.092: ORGANIZATION: AEW/GE DI
+   Score: 0.462: MISC: Duty Operations
+   Score: 0.339: MISC: AF Ops

@@ -1,0 +1,2 @@
+   Score: 0.770: ORGANIZATION: NON Ascii text
+   Score: 0.305: LOCATION: UFOs

@@ -1,0 +1,5 @@
+NER_LOCATION: Tel No:
+NER_LOCATION: \«3;$:B\& MM19-Q— l Qua. w‘Gk-c.
+NER_ORGANIZATION: HQ Pﬂgscng] Qu'bwe
+NER_ORGANIZATION: Rank Cfg Tel No: -
+NER_ORGANIZATION: 2. Sight

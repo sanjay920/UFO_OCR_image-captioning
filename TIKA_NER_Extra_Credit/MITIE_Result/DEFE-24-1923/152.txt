@@ -1,0 +1,13 @@
+   Score: 0.842: ORGANIZATION: BT
+   Score: 0.486: PERSON: Brsgyfaurxen
+   Score: 1.005: ORGANIZATION: CAB
+   Score: 0.458: ORGANIZATION: AS
+   Score: 1.130: ORGANIZATION: NON Ascii text
+   Score: 1.326: ORGANIZATION: CAN
+   Score: 1.056: ORGANIZATION: ACS
+   Score: 0.789: ORGANIZATION: CYD
+   Score: 1.112: ORGANIZATION: CAV
+   Score: 0.722: PERSON: ;/\i
+   Score: 0.624: PERSON: NON Ascii text
+   Score: 0.501: ORGANIZATION: /$
+   Score: 0.722: PERSON: O

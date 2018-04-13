@@ -1,0 +1,13 @@
+   Score: 0.427: ORGANIZATION: NEARBY OBJECTS
+   Score: 0.466: ORGANIZATION: WHOM
+   Score: 0.201: LOCATION: Rochsoles
+   Score: 1.133: ORGANIZATION: Airdrie Section
+   Score: 0.477: ORGANIZATION: METEOROLOGICAL
+   Score: 0.283: ORGANIZATION: Sqn Idr
+   Score: 0.950: ORGANIZATION: GE
+   Score: 0.642: ORGANIZATION: RAF
+   Score: 0.495: MISC: DI 55
+   Score: 0.956: ORGANIZATION: RAF
+   Score: 1.089: ORGANIZATION: File Rm Section
+   Score: 0.696: ORGANIZATION: Rm Section
+   Score: 0.773: ORGANIZATION: Main Bldg Main Bldg Metropole

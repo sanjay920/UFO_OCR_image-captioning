@@ -1,0 +1,11 @@
+   Score: 0.550: PERSON: NON Ascii text
+   Score: 1.089: PERSON: A. Date
+   Score: 0.484: PERSON: Plumber
+   Score: 0.101: PERSON: Wrwref
+   Score: 0.360: ORGANIZATION: EVQXM
+   Score: 0.306: PERSON: E. Direction
+   Score: 1.022: PERSON: F. Angle
+   Score: 0.610: LOCATION: WA
+   Score: 0.797: PERSON: G. DistanCe
+   Score: 0.573: PERSON: H. Movements
+   Score: 0.342: PERSON: F

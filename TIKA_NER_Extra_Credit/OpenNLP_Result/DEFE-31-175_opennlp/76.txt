@@ -1,0 +1,3 @@
+NER_ORGANIZATION: Unknown Movements
+NER_ORGANIZATION: F & G
+NER_ORGANIZATION: MPH Met Conditions

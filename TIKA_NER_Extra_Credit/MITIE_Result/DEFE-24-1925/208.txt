@@ -1,0 +1,6 @@
+   Score: 0.511: ORGANIZATION: Fore
+   Score: 0.479: PERSON: L.
+   Score: 0.385: PERSON: Lindon
+   Score: 0.196: ORGANIZATION: UDWEUB
+   Score: 1.001: PERSON: Vanna
+   Score: 0.327: ORGANIZATION: NON Ascii text

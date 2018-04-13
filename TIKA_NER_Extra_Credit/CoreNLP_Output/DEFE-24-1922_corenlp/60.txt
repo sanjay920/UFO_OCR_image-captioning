@@ -1,0 +1,10 @@
+NER_DATE: 1113
+NER_MONEY: $J
+NER_ORGANIZATION: Obs
+NER_ORGANIZATION: Mia WILWJ Movements of Object
+NER_ORGANIZATION: Time Duration of Sighting
+NER_ORGANIZATION: ic-l Conditions During Observations
+NER_PERCENT: 16.4% 01%
+NER_PERCENT: 11%
+NER_PERCENT: New %
+NER_PERCENT: 6%

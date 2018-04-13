@@ -1,0 +1,9 @@
+   Score: 0.544: ORGANIZATION: NON Ascii text
+   Score: 0.791: ORGANIZATION: MINISTRY OF DEFENCE Room
+   Score: 0.205: ORGANIZATION: Main Building
+   Score: 0.828: LOCATION: Whitehall London
+   Score: 0.097: MISC: Switchboard
+   Score: 0.363: PERSON: D/Sec
+   Score: 0.361: ORGANIZATION: AS
+   Score: 0.459: ORGANIZATION: RAF Woodbridge
+   Score: 0.731: ORGANIZATION: UFO

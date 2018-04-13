@@ -1,0 +1,8 @@
+   Score: 0.353: PERSON: NON Ascii text
+   Score: 0.566: PERSON: m. t w.
+   Score: 0.704: LOCATION: RI
+   Score: 0.552: PERSON: f _i
+   Score: 0.414: ORGANIZATION: 7
+   Score: 0.725: ORGANIZATION: TI
+   Score: 0.577: PERSON: I. II
+   Score: 0.227: PERSON: NON Ascii text

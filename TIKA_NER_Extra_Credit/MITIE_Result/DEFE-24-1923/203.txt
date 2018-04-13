@@ -1,0 +1,20 @@
+   Score: 0.448: PERSON: Kirklees
+   Score: 0.442: PERSON: Kirklees
+   Score: 0.546: ORGANIZATION: Huddersfield
+   Score: 0.579: ORGANIZATION: Huddersfield
+   Score: 0.730: ORGANIZATION: Manchester Air Traffic Control
+   Score: 0.486: ORGANIZATION: Sky
+   Score: 0.124: LOCATION: Castle Hill
+   Score: 0.347: LOCATION: Emley Moor
+   Score: 0.474: PERSON: Emley
+   Score: 0.343: LOCATION: Huddersfield
+   Score: 0.589: PERSON: Admin
+   Score: 1.714: ORGANIZATION: Ministry of Defence , Department
+   Score: 0.610: ORGANIZATION: Air
+   Score: 0.185: ORGANIZATION: Main Building
+   Score: 0.760: LOCATION: Whitehall
+   Score: 1.263: LOCATION: London
+   Score: 0.688: LOCATION: Holmfirth Police Station
+   Score: 0.350: PERSON: Castle Hill
+   Score: 0.521: PERSON: Almondbury
+   Score: 0.318: LOCATION: Huddersfield

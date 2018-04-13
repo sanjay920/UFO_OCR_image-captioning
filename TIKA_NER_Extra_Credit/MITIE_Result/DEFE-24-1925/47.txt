@@ -1,0 +1,24 @@
+   Score: 0.455: PERSON: NON Ascii text
+   Score: 0.828: PERSON: M.
+   Score: 1.097: LOCATION: Britain
+   Score: 0.708: ORGANIZATION: UFO
+   Score: 1.343: PERSON: Charles Walker
+   Score: 0.450: LOCATION: Patching
+   Score: 0.755: ORGANIZATION: Sussex
+   Score: 0.415: ORGANIZATION: UFO
+   Score: 0.571: MISC: UFO
+   Score: 1.414: PERSON: Wayne Lewis
+   Score: 1.222: PERSON: Ricky
+   Score: 0.200: LOCATION: Clapham
+   Score: 0.334: LOCATION: Patching
+   Score: 0.754: PERSON: Clapham Wood
+   Score: 0.719: ORGANIZATION: UFO
+   Score: 0.241: LOCATION: Patching
+   Score: 0.771: PERSON: Bratton
+   Score: 0.360: ORGANIZATION: Wiitshire
+   Score: 0.368: MISC: Warmins-
+   Score: 0.680: MISC: UFO
+   Score: 0.578: LOCATION: Hampshire
+   Score: 0.773: LOCATION: Wiltshire
+   Score: 0.717: ORGANIZATION: Hampshire
+   Score: 0.576: ORGANIZATION: THE UNKNOWN

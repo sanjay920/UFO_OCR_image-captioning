@@ -1,0 +1,3 @@
+NER_LOCATION: W n..%Cvo V a.
+NER_PERSON: DI L:
+NER_PERSON: W n..%Cvo V

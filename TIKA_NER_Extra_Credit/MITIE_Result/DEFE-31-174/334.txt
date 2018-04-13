@@ -1,0 +1,8 @@
+   Score: 0.382: PERSON: <1 B. Descri
+   Score: 0.556: PERSON: NON Ascii text
+   Score: 0.930: PERSON: Hind C.
+   Score: 1.107: PERSON: r. Angle
+   Score: 0.267: PERSON: NON Ascii text
+   Score: 0.473: PERSON: NON Ascii text
+   Score: 0.715: PERSON: B. Hovennts
+   Score: 0.425: LOCATION: KL

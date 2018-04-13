@@ -1,0 +1,5 @@
+NER_MONEY: ‘¢
+NER_ORGANIZATION: H. Name & Address of Informant
+NER_ORGANIZATION: Time Duration of Sighting
+NER_ORGANIZATION: UON u. Distance of Object
+NER_ORGANIZATION: UA

@@ -1,0 +1,6 @@
+   Score: 0.327: LOCATION: MN \an
+   Score: 0.251: LOCATION: NON Ascii text
+   Score: 0.417: ORGANIZATION: NON Ascii text
+   Score: 0.378: PERSON: NON Ascii text
+   Score: 0.547: ORGANIZATION: &%VP\@\
+   Score: 0.259: ORGANIZATION: RPM

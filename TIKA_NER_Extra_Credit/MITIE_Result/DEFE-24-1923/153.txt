@@ -1,0 +1,11 @@
+   Score: 0.871: PERSON: J.
+   Score: 0.635: ORGANIZATION: Sighting
+   Score: 0.488: ORGANIZATION: NON Ascii text
+   Score: 0.758: ORGANIZATION: MM Value M W30
+   Score: 0.912: ORGANIZATION: NON Ascii text
+   Score: 0.500: ORGANIZATION: NMCIV
+   Score: 0.632: ORGANIZATION: Angle of Sight
+   Score: 0.881: ORGANIZATION: VVV VVVVVW Movements
+   Score: 0.460: ORGANIZATION: Gm
+   Score: 0.411: PERSON: marsh
+   Score: 0.256: ORGANIZATION: Nb

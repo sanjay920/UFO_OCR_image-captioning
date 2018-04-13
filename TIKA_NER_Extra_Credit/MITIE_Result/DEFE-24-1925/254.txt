@@ -1,0 +1,150 @@
+   Score: 0.429: ORGANIZATION: OSEAP
+   Score: 0.365: ORGANIZATION: OSEAP
+   Score: 0.830: LOCATION: UK
+   Score: 0.459: LOCATION: HAGONIA
+   Score: 0.643: LOCATION: New Malden
+   Score: 0.603: ORGANIZATION: Surrey
+   Score: 0.639: PERSON: Whittlavwod>Clqse
+   Score: 0.313: PERSON: Gorse_Covert
+   Score: 0.307: PERSON: WA}
+   Score: 0.588: PERSON: NON Ascii text
+   Score: 0.541: LOCATION: Leicester
+   Score: 0.206: ORGANIZATION: Beaufort Aveax
+   Score: 0.673: LOCATION: Birmingham
+   Score: 0.335: LOCATION: NBSSLETTER
+   Score: 0.525: PERSON: Huntshieldford
+   Score: 0.717: LOCATION: Chapel
+   Score: 0.200: LOCATION: Bishop Auckland
+   Score: 0.278: PERSON: Co Durham
+   Score: 0.368: LOCATION: Riverside Cattage
+   Score: 0.421: LOCATION: Harpford
+   Score: 0.422: LOCATION: Sidmouth
+   Score: 0.737: PERSON: Devan
+   Score: 0.337: ORGANIZATION: EX1O ONG
+   Score: 0.415: PERSON: NW5
+   Score: 1.534: PERSON: Deirdre O 'Neill
+   Score: 0.265: LOCATION: Heathfield Gardens
+   Score: 1.225: LOCATION: London
+   Score: 0.461: PERSON: Aantsbury
+   Score: 0.346: LOCATION: Weymouthg Dorset
+   Score: 0.269: LOCATION: Torbrex Road
+   Score: 0.419: PERSON: Cumbernauld
+   Score: 0.923: LOCATION: Glasgow
+   Score: 0.404: MISC: G67
+   Score: 0.224: LOCATION: BUFORA
+   Score: 0.728: PERSON: James Drive
+   Score: 0.559: LOCATION: Whittlesey
+   Score: 0.261: PERSON: Peterborcugh
+   Score: 0.236: LOCATION: EARTHLINES
+   Score: 0.415: PERSON: Brookfieldg Stirchley
+   Score: 0.237: PERSON: Shropshire
+   Score: 0.836: ORGANIZATION: NON Ascii text
+   Score: 1.130: PERSON: NON Ascii text
+   Score: 0.660: LOCATION: New Brighton
+   Score: 0.317: PERSON: Wirral
+   Score: 0.369: ORGANIZATION: LLS
+   Score: 0.837: PERSON: NON Ascii text
+   Score: 0.503: PERSON: Lenzie
+   Score: 0.419: LOCATION: Kirkintilloch
+   Score: 0.572: PERSON: Glasgaw
+   Score: 0.347: LOCATION: INSIGKT
+   Score: 0.337: PERSON: Calmore Clnse
+   Score: 0.308: LOCATION: Souvvale Meadows
+   Score: 0.401: PERSON: Bcurnemouth
+   Score: 0.526: LOCATION: Dorset
+   Score: 0.210: ORGANIZATION: r CENAP
+   Score: 0.625: PERSON: Eiscnacher Wag
+   Score: 0.947: LOCATION: Mannheim
+   Score: 1.204: LOCATION: Germany
+   Score: 0.510: LOCATION: UFOLOGIA
+   Score: 0.264: PERSON: NON Ascii text
+   Score: 0.298: LOCATION: ODISEJA
+   Score: 0.521: PERSON: Mileinskega
+   Score: 0.222: PERSON: 61000 Ljublana
+   Score: 0.402: PERSON: Slovenija
+   Score: 0.443: LOCATION: IL SENSATITOLO
+   Score: 0.223: PERSON: Via TCTina
+   Score: 1.120: LOCATION: Italy
+   Score: 0.147: ORGANIZATION: NON Ascii text
+   Score: 0.236: PERSON: Pwstfach
+   Score: 0.402: ORGANIZATION: D-SR8O Ludenscheid
+   Score: 1.101: LOCATION: Germany
+   Score: 0.222: LOCATION: Istagkul
+   Score: 0.317: LOCATION: NYHETSBLAD
+   Score: 0.476: PERSON: PuOn B3X
+   Score: 1.300: LOCATION: Sweden
+   Score: 0.434: PERSON: Margrethevej
+   Score: 1.050: LOCATION: Denmark
+   Score: 0.381: ORGANIZATION: Casa Pastale
+   Score: 0.406: PERSON: Vevey
+   Score: 0.977: LOCATION: Switzerland
+   Score: 0.291: LOCATION: NOTIZIARO UFO/baUuNu
+   Score: 0.504: PERSON: Via Magerta
+   Score: 0.736: PERSON: NON Ascii text
+   Score: 0.288: ORGANIZATION: NEWSFLASH
+   Score: 1.116: PERSON: NON Ascii text
+   Score: 0.239: ORGANIZATION: P.0a BOX
+   Score: 0.229: LOCATION: 25121 Brescia
+   Score: 0.991: LOCATION: Italy
+   Score: 0.528: PERSON: Adelai&%
+   Score: 0.206: PERSON: NON Ascii text
+   Score: 0.309: ORGANIZATION: UFO
+   Score: 1.052: PERSON: K. Albertstraat
+   Score: 1.023: LOCATION: Hasselt
+   Score: 1.100: LOCATION: Belgium
+   Score: 0.352: LOCATION: UFOLOGIA
+   Score: 0.127: PERSON: NON Ascii text
+   Score: 0.995: LOCATION: France
+   Score: 0.426: PERSON: Ev Zentrale Wiesbadenr
+   Score: 0.485: PERSON: NON Ascii text
+   Score: 0.394: ORGANIZATION: Germanyo GEP
+   Score: 0.259: PERSON: Postfach
+   Score: 0.529: PERSON: Ludenscheid
+   Score: 1.138: LOCATION: Germany
+   Score: 0.948: PERSON: Via Cardinale
+   Score: 0.636: ORGANIZATION: Roma
+   Score: 0.292: LOCATION: Itaiy
+   Score: 0.499: PERSON: Dever
+   Score: 0.210: LOCATION: NON Ascii text
+   Score: 0.306: LOCATION: P.O
+   Score: 0.784: LOCATION: Australia
+   Score: 0.152: LOCATION: ACBFOA
+   Score: 0.635: PERSON: NON Ascii text
+   Score: 0.309: PERSON: Findnn
+   Score: 0.482: PERSON: NON Ascii text
+   Score: 0.137: ORGANIZATION: NON Ascii text
+   Score: 0.745: LOCATION: NON Ascii text
+   Score: 1.056: LOCATION: Tasmania
+   Score: 0.997: LOCATION: Australia
+   Score: 0.429: PERSON: Emontmn
+   Score: 0.576: PERSON: NON Ascii text
+   Score: 0.955: LOCATION: Canada
+   Score: 0.498: PERSON: Bax
+   Score: 1.016: LOCATION: Winnipeg
+   Score: 1.137: LOCATION: Manitoba
+   Score: 0.946: LOCATION: Canada
+   Score: 0.122: ORGANIZATION: NEWSLETTE
+   Score: 0.717: ORGANIZATION: Augusta St
+   Score: 0.768: LOCATION: Cambridge
+   Score: 0.926: LOCATION: Ontario
+   Score: 0.220: PERSON: N1R
+   Score: 0.799: LOCATION: Canada
+   Score: 0.417: ORGANIZATION: St Johns Ave
+   Score: 1.128: LOCATION: Highfield Park
+   Score: 0.631: LOCATION: Illinois
+   Score: 0.519: LOCATION: Plumerville
+   Score: 0.483: LOCATION: Ark
+   Score: 0.690: LOCATION: USA
+   Score: 0.419: ORGANIZATION: NON Ascii text
+   Score: 0.208: ORGANIZATION: NON Ascii text
+   Score: 0.745: LOCATION: California
+   Score: 0.767: LOCATION: USA
+   Score: 0.355: LOCATION: STIGMATAT
+   Score: 1.026: LOCATION: Paris
+   Score: 0.644: LOCATION: Texas
+   Score: 0.712: LOCATION: USA
+   Score: 0.468: LOCATION: SHAVERTRON
+   Score: 0.225: ORGANIZATION: Caghlan St
+   Score: 0.443: PERSON: Vhllejn
+   Score: 0.720: LOCATION: California
+   Score: 0.737: LOCATION: USA

@@ -1,0 +1,13 @@
+NER_ORGANIZATION: RAF Bentwaters. There
+NER_ORGANIZATION: CAUS Researcher
+NER_ORGANIZATION: RAF Bentwaters
+NER_ORGANIZATION: US Air Force
+NER_ORGANIZATION: Air Force’s
+NER_ORGANIZATION: Air Force’s S 13th Combat Support Group
+NER_ORGANIZATION: Air Force
+NER_PERSON: Wallace
+NER_PERSON: Peter Bent, Commander
+NER_PERSON: Col. Cochran
+NER_PERSON: Col. Henry J. Cochran, Bentwaters Commander. Reference
+NER_PERSON: Robert Todd
+NER_PERSON: Charles l. Halt.

@@ -1,0 +1,7 @@
+   Score: 0.558: PERSON: Z. Date
+   Score: 0.470: PERSON: W
+   Score: 0.428: PERSON: NON Ascii text
+   Score: 0.671: PERSON: NON Ascii text
+   Score: 0.436: PERSON: nguli Angle of Sight
+   Score: 0.600: ORGANIZATION: NON Ascii text
+   Score: 0.411: PERSON: marsh

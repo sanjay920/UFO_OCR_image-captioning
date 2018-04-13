@@ -1,0 +1,20 @@
+   Score: 0.601: PERSON: /o
+   Score: 0.405: PERSON: F D5C
+   Score: 0.534: ORGANIZATION: AFDO
+   Score: 0.866: ORGANIZATION: MODUK AIR ROUTINE ZBTSSOZ
+   Score: 0.122: ORGANIZATION: LATCCMIL
+   Score: 0.510: PERSON: C.
+   Score: 0.378: PERSON: D. SIC
+   Score: 1.130: PERSON: L. O
+   Score: 0.249: PERSON: CLOUD
+   Score: 0.542: PERSON: E. F. d. K.
+   Score: 0.726: PERSON: NON Ascii text
+   Score: 0.122: PERSON: Il/
+   Score: 0.373: MISC: Z6F DISTRIBUTION F
+   Score: 0.945: ORGANIZATION: GE
+   Score: 0.876: ORGANIZATION: CRAF
+   Score: 1.214: ORGANIZATION: DSTI
+   Score: 1.179: ORGANIZATION: CAI CYD
+   Score: 0.641: ORGANIZATION: CAV CAV
+   Score: 0.371: PERSON: NON Ascii text
+   Score: 0.266: PERSON: NON Ascii text

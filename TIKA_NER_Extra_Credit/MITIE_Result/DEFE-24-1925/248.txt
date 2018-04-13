@@ -1,0 +1,24 @@
+   Score: 0.349: PERSON: @Lcmgmimypbi
+   Score: 0.221: PERSON: Bnrr-DJiswick
+   Score: 0.909: ORGANIZATION: Lancashire
+   Score: 1.199: ORGANIZATION: FCC
+   Score: 0.484: ORGANIZATION: Tncnlm
+   Score: 1.029: PERSON: Ll Gibbons
+   Score: 0.127: MISC: Sc
+   Score: 0.553: PERSON: Chris A Ten
+   Score: 0.917: PERSON: Eric Ogden
+   Score: 0.909: ORGANIZATION: Solna Astronomiska Farr GA
+   Score: 0.295: PERSON: NQth
+   Score: 0.327: ORGANIZATION: Oir
+   Score: 0.648: ORGANIZATION: NON Ascii text
+   Score: 0.418: MISC: Tar
+   Score: 0.706: ORGANIZATION: UFO Research Asst
+   Score: 0.822: ORGANIZATION: UAAO Research Australia NeVJSIetter
+   Score: 0.330: PERSON: Box
+   Score: 0.562: LOCATION: Australia
+   Score: 0.550: PERSON: NON Ascii text
+   Score: 0.588: ORGANIZATION: CapIQIt Lhe JOfld Cf
+   Score: 0.278: PERSON: Calmore Close
+   Score: 1.073: PERSON: Hale
+   Score: 1.165: PERSON: R. Rama
+   Score: 0.873: PERSON: Hale

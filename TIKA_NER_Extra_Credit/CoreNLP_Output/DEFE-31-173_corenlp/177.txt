@@ -1,0 +1,5 @@
+NER_LOCATION: East Sussex
+NER_MONEY: $/
+NER_ORGANIZATION: Netherfield
+NER_ORGANIZATION: Time
+NER_ORGANIZATION: Netherfield Road

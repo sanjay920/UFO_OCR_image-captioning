@@ -1,0 +1,6 @@
+   Score: 0.282: MISC: U
+   Score: 0.641: ORGANIZATION: M. ,
+   Score: 0.596: PERSON: NON Ascii text
+   Score: 0.551: PERSON: j.
+   Score: 0.446: PERSON: C.
+   Score: 0.482: MISC: F

@@ -1,0 +1,13 @@
+   Score: 0.733: ORGANIZATION: CbJect Red Light
+   Score: 0.416: ORGANIZATION: NON Ascii text
+   Score: 0.656: PERSON: Shane
+   Score: 0.189: PERSON: NON Ascii text
+   Score: 0.592: PERSON: Lukas Church
+   Score: 0.168: PERSON: Maidenhead
+   Score: 0.336: ORGANIZATION: F. Angle of Sight
+   Score: 0.628: PERSON: G. Distance
+   Score: 0.652: ORGANIZATION: NON Ascii text
+   Score: 0.466: ORGANIZATION: J. Met
+   Score: 0.981: PERSON: Hoving
+   Score: 0.426: PERSON: K. Nearby Objects
+   Score: 0.411: PERSON: marsh

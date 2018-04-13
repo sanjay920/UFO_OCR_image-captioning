@@ -1,0 +1,11 @@
+NER_MONEY: $33
+NER_MONEY: $xu’e
+NER_ORGANIZATION: Meterorological Conditions During Observations
+NER_ORGANIZATION: Time
+NER_ORGANIZATION: mwe
+NER_ORGANIZATION: Descrigtion of Object
+NER_ORGANIZATION: Alandmark
+NER_ORGANIZATION: First Seen
+NER_PERCENT: C4ﬁﬁ%
+NER_PERSON: A. Date
+NER_PERSON: Lgiiéi

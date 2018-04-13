@@ -1,0 +1,13 @@
+   Score: 0.164: LOCATION: UNUSUAL
+   Score: 0.933: LOCATION: AAC Centre
+   Score: 0.719: LOCATION: Middle
+   Score: 1.007: ORGANIZATION: THE AAC
+   Score: 0.453: ORGANIZATION: AIFSO
+   Score: 0.253: ORGANIZATION: REME
+   Score: 0.319: ORGANIZATION: U0
+   Score: 0.274: LOCATION: NORTH/SOUTH
+   Score: 0.298: LOCATION: EAST/WEST
+   Score: 0.549: PERSON: R. Present
+   Score: 1.241: PERSON: Farmer
+   Score: 1.182: PERSON: Farmer
+   Score: 0.856: ORGANIZATION: Avn Stds HQ DAAC

@@ -1,0 +1,18 @@
+   Score: 0.669: PERSON: m. I\
+   Score: 0.614: PERSON: Mwnnu
+   Score: 0.782: PERSON: A. Date
+   Score: 0.634: PERSON: Tina
+   Score: 0.280: ORGANIZATION: NON Ascii text
+   Score: 0.278: PERSON: 2}
+   Score: 0.301: PERSON: J.Q
+   Score: 0.770: ORGANIZATION: UCLA
+   Score: 0.784: ORGANIZATION: OBSERVER
+   Score: 0.371: PERSON: NON Ascii text
+   Score: 0.591: ORGANIZATION: Ck
+   Score: 1.161: ORGANIZATION: NON Ascii text
+   Score: 0.275: ORGANIZATION: M
+   Score: 0.748: ORGANIZATION: CLW
+   Score: 0.113: MISC: NON Ascii text
+   Score: 0.499: ORGANIZATION: NON Ascii text
+   Score: 0.795: ORGANIZATION: AEGLE
+   Score: 0.360: PERSON: Ehangea

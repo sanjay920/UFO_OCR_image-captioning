@@ -1,0 +1,16 @@
+   Score: 0.304: PERSON: D/Sec
+   Score: 1.399: ORGANIZATION: GE
+   Score: 0.366: ORGANIZATION: Humberside
+   Score: 1.404: ORGANIZATION: GE
+   Score: 0.425: ORGANIZATION: RAF Wyton
+   Score: 0.400: PERSON: Wyton
+   Score: 1.025: ORGANIZATION: Royal Air Force Flight Information Publication
+   Score: 0.413: MISC: British Isles South
+   Score: 0.278: PERSON: Chart
+   Score: 1.413: ORGANIZATION: No l Aeronautical Information Documentation Unit
+   Score: 0.760: ORGANIZATION: AIDU
+   Score: 0.506: ORGANIZATION: RAF Northolt
+   Score: 0.453: ORGANIZATION: AIDU
+   Score: 0.572: LOCATION: Northolt
+   Score: 0.809: ORGANIZATION: WQ Cdr Nav
+   Score: 0.834: ORGANIZATION: RAF

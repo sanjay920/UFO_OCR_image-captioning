@@ -1,0 +1,6 @@
+   Score: 0.319: ORGANIZATION: Huddersfield
+   Score: 1.035: LOCATION: East
+   Score: 0.984: LOCATION: West
+   Score: 0.184: LOCATION: Huddersfie3d
+   Score: 0.324: ORGANIZATION: Huddersfield
+   Score: 0.273: MISC: Clear

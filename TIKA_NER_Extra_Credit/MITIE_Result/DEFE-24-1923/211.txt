@@ -1,0 +1,14 @@
+   Score: 0.578: PERSON: ~a
+   Score: 0.774: ORGANIZATION: Duration of Sighting
+   Score: 0.811: PERSON: NON Ascii text
+   Score: 0.550: PERSON: C. EXACT
+   Score: 0.376: PERSON: OBSERVER
+   Score: 0.088: LOCATION: Loc3%ion
+   Score: 0.569: PERSON: E. DIRECTION
+   Score: 0.171: ORGANIZATION: NON Ascii text
+   Score: 0.433: PERSON: Ransden Heath
+   Score: 0.226: PERSON: Estlmated Eelghts
+   Score: 0.244: PERSON: G. DISTANCE
+   Score: 0.181: LOCATION: ~1andmark
+   Score: 0.396: PERSON: B. novaNTs
+   Score: 0.407: LOCATION: Billericay

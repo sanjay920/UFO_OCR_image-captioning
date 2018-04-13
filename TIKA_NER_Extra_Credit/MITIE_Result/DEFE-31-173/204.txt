@@ -1,0 +1,21 @@
+   Score: 0.451: ORGANIZATION: JUL
+   Score: 0.249: ORGANIZATION: IR
+   Score: 0.973: ORGANIZATION: JUL
+   Score: 0.819: PERSON: B.
+   Score: 0.334: MISC: BRIGHT
+   Score: 0.548: ORGANIZATION: SOUTH WEST
+   Score: 0.302: MISC: NON Ascii text
+   Score: 0.480: LOCATION: PONTARDAUE
+   Score: 0.416: PERSON: NON Ascii text
+   Score: 0.767: PERSON: NON Ascii text
+   Score: 0.859: PERSON: l. 'I///;l//I//&v
+   Score: 0.733: ORGANIZATION: CAB
+   Score: 0.866: ORGANIZATION: DSC
+   Score: 0.391: ORGANIZATION: AFDO
+   Score: 0.763: ORGANIZATION: CAN
+   Score: 0.397: ORGANIZATION: CYD DD
+   Score: 1.034: ORGANIZATION: RAF
+   Score: 1.016: ORGANIZATION: CAV DI
+   Score: 1.009: ORGANIZATION: CAV DSTI
+   Score: 0.226: PERSON: //////////
+   Score: 0.366: ORGANIZATION: u ,

@@ -1,0 +1,14 @@
+   Score: 0.556: ORGANIZATION: INFORMATION REQUIRED
+   Score: 0.348: ORGANIZATION: NON Ascii text
+   Score: 0.260: PERSON: Po
+   Score: 0.349: PERSON: A1104 1e of Sight
+   Score: 0.357: LOCATION: Movemenis
+   Score: 0.360: PERSON: Descri
+   Score: 0.527: ORGANIZATION: NON Ascii text
+   Score: 0.403: ORGANIZATION: NV
+   Score: 0.820: ORGANIZATION: ACX
+   Score: 0.346: PERSON: NON Ascii text
+   Score: 0.733: ORGANIZATION: Anx Witne
+   Score: 0.350: PERSON: Rho
+   Score: 0.564: PERSON: NON Ascii text
+   Score: 0.296: ORGANIZATION: cox sum-Lam

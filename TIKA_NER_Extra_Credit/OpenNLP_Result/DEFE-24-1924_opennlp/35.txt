@@ -1,0 +1,2 @@
+NER_LOCATION: Observer. Third
+NER_ORGANIZATION: P. Date

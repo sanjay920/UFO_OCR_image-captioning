@@ -1,0 +1,12 @@
+   Score: 0.527: ORGANIZATION: UF
+   Score: 0.496: ORGANIZATION: UFO
+   Score: 1.761: LOCATION: Britain
+   Score: 0.286: LOCATION: NON Ascii text
+   Score: 0.520: ORGANIZATION: narth roan
+   Score: 0.506: ORGANIZATION: NON Ascii text
+   Score: 0.309: PERSON: Tangham
+   Score: 0.799: PERSON: Wood
+   Score: 0.792: ORGANIZATION: States Alr Force
+   Score: 0.541: ORGANIZATION: RAF Wood-
+   Score: 0.806: LOCATION: Suffolk
+   Score: 0.633: PERSON: NON Ascii text

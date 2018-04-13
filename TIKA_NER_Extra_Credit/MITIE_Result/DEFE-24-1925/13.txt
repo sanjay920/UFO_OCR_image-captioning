@@ -1,0 +1,17 @@
+   Score: 1.314: ORGANIZATION: National Air Traffic Servnces
+   Score: 0.947: ORGANIZATION: Li . _ Control Tower Building
+   Score: 0.589: LOCATION: Heathrow Airport
+   Score: 1.212: LOCATION: London
+   Score: 0.800: ORGANIZATION: ATC
+   Score: 1.237: ORGANIZATION: Ministry of Defence
+   Score: 0.658: ORGANIZATION: APO
+   Score: 1.661: LOCATION: London
+   Score: 0.907: ORGANIZATION: That Department
+   Score: 0.296: MISC: UFOs
+   Score: 0.538: LOCATION: Main Building
+   Score: 0.425: LOCATION: Whitehall SW1A
+   Score: 1.290: ORGANIZATION: CAA
+   Score: 0.616: LOCATION: Heathrow Airport
+   Score: 0.284: MISC: London A
+   Score: 1.146: ORGANIZATION: Civil Aviation Authority
+   Score: 1.368: ORGANIZATION: Ministry of Defence Service

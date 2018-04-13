@@ -1,0 +1,8 @@
+   Score: 0.637: ORGANIZATION: LOOSE MINUTE
+   Score: 0.746: ORGANIZATION: DGT
+   Score: 0.415: ORGANIZATION: AS
+   Score: 0.779: PERSON: A. D/US
+   Score: 0.830: ORGANIZATION: DGT
+   Score: 0.258: ORGANIZATION: Lord Trefgarne
+   Score: 0.354: PERSON: Lord Hill~Norton
+   Score: 0.695: ORGANIZATION: House of Lords

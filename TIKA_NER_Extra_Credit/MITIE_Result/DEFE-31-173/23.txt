@@ -1,0 +1,9 @@
+   Score: 0.288: ORGANIZATION: J.M
+   Score: 0.626: PERSON: K. Nearobz
+   Score: 0.291: ORGANIZATION: Telephone
+   Score: 0.613: PERSON: o L. To
+   Score: 0.503: PERSON: M. Name
+   Score: 0.391: PERSON: O. Other
+   Score: 0.309: PERSON: Ewhv
+   Score: 0.515: MISC: Afro
+   Score: 0.607: PERSON: N. P. Date

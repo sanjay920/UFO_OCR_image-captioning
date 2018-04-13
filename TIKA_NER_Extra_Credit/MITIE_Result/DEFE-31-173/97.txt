@@ -1,0 +1,13 @@
+   Score: 0.480: PERSON: NON Ascii text
+   Score: 0.919: PERSON: A. DateLtime
+   Score: 1.053: PERSON: Li MWg
+   Score: 0.728: PERSON: Mimi Exac
+   Score: 0.436: LOCATION: Stationary
+   Score: 0.854: PERSON: Ne
+   Score: 0.194: PERSON: W
+   Score: 0.632: ORGANIZATION: 045% Sergei MW
+   Score: 0.466: PERSON: G. Distance
+   Score: 0.504: PERSON: H. Movements
+   Score: 0.381: PERSON: F
+   Score: 0.874: ORGANIZATION: VOL
+   Score: 0.901: ORGANIZATION: Lanna Meteorological

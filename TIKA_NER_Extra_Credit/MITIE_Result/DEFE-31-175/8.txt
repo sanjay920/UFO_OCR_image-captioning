@@ -1,0 +1,22 @@
+   Score: 0.647: ORGANIZATION: AA
+   Score: 0.802: ORGANIZATION: AU
+   Score: 0.231: PERSON: Sfo
+   Score: 0.716: ORGANIZATION: RAF
+   Score: 0.794: ORGANIZATION: HOUUK AIR
+   Score: 0.751: ORGANIZATION: SIC
+   Score: 0.845: PERSON: D. NAKED
+   Score: 0.252: ORGANIZATION: NON Ascii text
+   Score: 0.842: PERSON: K. ROOF
+   Score: 0.768: PERSON: A.
+   Score: 0.642: PERSON: K.
+   Score: 0.847: ORGANIZATION: PAGE
+   Score: 0.499: ORGANIZATION: RELIABLE
+   Score: 0.673: PERSON: NON Ascii text
+   Score: 0.522: ORGANIZATION: 0c
+   Score: 0.683: ORGANIZATION: AUO
+   Score: 0.536: PERSON: NON Ascii text
+   Score: 0.611: ORGANIZATION: OI
+   Score: 0.438: PERSON: OAv
+   Score: 0.493: ORGANIZATION: OSTI
+   Score: 0.561: ORGANIZATION: NON Ascii text
+   Score: 0.673: ORGANIZATION: NON Ascii text

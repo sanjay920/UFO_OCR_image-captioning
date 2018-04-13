@@ -1,0 +1,3 @@
+   Score: 0.136: LOCATION: NON Ascii text
+   Score: 0.225: ORGANIZATION: NON Ascii text
+   Score: 0.982: ORGANIZATION: NON Ascii text

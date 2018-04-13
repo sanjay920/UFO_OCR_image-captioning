@@ -1,0 +1,30 @@
+   Score: 0.342: ORGANIZATION: Jio MMALITY/Jenny Rand
+   Score: 0.149: PERSON: Jeference
+   Score: 0.602: ORGANIZATION: House
+   Score: 0.320: PERSON: Ennds>n
+   Score: 0.269: ORGANIZATION: OECIR
+   Score: 0.188: LOCATION: NON Ascii text
+   Score: 0.486: ORGANIZATION: NON Ascii text
+   Score: 0.360: ORGANIZATION: UFOSI
+   Score: 0.275: ORGANIZATION: PJALC
+   Score: 0.336: PERSON: caseso Jus
+   Score: 0.510: ORGANIZATION: UFO
+   Score: 0.576: ORGANIZATION: WOOL
+   Score: 1.132: ORGANIZATION: Kodak
+   Score: 0.804: PERSON: bere
+   Score: 0.394: ORGANIZATION: eta
+   Score: 0.319: MISC: Jhese
+   Score: 0.426: ORGANIZATION: Aston
+   Score: 0.297: PERSON: Chesh
+   Score: 0.773: PERSON: Boyd
+   Score: 0.826: PERSON: she
+   Score: 0.959: MISC: British
+   Score: 0.489: ORGANIZATION: UFO Eda
+   Score: 0.328: LOCATION: SOLIth
+   Score: 0.225: LOCATION: Vn
+   Score: 0.515: PERSON: Kean
+   Score: 0.427: ORGANIZATION: MBGALITMIC OLD
+   Score: 0.380: ORGANIZATION: Acquarianypress
+   Score: 0.844: PERSON: Lally
+   Score: 0.464: LOCATION: Badmin Moor
+   Score: 0.529: PERSON: NON Ascii text

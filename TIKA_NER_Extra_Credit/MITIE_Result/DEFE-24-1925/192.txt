@@ -1,0 +1,15 @@
+   Score: 0.387: ORGANIZATION: LOOSE MINUTE
+   Score: 0.332: PERSON: D/Sec
+   Score: 0.554: ORGANIZATION: Lord Trefgarne
+   Score: 0.119: PERSON: Lord Hill-Norton
+   Score: 0.738: ORGANIZATION: UFO
+   Score: 0.608: ORGANIZATION: House
+   Score: 0.343: ORGANIZATION: AS
+   Score: 0.766: MISC: US
+   Score: 0.281: LOCATION: NON Ascii text
+   Score: 0.257: ORGANIZATION: Lord Trefgarne
+   Score: 0.437: ORGANIZATION: MOD
+   Score: 0.489: ORGANIZATION: UFO
+   Score: 0.174: MISC: GE3
+   Score: 0.341: ORGANIZATION: Tech-Int
+   Score: 0.445: PERSON: SeeiASi2a

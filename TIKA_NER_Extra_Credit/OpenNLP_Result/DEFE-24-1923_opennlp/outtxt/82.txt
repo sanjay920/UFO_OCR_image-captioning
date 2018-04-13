@@ -1,0 +1,11 @@
+NER_LOCATION: Venice."
+NER_ORGANIZATION: Pre-Prep. School
+NER_ORGANIZATION: Science Laborag QT
+NER_ORGANIZATION: House Prep. School,
+NER_PERSON: Ruth
+NER_PERSON: ILWK' L sH.::m.0n
+NER_PERSON: Hunt
+NER_PERSON: E
+NER_PERSON: Edward Painter.
+NER_PERSON: David
+NER_PERSON: Wright Gut:

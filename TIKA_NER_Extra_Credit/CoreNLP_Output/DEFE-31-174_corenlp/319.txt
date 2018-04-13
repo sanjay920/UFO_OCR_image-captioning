@@ -1,0 +1,3 @@
+NER_ORGANIZATION: Time of Receipt 021810A Any Unusual Meteorological Nil Conditions Remarks Secﬂon40 Squadron Leader
+NER_ORGANIZATION: Sec
+NER_ORGANIZATION: Name & Address of Informant Background of Informant

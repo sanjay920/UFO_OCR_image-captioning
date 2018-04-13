@@ -1,0 +1,3 @@
+   Score: 0.373: ORGANIZATION: ROYAL AIR FORCE
+   Score: 0.423: ORGANIZATION: Norwich Norfolk
+   Score: 0.383: PERSON: NON Ascii text

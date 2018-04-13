@@ -1,0 +1,16 @@
+   Score: 0.585: PERSON: NON Ascii text
+   Score: 0.075: LOCATION: NON Ascii text
+   Score: 0.384: ORGANIZATION: NON Ascii text
+   Score: 0.404: ORGANIZATION: r >
+   Score: 0.361: ORGANIZATION: 0
+   Score: 0.593: ORGANIZATION: NON Ascii text
+   Score: 0.973: ORGANIZATION: "
+   Score: 0.835: ORGANIZATION: NON Ascii text
+   Score: 0.181: PERSON: NON Ascii text
+   Score: 0.506: PERSON: NON Ascii text
+   Score: 0.408: MISC: EX
+   Score: 0.401: PERSON: NON Ascii text
+   Score: 0.541: PERSON: NON Ascii text
+   Score: 0.895: PERSON: Jay
+   Score: 0.709: PERSON: NON Ascii text
+   Score: 0.344: PERSON: Vnw

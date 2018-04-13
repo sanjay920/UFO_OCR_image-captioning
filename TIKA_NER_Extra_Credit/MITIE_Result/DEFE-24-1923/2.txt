@@ -1,0 +1,8 @@
+   Score: 0.171: ORGANIZATION: IL/
+   Score: 0.562: PERSON: NON Ascii text
+   Score: 0.660: PERSON: Referredjo M. Date
+   Score: 0.999: ORGANIZATION: SEC
+   Score: 0.442: ORGANIZATION: AS
+   Score: 0.797: ORGANIZATION: EXP
+   Score: 0.849: ORGANIZATION: PA
+   Score: 0.742: ORGANIZATION: NON Ascii text

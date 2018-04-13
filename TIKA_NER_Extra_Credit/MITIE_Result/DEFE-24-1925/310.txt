@@ -1,0 +1,11 @@
+   Score: 0.331: MISC: CIVILIAN
+   Score: 0.514: ORGANIZATION: ORGANIZATION
+   Score: 0.961: ORGANIZATION: Ministry of Defence
+   Score: 0.570: LOCATION: Hhitehalli London
+   Score: 0.349: MISC: UFO
+   Score: 1.011: ORGANIZATION: SEC AS
+   Score: 0.605: ORGANIZATION: Air Staff
+   Score: 0.281: MISC: D38 Room
+   Score: 0.859: ORGANIZATION: NON Ascii text
+   Score: 0.925: ORGANIZATION: SEC
+   Score: 0.793: MISC: F A Omen

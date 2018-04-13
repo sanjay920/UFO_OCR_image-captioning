@@ -1,0 +1,11 @@
+   Score: 0.393: PERSON: Vilam
+   Score: 0.343: PERSON: Mtg M
+   Score: 0.704: ORGANIZATION: PVC
+   Score: 0.475: PERSON: Mtfbauu
+   Score: 0.361: PERSON: Ifwith
+   Score: 0.733: PERSON: Angle
+   Score: 0.329: PERSON: F
+   Score: 0.267: ORGANIZATION: Telephone
+   Score: 0.793: ORGANIZATION: NON Ascii text
+   Score: 0.402: PERSON: Belice
+   Score: 0.606: ORGANIZATION: J/P/Z

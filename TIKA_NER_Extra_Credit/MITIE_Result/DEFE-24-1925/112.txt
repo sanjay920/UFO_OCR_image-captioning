@@ -1,0 +1,13 @@
+   Score: 0.193: MISC: NON Ascii text
+   Score: 0.318: PERSON: _.../
+   Score: 0.487: ORGANIZATION: AS
+   Score: 0.803: PERSON: A. D/US
+   Score: 0.358: ORGANIZATION: Lord Trefgarne
+   Score: 0.559: PERSON: NON Ascii text
+   Score: 0.357: PERSON: Lord Hill-Norton
+   Score: 0.801: ORGANIZATION: RAF Woodbridge/Bentwaters
+   Score: 0.380: PERSON: Lord Hill- Norton
+   Score: 0.511: PERSON: Minister
+   Score: 0.986: PERSON: Seo
+   Score: 0.335: ORGANIZATION: AS
+   Score: 0.329: ORGANIZATION: SeCCAS

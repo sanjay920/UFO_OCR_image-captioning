@@ -1,0 +1,14 @@
+   Score: 0.271: PERSON: Photo
+   Score: 0.456: MISC: UFO
+   Score: 0.378: LOCATION: Mandi
+   Score: 0.162: PERSON: Jr ,
+   Score: 0.389: LOCATION: SI
+   Score: 1.198: LOCATION: Iran
+   Score: 0.140: ORGANIZATION: UFO{s
+   Score: 1.166: LOCATION: Iran
+   Score: 0.270: PERSON: NON Ascii text
+   Score: 0.515: ORGANIZATION: UFO
+   Score: 0.611: MISC: UFO
+   Score: 1.054: MISC: Soviet
+   Score: 0.489: PERSON: Scen
+   Score: 0.589: LOCATION: Staffordshire

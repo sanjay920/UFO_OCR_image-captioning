@@ -1,0 +1,15 @@
+   Score: 0.582: ORGANIZATION: NON Ascii text
+   Score: 0.540: ORGANIZATION: NON Ascii text
+   Score: 0.444: PERSON: Fm 'r
+   Score: 0.818: PERSON: A.
+   Score: 0.789: ORGANIZATION: SIC
+   Score: 0.398: PERSON: NON Ascii text
+   Score: 0.536: PERSON: NON Ascii text
+   Score: 0.334: PERSON: NON Ascii text
+   Score: 0.559: MISC: NON Ascii text
+   Score: 0.221: ORGANIZATION: NON Ascii text
+   Score: 0.255: PERSON: NON Ascii text
+   Score: 0.975: ORGANIZATION: AFDC
+   Score: 1.131: ORGANIZATION: CYD
+   Score: 1.222: ORGANIZATION: DD GE/AEM CAU
+   Score: 0.906: ORGANIZATION: DST

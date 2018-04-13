@@ -1,0 +1,9 @@
+   Score: 0.676: ORGANIZATION: WA
+   Score: 0.555: PERSON: NON Ascii text
+   Score: 1.418: PERSON: Li
+   Score: 0.448: PERSON: NON Ascii text
+   Score: 0.566: ORGANIZATION: NON Ascii text
+   Score: 0.178: ORGANIZATION: /FFF5 33f
+   Score: 0.279: ORGANIZATION: MMMMF
+   Score: 0.487: ORGANIZATION: NON Ascii text
+   Score: 0.421: PERSON: NON Ascii text

@@ -1,0 +1,5 @@
+NER_LOCATION: London
+NER_ORGANIZATION: RAF
+NER_ORGANIZATION: Public Records Office
+NER_ORGANIZATION: PRO
+NER_ORGANIZATION: Ministry of Defence, Main Building, London

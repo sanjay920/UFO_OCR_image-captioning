@@ -1,0 +1,13 @@
+   Score: 1.107: ORGANIZATION: Ministry of Defence
+   Score: 0.806: ORGANIZATION: ABS
+   Score: 0.536: ORGANIZATION: Telex
+   Score: 0.981: ORGANIZATION: RAF Main Building
+   Score: 0.709: LOCATION: Whitehall
+   Score: 1.173: LOCATION: London
+   Score: 0.363: PERSON: SW1A
+   Score: 0.596: ORGANIZATION: UFO
+   Score: 0.676: ORGANIZATION: ATC Dunefold
+   Score: 0.490: LOCATION: Dunsfold
+   Score: 0.915: ORGANIZATION: AIS
+   Score: 0.492: LOCATION: Dunsfold
+   Score: 1.008: LOCATION: Horsham

@@ -1,0 +1,15 @@
+   Score: 1.363: LOCATION: UK
+   Score: 0.472: LOCATION: Vflood_lights
+   Score: 0.400: PERSON: marsh
+   Score: 0.457: ORGANIZATION: Telephone Poles
+   Score: 0.830: MISC: Poles
+   Score: 0.738: ORGANIZATION: AFOR
+   Score: 1.385: ORGANIZATION: RAF Air Wireless
+   Score: 0.234: ORGANIZATION: Wellingborough
+   Score: 0.774: PERSON: Rushton
+   Score: 0.857: PERSON: Rushton
+   Score: 1.023: ORGANIZATION: GE
+   Score: 0.766: ORGANIZATION: RAF
+   Score: 1.115: ORGANIZATION: RAF
+   Score: 0.464: ORGANIZATION: Rm Mala
+   Score: 0.546: ORGANIZATION: NON Ascii text

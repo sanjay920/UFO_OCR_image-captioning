@@ -1,0 +1,17 @@
+   Score: 0.914: ORGANIZATION: NON Ascii text
+   Score: 0.531: PERSON: Saleem
+   Score: 0.330: MISC: Gala
+   Score: 0.602: PERSON: J.
+   Score: 0.577: PERSON: NON Ascii text
+   Score: 0.576: ORGANIZATION: FIEL
+   Score: 0.644: PERSON: D.
+   Score: 0.440: ORGANIZATION: HOII OBSERVED
+   Score: 0.575: PERSON: Sam ELK
+   Score: 0.484: PERSON: NON Ascii text
+   Score: 0.498: ORGANIZATION: ANGLE OF SIGHT
+   Score: 0.356: PERSON: F
+   Score: 0.701: ORGANIZATION: AI/f IITw CTS
+   Score: 0.402: PERSON: marsh
+   Score: 0.448: ORGANIZATION: TC WHOZ-i REon
+   Score: 0.445: PERSON: M. NAME
+   Score: 0.214: PERSON: N. ANY

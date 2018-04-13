@@ -1,0 +1,15 @@
+   Score: 0.920: PERSON: Sam
+   Score: 0.402: ORGANIZATION: Mins
+   Score: 0.865: LOCATION: West
+   Score: 0.571: LOCATION: Epping snationary/moving Forrest
+   Score: 0.122: MISC: Binoculars
+   Score: 0.704: LOCATION: London Airport
+   Score: 0.348: PERSON: F. Angle of Sight
+   Score: 0.402: PERSON: G. Distance
+   Score: 0.913: LOCATION: London
+   Score: 0.578: PERSON: H. Movements
+   Score: 0.248: PERSON: Westerly
+   Score: 0.425: ORGANIZATION: J. Met
+   Score: 0.964: PERSON: Hoving
+   Score: 0.548: PERSON: K. Nearby Objects
+   Score: 0.445: LOCATION: lake Nil

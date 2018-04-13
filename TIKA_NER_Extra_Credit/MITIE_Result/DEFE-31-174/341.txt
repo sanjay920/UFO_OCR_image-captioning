@@ -1,0 +1,5 @@
+   Score: 0.275: PERSON: CJQ4\
+   Score: 0.416: ORGANIZATION: Unu5ua1 Meteorological
+   Score: 0.550: ORGANIZATION: AS
+   Score: 1.109: ORGANIZATION: AEW/GE DI
+   Score: 0.528: PERSON: Fi

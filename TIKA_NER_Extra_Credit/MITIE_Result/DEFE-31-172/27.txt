@@ -1,0 +1,19 @@
+   Score: 0.500: ORGANIZATION: NON Ascii text
+   Score: 0.581: PERSON: N; \\ \\
+   Score: 0.315: PERSON: NON Ascii text
+   Score: 0.173: PERSON: NON Ascii text
+   Score: 0.527: PERSON: Ina
+   Score: 0.606: ORGANIZATION: FROM LATCCMIL
+   Score: 0.559: ORGANIZATION: MLNS
+   Score: 0.314: ORGANIZATION: RED AND
+   Score: 0.426: PERSON: K. NlLf-
+   Score: 0.510: PERSON: L. SUPERVISOR
+   Score: 0.747: ORGANIZATION: IRPORT M. Section
+   Score: 0.835: ORGANIZATION: CXJ
+   Score: 0.493: ORGANIZATION: DSCCAFDO
+   Score: 0.414: ORGANIZATION: CAM
+   Score: 0.664: ORGANIZATION: ACS
+   Score: 0.992: ORGANIZATION: RAF
+   Score: 0.751: ORGANIZATION: CAV
+   Score: 0.404: ORGANIZATION: U_Nnc
+   Score: 0.907: ORGANIZATION: NON Ascii text

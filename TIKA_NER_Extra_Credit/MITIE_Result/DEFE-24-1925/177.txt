@@ -1,0 +1,45 @@
+   Score: 1.194: MISC: English
+   Score: 0.874: MISC: German
+   Score: 1.410: LOCATION: Europe
+   Score: 0.863: PERSON: Roy
+   Score: 0.544: PERSON: NON Ascii text
+   Score: 0.615: ORGANIZATION: PHOTO FILE
+   Score: 0.793: PERSON: Roy
+   Score: 1.125: ORGANIZATION: Essex
+   Score: 0.842: LOCATION: Dagenham
+   Score: 0.484: ORGANIZATION: Jssex
+   Score: 1.186: PERSON: Roy
+   Score: 1.128: PERSON: Roy
+   Score: 0.621: ORGANIZATION: Dagenham Town Show
+   Score: 0.438: LOCATION: UFOs
+   Score: 0.953: ORGANIZATION: DP J
+   Score: 0.875: PERSON: Roy
+   Score: 0.444: PERSON: Also
+   Score: 1.166: PERSON: Roy
+   Score: 0.887: PERSON: Roy
+   Score: 1.130: PERSON: Rita Harris
+   Score: 0.888: PERSON: Roy Lake
+   Score: 0.407: ORGANIZATION: UFO
+   Score: 0.779: LOCATION: Dagenham
+   Score: 1.119: PERSON: Roy
+   Score: 0.345: LOCATION: ADVERTISER
+   Score: 0.284: PERSON: Adamski
+   Score: 1.302: ORGANIZATION: Essex UFO Study Group
+   Score: 1.039: PERSON: Peter
+   Score: 0.369: PERSON: Brailsford
+   Score: 0.965: PERSON: Roy Lake
+   Score: 1.056: PERSON: David Prockter
+   Score: 1.566: PERSON: Ron Markwick
+   Score: 0.631: LOCATION: NON Ascii text
+   Score: 0.742: ORGANIZATION: DEUTSGH FUR EUROPA
+   Score: 0.826: MISC: German
+   Score: 0.160: ORGANIZATION: Europef Foto
+   Score: 0.554: PERSON: Roy Lake und seine
+   Score: 0.948: ORGANIZATION: Essex
+   Score: 0.268: PERSON: Studieren Gruppe
+   Score: 0.972: LOCATION: Dagenham
+   Score: 0.804: ORGANIZATION: Essex
+   Score: 1.297: LOCATION: England
+   Score: 0.222: MISC: Stadt
+   Score: 1.031: PERSON: Roy
+   Score: 0.578: LOCATION: eine Zeitung

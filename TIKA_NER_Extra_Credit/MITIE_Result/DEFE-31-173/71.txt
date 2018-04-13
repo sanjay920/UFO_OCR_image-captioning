@@ -1,0 +1,6 @@
+   Score: 0.417: PERSON: K. NEARBY OBJECTS
+   Score: 0.434: PERSON: marsh
+   Score: 0.924: ORGANIZATION: WHO
+   Score: 0.693: ORGANIZATION: AFGR
+   Score: 0.429: ORGANIZATION: MB
+   Score: 0.269: PERSON: Hetropole

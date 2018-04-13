@@ -1,0 +1,11 @@
+   Score: 0.362: ORGANIZATION: NON Ascii text
+   Score: 0.488: ORGANIZATION: 1}
+   Score: 1.006: PERSON: Tam
+   Score: 0.618: PERSON: NON Ascii text
+   Score: 0.728: PERSON: Sliwi
+   Score: 0.405: ORGANIZATION: Dura-tio
+   Score: 0.360: ORGANIZATION: NON Ascii text
+   Score: 0.415: ORGANIZATION: NON Ascii text
+   Score: 0.641: ORGANIZATION: NON Ascii text
+   Score: 0.419: ORGANIZATION: Riggbx QLML
+   Score: 0.872: PERSON: Mu

@@ -1,0 +1,4 @@
+   Score: 0.860: ORGANIZATION: NON Ascii text
+   Score: 0.931: MISC: British
+   Score: 0.656: ORGANIZATION: NON Ascii text
+   Score: 0.307: ORGANIZATION: Bufora

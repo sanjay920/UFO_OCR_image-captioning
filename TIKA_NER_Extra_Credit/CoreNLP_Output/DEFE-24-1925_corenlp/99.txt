@@ -1,0 +1,10 @@
+NER_DATE: July 1084
+NER_DATE: 19th of Sentember 1Q85
+NER_LOCATION: Eeeming
+NER_LOCATION: West Ybrkshire ané Humberside
+NER_LOCATION: Forﬁh Yorkshire
+NER_LOCATION: Huddresfield
+NER_MONEY: $4monioury
+NER_ORGANIZATION: YUFDS Research Division
+NER_ORGANIZATION: DUP
+NER_ORGANIZATION: Air Force

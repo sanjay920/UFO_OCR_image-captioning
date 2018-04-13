@@ -1,0 +1,1 @@
+NER_PERSON: C O C C O-.. C O C O O C .11. C O O O O !

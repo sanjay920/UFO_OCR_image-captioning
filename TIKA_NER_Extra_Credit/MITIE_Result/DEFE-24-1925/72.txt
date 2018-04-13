@@ -1,0 +1,5 @@
+   Score: 0.441: PERSON: NON Ascii text
+   Score: 0.599: ORGANIZATION: UFO
+   Score: 1.182: MISC: Chinese
+   Score: 1.418: MISC: Russian
+   Score: 0.927: LOCATION: Earth

@@ -1,0 +1,16 @@
+   Score: 0.222: PERSON: NON Ascii text
+   Score: 0.425: PERSON: NON Ascii text
+   Score: 0.853: ORGANIZATION: FIR
+   Score: 0.533: PERSON: N.
+   Score: 0.371: ORGANIZATION: IPPEARIHC
+   Score: 0.402: ORGANIZATION: QUAA
+   Score: 0.658: ORGANIZATION: TC
+   Score: 0.315: ORGANIZATION: RCIPPRA
+   Score: 0.831: ORGANIZATION: APP
+   Score: 0.378: ORGANIZATION: Cf crd AT
+   Score: 0.494: PERSON: sr LXFHTS
+   Score: 0.649: PERSON: L. vvanv/CUPPOR
+   Score: 0.417: PERSON: ACTton
+   Score: 0.554: ORGANIZATION: NON Ascii text
+   Score: 0.553: ORGANIZATION: DCC
+   Score: 0.376: ORGANIZATION: AFDC

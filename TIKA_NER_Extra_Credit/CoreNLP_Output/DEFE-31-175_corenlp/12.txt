@@ -1,0 +1,10 @@
+NER_DATE: ' ‘ 13 NOV 1987
+NER_LOCATION: London
+NER_MONEY: $l
+NER_MONEY: €u
+NER_ORGANIZATION: PR
+NER_ORGANIZATION: MOD Claims
+NER_ORGANIZATION: Jet Propellor Military Civil Fighter Bomber Helicopter Light Camouflaged Silver White
+NER_ORGANIZATION: NFU
+NER_ORGANIZATION: First Avenue House
+NER_PERSON: Holborn

@@ -1,0 +1,10 @@
+   Score: 0.553: MISC: AL TQKYo ztra-European Collaboration
+   Score: 0.530: ORGANIZATION: DUP Ref
+   Score: 0.983: ORGANIZATION: waysi Air Force
+   Score: 0.490: ORGANIZATION: NON Ascii text
+   Score: 0.537: ORGANIZATION: OEJ
+   Score: 0.266: LOCATION: villag
+   Score: 0.780: LOCATION: Huddresfield
+   Score: 0.490: LOCATION: West Ybrkshire
+   Score: 0.591: PERSON: Gui
+   Score: 0.739: ORGANIZATION: YUFDS Research Division

@@ -1,0 +1,9 @@
+   Score: 0.975: PERSON: Wit
+   Score: 0.343: LOCATION: NON Ascii text
+   Score: 0.833: PERSON: Angle
+   Score: 0.532: PERSON: Swilu
+   Score: 0.345: PERSON: NON Ascii text
+   Score: 0.472: LOCATION: E
+   Score: 0.156: PERSON: NON Ascii text
+   Score: 0.365: ORGANIZATION: Telephone
+   Score: 0.226: MISC: F

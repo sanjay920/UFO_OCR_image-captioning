@@ -1,0 +1,4 @@
+   Score: 0.700: PERSON: ;i
+   Score: 0.462: PERSON: NON Ascii text
+   Score: 0.651: PERSON: NON Ascii text
+   Score: 0.785: ORGANIZATION: SK

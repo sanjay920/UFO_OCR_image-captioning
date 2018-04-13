@@ -1,0 +1,13 @@
+   Score: 0.704: ORGANIZATION: EXTRACT
+   Score: 0.589: ORGANIZATION: RAF Woodbridge
+   Score: 0.658: ORGANIZATION: Alleged Incident
+   Score: 1.107: PERSON: Patrick Wall
+   Score: 1.250: ORGANIZATION: United States Air Force
+   Score: 0.755: ORGANIZATION: RAF
+   Score: 0.570: ORGANIZATION: Unitcd State
+   Score: 0.938: ORGANIZATION: Air Force
+   Score: 0.691: ORGANIZATION: RAF Woodbridgc
+   Score: 0.511: ORGANIZATION: Frccdom of Infommtion Act
+   Score: 0.390: LOCATION: United Kingdom;
+   Score: 0.368: ORGANIZATION: Stank
+   Score: 0.209: PERSON: Depamtzcnt

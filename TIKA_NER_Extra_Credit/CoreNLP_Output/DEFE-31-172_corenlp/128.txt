@@ -1,0 +1,9 @@
+NER_DATE: December
+NER_DATE: Wednesday 17 January
+NER_LOCATION: Occam
+NER_LOCATION: Grenada
+NER_ORGANIZATION: FCO
+NER_ORGANIZATION: Lord Clancarty
+NER_PERSON: Lord Strabolgi
+NER_PERSON: Lord Clancarty
+NER_PERSON: Strabolgi

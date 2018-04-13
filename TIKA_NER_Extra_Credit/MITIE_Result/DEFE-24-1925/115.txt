@@ -1,0 +1,7 @@
+   Score: 0.520: ORGANIZATION: RAF
+   Score: 0.425: LOCATION: RAF Woodbridge
+   Score: 0.191: MISC: Col Halt
+   Score: 0.538: ORGANIZATION: patrolmen who
+   Score: 0.267: LOCATION: Rendlesham Forest
+   Score: 0.061: MISC: Col Halt
+   Score: 1.243: LOCATION: UK

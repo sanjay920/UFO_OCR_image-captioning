@@ -1,0 +1,10 @@
+NER_LOCATION: Hastings
+NER_LOCATION: 15.7
+NER_LOCATION: T—1165,4800 Oak Grove
+NER_ORGANIZATION: Society
+NER_PERSON: Gene Duplantier, 1ﬁ$~‘ Canada.
+NER_PERSON: H A L L E Y
+NER_PERSON: Astronom— FJff
+NER_PERSON: PresidLﬁt Kennedy
+NER_PERSON: Harris
+NER_PERSON: Trevor

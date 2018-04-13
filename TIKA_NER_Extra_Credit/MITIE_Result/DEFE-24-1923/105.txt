@@ -1,0 +1,13 @@
+   Score: 0.291: PERSON: V}
+   Score: 0.726: PERSON: FIN/l9/Air
+   Score: 0.663: ORGANIZATION: Duration of Sighting
+   Score: 1.165: PERSON: Li
+   Score: 0.161: LOCATION: Observedu
+   Score: 0.819: PERSON: Fu Agle
+   Score: 0.149: LOCATION: NON Ascii text
+   Score: 0.633: PERSON: H. Iovementsn
+   Score: 0.666: PERSON: Jo Meteorological
+   Score: 0.406: PERSON: M. Name
+   Score: 0.268: ORGANIZATION: NON Ascii text
+   Score: 0.620: PERSON: Mir P. Date
+   Score: 0.344: ORGANIZATION: NON Ascii text

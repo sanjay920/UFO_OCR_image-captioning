@@ -1,0 +1,71 @@
+   Score: 0.371: LOCATION: Yliillmltoh
+   Score: 0.649: PERSON: Il Chillmltmy Wh
+   Score: 0.327: PERSON: NON Ascii text
+   Score: 0.878: LOCATION: Iran
+   Score: 0.560: PERSON: Zhilrlrun
+   Score: 0.407: ORGANIZATION: UMX
+   Score: 0.557: ORGANIZATION: Milan
+   Score: 0.374: PERSON: NON Ascii text
+   Score: 1.059: PERSON: Jill
+   Score: 0.565: ORGANIZATION: n li 'n
+   Score: 1.055: PERSON: Thomas
+   Score: 0.474: PERSON: JIlll
+   Score: 1.046: ORGANIZATION: SC
+   Score: 0.474: PERSON: w.
+   Score: 0.362: PERSON: NON Ascii text
+   Score: 0.348: PERSON: Millmll
+   Score: 0.242: PERSON: Inrmu
+   Score: 0.701: PERSON: Vern
+   Score: 0.299: PERSON: NON Ascii text
+   Score: 0.622: PERSON: NON Ascii text
+   Score: 0.280: PERSON: Kalv Dq-nr-lzv
+   Score: 0.569: PERSON: Viltnn
+   Score: 0.593: PERSON: \Vcnrlv Unnchy
+   Score: 1.250: PERSON: Sue Smith
+   Score: 0.392: PERSON: Chi
+   Score: 0.336: PERSON: Mis<
+   Score: 0.410: PERSON: Durinhy
+   Score: 0.358: PERSON: Alrnsl
+   Score: 0.364: PERSON: Husk
+   Score: 0.569: ORGANIZATION: zzsrvilonr
+   Score: 1.072: PERSON: ric
+   Score: 0.211: PERSON: Culvil
+   Score: 0.565: PERSON: NON Ascii text
+   Score: 0.340: PERSON: NON Ascii text
+   Score: 0.253: PERSON: NON Ascii text
+   Score: 0.243: PERSON: VII-ugh
+   Score: 0.536: LOCATION: NON Ascii text
+   Score: 0.163: LOCATION: NON Ascii text
+   Score: 0.902: LOCATION: IL
+   Score: 0.395: PERSON: NON Ascii text
+   Score: 0.421: PERSON: Ll
+   Score: 0.744: PERSON: Farmer
+   Score: 0.969: PERSON: lullv Farmer
+   Score: 0.511: PERSON: hu cml ol
+   Score: 0.820: PERSON: NON Ascii text
+   Score: 0.206: PERSON: NON Ascii text
+   Score: 0.623: LOCATION: St hurch
+   Score: 0.708: PERSON: Bishop
+   Score: 0.825: PERSON: John \Villircl
+   Score: 0.626: ORGANIZATION: llordlc House School
+   Score: 0.885: LOCATION: Venice
+   Score: 0.520: PERSON: NON Ascii text
+   Score: 0.270: PERSON: Antonio
+   Score: 0.325: PERSON: Mowers
+   Score: 0.538: ORGANIZATION: {Patricia Millier
+   Score: 0.647: PERSON: Viginia Whiting
+   Score: 0.526: PERSON: NON Ascii text
+   Score: 0.906: PERSON: David Grove
+   Score: 0.556: ORGANIZATION: Jubilee Hull
+   Score: 0.389: ORGANIZATION: Art Depart
+   Score: 1.146: PERSON: Peter Tilliy
+   Score: 1.063: LOCATION: Nigeria
+   Score: 0.269: ORGANIZATION: NON Ascii text
+   Score: 0.594: ORGANIZATION: circ
+   Score: 0.269: ORGANIZATION: NON Ascii text
+   Score: 0.677: LOCATION: Austmfia
+   Score: 1.157: LOCATION: Canada
+   Score: 1.471: LOCATION: Sweden
+   Score: 0.978: MISC: British
+   Score: 0.706: LOCATION: Theorles
+   Score: 0.588: LOCATION: Cheesefoot

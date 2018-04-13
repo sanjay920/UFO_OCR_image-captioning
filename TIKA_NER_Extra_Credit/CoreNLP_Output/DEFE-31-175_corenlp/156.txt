@@ -1,0 +1,6 @@
+NER_ORGANIZATION: Indoon
+NER_ORGANIZATION: Bu
+NER_ORGANIZATION: Time & Duration of Sighting 30 Jan 87
+NER_ORGANIZATION: eqe
+NER_ORGANIZATION: Brookward County First School
+NER_PERSON: Milton Kegnes

@@ -1,0 +1,17 @@
+NER_DATE: 1985
+NER_LOCATION: Rama
+NER_MONEY: $'$
+NER_MONEY: $009.85
+NER_MONEY: $.71
+NER_ORGANIZATION: MA Rnoose Barry South Glamorgan CFé 93D - Ministry of Eefence
+NER_ORGANIZATION: E. Movements of Object u. Meteorological Conditiona During Gbservationg Unknown K. Nearby Obj
+NER_ORGANIZATION: ECER SGRAﬂw1v© G1
+NER_ORGANIZATION: GiVil Aviation Authcrity
+NER_ORGANIZATION: RAF
+NER_ORGANIZATION: Observer Ely
+NER_ORGANIZATION: Time
+NER_ORGANIZATION: Time of Receipt
+NER_ORGANIZATION: Raw Observed Telescope E. Direction
+NER_PERSON: Ely
+NER_PERSON: A. Date
+NER_PERSON: Bate

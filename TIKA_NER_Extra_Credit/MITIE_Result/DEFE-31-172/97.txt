@@ -1,0 +1,10 @@
+   Score: 0.392: PERSON: marsh
+   Score: 0.550: ORGANIZATION: WHOM
+   Score: 0.290: LOCATION: INFORMANT
+   Score: 0.604: MISC: UFO
+   Score: 0.469: PERSON: {8a Ops
+   Score: 0.388: MISC: DI 55
+   Score: 0.347: LOCATION: RM
+   Score: 0.620: ORGANIZATION: File
+   Score: 0.728: ORGANIZATION: Rm Section
+   Score: 1.094: ORGANIZATION: Main Bldg Main Bldg Metropole

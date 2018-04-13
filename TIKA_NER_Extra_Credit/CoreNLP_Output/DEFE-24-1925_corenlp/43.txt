@@ -1,0 +1,7 @@
+NER_LOCATION: England
+NER_MONEY: A ¢
+NER_MONEY: $0
+NER_ORGANIZATION: Air Corps
+NER_ORGANIZATION: Lhc United Kingdom inistry of Defence
+NER_PERCENT: 515%
+NER_PERSON: Durance

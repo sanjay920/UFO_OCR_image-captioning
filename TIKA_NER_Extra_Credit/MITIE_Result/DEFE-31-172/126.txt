@@ -1,0 +1,10 @@
+   Score: 0.275: ORGANIZATION: PQ
+   Score: 0.794: PERSON: Earl
+   Score: 0.209: ORGANIZATION: Clancarty
+   Score: 1.291: ORGANIZATION: BBC
+   Score: 0.348: MISC: UFOs
+   Score: 0.384: ORGANIZATION: Earl of Clancarty
+   Score: 0.176: LOCATION: Lord Clancarty
+   Score: 0.729: PERSON: Monsieur Galley
+   Score: 0.323: LOCATION: UFOs
+   Score: 1.133: PERSON: M. Galley

@@ -1,0 +1,5 @@
+   Score: 0.535: ORGANIZATION: Hingdon House Uxbridge Middiesex
+   Score: 1.219: ORGANIZATION: Ministry of Defence
+   Score: 0.898: ORGANIZATION: ANGLIA
+   Score: 0.919: ORGANIZATION: UFO
+   Score: 0.532: ORGANIZATION: AOC Enclosure

@@ -1,0 +1,3 @@
+NER_MONEY: €3
+NER_MONEY: $114 “10¢
+NER_MONEY: ccmg¢

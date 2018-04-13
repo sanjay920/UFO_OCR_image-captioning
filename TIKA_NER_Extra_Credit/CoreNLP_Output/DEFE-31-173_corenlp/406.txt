@@ -1,0 +1,3 @@
+NER_PERCENT: ZO %
+NER_PERSON: Jigixji
+NER_PERSON: Leia?

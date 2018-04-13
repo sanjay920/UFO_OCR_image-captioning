@@ -1,0 +1,28 @@
+   Score: 0.748: PERSON: F.
+   Score: 0.686: PERSON: m.
+   Score: 0.920: PERSON: Han
+   Score: 0.506: LOCATION: Kan
+   Score: 0.614: LOCATION: SJ
+   Score: 1.231: PERSON: Lu
+   Score: 0.465: PERSON: \u
+   Score: 1.561: PERSON: Li
+   Score: 0.737: ORGANIZATION: LI III
+   Score: 0.654: PERSON: NON Ascii text
+   Score: 0.630: PERSON: z.
+   Score: 0.549: PERSON: W. H.
+   Score: 1.129: ORGANIZATION: JUH Lmu &
+   Score: 0.736: PERSON: w. H
+   Score: 0.592: ORGANIZATION: NON Ascii text
+   Score: 0.563: ORGANIZATION: LIJO
+   Score: 0.571: PERSON: NON Ascii text
+   Score: 0.759: PERSON: O
+   Score: 0.132: LOCATION: HO
+   Score: 0.604: PERSON: Ilfv
+   Score: 0.744: PERSON: L
+   Score: 0.616: PERSON: NON Ascii text
+   Score: 0.578: PERSON: NON Ascii text
+   Score: 0.614: ORGANIZATION: TI
+   Score: 0.417: PERSON: T.
+   Score: 0.554: ORGANIZATION: y. I.
+   Score: 0.633: PERSON: O
+   Score: 0.757: PERSON: O

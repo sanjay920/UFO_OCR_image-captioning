@@ -1,0 +1,16 @@
+   Score: 0.569: MISC: UFO
+   Score: 0.454: LOCATION: UFOs
+   Score: 0.536: ORGANIZATION: MOD
+   Score: 0.852: MISC: British
+   Score: 0.987: MISC: French
+   Score: 0.581: ORGANIZATION: MOD
+   Score: 1.046: ORGANIZATION: Ministry of Defence examinesUFOreports
+   Score: 1.674: LOCATION: UK
+   Score: 1.340: ORGANIZATION: Ministry of Defence
+   Score: 0.862: LOCATION: UFOs
+   Score: 0.517: MISC: UFO
+   Score: 1.071: MISC: French
+   Score: 1.143: LOCATION: UK
+   Score: 1.196: ORGANIZATION: Ministry of Defence
+   Score: 0.511: MISC: UFO
+   Score: 1.129: ORGANIZATION: Ministry of Defence

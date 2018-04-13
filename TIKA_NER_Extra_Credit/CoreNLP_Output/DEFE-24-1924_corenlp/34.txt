@@ -1,0 +1,5 @@
+NER_LOCATION: Prestwick
+NER_ORGANIZATION: viation Authority — Ministry of Defence Service
+NER_ORGANIZATION: Sc & OATCC ‘ d National Air Traffic Services Atlantic House
+NER_ORGANIZATION: Compliments ATC
+NER_PERSON: Sherwood Road

@@ -1,0 +1,8 @@
+   Score: 0.683: PERSON: J. Meteorolo
+   Score: 0.515: ORGANIZATION: WA JMM
+   Score: 0.597: PERSON: K. Nearbbz
+   Score: 0.322: ORGANIZATION: Telephone
+   Score: 0.518: ORGANIZATION: MAM
+   Score: 0.204: PERSON: Sec
+   Score: 0.667: PERSON: Heap
+   Score: 0.294: PERSON: Sesame/b

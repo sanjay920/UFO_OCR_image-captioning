@@ -1,0 +1,34 @@
+   Score: 0.331: PERSON: NON Ascii text
+   Score: 0.863: ORGANIZATION: CIA
+   Score: 0.381: ORGANIZATION: IAQI
+   Score: 0.790: ORGANIZATION: NW FOR CAV
+   Score: 0.534: PERSON: NON Ascii text
+   Score: 0.555: ORGANIZATION: RAF
+   Score: 0.601: ORGANIZATION: NON Ascii text
+   Score: 0.629: ORGANIZATION: SIC LEZ/Z6F
+   Score: 0.720: PERSON: B. OVAL
+   Score: 0.212: ORGANIZATION: VISUAL
+   Score: 0.562: PERSON: E. HEADVNGINORTH
+   Score: 0.648: PERSON: H.
+   Score: 0.214: PERSON: Id NINDY
+   Score: 0.473: PERSON: K.
+   Score: 0.708: ORGANIZATION: RAF
+   Score: 0.602: PERSON: M. Section
+   Score: 0.315: ORGANIZATION: BAMBURGH
+   Score: 0.532: PERSON: NON Ascii text
+   Score: 0.741: ORGANIZATION: BT
+   Score: 0.495: MISC: NON Ascii text
+   Score: 0.289: PERSON: NON Ascii text
+   Score: 1.203: ORGANIZATION: No SDL
+   Score: 0.433: PERSON: Iv
+   Score: 0.290: PERSON: \~
+   Score: 0.508: ORGANIZATION: DSB
+   Score: 0.859: ORGANIZATION: CXJ
+   Score: 1.005: ORGANIZATION: DSC
+   Score: 0.184: LOCATION: AFDo
+   Score: 0.891: ORGANIZATION: CAM ACS
+   Score: 0.471: ORGANIZATION: CYD
+   Score: 0.956: ORGANIZATION: GE
+   Score: 0.929: ORGANIZATION: RAF
+   Score: 0.896: ORGANIZATION: CAV ' DI
+   Score: 0.756: ORGANIZATION: CAV

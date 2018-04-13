@@ -1,0 +1,10 @@
+   Score: 1.147: ORGANIZATION: NON Ascii text
+   Score: 0.722: ORGANIZATION: S
+   Score: 0.578: ORGANIZATION: NON Ascii text
+   Score: 1.281: ORGANIZATION: DA
+   Score: 0.764: ORGANIZATION: NON Ascii text
+   Score: 0.787: ORGANIZATION: mm .
+   Score: 0.916: ORGANIZATION: o T
+   Score: 0.174: PERSON: NON Ascii text
+   Score: 0.246: ORGANIZATION: NON Ascii text
+   Score: 0.353: ORGANIZATION: NON Ascii text

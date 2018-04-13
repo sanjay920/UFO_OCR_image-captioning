@@ -1,0 +1,4 @@
+NER_ORGANIZATION: Ministry of Defence, Kain Building, Whitehall, Loadon, SHEA
+NER_ORGANIZATION: YLJFOS Research Division (International)
+NER_ORGANIZATION: HESS
+NER_PERSON: Alan Lve

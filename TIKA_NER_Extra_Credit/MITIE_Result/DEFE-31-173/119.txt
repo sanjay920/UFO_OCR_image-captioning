@@ -1,0 +1,14 @@
+   Score: 0.720: ORGANIZATION: Duration of Sighting
+   Score: 0.418: ORGANIZATION: OBJECT
+   Score: 0.345: ORGANIZATION: Red
+   Score: 0.494: PERSON: Elmer of Objects
+   Score: 0.465: PERSON: Approx
+   Score: 0.992: PERSON: Rushton
+   Score: 0.267: LOCATION: VEICB
+   Score: 0.821: LOCATION: West -an
+   Score: 0.439: LOCATION: ANGLE
+   Score: 0.171: PERSON: Estmated Eelghts
+   Score: 0.418: ORGANIZATION: HOWTS
+   Score: 0.247: PERSON: F
+   Score: 0.665: LOCATION: West
+   Score: 0.479: ORGANIZATION: Stars

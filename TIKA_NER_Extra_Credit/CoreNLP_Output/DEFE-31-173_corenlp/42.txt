@@ -1,0 +1,8 @@
+NER_LOCATION: Billericay
+NER_MONEY: $6 1
+NER_MONEY: _¢4¢
+NER_ORGANIZATION: Time
+NER_ORGANIZATION: Duration of Sighting
+NER_PERCENT: 0 %
+NER_PERSON: Ransden Heath
+NER_TIME: moonlight night

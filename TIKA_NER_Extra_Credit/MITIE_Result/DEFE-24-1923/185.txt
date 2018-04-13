@@ -1,0 +1,4 @@
+   Score: 0.718: ORGANIZATION: UFO
+   Score: 0.876: ORGANIZATION: Air
+   Score: 0.629: LOCATION: Aberporth
+   Score: 0.618: LOCATION: Aberporth

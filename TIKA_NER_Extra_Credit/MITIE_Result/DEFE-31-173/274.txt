@@ -1,0 +1,13 @@
+   Score: 0.374: PERSON: J/ogj/
+   Score: 0.594: ORGANIZATION: DA
+   Score: 0.923: ORGANIZATION: DURATION OF SIC
+   Score: 0.256: ORGANIZATION: NON Ascii text
+   Score: 0.312: LOCATION: Io
+   Score: 0.270: LOCATION: ANGLE
+   Score: 0.361: PERSON: F
+   Score: 0.597: ORGANIZATION: CTS
+   Score: 0.438: PERSON: Te lephorte lines
+   Score: 0.536: ORGANIZATION: NON Ascii text
+   Score: 0.354: ORGANIZATION: WhOM
+   Score: 0.430: ORGANIZATION: NON Ascii text
+   Score: 1.287: ORGANIZATION: AND ADDRESS

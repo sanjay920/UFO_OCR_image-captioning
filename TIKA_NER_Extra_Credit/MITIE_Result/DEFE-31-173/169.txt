@@ -1,0 +1,8 @@
+   Score: 0.471: LOCATION: Observer Location
+   Score: 0.399: PERSON: Angle
+   Score: 0.355: ORGANIZATION: Distance {by
+   Score: 0.542: MISC: Movements {Changes in E F
+   Score: 0.400: PERSON: Movin
+   Score: 0.411: PERSON: marsh
+   Score: 1.021: ORGANIZATION: WWM PG Section
+   Score: 0.748: PERSON: Mata

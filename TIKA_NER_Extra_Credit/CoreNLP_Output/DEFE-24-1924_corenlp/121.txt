@@ -1,0 +1,9 @@
+NER_DATE: Saturday, 16th November 1985
+NER_DATE: 1981
+NER_DATE: January
+NER_ORGANIZATION: Huddersfield
+NER_ORGANIZATION: NLC
+NER_ORGANIZATION: Castle Hill
+NER_ORGANIZATION: Huddersfield Town Centre
+NER_PERSON: Sallis
+NER_PERSON: Morales

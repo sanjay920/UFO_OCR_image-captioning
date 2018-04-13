@@ -1,0 +1,3 @@
+NER_LOCATION: London
+NER_ORGANIZATION: NOD Air Force Operations Name
+NER_PERSON: DI

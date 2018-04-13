@@ -1,0 +1,8 @@
+   Score: 0.678: PERSON: Wk
+   Score: 0.249: ORGANIZATION: NON Ascii text
+   Score: 0.497: PERSON: Angle of Sight
+   Score: 0.626: ORGANIZATION: NON Ascii text
+   Score: 0.455: LOCATION: E
+   Score: 0.444: ORGANIZATION: NON Ascii text
+   Score: 0.293: ORGANIZATION: Wb
+   Score: 0.411: PERSON: marsh

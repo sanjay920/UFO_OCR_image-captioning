@@ -1,0 +1,11 @@
+   Score: 0.588: ORGANIZATION: NON Ascii text
+   Score: 0.452: ORGANIZATION: 0
+   Score: 1.056: PERSON: G. M. N. O. ' P
+   Score: 1.290: ORGANIZATION: NON Ascii text
+   Score: 0.347: ORGANIZATION: NON Ascii text
+   Score: 0.774: ORGANIZATION: OWLM
+   Score: 0.518: ORGANIZATION: W11
+   Score: 0.221: PERSON: NPvIl/IJM/l
+   Score: 0.598: PERSON: Angle
+   Score: 0.350: LOCATION: MIL
+   Score: 0.696: PERSON: Vi

@@ -1,0 +1,18 @@
+   Score: 0.247: PERSON: NON Ascii text
+   Score: 0.378: ORGANIZATION: IQFH
+   Score: 0.669: ORGANIZATION: JAN
+   Score: 0.705: ORGANIZATION: RAF
+   Score: 0.900: ORGANIZATION: A*FOR
+   Score: 0.768: ORGANIZATION: Home ADDRESS
+   Score: 0.719: PERSON: D. NAKED
+   Score: 0.504: PERSON: E.
+   Score: 0.556: PERSON: G. SEE E
+   Score: 0.645: PERSON: J. CAUOK
+   Score: 0.527: PERSON: L. LATCC
+   Score: 0.465: PERSON: M. NONE O. NONE
+   Score: 0.916: ORGANIZATION: BT
+   Score: 1.140: ORGANIZATION: AFDD
+   Score: 0.640: ORGANIZATION: ACS<P>
+   Score: 0.556: ORGANIZATION: DBTI
+   Score: 0.435: MISC: NON Ascii text
+   Score: 0.494: PERSON: NON Ascii text

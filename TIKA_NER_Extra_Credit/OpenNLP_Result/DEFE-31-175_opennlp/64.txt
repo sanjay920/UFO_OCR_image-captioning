@@ -1,0 +1,3 @@
+NER_LOCATION: With-lea
+NER_LOCATION: Naked
+NER_ORGANIZATION: Nearby Objects Telephone

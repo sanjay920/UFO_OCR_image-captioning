@@ -1,0 +1,2 @@
+   Score: 0.684: PERSON: O.
+   Score: 0.512: ORGANIZATION: NON Ascii text

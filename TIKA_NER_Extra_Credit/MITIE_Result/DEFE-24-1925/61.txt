@@ -1,0 +1,14 @@
+   Score: 0.471: ORGANIZATION: NON Ascii text
+   Score: 0.413: PERSON: Jaduuu Ina
+   Score: 0.552: PERSON: Mu
+   Score: 0.836: ORGANIZATION: ICE
+   Score: 0.291: PERSON: Ill
+   Score: 0.173: ORGANIZATION: COURYS~MARYIAL
+   Score: 0.380: ORGANIZATION: SWIM " " Inn
+   Score: 0.811: PERSON: Ola
+   Score: 0.299: PERSON: Cioltoo
+   Score: 0.810: PERSON: Jclnno
+   Score: 0.213: LOCATION: resoondina
+   Score: 0.553: PERSON: NON Ascii text
+   Score: 0.261: LOCATION: Area
+   Score: 0.943: ORGANIZATION: EC

@@ -1,0 +1,15 @@
+NER_DATE: Thursday
+NER_LOCATION: Gallipoli
+NER_ORGANIZATION: ACS
+NER_ORGANIZATION: Army Historical Branch
+NER_ORGANIZATION: Nor olk Battalion
+NER_ORGANIZATION: Early of Clancarty
+NER_PERSON: Lord Strabolgi
+NER_PERSON: Klass
+NER_PERSON: Earl
+NER_ORGANIZATION: Army Historical Branch
+NER_PERSON: ACS(G)(RAF) UFOs
+NER_PERSON: Lord Strabolgi
+NER_PERSON: Lord Strabolgi. Hewever,
+NER_PERSON: Earl
+NER_PERSON: Ed

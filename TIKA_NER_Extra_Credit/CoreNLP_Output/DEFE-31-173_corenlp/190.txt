@@ -1,0 +1,4 @@
+NER_MONEY: /¢
+NER_MONEY: QS7¢
+NER_ORGANIZATION: Time
+NER_ORGANIZATION: Duration of Sighting

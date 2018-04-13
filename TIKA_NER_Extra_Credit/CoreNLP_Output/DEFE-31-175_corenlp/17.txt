@@ -1,0 +1,13 @@
+NER_LOCATION: La
+NER_LOCATION: Rﬁuﬂ
+NER_MONEY: $87
+NER_MONEY: ~¢
+NER_MONEY: €Wﬁe
+NER_MONEY: € +431
+NER_MONEY: $~
+NER_MONEY: &¢
+NER_ORGANIZATION: Time of Receipt I3 Ahmhmbm
+NER_ORGANIZATION: Any Unushal Meteorological Conditions Remarks
+NER_ORGANIZATION: Name & Address of Informant Background of Informant
+NER_ORGANIZATION: Squadron Leader Duty Operations Officer AF nps ‘ Copies SCC
+NER_ORGANIZATION: Mani

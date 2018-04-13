@@ -1,0 +1,5 @@
+NER_DATE: 2396
+NER_MONEY: u. ¢¢
+NER_ORGANIZATION: Name & Address of Informant
+NER_ORGANIZATION: Time of Reheipt
+NER_ORGANIZATION: g0

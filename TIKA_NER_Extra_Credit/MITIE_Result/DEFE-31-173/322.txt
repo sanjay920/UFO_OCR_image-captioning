@@ -1,0 +1,17 @@
+   Score: 0.306: PERSON: NON Ascii text
+   Score: 0.729: PERSON: Irv
+   Score: 0.412: PERSON: NON Ascii text
+   Score: 0.513: ORGANIZATION: \
+   Score: 0.619: ORGANIZATION: AIR
+   Score: 0.397: ORGANIZATION: HQPAFSC ATTtZ
+   Score: 0.595: ORGANIZATION: EYPSICHTo
+   Score: 0.416: ORGANIZATION: AJ DEGREI
+   Score: 0.611: ORGANIZATION: IILE
+   Score: 0.551: ORGANIZATION: PIC
+   Score: 0.194: LOCATION: AFoo
+   Score: 0.261: PERSON: r9 Cos
+   Score: 1.019: ORGANIZATION: RAF
+   Score: 0.381: PERSON: J. \
+   Score: 0.823: MISC: A
+   Score: 0.309: PERSON: Ir
+   Score: 0.426: PERSON: NON Ascii text

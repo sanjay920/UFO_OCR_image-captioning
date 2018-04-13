@@ -1,0 +1,9 @@
+NER_DATE: Wednesday 2 Oct
+NER_DATE: October
+NER_DATE: July
+NER_DATE: Aug 85 1
+NER_ORGANIZATION: Air Def
+NER_ORGANIZATION: D Air Def
+NER_ORGANIZATION: Lord Trefgarne
+NER_PERSON: Lord Hill-Norton
+NER_PERSON: Norton

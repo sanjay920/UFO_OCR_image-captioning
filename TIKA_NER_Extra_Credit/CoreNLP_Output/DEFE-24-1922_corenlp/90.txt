@@ -1,0 +1,7 @@
+NER_ORGANIZATION: E. Direction
+NER_ORGANIZATION: ~ G. Distance
+NER_ORGANIZATION: J. Meteorological
+NER_ORGANIZATION: M. Name
+NER_ORGANIZATION: Time and Duration of Sighting
+NER_PERCENT: /% 0%
+NER_PERCENT: 194%

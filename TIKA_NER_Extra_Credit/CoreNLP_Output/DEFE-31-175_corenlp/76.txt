@@ -1,0 +1,4 @@
+NER_ORGANIZATION: Time & Duration of Sighting
+NER_ORGANIZATION: Naked Ege Direction
+NER_ORGANIZATION: Stationary How Observed
+NER_PERSON: Initialg Stationarg

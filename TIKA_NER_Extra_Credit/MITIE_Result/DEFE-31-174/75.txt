@@ -1,0 +1,6 @@
+   Score: 0.409: PERSON: NON Ascii text
+   Score: 0.449: ORGANIZATION: NON Ascii text
+   Score: 0.666: LOCATION: Ur
+   Score: 0.387: PERSON: F
+   Score: 0.453: PERSON: Ci
+   Score: 0.673: PERSON: J.

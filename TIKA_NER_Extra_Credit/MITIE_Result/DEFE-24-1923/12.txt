@@ -1,0 +1,2 @@
+   Score: 0.314: PERSON: NON Ascii text
+   Score: 0.576: PERSON: R. \VBWQV

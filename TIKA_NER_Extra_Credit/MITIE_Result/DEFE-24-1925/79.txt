@@ -1,0 +1,20 @@
+   Score: 0.181: MISC: C.
+   Score: 0.493: PERSON: C.
+   Score: 0.560: PERSON: O
+   Score: 0.535: MISC: U.
+   Score: 0.471: PERSON: O
+   Score: 0.339: ORGANIZATION: NON Ascii text
+   Score: 0.501: ORGANIZATION: U
+   Score: 0.891: PERSON: Lu
+   Score: 0.710: PERSON: L. )
+   Score: 0.446: PERSON: {U
+   Score: 0.672: ORGANIZATION: 3m
+   Score: 0.455: MISC: H4
+   Score: 0.208: PERSON: U
+   Score: 0.298: PERSON: U
+   Score: 1.040: ORGANIZATION: H C H Ca
+   Score: 0.319: PERSON: U
+   Score: 0.426: MISC: NON Ascii text
+   Score: 0.367: LOCATION: CI
+   Score: 0.191: PERSON: NON Ascii text
+   Score: 0.363: PERSON: NON Ascii text

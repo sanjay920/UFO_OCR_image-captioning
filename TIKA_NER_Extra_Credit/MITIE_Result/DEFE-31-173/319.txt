@@ -1,0 +1,20 @@
+   Score: 0.583: ORGANIZATION: Cog/Yo b
+   Score: 0.358: PERSON: Barry \
+   Score: 0.619: ORGANIZATION: Ministry of Defence
+   Score: 0.735: ORGANIZATION: AFC
+   Score: 0.806: LOCATION: Whitehall
+   Score: 0.578: LOCATION: LONDON
+   Score: 0.626: PERSON: A.
+   Score: 0.869: ORGANIZATION: Duration of Sighting
+   Score: 0.450: MISC: B-h
+   Score: 0.498: PERSON: C.
+   Score: 0.969: ORGANIZATION: Mot Position of Observer
+   Score: 0.569: ORGANIZATION: Trethomes
+   Score: 0.308: PERSON: E. Direction
+   Score: 0.586: LOCATION: North
+   Score: 1.038: LOCATION: South
+   Score: 0.566: ORGANIZATION: Object from Observer
+   Score: 0.231: ORGANIZATION: NON Ascii text
+   Score: 0.581: ORGANIZATION: NON Ascii text
+   Score: 0.966: MISC: GMT
+   Score: 0.986: ORGANIZATION: CAA

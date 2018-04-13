@@ -1,0 +1,6 @@
+NER_DATE: 1500
+NER_DATE: Wednesday 25 September
+NER_DATE: August 1985
+NER_ORGANIZATION: Lord Hill~Norton
+NER_ORGANIZATION: House of Lords
+NER_ORGANIZATION: Lord Trefgarne

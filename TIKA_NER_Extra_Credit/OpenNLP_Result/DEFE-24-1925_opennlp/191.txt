@@ -1,0 +1,6 @@
+NER_LOCATION: United States
+NER_ORGANIZATION: Department
+NER_ORGANIZATION: Air Force
+NER_ORGANIZATION: United Stazc's Air Force
+NER_PERSON: Patrick Wan
+NER_PERSON: Friend

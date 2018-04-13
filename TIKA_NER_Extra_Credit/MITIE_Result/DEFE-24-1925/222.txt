@@ -1,0 +1,8 @@
+   Score: 0.204: PERSON: Sec
+   Score: 0.330: ORGANIZATION: Whitehall London SW1A
+   Score: 0.323: PERSON: Telephon
+   Score: 0.370: ORGANIZATION: Direct Dialling
+   Score: 0.126: MISC: Switchboard
+   Score: 0.407: PERSON: Upavon
+   Score: 1.280: ORGANIZATION: Ministry of Defence
+   Score: 0.517: ORGANIZATION: UFO

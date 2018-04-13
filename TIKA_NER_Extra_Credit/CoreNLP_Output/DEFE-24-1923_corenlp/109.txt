@@ -1,0 +1,7 @@
+NER_LOCATION: Gatwick
+NER_LOCATION: Surrey
+NER_ORGANIZATION: Air Traffic Control
+NER_ORGANIZATION: Horsham
+NER_ORGANIZATION: Dunsfold Aerodrome
+NER_PERCENT: Approx %
+NER_PERSON: W. Sussex

@@ -1,0 +1,6 @@
+NER_DATE: ’ 40
+NER_DATE: November 1984
+NER_LOCATION: LONDON
+NER_ORGANIZATION: The Ministry of Defence Department S4
+NER_ORGANIZATION: Otley Division
+NER_PERCENT: p%

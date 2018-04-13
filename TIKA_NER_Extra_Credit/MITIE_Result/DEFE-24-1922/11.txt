@@ -1,0 +1,13 @@
+   Score: 0.306: MISC: B. F
+   Score: 0.288: ORGANIZATION: NON Ascii text
+   Score: 0.490: ORGANIZATION: OBSEBV Geographical
+   Score: 0.706: ORGANIZATION: St
+   Score: 0.671: ORGANIZATION: OBSEQTION
+   Score: 0.417: ORGANIZATION: NON Ascii text
+   Score: 0.861: ORGANIZATION: ETC
+   Score: 0.507: ORGANIZATION: NON Ascii text
+   Score: 0.661: ORGANIZATION: Press HALE MID
+   Score: 0.663: LOCATION: BACKGROUND
+   Score: 0.525: ORGANIZATION: THE Iwommrr
+   Score: 0.361: PERSON: m. ~
+   Score: 0.293: PERSON: Lg

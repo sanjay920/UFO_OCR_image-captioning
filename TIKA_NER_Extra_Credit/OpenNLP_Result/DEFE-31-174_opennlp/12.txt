@@ -1,0 +1,2 @@
+NER_PERSON: V ‘ V V shape,
+NER_PERSON: 5,

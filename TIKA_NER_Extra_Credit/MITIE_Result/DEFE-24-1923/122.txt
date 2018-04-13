@@ -1,0 +1,10 @@
+   Score: 0.421: PERSON: W-qnmmug
+   Score: 0.712: PERSON: L. T
+   Score: 1.119: ORGANIZATION: NON Ascii text
+   Score: 0.457: PERSON: M. Name
+   Score: 0.559: PERSON: Jesmond
+   Score: 0.912: ORGANIZATION: Newcastle
+   Score: 0.291: PERSON: Controller
+   Score: 0.837: PERSON: P. Date
+   Score: 0.580: ORGANIZATION: AS
+   Score: 1.098: ORGANIZATION: AEW/GE DI

@@ -1,0 +1,10 @@
+   Score: 0.599: ORGANIZATION: CE Port
+   Score: 0.477: ORGANIZATION: Object from Observer
+   Score: 0.260: ORGANIZATION: JTRTIC
+   Score: 0.425: PERSON: }.ov1nb Ciou
+   Score: 0.391: ORGANIZATION: VIZ UNTIL
+   Score: 0.668: PERSON: C. Nearby
+   Score: 0.243: MISC: Objc
+   Score: 0.137: PERSON: Voluntecrcd
+   Score: 0.758: PERSON: P. Date
+   Score: 0.404: LOCATION: Receipt of Report

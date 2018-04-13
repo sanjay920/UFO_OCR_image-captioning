@@ -1,0 +1,6 @@
+NER_DATE: Jun 85
+NER_ORGANIZATION: Sec
+NER_ORGANIZATION: M. Name & Address of Informant Rd
+NER_ORGANIZATION: Time of Receipt 282115 Jun Q. Any Unusual Meteorological Ki1 Conditions R.
+NER_ORGANIZATION: Air Force
+NER_PERSON: Jesmond

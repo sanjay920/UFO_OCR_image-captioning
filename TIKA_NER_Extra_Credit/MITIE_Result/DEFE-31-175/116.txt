@@ -1,0 +1,5 @@
+   Score: 0.193: PERSON: Gojcct
+   Score: 0.481: LOCATION: Observer Location
+   Score: 0.642: ORGANIZATION: Angle of Sight
+   Score: 0.280: ORGANIZATION: NON Ascii text
+   Score: 0.411: PERSON: marsh

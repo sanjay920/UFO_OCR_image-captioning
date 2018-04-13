@@ -1,0 +1,20 @@
+   Score: 0.274: ORGANIZATION: NON Ascii text
+   Score: 1.717: ORGANIZATION: Duration of Sighting Afpgox
+   Score: 0.314: LOCATION: H...urg
+   Score: 0.420: PERSON: Steunae
+   Score: 0.286: PERSON: NON Ascii text
+   Score: 0.280: PERSON: NON Ascii text
+   Score: 0.456: ORGANIZATION: NON Ascii text
+   Score: 0.224: ORGANIZATION: Ur-lbdeSIbC
+   Score: 0.489: PERSON: NON Ascii text
+   Score: 0.465: PERSON: Hom
+   Score: 0.351: ORGANIZATION: NON Ascii text
+   Score: 0.479: PERSON: Angle of Sight
+   Score: 0.355: ORGANIZATION: NON Ascii text
+   Score: 0.221: MISC: NON Ascii text
+   Score: 0.305: PERSON: NON Ascii text
+   Score: 0.611: ORGANIZATION: Hazz Met
+   Score: 0.588: ORGANIZATION: Nearby DbJects
+   Score: 0.352: PERSON: marsh
+   Score: 0.201: PERSON: NCTMuJCa
+   Score: 0.396: LOCATION: Floodlights

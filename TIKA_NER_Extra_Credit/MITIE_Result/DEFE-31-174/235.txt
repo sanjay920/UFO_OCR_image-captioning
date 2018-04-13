@@ -1,0 +1,6 @@
+   Score: 0.448: ORGANIZATION: JKKV
+   Score: 0.797: ORGANIZATION: NON Ascii text
+   Score: 0.534: LOCATION: HI
+   Score: 0.791: ORGANIZATION: NON Ascii text
+   Score: 0.986: ORGANIZATION: Sec \ DJ
+   Score: 0.521: LOCATION: US

@@ -1,0 +1,2 @@
+NER_DATE: October 1985
+NER_PERSON: Norton

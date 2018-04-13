@@ -1,0 +1,9 @@
+   Score: 0.376: PERSON: z~
+   Score: 0.295: PERSON: NON Ascii text
+   Score: 0.381: ORGANIZATION: JwJ
+   Score: 0.649: PERSON: p. M
+   Score: 0.457: LOCATION: 5
+   Score: 0.710: PERSON: J.
+   Score: 1.112: ORGANIZATION: H
+   Score: 1.143: ORGANIZATION: JJ
+   Score: 0.969: ORGANIZATION: S

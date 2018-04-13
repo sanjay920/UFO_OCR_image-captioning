@@ -1,0 +1,9 @@
+   Score: 0.640: MISC: 32
+   Score: 0.347: MISC: F
+   Score: 0.400: ORGANIZATION: NBE
+   Score: 0.772: ORGANIZATION: EFF
+   Score: 0.541: LOCATION: IA
+   Score: 0.410: PERSON: NON Ascii text
+   Score: 0.750: ORGANIZATION: MND AHF REFQRAR TM
+   Score: 0.818: PERSON: Irv
+   Score: 0.448: ORGANIZATION: NON Ascii text

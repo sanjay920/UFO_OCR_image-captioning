@@ -1,0 +1,21 @@
+   Score: 0.348: PERSON: //%
+   Score: 0.458: PERSON: ~u
+   Score: 0.555: PERSON: N. F_
+   Score: 0.728: PERSON: E. F. G. H. J.
+   Score: 0.462: ORGANIZATION: SCATTCC CIVIL
+   Score: 0.667: PERSON: D. NAKED
+   Score: 0.866: PERSON: P.
+   Score: 1.126: ORGANIZATION: SIC
+   Score: 0.706: ORGANIZATION: DSTI
+   Score: 0.935: ORGANIZATION: GE
+   Score: 0.987: ORGANIZATION: RAF
+   Score: 0.286: ORGANIZATION: LATCCMIL
+   Score: 0.579: ORGANIZATION: MODUK AIR
+   Score: 0.627: ORGANIZATION: ACS
+   Score: 0.550: ORGANIZATION: OBsEByED
+   Score: 0.778: ORGANIZATION: CXJ
+   Score: 0.745: PERSON: V. S S
+   Score: 0.557: ORGANIZATION: AFDO
+   Score: 0.503: ORGANIZATION: E
+   Score: 1.256: PERSON: Lazar
+   Score: 0.717: PERSON: o o.

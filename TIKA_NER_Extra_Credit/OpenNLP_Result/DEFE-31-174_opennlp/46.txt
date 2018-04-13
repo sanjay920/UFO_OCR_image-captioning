@@ -1,0 +1,2 @@
+NER_LOCATION: N E l A S
+NER_PERSON: H(Ug A K \

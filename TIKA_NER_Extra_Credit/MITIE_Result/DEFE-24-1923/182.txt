@@ -1,0 +1,7 @@
+   Score: 0.553: PERSON: NON Ascii text
+   Score: 0.378: PERSON: NON Ascii text
+   Score: 0.403: PERSON: NON Ascii text
+   Score: 0.257: PERSON: NON Ascii text
+   Score: 0.186: ORGANIZATION: NON Ascii text
+   Score: 1.165: ORGANIZATION: CAV
+   Score: 0.988: ORGANIZATION: DST

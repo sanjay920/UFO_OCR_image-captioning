@@ -1,0 +1,10 @@
+   Score: 0.628: ORGANIZATION: Duration of Sighting
+   Score: 0.231: ORGANIZATION: NON Ascii text
+   Score: 0.478: ORGANIZATION: NON Ascii text
+   Score: 0.386: PERSON: OBSERVER
+   Score: 0.314: LOCATION: NON Ascii text
+   Score: 0.224: LOCATION: ANGLE
+   Score: 0.292: PERSON: Helghte
+   Score: 0.339: ORGANIZATION: NON Ascii text
+   Score: 0.143: ORGANIZATION: ~1andmark
+   Score: 0.245: PERSON: F

@@ -1,0 +1,4 @@
+   Score: 0.415: PERSON: J. Meteorological
+   Score: 0.616: PERSON: K. Nearobz
+   Score: 0.242: ORGANIZATION: Telephone
+   Score: 0.781: PERSON: Lan

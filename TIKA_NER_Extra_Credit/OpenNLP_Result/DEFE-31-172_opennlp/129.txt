@@ -1,0 +1,13 @@
+NER_DATE: 14
+NER_DATE: January 1979
+NER_DATE: 10 January 1979
+NER_MONEY: $g11
+NER_ORGANIZATION: Lord Clancarty.
+NER_ORGANIZATION: PS/Seeretary of State Copy
+NER_ORGANIZATION: GE
+NER_ORGANIZATION: IOT
+NER_PERSON: Strabolgi
+NER_ORGANIZATION: US of
+NER_PERSON: PS/CS(RAF) ACS(G)(RAF)
+NER_PERSON: J -.L.-';.='.ELK13:1,.L.:;;.".;...“...._m-z,.‘-.1w::. 1.1.7;
+NER_PERSON: Lord Clancarty.,

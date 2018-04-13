@@ -1,0 +1,4 @@
+   Score: 0.777: ORGANIZATION: RDAM
+   Score: 0.962: PERSON: Li
+   Score: 0.430: PERSON: Itioaifl
+   Score: 0.329: PERSON: NON Ascii text

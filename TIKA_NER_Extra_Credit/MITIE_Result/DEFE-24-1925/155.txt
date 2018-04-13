@@ -1,0 +1,47 @@
+   Score: 0.724: LOCATION: Jcrscy
+   Score: 0.344: ORGANIZATION: Usl
+   Score: 0.382: ORGANIZATION: alm
+   Score: 0.334: LOCATION: St Hclxcr
+   Score: 0.315: MISC: Hying Saucu
+   Score: 0.372: ORGANIZATION: PlClUfC
+   Score: 0.510: ORGANIZATION: b
+   Score: 0.347: ORGANIZATION: Ihlx zlor
+   Score: 0.983: PERSON: Wu
+   Score: 0.806: PERSON: Hun :
+   Score: 0.388: LOCATION: Ill \mrk
+   Score: 1.201: PERSON: Dorothy
+   Score: 0.599: PERSON: Larlwhcci
+   Score: 0.651: PERSON: A. Lcavcy
+   Score: 0.661: PERSON: P.
+   Score: 0.705: ORGANIZATION: House
+   Score: 0.280: PERSON: Sucrclarv
+   Score: 0.625: LOCATION: Rochdale
+   Score: 0.277: LOCATION: NON Ascii text
+   Score: 0.430: MISC: Ihc
+   Score: 0.461: PERSON: ram
+   Score: 0.366: ORGANIZATION: UFO
+   Score: 0.436: ORGANIZATION: UFO
+   Score: 0.729: PERSON: hal ii
+   Score: 1.171: PERSON: J. R. Salzmdzn
+   Score: 0.411: LOCATION: North Wcald
+   Score: 0.207: PERSON: Essu
+   Score: 0.589: PERSON: Craft
+   Score: 0.625: PERSON: Salandm
+   Score: 0.201: PERSON: Hc
+   Score: 0.550: ORGANIZATION: Air Mlnislry
+   Score: 0.258: PERSON: Rouqn
+   Score: 0.557: PERSON: Sucak
+   Score: 0.482: PERSON: h. Im-
+   Score: 1.293: ORGANIZATION: Air Ministry
+   Score: 0.264: MISC: Flying Saucers
+   Score: 0.267: PERSON: Hon
+   Score: 0.279: PERSON: Flyfng Saucer Rovhv
+   Score: 0.418: LOCATION: Salandzn
+   Score: 0.329: LOCATION: lhc
+   Score: 0.294: LOCATION: zhc
+   Score: 0.338: LOCATION: Salandm
+   Score: 0.354: PERSON: NON Ascii text
+   Score: 0.116: ORGANIZATION: NON Ascii text
+   Score: 0.452: PERSON: Kiontiot
+   Score: 0.488: MISC: UFO
+   Score: 0.516: PERSON: VWVWevwwxw

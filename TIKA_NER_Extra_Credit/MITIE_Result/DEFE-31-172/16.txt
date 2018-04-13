@@ -1,0 +1,30 @@
+   Score: 0.727: ORGANIZATION: House
+   Score: 0.633: PERSON: Jud/
+   Score: 0.563: ORGANIZATION: NON Ascii text
+   Score: 0.535: PERSON: Earl of Cork
+   Score: 0.188: ORGANIZATION: Ul Os
+   Score: 0.504: PERSON: Viscount Long
+   Score: 0.454: PERSON: Earl of Cork
+   Score: 0.739: PERSON: Earl
+   Score: 0.557: LOCATION: Kimberley
+   Score: 0.270: LOCATION: Miniszry
+   Score: 0.437: PERSON: Viscount Long
+   Score: 1.156: ORGANIZATION: Ministry of Defence
+   Score: 0.412: PERSON: Viscount Long
+   Score: 0.628: PERSON: Viscount
+   Score: 0.616: ORGANIZATION: Ministry Defence That
+   Score: 0.275: ORGANIZATION: NON Ascii text
+   Score: 1.106: ORGANIZATION: Ministry of Defence
+   Score: 0.656: PERSON: Viscount Long
+   Score: 0.257: PERSON: My Lor
+   Score: 0.656: ORGANIZATION: walricl Ministry
+   Score: 0.598: ORGANIZATION: Ministry of D
+   Score: 0.543: PERSON: Viscount St Davids
+   Score: 0.365: PERSON: NON Ascii text
+   Score: 0.750: LOCATION: Centaurus
+   Score: 0.547: PERSON: Viscount Long
+   Score: 0.513: PERSON: Viscount Long
+   Score: 0.316: ORGANIZATION: Cahinetjrst
+   Score: 0.334: PERSON: Viscount Long
+   Score: 0.754: PERSON: l. ords
+   Score: 1.055: ORGANIZATION: Ministry of Defence

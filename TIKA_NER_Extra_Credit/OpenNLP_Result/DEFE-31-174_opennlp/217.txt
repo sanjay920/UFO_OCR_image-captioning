@@ -1,0 +1,2 @@
+NER_ORGANIZATION: C
+NER_PERSON: O 0.“. O O O O C O 0.5. C O O C C O C... C O 0.. O

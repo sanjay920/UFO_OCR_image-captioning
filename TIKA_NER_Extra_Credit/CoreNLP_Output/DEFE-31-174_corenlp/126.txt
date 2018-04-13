@@ -1,0 +1,4 @@
+NER_ORGANIZATION: tw
+NER_ORGANIZATION: JIC
+NER_ORGANIZATION: Time & Duration of Sighting Description of Object
+NER_ORGANIZATION: MINISTRY crnrrméw Sec

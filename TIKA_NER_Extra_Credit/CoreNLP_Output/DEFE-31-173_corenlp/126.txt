@@ -1,0 +1,4 @@
+NER_DATE: Oct 8’4
+NER_LOCATION: Luton
+NER_ORGANIZATION: Bldg Main Bldg Metropole
+NER_ORGANIZATION: St Albans Tel

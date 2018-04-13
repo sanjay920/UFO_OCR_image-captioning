@@ -1,0 +1,25 @@
+   Score: 0.377: PERSON: NON Ascii text
+   Score: 0.452: ORGANIZATION: MINUTE
+   Score: 0.628: ORGANIZATION: Huddersfield
+   Score: 1.010: ORGANIZATION: UFO
+   Score: 0.299: LOCATION: HUDDERSFIELD
+   Score: 0.760: LOCATION: Holmfirth Police Station
+   Score: 0.204: ORGANIZATION: SGCUOFI4O Meltham
+   Score: 0.324: PERSON: Castle Hill
+   Score: 0.442: LOCATION: Almondbury
+   Score: 0.355: ORGANIZATION: Huddersfield
+   Score: 0.372: PERSON: NON Ascii text
+   Score: 0.187: PERSON: Castle Hill
+   Score: 0.347: LOCATION: Emley Moor
+   Score: 0.431: PERSON: Emley
+   Score: 0.474: LOCATION: Huddersfield
+   Score: 0.413: PERSON: NON Ascii text
+   Score: 0.752: ORGANIZATION: Manchester Air Traffic Control
+   Score: 0.589: PERSON: Admin
+   Score: 1.714: ORGANIZATION: Ministry of Defence , Department
+   Score: 0.610: ORGANIZATION: Air
+   Score: 0.110: ORGANIZATION: Main Building
+   Score: 0.764: LOCATION: Whitehall
+   Score: 1.188: LOCATION: London
+   Score: 0.275: PERSON: SW1A
+   Score: 0.355: PERSON: Kirklees

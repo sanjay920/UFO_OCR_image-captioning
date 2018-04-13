@@ -1,0 +1,8 @@
+   Score: 0.445: PERSON: NON Ascii text
+   Score: 0.512: ORGANIZATION: La n.
+   Score: 0.809: ORGANIZATION: ACS
+   Score: 0.302: ORGANIZATION: BRIGHT
+   Score: 1.221: ORGANIZATION: DST
+   Score: 0.450: ORGANIZATION: NON Ascii text
+   Score: 0.404: PERSON: Baa
+   Score: 0.318: PERSON: NON Ascii text

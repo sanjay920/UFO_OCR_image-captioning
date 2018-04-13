@@ -1,0 +1,3 @@
+   Score: 1.210: PERSON: J. Nea_rbv
+   Score: 0.396: ORGANIZATION: Addres_s of Informant
+   Score: 0.765: ORGANIZATION: r-l O 'TQA

@@ -1,0 +1,4 @@
+   Score: 0.486: LOCATION: Birmingham
+   Score: 0.491: ORGANIZATION: Ang Unusual Meteorological Nil
+   Score: 0.472: ORGANIZATION: AS
+   Score: 1.251: ORGANIZATION: AEu/GE DI ssv ' File AF

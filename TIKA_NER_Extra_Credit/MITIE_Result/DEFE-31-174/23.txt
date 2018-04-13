@@ -1,0 +1,5 @@
+   Score: 0.700: ORGANIZATION: Ang Unusual Meteorological
+   Score: 0.603: ORGANIZATION: AS
+   Score: 1.136: ORGANIZATION: AEw/GE DI
+   Score: 0.208: PERSON: Dutq
+   Score: 0.328: MISC: AF Ops

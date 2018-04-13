@@ -1,0 +1,17 @@
+   Score: 0.667: ORGANIZATION: Duration of Sighting
+   Score: 0.599: PERSON: \i
+   Score: 0.998: LOCATION: WISSENDINE
+   Score: 0.866: LOCATION: West
+   Score: 0.184: LOCATION: Cottesmore
+   Score: 0.440: PERSON: E. DIRECTION
+   Score: 0.249: PERSON: NON Ascii text
+   Score: 0.284: LOCATION: ANGLE
+   Score: 0.518: LOCATION: Estimated Heights
+   Score: 0.327: PERSON: G. DISTANCE
+   Score: 0.370: MISC: -1andmsrk
+   Score: 0.637: ORGANIZATION: NON Ascii text
+   Score: 0.602: PERSON: H. MOVEMENTS
+   Score: 0.315: PERSON: F
+   Score: 0.547: LOCATION: Stationary
+   Score: 0.622: PERSON: J. NET
+   Score: 0.368: ORGANIZATION: NON Ascii text

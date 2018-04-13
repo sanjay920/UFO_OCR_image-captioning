@@ -1,0 +1,7 @@
+   Score: 0.634: ORGANIZATION: AFOPS Teleo
+   Score: 0.984: PERSON: Dobbs Weir
+   Score: 0.334: LOCATION: Hoddesden
+   Score: 0.847: ORGANIZATION: Brit Telecom
+   Score: 0.636: ORGANIZATION: Unusual Meteorological
+   Score: 0.548: ORGANIZATION: AS
+   Score: 1.078: ORGANIZATION: AEw/GE DI

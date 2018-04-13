@@ -1,0 +1,26 @@
+   Score: 0.091: PERSON: NON Ascii text
+   Score: 0.326: ORGANIZATION: NON Ascii text
+   Score: 0.370: PERSON: NON Ascii text
+   Score: 0.603: ORGANIZATION: EA
+   Score: 0.565: ORGANIZATION: CAV
+   Score: 0.442: ORGANIZATION: MAI
+   Score: 0.559: ORGANIZATION: NON Ascii text
+   Score: 0.564: MISC: NON Ascii text
+   Score: 0.226: PERSON: NON Ascii text
+   Score: 0.624: PERSON: NON Ascii text
+   Score: 1.118: ORGANIZATION: PAGE
+   Score: 0.996: ORGANIZATION: DEC
+   Score: 0.429: ORGANIZATION: BT L. \\
+   Score: 0.569: ORGANIZATION: IDcI
+   Score: 0.635: ORGANIZATION: CD
+   Score: 0.695: PERSON: NON Ascii text
+   Score: 0.640: PERSON: NON Ascii text
+   Score: 0.218: PERSON: CxJ
+   Score: 0.466: ORGANIZATION: DsCCAFDO
+   Score: 0.896: ORGANIZATION: ACS
+   Score: 0.148: PERSON: I_
+   Score: 0.917: ORGANIZATION: GE
+   Score: 0.219: MISC: DI 53
+   Score: 1.036: ORGANIZATION: SIC
+   Score: 0.906: ORGANIZATION: CAV DSTI n
+   Score: 0.466: ORGANIZATION: NON Ascii text

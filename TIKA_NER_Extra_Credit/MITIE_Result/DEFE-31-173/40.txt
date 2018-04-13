@@ -1,0 +1,4 @@
+   Score: 0.550: PERSON: NON Ascii text
+   Score: 0.497: ORGANIZATION: NON Ascii text
+   Score: 1.127: ORGANIZATION: SAC
+   Score: 0.795: PERSON: Dat

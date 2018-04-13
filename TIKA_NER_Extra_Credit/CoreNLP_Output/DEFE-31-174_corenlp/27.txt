@@ -1,0 +1,5 @@
+NER_ORGANIZATION: Sec
+NER_ORGANIZATION: Duty Operations Officer Date
+NER_ORGANIZATION: Time of Receipt 210ct86
+NER_ORGANIZATION: Pdﬁce Secﬂon40 M. Name & Address of Informant N. Background of Informant
+NER_ORGANIZATION: Secﬂon40 Squadron Leader

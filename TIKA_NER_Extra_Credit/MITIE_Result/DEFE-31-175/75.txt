@@ -1,0 +1,18 @@
+   Score: 0.391: ORGANIZATION: BHUUP
+   Score: 0.269: PERSON: Ufos
+   Score: 0.407: ORGANIZATION: Exeter
+   Score: 0.968: LOCATION: NE
+   Score: 0.910: LOCATION: SW
+   Score: 0.886: ORGANIZATION: Air Treffic
+   Score: 0.393: ORGANIZATION: Exeter
+   Score: 0.783: ORGANIZATION: Plymouth
+   Score: 0.400: ORGANIZATION: Plymouth
+   Score: 0.351: LOCATION: Buderon
+   Score: 0.236: PERSON: Bude
+   Score: 1.102: ORGANIZATION: RAF
+   Score: 0.784: ORGANIZATION: RAF
+   Score: 0.249: MISC: Devon
+   Score: 0.103: ORGANIZATION: Ufo
+   Score: 0.684: PERSON: Ufo
+   Score: 0.405: LOCATION: Ufo
+   Score: 0.709: ORGANIZATION: Plymouth

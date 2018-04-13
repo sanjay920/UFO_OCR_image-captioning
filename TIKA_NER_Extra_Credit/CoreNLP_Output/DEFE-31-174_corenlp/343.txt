@@ -1,0 +1,4 @@
+NER_ORGANIZATION: Secﬂon40 Squadron Leader Duty Operations Officer AF Ops
+NER_ORGANIZATION: RAF HENLOW Name & Address
+NER_ORGANIZATION: Time of Receipt
+NER_PERSON: RITCHIE

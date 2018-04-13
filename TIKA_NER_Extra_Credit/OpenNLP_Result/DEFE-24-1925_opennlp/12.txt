@@ -1,0 +1,6 @@
+NER_LOCATION: Heathrow Airport
+NER_LOCATION: London
+NER_ORGANIZATION: Secretariat Division 8 Ministry of Defence Main
+NER_ORGANIZATION: Civil Aviation Authority - Ministry of Defence Service
+NER_ORGANIZATION: Defence
+NER_ORGANIZATION: Control Tower

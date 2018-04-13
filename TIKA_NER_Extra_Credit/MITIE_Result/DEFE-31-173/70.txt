@@ -1,0 +1,11 @@
+   Score: 0.909: PERSON: Kl/Cg
+   Score: 0.762: ORGANIZATION: Duration of Sighting
+   Score: 0.388: PERSON: Dumber dfrobjects
+   Score: 0.275: MISC: BRIGHT
+   Score: 0.388: PERSON: Aindoor/butaoor
+   Score: 0.762: ORGANIZATION: OUTDOORS
+   Score: 0.436: ORGANIZATION: NAKED
+   Score: 0.180: LOCATION: NON Ascii text
+   Score: 0.518: LOCATION: ANGLE
+   Score: 0.510: PERSON: NON Ascii text
+   Score: 0.115: ORGANIZATION: CLOUD

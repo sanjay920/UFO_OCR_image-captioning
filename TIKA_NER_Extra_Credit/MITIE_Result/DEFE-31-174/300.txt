@@ -1,0 +1,3 @@
+   Score: 0.345: PERSON: NON Ascii text
+   Score: 0.501: ORGANIZATION: Landmark
+   Score: 0.255: PERSON: Angular

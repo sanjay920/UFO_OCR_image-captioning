@@ -1,0 +1,5 @@
+   Score: 0.312: ORGANIZATION: Ofiicar-in-Charge Eilitary Barracks
+   Score: 0.750: ORGANIZATION: Longon S.E.l
+   Score: 0.136: MISC: Blst December
+   Score: 0.202: LOCATION: your Barracks
+   Score: 1.000: PERSON: m. Woulu

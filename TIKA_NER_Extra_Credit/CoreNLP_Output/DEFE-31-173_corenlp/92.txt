@@ -1,0 +1,4 @@
+NER_DATE: Nov 84
+NER_ORGANIZATION: Time
+NER_ORGANIZATION: Duration of Sighting
+NER_PERSON: Dawley

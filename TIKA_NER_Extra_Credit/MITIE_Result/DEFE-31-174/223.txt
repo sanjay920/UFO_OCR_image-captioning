@@ -1,0 +1,11 @@
+   Score: 1.690: ORGANIZATION: NOD Air Force Operations Name & Address
+   Score: 0.796: ORGANIZATION: NON Ascii text
+   Score: 0.418: LOCATION: Highbury London
+   Score: 0.674: ORGANIZATION: Lab Tech
+   Score: 0.302: LOCATION: Kornsey
+   Score: 0.523: LOCATION: London Date
+   Score: 0.638: ORGANIZATION: Unusual Meteorological
+   Score: 0.513: ORGANIZATION: AS
+   Score: 0.635: ORGANIZATION: NON Ascii text
+   Score: 0.408: ORGANIZATION: File AF
+   Score: 0.430: MISC: Duty Operations

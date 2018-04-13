@@ -1,0 +1,3 @@
+NER_ORGANIZATION: House of Lords
+NER_PERSON: Lord Hill~Norton
+NER_PERSON: Lord Trefgarne

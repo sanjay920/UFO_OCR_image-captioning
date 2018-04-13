@@ -1,0 +1,16 @@
+   Score: 0.491: PERSON: Scct
+   Score: 0.224: PERSON: I\_J
+   Score: 0.573: PERSON: Data
+   Score: 0.349: PERSON: NON Ascii text
+   Score: 0.363: PERSON: NON Ascii text
+   Score: 0.154: LOCATION: KW
+   Score: 0.362: PERSON: NON Ascii text
+   Score: 0.588: ORGANIZATION: Aime/u Hz FI/u 'r Sm Ifr
+   Score: 0.424: ORGANIZATION: EIWIM
+   Score: 0.778: ORGANIZATION: LII Ham
+   Score: 0.420: PERSON: NON Ascii text
+   Score: 0.942: ORGANIZATION: MUOH W.
+   Score: 0.266: ORGANIZATION: SMw
+   Score: 1.069: PERSON: Linda WUD
+   Score: 0.641: PERSON: III
+   Score: 0.735: ORGANIZATION: SI
