@@ -1,3 +1,0 @@
-NER_LOCATION: Locéinn
-NER_MONEY: £$L'
-NER_PERSON: Tine

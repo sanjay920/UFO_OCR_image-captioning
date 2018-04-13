@@ -1,2 +1,0 @@
-NER_MONEY: £$ \
-NER_ORGANIZATION: edL E. Direction

@@ -1,7 +1,0 @@
-NER_DATE: May 86
-NER_LOCATION: London
-NER_LOCATION: Brockley
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: Secﬂon40 Squadron Leader Duty Operations Officer AF Ops
-NER_ORGANIZATION: Time of Receipt
-NER_ORGANIZATION: Name & Address of Informant Secﬂon40

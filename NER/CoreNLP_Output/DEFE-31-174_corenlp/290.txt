@@ -1,7 +1,0 @@
-NER_DATE: 9
-NER_DATE: July 1985
-NER_LOCATION: LONDON
-NER_LOCATION: YORKSHIRE
-NER_MONEY: $4119
-NER_ORGANIZATION: The Ministry of Defence Department S4
-NER_ORGANIZATION: Calderdale Division of this Force

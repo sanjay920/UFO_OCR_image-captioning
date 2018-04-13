@@ -1,2 +1,0 @@
-NER_ORGANIZATION: J. Meteorological
-NER_PERCENT: 53%

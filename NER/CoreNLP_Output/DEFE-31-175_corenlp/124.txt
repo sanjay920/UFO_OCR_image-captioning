@@ -1,4 +1,0 @@
-NER_DATE: Jun 87
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: Night Security Guard
-NER_ORGANIZATION: ~ Name & Address of Informant Secﬂon40 NEWCASTLE

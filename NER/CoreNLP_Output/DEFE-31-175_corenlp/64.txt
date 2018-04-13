@@ -1,5 +1,0 @@
-NER_DATE: 56
-NER_MONEY: $ Direction
-NER_ORGANIZATION: Time of Receipt
-NER_ORGANIZATION: lg
-NER_PERCENT: ;%

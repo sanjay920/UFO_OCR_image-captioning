@@ -1,3 +1,0 @@
-NER_ORGANIZATION: E. Direction
-NER_ORGANIZATION: Time & 2723402 Oct 86 Duration of Sighting 15
-NER_PERSON: H. Hovements

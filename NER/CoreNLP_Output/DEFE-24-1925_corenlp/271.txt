@@ -1,2 +1,0 @@
-NER_ORGANIZATION: Department
-NER_ORGANIZATION: APS/Secretary of State

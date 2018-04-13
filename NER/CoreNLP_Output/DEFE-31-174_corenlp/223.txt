@@ -1,8 +1,0 @@
-NER_DATE: 29 Sep 85
-NER_LOCATION: London
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: Lab Tech
-NER_ORGANIZATION: lr Section 40 Highbury London N5
-NER_ORGANIZATION: Air Force Operations Name & Address
-NER_ORGANIZATION: Time of Receipt
-NER_ORGANIZATION: Seoﬂon40 Squadron Leader Duty Operations Officer

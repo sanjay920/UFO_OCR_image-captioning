@@ -1,5 +1,0 @@
-NER_LOCATION: Chelmsford
-NER_ORGANIZATION: Exact Position of Observer Location
-NER_ORGANIZATION: Time & Duration of Sighting
-NER_ORGANIZATION: Naked Ege Direction
-NER_ORGANIZATION: Ford

@@ -1,5 +1,0 @@
-NER_DATE: Oct 86 1955A
-NER_LOCATION: Aberdeen
-NER_ORGANIZATION: Duration of Sighting Snﬁns B. Description of Object
-NER_ORGANIZATION: Time 8
-NER_ORGANIZATION: Nelson St. East

@@ -1,5 +1,0 @@
-NER_DATE: Oct 20
-NER_DATE: ’51
-NER_LOCATION: West F. 4
-NER_PERCENT: Tﬁlé %
-NER_PERSON: Rushton

@@ -1,4 +1,0 @@
-NER_MONEY: b¢
-NER_MONEY: tn¢
-NER_PERCENT: "%
-NER_PERCENT: and %

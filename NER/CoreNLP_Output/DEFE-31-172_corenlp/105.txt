@@ -1,2 +1,0 @@
-NER_ORGANIZATION: Bldg Main Bldg Metropole
-NER_ORGANIZATION: GE

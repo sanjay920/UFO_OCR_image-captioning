@@ -1,2 +1,0 @@
-NER_MONEY: €13
-NER_PERCENT: 30%

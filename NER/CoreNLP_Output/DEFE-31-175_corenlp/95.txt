@@ -1,2 +1,0 @@
-NER_DATE: 50
-NER_MONEY: 5¢

@@ -1,1 +1,0 @@
-NER_ORGANIZATION: Initials & Data Section 40 Tech Int

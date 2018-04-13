@@ -1,8 +1,0 @@
-NER_DATE: April 1986
-NER_DATE: 1986
-NER_DATE: December
-NER_DATE: 1985
-NER_LOCATION: Yorkshire
-NER_LOCATION: London
-NER_LOCATION: Welsh
-NER_ORGANIZATION: the Ministry of Defence

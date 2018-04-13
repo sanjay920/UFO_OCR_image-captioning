@@ -1,4 +1,0 @@
-NER_DATE: Jul 86
-NER_LOCATION: London
-NER_MONEY: $ Informant
-NER_PERCENT: 0%

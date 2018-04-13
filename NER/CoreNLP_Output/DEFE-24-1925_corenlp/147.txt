@@ -1,5 +1,0 @@
-NER_MONEY: €i
-NER_ORGANIZATION: RAF
-NER_ORGANIZATION: Defenca Main Building Whitehall London SW1A 2H5
-NER_ORGANIZATION: Yourreference Oxu
-NER_ORGANIZATION: Air Staff

@@ -1,4 +1,0 @@
-NER_DATE: September 4th, 1986
-NER_ORGANIZATION: AIS
-NER_PERSON: A. G. H. Eilogyﬁ
-NER_PERSON: Sandy

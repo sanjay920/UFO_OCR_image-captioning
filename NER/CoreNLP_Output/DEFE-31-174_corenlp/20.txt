@@ -1,7 +1,0 @@
-NER_DATE: Ldr 7 Nov 86
-NER_DATE: Nov 86
-NER_LOCATION: Northampton
-NER_ORGANIZATION: Park Police & military
-NER_ORGANIZATION: Air Force Operations Name & Address of In90rmant HrsSeCmM14O Section 40 Parkland
-NER_ORGANIZATION: Time of Receipt
-NER_PERSON: Hitnessas

@@ -1,8 +1,0 @@
-NER_DATE: 17 Mar 85 1940
-NER_DATE: 2000
-NER_DATE: Mar 85
-NER_LOCATION: London
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: Name & Address of Informant Neasden
-NER_ORGANIZATION: Duty Operations Officer Date
-NER_ORGANIZATION: Time of Receipt

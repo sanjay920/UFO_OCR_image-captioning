@@ -1,3 +1,0 @@
-NER_MONEY: $33
-NER_MONEY: $C-5J
-NER_ORGANIZATION: Time & Duration of Sighting

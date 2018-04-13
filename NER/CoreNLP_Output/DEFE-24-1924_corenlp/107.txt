@@ -1,3 +1,0 @@
-NER_LOCATION: Udzﬂkc
-NER_MONEY: $ﬁm
-NER_PERCENT: .....%

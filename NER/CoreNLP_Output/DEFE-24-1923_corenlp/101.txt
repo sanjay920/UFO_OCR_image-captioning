@@ -1,4 +1,0 @@
-NER_LOCATION: £
-NER_ORGANIZATION: ATI
-NER_ORGANIZATION: Time & Duration of Sighting 49 JUL
-NER_ORGANIZATION: Observer Location

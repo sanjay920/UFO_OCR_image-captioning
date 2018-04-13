@@ -1,8 +1,0 @@
-NER_DATE: Scr 33
-NER_LOCATION: Kingston Road
-NER_LOCATION: Shoreditch
-NER_ORGANIZATION: Time & '
-NER_ORGANIZATION: C. Exact Position of Observer Cutdoor
-NER_ORGANIZATION: e. Direction
-NER_ORGANIZATION: Desaription of Object Lory
-NER_ORGANIZATION: Cit

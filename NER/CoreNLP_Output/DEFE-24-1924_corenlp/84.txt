@@ -1,5 +1,0 @@
-NER_MONEY: 55¢
-NER_MONEY: €¥
-NER_ORGANIZATION: Observer Location
-NER_ORGANIZATION: Time & Duration of Sighting 030920z May Description of Object
-NER_PERSON: Dobbs Weir

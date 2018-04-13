@@ -1,3 +1,0 @@
-NER_LOCATION: Derbysnire
-NER_ORGANIZATION: Nesrbx objqug
-NER_ORGANIZATION: Derbyshire Police

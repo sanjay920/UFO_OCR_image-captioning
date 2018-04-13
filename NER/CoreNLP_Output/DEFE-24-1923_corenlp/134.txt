@@ -1,3 +1,0 @@
-NER_LOCATION: Kingston West
-NER_ORGANIZATION: Time & Duration of Sighting 021752A Description of Object
-NER_ORGANIZATION: East Angle of Sight

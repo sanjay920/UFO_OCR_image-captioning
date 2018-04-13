@@ -1,5 +1,0 @@
-NER_MONEY: €?
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: Time of Receipt 0
-NER_ORGANIZATION: M. Name & Address of Informant N. Background
-NER_ORGANIZATION: Unusual Meteorological Ho Conditions R. Remarks I Lore Squadron Leader

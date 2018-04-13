@@ -1,7 +1,0 @@
-NER_DATE: Sep 85
-NER_ORGANIZATION: Danv N. Background of Informant
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: Eon
-NER_ORGANIZATION: Time of Receipt
-NER_ORGANIZATION: M. Name & Address of Informant
-NER_PERCENT: ~%

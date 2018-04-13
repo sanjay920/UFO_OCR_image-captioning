@@ -1,7 +1,0 @@
-NER_DATE: Nov 85
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: Tel N. Background
-NER_ORGANIZATION: M. Name & Address of Informant etterlng
-NER_ORGANIZATION: Time of Receipt
-NER_ORGANIZATION: Unusual Meteorological None Conditions R. Remarks Date
-NER_ORGANIZATION: Air Force

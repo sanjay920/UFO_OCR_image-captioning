@@ -1,3 +1,0 @@
-NER_LOCATION: Gatwick Airport
-NER_ORGANIZATION: West Sussex RHG
-NER_ORGANIZATION: S’Il Civil Aviation Authority Control Tower

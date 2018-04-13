@@ -1,9 +1,0 @@
-NER_DATE: '13
-NER_MONEY: $ /
-NER_ORGANIZATION: H. e & Address of Informanto N. Any Background Information
-NER_ORGANIZATION: P. Date & Time of Receipt of RopBrta
-NER_ORGANIZATION: Aia
-NER_ORGANIZATION: Time Duration of Sighting
-NER_ORGANIZATION: Object G. Distance of Object
-NER_ORGANIZATION: Wm H. Movements of Object
-NER_PERCENT: /%

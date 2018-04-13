@@ -1,2 +1,0 @@
-NER_DATE: Sunday 2 June 1
-NER_ORGANIZATION: Time & Duration of Sighting

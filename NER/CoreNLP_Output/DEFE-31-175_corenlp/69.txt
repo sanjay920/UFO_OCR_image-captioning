@@ -1,7 +1,0 @@
-NER_LOCATION: Newcastle Airport
-NER_MONEY: ~¢
-NER_ORGANIZATION: Naked qu Direction
-NER_ORGANIZATION: Bg
-NER_ORGANIZATION: Exact Position of Observer Location
-NER_ORGANIZATION: Newcastle Stationarg How Observed
-NER_ORGANIZATION: Time & Duration of Sighting 012205 Local Sep 87

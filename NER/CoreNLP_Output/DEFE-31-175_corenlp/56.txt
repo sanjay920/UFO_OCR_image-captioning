@@ -1,7 +1,0 @@
-NER_MONEY: r¢
-NER_MONEY: $y
-NER_MONEY: 4mmx4¢
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: Squadron Leadev Duty Operations Cfficer 05ch
-NER_PERCENT: m%
-NER_PERCENT: ﬁ %

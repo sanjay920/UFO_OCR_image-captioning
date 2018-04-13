@@ -1,4 +1,0 @@
-NER_DATE: 1315
-NER_ORGANIZATION: First Fourth Norfolks
-NER_ORGANIZATION: Army Historical Branch
-NER_PERSON: Lord Clancarty

@@ -1,2 +1,0 @@
-NER_MONEY: an¢
-NER_PERSON: Becﬂ

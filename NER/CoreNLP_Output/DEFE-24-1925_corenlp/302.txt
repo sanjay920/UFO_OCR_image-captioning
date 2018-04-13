@@ -1,2 +1,0 @@
-NER_ORGANIZATION: APS/Secretary of State
-NER_ORGANIZATION: Secretary of State

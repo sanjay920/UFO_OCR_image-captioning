@@ -1,5 +1,0 @@
-NER_DATE: May 05
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: 1 Squadron ea er Duty Operations Officer AF Ops
-NER_ORGANIZATION: Time of Receipt
-NER_ORGANIZATION: Sqn Ldr -40 M. Name & Address

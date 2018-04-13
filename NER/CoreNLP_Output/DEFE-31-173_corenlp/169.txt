@@ -1,3 +1,0 @@
-NER_MONEY: €/¢
-NER_ORGANIZATION: Tine & Duration of Sighting Description of Object
-NER_ORGANIZATION: Time of Receipt

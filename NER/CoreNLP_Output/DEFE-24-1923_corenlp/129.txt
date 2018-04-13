@@ -1,3 +1,0 @@
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: M. Name & Address of Informant N. Background
-NER_ORGANIZATION: Time of Receipt 1500 approx Q. Any Unusual Meteorological _ Conditions R. Remarks Date

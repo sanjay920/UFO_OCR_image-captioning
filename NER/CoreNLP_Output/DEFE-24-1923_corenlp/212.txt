@@ -1,5 +1,0 @@
-NER_LOCATION: Wickford
-NER_LOCATION: Chelmsford
-NER_ORGANIZATION: SEC
-NER_ORGANIZATION: Essex Police Headquarters Information Room
-NER_ORGANIZATION: Nil P.

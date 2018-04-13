@@ -1,4 +1,0 @@
-NER_DATE: 1977
-NER_ORGANIZATION: Seconc ﬁditioia URD/1981
-NER_ORGANIZATION: Pu First UFO Phenomenao UFO Internationalo UFO International
-NER_PERSON: Tunstall

@@ -1,3 +1,0 @@
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: Name & Address of Informant Section 40
-NER_PERCENT: Vjﬁ%

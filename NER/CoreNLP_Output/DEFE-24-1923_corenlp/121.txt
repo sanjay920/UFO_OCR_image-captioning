@@ -1,4 +1,0 @@
-NER_ORGANIZATION: E. Direction
-NER_ORGANIZATION: Time 5
-NER_ORGANIZATION: O F. Angle of Slght
-NER_PERSON: B. Descrlption

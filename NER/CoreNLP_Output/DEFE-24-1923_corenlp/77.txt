@@ -1,4 +1,0 @@
-NER_MONEY: $.81
-NER_MONEY: $ ﬁ
-NER_ORGANIZATION: M. Name
-NER_PERSON: K. Nearobz

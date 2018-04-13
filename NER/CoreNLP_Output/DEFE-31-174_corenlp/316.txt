@@ -1,4 +1,0 @@
-NER_DATE: Sunday 2 June
-NER_ORGANIZATION: E. F & G Moving
-NER_ORGANIZATION: Time & 1
-NER_PERSON: Harlborough

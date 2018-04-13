@@ -1,6 +1,0 @@
-NER_DATE: K 29 Aug 84
-NER_LOCATION: Stoke-on-Trent
-NER_LOCATION: Manchester Airport
-NER_MONEY: stiV¢
-NER_ORGANIZATION: Time
-NER_PERSON: Humber

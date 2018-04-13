@@ -1,9 +1,0 @@
-NER_DATE: Monday 47 June
-NER_DATE: 5129
-NER_LOCATION: Wallsend
-NER_LOCATION: River Tyne
-NER_ORGANIZATION: Time &
-NER_ORGANIZATION: C. Exact Position of Observer Wallsend Police Station
-NER_ORGANIZATION: Tyne & Weir
-NER_ORGANIZATION: Location
-NER_PERSON: B. Descriptlon

@@ -1,4 +1,0 @@
-NER_MONEY: $My
-NER_MONEY: $.
-NER_ORGANIZATION: nain Bldg Main Bldg Metropole
-NER_ORGANIZATION: GE

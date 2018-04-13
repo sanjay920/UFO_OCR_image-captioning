@@ -1,5 +1,0 @@
-NER_ORGANIZATION: E. Direction
-NER_ORGANIZATION: Time & 061930A Nov 86 Duration of Sighting
-NER_ORGANIZATION: OhJect Delta
-NER_ORGANIZATION: E. F & 0 None
-NER_PERCENT: ;%

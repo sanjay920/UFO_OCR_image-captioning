@@ -1,2 +1,0 @@
-NER_DATE: May 8
-NER_ORGANIZATION: Time & Duration of Sighting

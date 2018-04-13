@@ -1,5 +1,0 @@
-NER_DATE: Oct 87
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: Name & Address of Informant Secﬂon40 Daventrg
-NER_ORGANIZATION: Ang Unusual Meteorological Nil Conditions Sounded
-NER_ORGANIZATION: HOD

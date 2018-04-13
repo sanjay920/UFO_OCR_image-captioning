@@ -1,2 +1,0 @@
-NER_LOCATION: Kinloss
-NER_ORGANIZATION: 0755A Section 40 Date 5 Dec San

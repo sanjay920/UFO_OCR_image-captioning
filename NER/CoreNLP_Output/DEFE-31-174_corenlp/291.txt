@@ -1,7 +1,0 @@
-NER_DATE: Sunday 7 July 1985
-NER_LOCATION: London
-NER_ORGANIZATION: Sowerby Bridge
-NER_ORGANIZATION: Sowerby Bridge Police Station
-NER_ORGANIZATION: Whitehall
-NER_ORGANIZATION: Ministry of Defence Department
-NER_PERSON: Mari

@@ -1,2 +1,0 @@
-NER_DATE: 2997
-NER_PERSON: Tina \

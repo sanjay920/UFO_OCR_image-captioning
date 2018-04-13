@@ -1,5 +1,0 @@
-NER_LOCATION: North West
-NER_LOCATION: Tomintoul
-NER_ORGANIZATION: Duration of 162020A
-NER_PERCENT: &%
-NER_PERSON: Grantown

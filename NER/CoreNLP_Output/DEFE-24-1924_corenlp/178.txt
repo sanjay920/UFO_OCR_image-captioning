@@ -1,6 +1,0 @@
-NER_DATE: Oct 85 25 Mins 3
-NER_LOCATION: Epping
-NER_LOCATION: London Airport
-NER_LOCATION: London
-NER_ORGANIZATION: Time & Duration of Sighting
-NER_PERSON: Ubd A. Date

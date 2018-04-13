@@ -1,7 +1,0 @@
-NER_LOCATION: London
-NER_ORGANIZATION: Stockwell
-NER_ORGANIZATION: Stockwell Angle of Sight
-NER_ORGANIZATION: Orange Sphere Exact Position of Observer Location
-NER_ORGANIZATION: Naked ege Direction
-NER_ORGANIZATION: Time & Duration of Sighting
-NER_ORGANIZATION: NE of Stockwell

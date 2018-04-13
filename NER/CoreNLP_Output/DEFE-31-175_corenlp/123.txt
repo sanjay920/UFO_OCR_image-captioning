@@ -1,7 +1,0 @@
-NER_DATE: Jun 87 15
-NER_DATE: 20
-NER_LOCATION: East
-NER_ORGANIZATION: Bu
-NER_ORGANIZATION: Exact Position of Observer Location
-NER_ORGANIZATION: Time & Duration of Sighting
-NER_ORGANIZATION: Newcastle Movements

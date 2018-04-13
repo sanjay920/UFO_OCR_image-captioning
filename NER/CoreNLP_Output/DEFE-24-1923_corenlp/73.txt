@@ -1,3 +1,0 @@
-NER_DATE: ’ ’1
-NER_LOCATION: Grey
-NER_PERSON: Durst

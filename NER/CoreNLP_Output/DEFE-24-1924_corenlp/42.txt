@@ -1,3 +1,0 @@
-NER_MONEY: wu¢
-NER_MONEY: U¢
-NER_ORGANIZATION: Jmou Ram Elfou Seen

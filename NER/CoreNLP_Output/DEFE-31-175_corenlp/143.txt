@@ -1,3 +1,0 @@
-NER_DATE: Apr 87
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: Name & Address of Informant Secﬂon40 Background of Informant

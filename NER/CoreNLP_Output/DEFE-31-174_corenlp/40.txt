@@ -1,7 +1,0 @@
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: Secﬂon40 Squadron Leader Duty Operations Officer AF Ops
-NER_ORGANIZATION: Unusual Meteorological Conditions fJﬂ‘ R. Remarks Datezqgegéﬂ
-NER_PERCENT: C%%
-NER_PERCENT: 1%
-NER_PERCENT: 0%
-NER_PERCENT: 53%

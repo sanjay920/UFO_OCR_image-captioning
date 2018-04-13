@@ -1,4 +1,0 @@
-NER_ORGANIZATION: Exact Position of Observer Location
-NER_ORGANIZATION: E. F & G
-NER_ORGANIZATION: Time 8t Duration of Sighting 6 Apr 87 0925-09302 Description of Object
-NER_PERSON: Nai

@@ -1,6 +1,0 @@
-NER_LOCATION: West Drayton
-NER_LOCATION: London
-NER_MONEY: £50
-NER_ORGANIZATION: Ccnprag Military
-NER_ORGANIZATION: Royal Air Force
-NER_PERSON: Drayton Middlcscx

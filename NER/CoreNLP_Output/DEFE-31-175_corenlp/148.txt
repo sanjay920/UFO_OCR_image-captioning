@@ -1,4 +1,0 @@
-NER_MONEY: ~¢
-NER_MONEY: $6CZF
-NER_ORGANIZATION: Humberside Police
-NER_PERCENT: " %

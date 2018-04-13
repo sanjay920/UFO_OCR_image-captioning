@@ -1,5 +1,0 @@
-NER_MONEY: €b.
-NER_MONEY: a¢yd¢
-NER_MONEY: €ﬂﬁx
-NER_MONEY: 5AAL ¢J¢Lh¢
-NER_ORGANIZATION: Time A Duration

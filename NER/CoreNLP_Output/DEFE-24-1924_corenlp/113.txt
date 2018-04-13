@@ -1,9 +1,0 @@
-NER_LOCATION: Lyneham
-NER_LOCATION: Ireland
-NER_LOCATION: Shannon
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: RACC HG STC‘ M. Name & Address of Informant N. Background of Informant
-NER_ORGANIZATION: Time of Receipt 2321SOZ Feb 86 Q. Any Unusual Meteorological Eone Conditions 4 R. Remarks 23 Feb
-NER_ORGANIZATION: 1 Squadron Leader Duty Operations Officer AF Ops
-NER_ORGANIZATION: Air Force Cps
-NER_PERSON: Shannon areaO P. Date

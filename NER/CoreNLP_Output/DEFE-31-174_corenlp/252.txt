@@ -1,3 +1,0 @@
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: Ops Name & Address of Imformant Seoﬂon40 Boreham Wood Herts
-NER_ORGANIZATION: Time of Receipt

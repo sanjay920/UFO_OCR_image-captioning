@@ -1,7 +1,0 @@
-NER_DATE: August
-NER_LOCATION: Carictnn
-NER_MONEY: €d
-NER_ORGANIZATION: Direectrur rv-f Research
-NER_ORGANIZATION: Hf
-NER_PERCENT: 1%
-NER_PERSON: Tike

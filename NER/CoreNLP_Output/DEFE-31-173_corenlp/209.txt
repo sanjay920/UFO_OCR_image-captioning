@@ -1,3 +1,0 @@
-NER_MONEY: $‘
-NER_ORGANIZATION: UNCLASSHWED Name and Address of Informant
-NER_ORGANIZATION: Time of Receipt of Report

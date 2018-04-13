@@ -1,6 +1,0 @@
-NER_DATE: Oct 84
-NER_LOCATION: Wellingborough
-NER_ORGANIZATION: RAF Air Wireless
-NER_ORGANIZATION: DITIONS Nil‘ R. w Date Copies toz
-NER_ORGANIZATION: GE
-NER_PERSON: Rushton

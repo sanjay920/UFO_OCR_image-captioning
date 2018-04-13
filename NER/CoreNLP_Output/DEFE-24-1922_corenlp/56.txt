@@ -1,9 +1,0 @@
-NER_DATE: 1002
-NER_DATE: 3103
-NER_DATE: Oct 84
-NER_ORGANIZATION: AOC
-NER_ORGANIZATION: Hingdon House Uxbridge Middiesex U Telephonc Uxbl
-NER_ORGANIZATION: / 3/Air D 1 Ministry of Defence
-NER_ORGANIZATION: Headquarters Mthary AirTrafﬁc Operation
-NER_ORGANIZATION: MATO
-NER_ORGANIZATION: UFO

@@ -1,5 +1,0 @@
-NER_DATE: Aug 87
-NER_MONEY: $icer
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: Civil Police Birmingham militarg
-NER_ORGANIZATION: Time of Receipt 292350 Local Aug 87 Ang Unusual Meteorological Nil Conditions Remarks Section 40 Sqn Ldr Duty Dps

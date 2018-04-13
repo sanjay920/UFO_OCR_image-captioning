@@ -1,4 +1,0 @@
-NER_MONEY: € Secﬂon40
-NER_ORGANIZATION: Scc
-NER_ORGANIZATION: Unusuai Fetpyyfl Condizions Secﬂon40 AEN
-NER_PERCENT: ~%

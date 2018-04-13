@@ -1,3 +1,0 @@
-NER_ORGANIZATION: Royal Air Force
-NER_ORGANIZATION: Hawthorn Wiltshire SN13 0P0 Telephone Hawmmn
-NER_ORGANIZATION: UC

@@ -1,3 +1,0 @@
-NER_ORGANIZATION: compliments Aeronautical Information Section
-NER_ORGANIZATION: Royal Air Force
-NER_PERSON: Drayton Middlcscx

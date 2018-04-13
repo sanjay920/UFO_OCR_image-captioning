@@ -1,4 +1,0 @@
-NER_DATE: 28 Oct 86
-NER_MONEY: o¢¢
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: Time of Receipt 2723552 Oct 86 Ang Unusual Meteorological Conditions ‘ Nil Remarks

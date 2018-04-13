@@ -1,6 +1,0 @@
-NER_LOCATION: Aldershot
-NER_LOCATION: North Town
-NER_ORGANIZATION: Buller Barracks
-NER_ORGANIZATION: Ministry of Defence
-NER_ORGANIZATION: Government Road
-NER_ORGANIZATION: Gasworks Bridge on Government Road

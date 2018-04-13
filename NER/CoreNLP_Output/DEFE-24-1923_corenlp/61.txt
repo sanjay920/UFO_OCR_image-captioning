@@ -1,5 +1,0 @@
-NER_ORGANIZATION: Name & Address
-NER_ORGANIZATION: Squadron Leader Duty Operations Officer AF Ops
-NER_ORGANIZATION: Time of Receipt 2492002 Aug 85 Q. VAny Unusual Meteorological Eo Conditions I.
-NER_ORGANIZATION: Boreham Mood Harts
-NER_PERSON: Ieifhbour P. Date

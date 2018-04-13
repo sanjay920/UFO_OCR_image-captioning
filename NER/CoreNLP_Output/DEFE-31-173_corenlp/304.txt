@@ -1,2 +1,0 @@
-NER_ORGANIZATION: Nunavut Naﬂg
-NER_PERCENT: 9.145%

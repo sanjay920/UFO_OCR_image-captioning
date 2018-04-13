@@ -1,4 +1,0 @@
-NER_DATE: 1
-NER_ORGANIZATION: APS‘Secretar§'e£ State
-NER_ORGANIZATION: Secretary of State
-NER_PERCENT: 5%

@@ -1,2 +1,0 @@
-NER_DATE: ‘33
-NER_ORGANIZATION: vmx

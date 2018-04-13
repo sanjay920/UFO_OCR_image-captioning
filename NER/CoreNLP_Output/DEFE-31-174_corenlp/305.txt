@@ -1,7 +1,0 @@
-NER_DATE: Jun 85
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: yame & Address of Informant Secﬂon40 Rd
-NER_ORGANIZATION: Newcastle
-NER_ORGANIZATION: Time of Receipt 282115 Jun Any Unusual Meteorological Conditions Nil Remarks Appeared
-NER_ORGANIZATION: Air Force
-NER_PERSON: Jesmond

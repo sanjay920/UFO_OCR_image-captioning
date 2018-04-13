@@ -1,4 +1,0 @@
-NER_LOCATION: Vatationary
-NER_MONEY: $99€%
-NER_ORGANIZATION: Time
-NER_ORGANIZATION: Duration of Sighting

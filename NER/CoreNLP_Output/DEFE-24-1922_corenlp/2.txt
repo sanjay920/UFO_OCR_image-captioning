@@ -1,2 +1,0 @@
-NER_ORGANIZATION: Date Encl Referred to Date // O Osavazbﬁ
-NER_ORGANIZATION: LO: Ministry of Defence CS

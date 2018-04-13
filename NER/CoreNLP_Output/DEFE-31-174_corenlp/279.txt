@@ -1,7 +1,0 @@
-NER_DATE: July
-NER_DATE: summer
-NER_DATE: August 1985
-NER_ORGANIZATION: Lord Trefgarne
-NER_ORGANIZATION: \ Sec
-NER_ORGANIZATION: Hf
-NER_PERSON: Lord Hill-Norton

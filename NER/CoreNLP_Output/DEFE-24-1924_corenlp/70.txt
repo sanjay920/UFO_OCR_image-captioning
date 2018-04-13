@@ -1,4 +1,0 @@
-NER_DATE: Sunday 6 April 1986
-NER_MONEY: €ssion
-NER_ORGANIZATION: General Administration Department Force Headquarters
-NER_ORGANIZATION: UFO

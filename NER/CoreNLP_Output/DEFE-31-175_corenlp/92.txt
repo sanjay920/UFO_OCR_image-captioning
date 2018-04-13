@@ -1,2 +1,0 @@
-NER_ORGANIZATION: Time & , Duration of Sighting
-NER_ORGANIZATION: Exact Position of Observer Location

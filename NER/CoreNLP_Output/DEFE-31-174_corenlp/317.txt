@@ -1,3 +1,0 @@
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: Time of Receipt
-NER_ORGANIZATION: Unavon Secﬂon40 Name & Address of Informant Secﬂon40 Brnrn‘iam

@@ -1,5 +1,0 @@
-NER_LOCATION: WALLSEND
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: Time of Receipt 102225A MAY Any Unusual Meteorological Conditions
-NER_ORGANIZATION: Name & Address
-NER_ORGANIZATION: mmm

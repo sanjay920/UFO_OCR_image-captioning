@@ -1,7 +1,0 @@
-NER_MONEY: 71d¢
-NER_MONEY: ¥¢
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: UnUSuai Conditions Meteorological AJme
-NER_ORGANIZATION: Name & Address
-NER_PERCENT: 070%
-NER_PERSON: Shaun

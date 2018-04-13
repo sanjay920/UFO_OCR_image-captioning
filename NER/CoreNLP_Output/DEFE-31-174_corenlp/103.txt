@@ -1,4 +1,0 @@
-NER_DATE: April 86 2150
-NER_MONEY: 10 pence
-NER_ORGANIZATION: Time & Duration of Sighting
-NER_ORGANIZATION: Observer Location

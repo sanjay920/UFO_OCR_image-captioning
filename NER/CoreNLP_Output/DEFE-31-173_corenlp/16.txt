@@ -1,5 +1,0 @@
-NER_DATE: 1985
-NER_LOCATION: West Drayton
-NER_LOCATION: Middlesex
-NER_ORGANIZATION: London Air Traffic Control Centre
-NER_PERSON: Cann

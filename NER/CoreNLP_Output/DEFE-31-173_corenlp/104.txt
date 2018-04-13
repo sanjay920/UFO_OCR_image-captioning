@@ -1,6 +1,0 @@
-NER_LOCATION: Locstion
-NER_LOCATION: Stevenage
-NER_MONEY: $7/e$ﬂkyé
-NER_ORGANIZATION: Time
-NER_ORGANIZATION: Duration of Sighting
-NER_ORGANIZATION: Fairlands Way

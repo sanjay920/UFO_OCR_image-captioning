@@ -1,6 +1,0 @@
-NER_LOCATION: Maidenhead
-NER_MONEY: $0ﬁ9f_meq
-NER_ORGANIZATION: Pbove 3t Lukas Church
-NER_ORGANIZATION: CbJect Red Light
-NER_ORGANIZATION: Time & 1o
-NER_PERSON: Shane

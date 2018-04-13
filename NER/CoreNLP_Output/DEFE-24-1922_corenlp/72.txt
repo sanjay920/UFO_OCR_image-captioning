@@ -1,3 +1,0 @@
-NER_LOCATION: North West towards Grantown
-NER_MONEY: $H11620
-NER_ORGANIZATION: Time

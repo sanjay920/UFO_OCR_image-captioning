@@ -1,7 +1,0 @@
-NER_DATE: Friday, 20th September 1985
-NER_DATE: December 1985
-NER_DATE: 1946
-NER_ORGANIZATION: MOD
-NER_ORGANIZATION: Defence Main Building Whitehall London SW1A ZHB
-NER_ORGANIZATION: Outer Circle of Regents Park
-NER_PERSON: Nash

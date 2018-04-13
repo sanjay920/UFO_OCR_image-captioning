@@ -1,2 +1,0 @@
-NER_ORGANIZATION: Air Traffic Control
-NER_ORGANIZATION: Defence

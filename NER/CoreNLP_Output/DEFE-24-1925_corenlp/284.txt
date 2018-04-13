@@ -1,2 +1,0 @@
-NER_ORGANIZATION: Bufora) Association
-NER_ORGANIZATION: Fi Res

@@ -1,4 +1,0 @@
-NER_DATE: January 1986
-NER_LOCATION: West Drayton
-NER_ORGANIZATION: The Ministry of Defence Duty Controller Aeronautical Information Services
-NER_ORGANIZATION: Huddersfield Division of this Force

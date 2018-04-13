@@ -1,2 +1,0 @@
-NER_DATE: 9339
-NER_ORGANIZATION: Time of Receint of Retort

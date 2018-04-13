@@ -1,7 +1,0 @@
-NER_DATE: June 1985
-NER_DATE: Monday 47 June
-NER_LOCATION: Uallsend
-NER_ORGANIZATION: i0
-NER_ORGANIZATION: M. Name & Address of Informant Road
-NER_ORGANIZATION: Time of Receipt
-NER_PERCENT: 1%

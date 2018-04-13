@@ -1,5 +1,0 @@
-NER_DATE: Aug 87
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: Agencq Other Witnesses Nil
-NER_ORGANIZATION: Time of Receipt Any Unusual Meteorological Conditions
-NER_ORGANIZATION: Sqn Ldr Dutg Ops UFFicer Date

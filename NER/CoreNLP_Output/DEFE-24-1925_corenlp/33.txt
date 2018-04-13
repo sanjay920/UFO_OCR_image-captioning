@@ -1,5 +1,0 @@
-NER_DATE: April 1986
-NER_DATE: 1955
-NER_ORGANIZATION: Air Ministry Secret Intelligence Summary
-NER_PERSON: Duncan Sandys
-NER_PERSON: Anthony Montague Brown

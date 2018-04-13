@@ -1,3 +1,0 @@
-NER_MONEY: €ul
-NER_ORGANIZATION: Bg
-NER_ORGANIZATION: Time & Duration of Sighting 272115 Local Aug

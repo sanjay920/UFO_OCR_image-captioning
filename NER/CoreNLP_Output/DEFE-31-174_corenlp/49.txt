@@ -1,5 +1,0 @@
-NER_ORGANIZATION: Geographicalvlocation
-NER_ORGANIZATION: iwwlfwﬂw&/33f Meteorological
-NER_ORGANIZATION: ML
-NER_PERCENT: 36%
-NER_PERCENT: 0%

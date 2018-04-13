@@ -1,7 +1,0 @@
-NER_DATE: 1830
-NER_DATE: Jan 87
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: Time of Receipt 0522152 Jan 87 Ang Unusual Meteorological Conditions Remarks
-NER_ORGANIZATION: RAF
-NER_ORGANIZATION: Column R. Name & Address
-NER_TIME: this evening

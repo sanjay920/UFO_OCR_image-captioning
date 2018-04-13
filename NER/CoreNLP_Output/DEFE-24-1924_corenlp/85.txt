@@ -1,6 +1,0 @@
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: R. Remarks Nil quadron Leader Duty Operations Officer Date
-NER_ORGANIZATION: Any Unusual Meteorological None
-NER_ORGANIZATION: Time of Receipt 032145Z
-NER_ORGANIZATION: M. Name & Address of Informant 0 es en Herts
-NER_ORGANIZATION: N. Background

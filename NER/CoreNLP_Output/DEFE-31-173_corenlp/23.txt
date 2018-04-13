@@ -1,2 +1,0 @@
-NER_DATE: 6105
-NER_PERSON: N. P. Date

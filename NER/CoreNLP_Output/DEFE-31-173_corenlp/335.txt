@@ -1,4 +1,0 @@
-NER_LOCATION: Stationary
-NER_ORGANIZATION: Time
-NER_ORGANIZATION: Duration of Sighting
-NER_PERCENT: 10%

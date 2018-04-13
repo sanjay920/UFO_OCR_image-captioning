@@ -1,5 +1,0 @@
-NER_DATE: Nov. 84
-NER_DATE: Nov 84
-NER_ORGANIZATION: Main Bldg Main Bldg Metropole
-NER_ORGANIZATION: Stevenage Police Station
-NER_ORGANIZATION: GE

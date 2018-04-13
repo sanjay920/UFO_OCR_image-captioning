@@ -1,3 +1,0 @@
-NER_ORGANIZATION: Sutton Hill Telford
-NER_ORGANIZATION: Telford
-NER_PERSON: Sutton Hill

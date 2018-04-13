@@ -1,2 +1,0 @@
-NER_ORGANIZATION: Time Duration
-NER_PERSON: Claw Ckzji

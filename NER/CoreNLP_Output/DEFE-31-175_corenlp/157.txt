@@ -1,7 +1,0 @@
-NER_DATE: Jan 87
-NER_LOCATION: Gate East
-NER_ORGANIZATION: Polioe
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: Sqn Ldr Duty Ops Ofﬁicer AF Ops
-NER_ORGANIZATION: Name & Address of Informant Secﬂon40 Background
-NER_PERSON: Milton Keynes

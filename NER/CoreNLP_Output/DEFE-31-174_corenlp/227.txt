@@ -1,4 +1,0 @@
-NER_ORGANIZATION: gw
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: Time of Receipt 47503 Any Unusual Meteorological Conditions
-NER_PERSON: Edri

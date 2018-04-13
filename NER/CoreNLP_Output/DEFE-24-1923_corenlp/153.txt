@@ -1,3 +1,0 @@
-NER_MONEY: €de
-NER_ORGANIZATION: Time & Duration
-NER_ORGANIZATION: Description of Object

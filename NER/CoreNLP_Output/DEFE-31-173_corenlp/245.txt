@@ -1,6 +1,0 @@
-NER_DATE: Thursday _26th April 198
-NER_DATE: 1968
-NER_DATE: 1967
-NER_LOCATION: Edgiilare
-NER_LOCATION: Stanmore
-NER_MONEY: $5

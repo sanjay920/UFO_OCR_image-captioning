@@ -1,6 +1,0 @@
-NER_DATE: December
-NER_DATE: Friday
-NER_DATE: December 1934
-NER_LOCATION: Knightsbridge
-NER_MONEY: $ rracks
-NER_ORGANIZATION: Officer-in-Charie Military Barracks Knightsbridge Londcn

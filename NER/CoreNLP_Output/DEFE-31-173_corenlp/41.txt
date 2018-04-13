@@ -1,9 +1,0 @@
-NER_DATE: 1745
-NER_MONEY: 30¢
-NER_MONEY: $7M
-NER_ORGANIZATION: F. Angular Eilcfmtion of Object
-NER_ORGANIZATION: E. Direction
-NER_ORGANIZATION: J. Iictcorological Conditions Darin
-NER_ORGANIZATION: UNB
-NER_ORGANIZATION: Time Duration of Sighting
-NER_PERSON: Nanci

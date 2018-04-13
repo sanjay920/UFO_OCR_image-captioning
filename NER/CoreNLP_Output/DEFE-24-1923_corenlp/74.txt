@@ -1,3 +1,0 @@
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: M. Name & Address of Informant i. Background
-NER_ORGANIZATION: Time of Receipt

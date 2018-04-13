@@ -1,3 +1,0 @@
-NER_MONEY: $§
-NER_ORGANIZATION: Air Traffic Control
-NER_ORGANIZATION: Ministry of Defence

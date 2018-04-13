@@ -1,7 +1,0 @@
-NER_DATE: 2310
-NER_LOCATION: Tate
-NER_MONEY: uF¢
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: Any Unusual Meteorological Name Conditions
-NER_ORGANIZATION: Dutq Ops Officer Betta Aug 67
-NER_PERSON: Lyman

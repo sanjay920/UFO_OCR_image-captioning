@@ -1,6 +1,0 @@
-NER_LOCATION: Prestwick
-NER_ORGANIZATION: OATCC National Air Traffic Service
-NER_ORGANIZATION: Aumority - Ministry of Defence Service
-NER_ORGANIZATION: Compliments ATC
-NER_ORGANIZATION: Aﬂantic House
-NER_PERSON: Sherwood Road

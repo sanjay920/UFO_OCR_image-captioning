@@ -1,2 +1,0 @@
-NER_LOCATION: Egpgwgnd
-NER_LOCATION: Nome

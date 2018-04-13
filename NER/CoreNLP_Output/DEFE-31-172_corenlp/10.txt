@@ -1,7 +1,0 @@
-NER_DATE: 1998
-NER_DATE: December 9002
-NER_DATE: December 2002
-NER_ORGANIZATION: Code of Practice on Access to Government Information
-NER_ORGANIZATION: Directorate of Air Staff
-NER_ORGANIZATION: House of Lords Debate
-NER_PERSON: Teresa

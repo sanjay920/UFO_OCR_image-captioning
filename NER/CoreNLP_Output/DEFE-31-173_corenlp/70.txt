@@ -1,2 +1,0 @@
-NER_MONEY: €g
-NER_ORGANIZATION: Time and Duration of Sighting

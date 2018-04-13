@@ -1,2 +1,0 @@
-NER_MONEY: l’ljeference ¢
-NER_ORGANIZATION: Tanor Whitehall Hawthorn London 2.311123 531.15

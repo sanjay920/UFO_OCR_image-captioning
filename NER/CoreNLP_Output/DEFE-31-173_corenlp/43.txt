@@ -1,5 +1,0 @@
-NER_DATE: Feb 85
-NER_LOCATION: Wickford
-NER_LOCATION: Chelmsford
-NER_ORGANIZATION: Essex Police Headquarters Information Room
-NER_ORGANIZATION: Wickford Essex

@@ -1,8 +1,0 @@
-NER_DATE: July 1984 2330
-NER_DATE: July 198
-NER_LOCATION: South East
-NER_LOCATION: Nuneaton
-NER_LOCATION: Birmingham Airport
-NER_ORGANIZATION: Air Traffic Control
-NER_ORGANIZATION: Blue / Silent
-NER_PERCENT: ) %

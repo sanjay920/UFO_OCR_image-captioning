@@ -1,3 +1,0 @@
-NER_DATE: Oct 84
-NER_ORGANIZATION: RmSection 40 Main Bldg Main Bldg Ops
-NER_PERSON: Kinloss

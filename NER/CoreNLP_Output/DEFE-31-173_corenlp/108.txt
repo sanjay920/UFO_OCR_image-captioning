@@ -1,8 +1,0 @@
-NER_DATE: Oct 84
-NER_MONEY: oron¢
-NER_ORGANIZATION: Sqn Ldr for AOC
-NER_ORGANIZATION: / Headquarters Military Air Traffic Operatal Hillingdon House Uxbridge Middlesex U Telephone
-NER_ORGANIZATION: /Air 9 Ministry of Defence
-NER_ORGANIZATION: UFO
-NER_PERCENT: .84 %
-NER_PERSON: Yooﬁib

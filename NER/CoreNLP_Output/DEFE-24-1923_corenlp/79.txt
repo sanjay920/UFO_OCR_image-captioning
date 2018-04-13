@@ -1,7 +1,0 @@
-NER_MONEY: €§
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: M. Name & Address of Informant N. Background
-NER_ORGANIZATION: Acx
-NER_ORGANIZATION: Wwwvuw
-NER_ORGANIZATION: Time of Receipt
-NER_PERCENT: 11%

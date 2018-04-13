@@ -1,9 +1,0 @@
-NER_DATE: 1
-NER_DATE: 2255 28 Hay 1985
-NER_DATE: May 85
-NER_MONEY: 93¢
-NER_ORGANIZATION: cu
-NER_ORGANIZATION: RAF
-NER_ORGANIZATION: Time
-NER_ORGANIZATION: Distaqgg Movements Steady Meteorological
-NER_ORGANIZATION: Bideford vHow Observed Binoculars Direction

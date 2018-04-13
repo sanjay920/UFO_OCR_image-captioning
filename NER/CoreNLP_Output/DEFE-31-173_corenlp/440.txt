@@ -1,7 +1,0 @@
-NER_DATE: Jul 83
-NER_LOCATION: Aylesbury
-NER_ORGANIZATION: Main Bldg Main Bldg Metropole
-NER_ORGANIZATION: MrsSeCﬂon 40 Mr & Mrs
-NER_ORGANIZATION: GE
-NER_PERSON: Aston Clinton
-NER_PERSON: Clinton

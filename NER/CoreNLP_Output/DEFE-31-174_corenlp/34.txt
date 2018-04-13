@@ -1,7 +1,0 @@
-NER_DATE: Oct 86
-NER_DATE: Oct 86 0
-NER_MONEY: €Cﬂ0n40
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: Dutg Operations Officer Date
-NER_ORGANIZATION: M. Name & Address of Informant Miss S
-NER_PERSON: Milton Keynes

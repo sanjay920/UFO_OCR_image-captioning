@@ -1,9 +1,0 @@
-NER_DATE: April 86
-NER_DATE: November 85
-NER_LOCATION: Weston
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: Name & Address of Informant
-NER_ORGANIZATION: Air Force Operations
-NER_ORGANIZATION: Time of Receipt
-NER_ORGANIZATION: Squadron Leader 5
-NER_ORGANIZATION: UFO Society

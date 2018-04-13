@@ -1,4 +1,0 @@
-NER_DATE: Monday 28 Oct
-NER_ORGANIZATION: 1803 Description of Object
-NER_ORGANIZATION: DateL Time
-NER_PERSON: Kenn

@@ -1,3 +1,0 @@
-NER_DATE: 0359
-NER_ORGANIZATION: Time & Duration of Sighting
-NER_PERSON: Kile

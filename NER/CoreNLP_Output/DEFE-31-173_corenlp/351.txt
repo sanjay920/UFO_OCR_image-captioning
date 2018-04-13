@@ -1,9 +1,0 @@
-NER_MONEY: $ \
-NER_ORGANIZATION: Ib
-NER_ORGANIZATION: Meterorolomical Conditions DuringﬁObservntions
-NER_ORGANIZATION: ib
-NER_ORGANIZATION: Time
-NER_ORGANIZATION: Alandmark
-NER_ORGANIZATION: Which Object was First Seen
-NER_PERSON: Distancei
-NER_PERSON: A. B. C. D. Date

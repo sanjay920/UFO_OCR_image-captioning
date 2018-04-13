@@ -1,6 +1,0 @@
-NER_DATE: 40
-NER_DATE: September 1985
-NER_LOCATION: LONDON
-NER_MONEY: $V¥Vk2t¢
-NER_MONEY: w. ¢
-NER_ORGANIZATION: Ministry of Defence Main Building Whitehall

@@ -1,3 +1,0 @@
-NER_ORGANIZATION: Time & Duration of Sighting 252050Z Feb 86 Description of Object
-NER_ORGANIZATION: Exact Position of Observer Location
-NER_PERSON: Claudy

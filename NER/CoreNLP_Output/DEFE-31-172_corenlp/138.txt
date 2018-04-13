@@ -1,1 +1,0 @@
-NER_ORGANIZATION: the University of Egéifgrnia

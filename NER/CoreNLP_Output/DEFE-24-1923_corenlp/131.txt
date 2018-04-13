@@ -1,4 +1,0 @@
-NER_MONEY: >¢
-NER_PERSON: Iem
-NER_PERSON: K. Nearobz
-NER_PERSON: Nédx Sawﬂf

@@ -1,5 +1,0 @@
-NER_DATE: May 85
-NER_MONEY: $5
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: Sqn Ldr Section 40 Name & Address of Informant
-NER_ORGANIZATION: Time of Receipt

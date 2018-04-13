@@ -1,7 +1,0 @@
-NER_DATE: Aug 87
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: Force Control Room Section 40 Name & Address of Informant Background of Informant
-NER_ORGANIZATION: Midlands Police
-NER_ORGANIZATION: Sqn Ldr Dutg Ops Officer Date
-NER_ORGANIZATION: Ups
-NER_ORGANIZATION: Time of Receipt 272345 Local Aug 87 Any Unusual Meteorological Nil Conditions

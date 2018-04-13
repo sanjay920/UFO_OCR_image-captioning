@@ -1,4 +1,0 @@
-NER_LOCATION: HertFord
-NER_ORGANIZATION: Sec
-NER_ORGANIZATION: Air Force Operations Name & Address
-NER_ORGANIZATION: Time of Receipt 171955 Local Nov 87 Ang Unusual Meteorological Conditions Nil
