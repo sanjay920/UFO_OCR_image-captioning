@@ -12,3 +12,6 @@ Start CoreNLP client: java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreN
 3) Run description_field notebook. This will take in PDFs_reported_sighted_at.csv and add a description field (if any found) for each UFO sighting. This notebook will output PDFs_description.csv
 
 4) Run duration_field notebook. This will take in PDFs_description.csv and add a duration field if found in the named entities found in text. 
+
+5) Run combine_PDF_with_images notebook. This will merge PDFs (from PDFs_description.csv) with images. Although the intermediary files contain images data, it doesnt include some important fields (location, etc.) so we read in the images from 'captions_classes_with_summary.csv'
+
