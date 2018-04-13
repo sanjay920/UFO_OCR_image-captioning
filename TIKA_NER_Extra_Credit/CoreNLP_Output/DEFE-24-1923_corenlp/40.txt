@@ -1,0 +1,3 @@
+NER_DATE: September 1985
+NER_ORGANIZATION: Royal Navy Senior A43 Traffic Control Ofpicer
+NER_ORGANIZATION: AIS

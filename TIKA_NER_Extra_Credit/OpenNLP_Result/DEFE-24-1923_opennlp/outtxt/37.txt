@@ -1,0 +1,2 @@
+NER_ORGANIZATION: Name
+NER_PERSON: Meteorological Ho Conditions

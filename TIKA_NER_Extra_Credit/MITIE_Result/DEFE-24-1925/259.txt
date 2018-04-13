@@ -1,0 +1,62 @@
+   Score: 0.382: ORGANIZATION: O xn- V O\
+   Score: 0.193: PERSON: NON Ascii text
+   Score: 0.440: MISC: F
+   Score: 0.726: ORGANIZATION: \I
+   Score: 0.319: PERSON: Rey
+   Score: 0.747: PERSON: Lo Dc
+   Score: 0.487: PERSON: Gvu
+   Score: 0.290: ORGANIZATION: u Rinaldi
+   Score: 0.335: PERSON: NON Ascii text
+   Score: 0.856: LOCATION: Rutland
+   Score: 0.803: ORGANIZATION: UFW
+   Score: 0.144: MISC: Jorld of {obotsn
+   Score: 0.702: PERSON: PiccoJo/1979 Rimmer
+   Score: 0.795: PERSON: Ali 'u
+   Score: 0.513: PERSON: Strange
+   Score: 0.897: PERSON: Library/1968o Smith
+   Score: 0.290: ORGANIZATION: NON Ascii text
+   Score: 0.217: ORGANIZATION: S Uide
+   Score: 0.230: ORGANIZATION: Psychic Wonders
+   Score: 0.177: ORGANIZATION: Ace St
+   Score: 0.886: ORGANIZATION: Ezic VIC
+   Score: 0.305: ORGANIZATION: Myatcrieso P&perback
+   Score: 0.696: PERSON: Strickland
+   Score: 0.543: PERSON: NON Ascii text
+   Score: 0.920: LOCATION: Earth
+   Score: 0.449: PERSON: Granada/19859 Stellar
+   Score: 0.464: ORGANIZATION: CorreCJ
+   Score: 0.638: PERSON: God
+   Score: 0.310: ORGANIZATION: RI & Wilson
+   Score: 0.372: LOCATION: Golden Apple
+   Score: 0.559: PERSON: NON Ascii text
+   Score: 0.480: PERSON: Kinda Shea
+   Score: 0.534: PERSON: Ra
+   Score: 0.678: PERSON: Spencer
+   Score: 0.972: PERSON: Ra Galtzman
+   Score: 0.644: PERSON: r Taylor
+   Score: 1.054: PERSON: Ian Allen/19J/e
+   Score: 0.536: PERSON: Vijaya
+   Score: 0.523: PERSON: Verne
+   Score: 0.853: PERSON: NON Ascii text
+   Score: 0.732: PERSON: NON Ascii text
+   Score: 0.766: PERSON: Watkins
+   Score: 0.787: PERSON: Mano
+   Score: 1.096: PERSON: Allan
+   Score: 0.096: ORGANIZATION: UWOro
+   Score: 0.456: PERSON: Ui
+   Score: 0.366: PERSON: EvoranPortugwl Falla
+   Score: 0.199: LOCATION: Ga Vehicle
+   Score: 0.417: PERSON: Je Naomi}
+   Score: 0.335: ORGANIZATION: UFO Phe
+   Score: 0.548: PERSON: Lockwood
+   Score: 0.288: MISC: C. Fn &
+   Score: 0.338: PERSON: Po Renart
+   Score: 0.278: ORGANIZATION: Survey ;n UFOs
+   Score: 0.631: ORGANIZATION: Bournemouth Areao
+   Score: 1.065: LOCATION: Perth
+   Score: 0.819: PERSON: Parry
+   Score: 0.287: ORGANIZATION: UFCSnThe & Ret3.ieva3
+   Score: 0.741: MISC: Australian
+   Score: 0.410: LOCATION: AUHtPaLlun
+   Score: 0.468: ORGANIZATION: Uxolcggyu ACUEO
+   Score: 0.556: ORGANIZATION: TwF

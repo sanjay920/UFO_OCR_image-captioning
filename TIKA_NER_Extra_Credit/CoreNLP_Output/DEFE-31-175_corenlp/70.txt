@@ -1,0 +1,4 @@
+NER_LOCATION: Newcastle Airport
+NER_ORGANIZATION: Sec
+NER_ORGANIZATION: AFOPS Name & Address of Informant Section 40 Newcastle
+NER_ORGANIZATION: Time of Receipt 012215 Local Sep 87 Ang Unusual Meteorological Conditions Nil Remarks Date.Ol Sep 87

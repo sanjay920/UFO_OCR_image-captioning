@@ -1,0 +1,7 @@
+   Score: 0.320: PERSON: NON Ascii text
+   Score: 0.351: ORGANIZATION: AS
+   Score: 0.612: ORGANIZATION: Air Staff
+   Score: 0.523: ORGANIZATION: Air
+   Score: 0.721: ORGANIZATION: Defence Intelligence
+   Score: 1.168: LOCATION: Whitehall
+   Score: 0.429: ORGANIZATION: UFO

@@ -1,0 +1,4 @@
+   Score: 0.490: PERSON: NON Ascii text
+   Score: 0.366: PERSON: H
+   Score: 0.122: PERSON: Ir}
+   Score: 0.368: PERSON: NON Ascii text

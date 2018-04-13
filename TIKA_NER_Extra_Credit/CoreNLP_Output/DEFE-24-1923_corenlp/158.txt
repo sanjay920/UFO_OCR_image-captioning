@@ -1,0 +1,3 @@
+NER_ORGANIZATION: ror Squadron Leader Duty Operations Officer AF Ops
+NER_ORGANIZATION: Time of Receipt 1621562 MAY 85 Q. Any pngsual Meteorological NIL Condltlons
+NER_ORGANIZATION: RAF HEKLOW M. Name & Address of Informant HIT CHIN N. Background

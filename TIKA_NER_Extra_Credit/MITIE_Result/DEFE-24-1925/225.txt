@@ -1,0 +1,33 @@
+   Score: 0.740: PERSON: NON Ascii text
+   Score: 0.868: PERSON: Wes :
+   Score: 0.385: PERSON: NON Ascii text
+   Score: 0.461: LOCATION: mainland
+   Score: 1.249: ORGANIZATION: Army
+   Score: 0.524: PERSON: Dundrmman
+   Score: 0.604: PERSON: Scotiami
+   Score: 0.474: PERSON: Bu
+   Score: 0.945: PERSON: Ken
+   Score: 0.366: LOCATION: Whitfmm
+   Score: 0.322: LOCATION: NON Ascii text
+   Score: 0.511: PERSON: NON Ascii text
+   Score: 0.202: PERSON: Worklngton
+   Score: 0.427: LOCATION: Marypor
+   Score: 0.247: PERSON: Chzistmas
+   Score: 0.455: PERSON: Dundrennan
+   Score: 0.469: PERSON: NON Ascii text
+   Score: 0.925: ORGANIZATION: TWA
+   Score: 0.226: MISC: NON Ascii text
+   Score: 0.083: PERSON: E&iway Firth
+   Score: 0.425: PERSON: J.. B. Muiiat
+   Score: 1.144: PERSON: ai Whitehaven
+   Score: 0.984: ORGANIZATION: NON Ascii text
+   Score: 0.485: ORGANIZATION: NON Ascii text
+   Score: 0.893: PERSON: Davidson
+   Score: 0.210: PERSON: Dundmnnan
+   Score: 1.075: PERSON: masami
+   Score: 0.872: PERSON: Wu
+   Score: 1.093: PERSON: kamm
+   Score: 0.604: LOCATION: Ekinbumeus
+   Score: 0.621: ORGANIZATION: Carnale
+   Score: 0.953: PERSON: NON Ascii text
+   Score: 0.416: PERSON: E

@@ -1,0 +1,10 @@
+NER_DATE: 19th June 1980
+NER_LOCATION: Scarborough
+NER_LOCATION: Fylingdales
+NER_LOCATION: North Yorkshire
+NER_ORGANIZATION: RAF Fylingdales
+NER_ORGANIZATION: Ministry of Defence
+NER_ORGANIZATION: Sincerel Yours Director of Research
+NER_ORGANIZATION: PHENDMENA RESEARCH ORGANIZATION \ Royal Air Force Fylingdales
+NER_ORGANIZATION: UFO
+NER_PERSON: Nr Pickering

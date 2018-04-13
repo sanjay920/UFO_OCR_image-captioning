@@ -1,0 +1,2 @@
+NER_LOCATION: Observer:
+NER_ORGANIZATION: AT CgOU-"b Lea/«EL, Movement

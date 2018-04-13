@@ -1,0 +1,18 @@
+   Score: 0.358: PERSON: Jmutjor
+   Score: 0.360: LOCATION: QC
+   Score: 0.590: PERSON: Ti Descri
+   Score: 0.763: PERSON: brinhtnoufz
+   Score: 0.269: PERSON: NON Ascii text
+   Score: 0.561: PERSON: Skuccl Vei
+   Score: 0.336: ORGANIZATION: NON Ascii text
+   Score: 0.251: PERSON: NON Ascii text
+   Score: 0.572: PERSON: C.
+   Score: 0.459: PERSON: Geomphical
+   Score: 0.508: PERSON: NON Ascii text
+   Score: 0.490: PERSON: binoculora
+   Score: 0.678: PERSON: Lo LQ Luv
+   Score: 0.232: ORGANIZATION: IfLWL
+   Score: 0.267: PERSON: NON Ascii text
+   Score: 0.239: PERSON: >
+   Score: 0.535: PERSON: Flo
+   Score: 0.765: PERSON: NON Ascii text

@@ -1,0 +1,6 @@
+NER_LOCATION: South
+NER_MONEY: €/
+NER_ORGANIZATION: Estiﬁated Eelghta
+NER_ORGANIZATION: Direction of Aylesbury FIEST
+NER_ORGANIZATION: Time
+NER_PERCENT: /%

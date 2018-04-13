@@ -1,0 +1,10 @@
+   Score: 0.350: PERSON: ObjCCt Bright
+   Score: 0.624: LOCATION: Glasgow
+   Score: 0.222: LOCATION: NON Ascii text
+   Score: 0.392: ORGANIZATION: Object from Observer
+   Score: 0.609: ORGANIZATION: ~ATC Watch
+   Score: 0.303: ORGANIZATION: ScATCC
+   Score: 0.425: PERSON: Sherwood
+   Score: 0.373: PERSON: Prestnick
+   Score: 0.647: LOCATION: Glasgow
+   Score: 0.399: PERSON: Mlliai

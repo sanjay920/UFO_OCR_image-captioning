@@ -1,0 +1,4 @@
+   Score: 0.411: ORGANIZATION: E&Lmh
+   Score: 0.363: PERSON: Ramuers
+   Score: 0.510: LOCATION: Drest
+   Score: 0.607: PERSON: Hon

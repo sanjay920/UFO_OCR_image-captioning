@@ -1,0 +1,8 @@
+   Score: 0.701: PERSON: Viewer
+   Score: 0.405: PERSON: OBSERVER
+   Score: 0.957: LOCATION: South East
+   Score: 0.222: LOCATION: UHICH
+   Score: 0.704: LOCATION: South Easterly
+   Score: 0.167: MISC: Between-Kintyre Peninsular
+   Score: 0.744: LOCATION: Rathlin Island
+   Score: 0.249: PERSON: NON Ascii text

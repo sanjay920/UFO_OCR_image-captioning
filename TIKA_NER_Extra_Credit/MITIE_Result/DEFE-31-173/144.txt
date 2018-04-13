@@ -1,0 +1,13 @@
+   Score: 0.815: ORGANIZATION: Duration of Sighting
+   Score: 0.126: PERSON: Red/orange
+   Score: 0.311: PERSON: OBSERVER
+   Score: 0.273: ORGANIZATION: NON Ascii text
+   Score: 0.203: ORGANIZATION: NON Ascii text
+   Score: 0.484: LOCATION: South
+   Score: 0.319: ORGANIZATION: nichols haulage Firm
+   Score: 0.296: ORGANIZATION: Instlmated Belghts
+   Score: 0.179: LOCATION: alandmark
+   Score: 0.577: ORGANIZATION: HOWQEETS
+   Score: 0.148: ORGANIZATION: Ho
+   Score: 0.479: PERSON: NON Ascii text
+   Score: 0.359: PERSON: NON Ascii text

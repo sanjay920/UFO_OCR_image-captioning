@@ -1,0 +1,12 @@
+NER_DATE: 1623¢52 JUL 84
+NER_LOCATION: BIRMINGHAM
+NER_MONEY: /¢
+NER_MONEY: 16233¢
+NER_MONEY: 113¢
+NER_ORGANIZATION: //// ////o////// I/éo/ﬂoé/ /////o/////o
+NER_ORGANIZATION: ////////////// ////r//
+NER_ORGANIZATION: /////
+NER_ORGANIZATION: ///////x////////////////*/
+NER_ORGANIZATION: GE
+NER_PERCENT: /%
+NER_PERSON: A. K. L.

@@ -1,0 +1,3 @@
+NER_MONEY: $.
+NER_MONEY: i ¢
+NER_PERCENT: a%

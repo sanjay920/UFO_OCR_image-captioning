@@ -1,0 +1,11 @@
+   Score: 0.595: PERSON: NON Ascii text
+   Score: 0.671: PERSON: Bo ONED
+   Score: 0.153: PERSON: NON Ascii text
+   Score: 0.376: PERSON: NON Ascii text
+   Score: 0.866: ORGANIZATION: BT
+   Score: 0.330: PERSON: ~u
+   Score: 0.861: ORGANIZATION: CXJ
+   Score: 0.422: ORGANIZATION: J00 AFDO ) Lama
+   Score: 0.828: ORGANIZATION: KSA
+   Score: 0.316: ORGANIZATION: Aqsw
+   Score: 0.946: ORGANIZATION: CAV

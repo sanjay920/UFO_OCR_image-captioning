@@ -1,0 +1,16 @@
+   Score: 0.626: ORGANIZATION: BROADCASTS
+   Score: 0.668: ORGANIZATION: J Secretariat Air Staff
+   Score: 0.606: ORGANIZATION: NON Ascii text
+   Score: 1.238: ORGANIZATION: Ministry of Defence Main Building
+   Score: 0.537: LOCATION: Whitehall London
+   Score: 0.479: LOCATION: Outer Circle of Regents Park
+   Score: 0.412: LOCATION: Park Square
+   Score: 0.488: PERSON: NON Ascii text
+   Score: 0.305: LOCATION: Outer Circle
+   Score: 0.224: PERSON: Nash
+   Score: 0.766: ORGANIZATION: NON Ascii text
+   Score: 1.031: ORGANIZATION: BSC
+   Score: 0.702: LOCATION: Zoology
+   Score: 0.957: ORGANIZATION: MoD
+   Score: 0.548: ORGANIZATION: MOD
+   Score: 0.359: ORGANIZATION: MOD

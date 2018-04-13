@@ -1,0 +1,15 @@
+   Score: 0.302: ORGANIZATION: TOCKHCLM
+   Score: 0.838: ORGANIZATION: -European Collaboration Your Refi
+   Score: 1.085: ORGANIZATION: Ministry of Defence
+   Score: 0.232: PERSON: White
+   Score: 1.143: LOCATION: London
+   Score: 0.182: PERSON: SW1A
+   Score: 0.734: LOCATION: British Isles
+   Score: 0.375: PERSON: NON Ascii text
+   Score: 0.573: ORGANIZATION: UFO
+   Score: 0.365: LOCATION: North Yarkshire
+   Score: 0.267: PERSON: Allerton
+   Score: 0.539: LOCATION: Almondbury
+   Score: 0.643: LOCATION: Hudderg
+   Score: 0.864: ORGANIZATION: ankshire UFD Society
+   Score: 0.487: ORGANIZATION: International

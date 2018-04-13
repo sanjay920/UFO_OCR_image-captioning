@@ -1,0 +1,10 @@
+   Score: 0.217: ORGANIZATION: OUTDOOR
+   Score: 0.394: LOCATION: GARDEN
+   Score: 0.251: PERSON: NiKED
+   Score: 0.385: ORGANIZATION: E. Direction
+   Score: 0.770: ORGANIZATION: RAF
+   Score: 0.345: ORGANIZATION: F. Angle of Sight
+   Score: 0.455: ORGANIZATION: AWA
+   Score: 0.526: PERSON: J. Met
+   Score: 0.203: LOCATION: LAKES
+   Score: 0.411: PERSON: marsh

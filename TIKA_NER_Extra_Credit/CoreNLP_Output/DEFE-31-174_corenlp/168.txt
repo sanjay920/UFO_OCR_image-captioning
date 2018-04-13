@@ -1,0 +1,8 @@
+NER_DATE: 1733
+NER_DATE: Nov 85
+NER_DATE: 1625
+NER_ORGANIZATION: Dcscrintion of Object
+NER_ORGANIZATION: Time
+NER_ORGANIZATION: Eright Amber
+NER_ORGANIZATION: J. Meteorological
+NER_ORGANIZATION: Duration of Sighting

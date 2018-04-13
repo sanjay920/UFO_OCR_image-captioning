@@ -1,0 +1,21 @@
+   Score: 0.501: PERSON: \\u
+   Score: 0.556: PERSON: Wi
+   Score: 0.454: LOCATION: NON Ascii text
+   Score: 0.842: ORGANIZATION: RAF
+   Score: 0.529: PERSON: B. HIGH/MED
+   Score: 0.840: PERSON: J. CLEAR-~
+   Score: 0.487: ORGANIZATION: CPL
+   Score: 0.650: ORGANIZATION: Mo PC Section
+   Score: 0.663: PERSON: C.
+   Score: 0.575: ORGANIZATION: RBDOXB OOI
+   Score: 0.374: ORGANIZATION: UNCLAS
+   Score: 0.500: MISC: PC UPTON PC
+   Score: 0.707: ORGANIZATION: AFDO
+   Score: 0.776: ORGANIZATION: CXJ ACS
+   Score: 0.427: PERSON: oo ODS
+   Score: 0.905: ORGANIZATION: GE
+   Score: 0.878: ORGANIZATION: RAF
+   Score: 0.662: ORGANIZATION: DST
+   Score: 0.433: MISC: NON Ascii text
+   Score: 0.368: ORGANIZATION: VA
+   Score: 0.389: ORGANIZATION: TAU

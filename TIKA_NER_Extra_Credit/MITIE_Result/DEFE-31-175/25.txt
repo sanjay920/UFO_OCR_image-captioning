@@ -1,0 +1,11 @@
+   Score: 1.058: ORGANIZATION: & Address
+   Score: 0.602: ORGANIZATION: Ex RAF
+   Score: 0.903: ORGANIZATION: DepFord Section
+   Score: 0.656: ORGANIZATION: Ang Unusual Meteorological
+   Score: 0.618: ORGANIZATION: Thames News
+   Score: 0.617: ORGANIZATION: Sec<AS
+   Score: 1.018: ORGANIZATION: AEw/GE DI
+   Score: 0.760: ORGANIZATION: AF Ops/Z/S/l Section
+   Score: 0.168: MISC: Sqn Ldr
+   Score: 0.413: MISC: Duty Ops
+   Score: 0.278: MISC: AF Ops

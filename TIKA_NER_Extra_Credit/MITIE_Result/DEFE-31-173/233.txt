@@ -1,0 +1,13 @@
+   Score: 0.608: PERSON: NON Ascii text
+   Score: 0.576: ORGANIZATION: NON Ascii text
+   Score: 0.658: PERSON: NON Ascii text
+   Score: 0.578: ORGANIZATION: CK
+   Score: 0.441: ORGANIZATION: \Ui/x
+   Score: 0.514: ORGANIZATION: CHW LC
+   Score: 0.628: PERSON: binocv
+   Score: 0.409: PERSON: W. hwmm
+   Score: 0.673: ORGANIZATION: LVM
+   Score: 0.386: PERSON: Chargoa
+   Score: 0.298: ORGANIZATION: QXVTk
+   Score: 0.528: ORGANIZATION: Via/\m/
+   Score: 0.419: PERSON: \B

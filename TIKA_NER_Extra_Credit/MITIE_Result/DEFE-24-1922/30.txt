@@ -1,0 +1,9 @@
+   Score: 0.388: PERSON: PPEU
+   Score: 0.673: PERSON: D. NAKED
+   Score: 0.579: PERSON: L. {r
+   Score: 0.466: ORGANIZATION: UNCLAS
+   Score: 0.740: PERSON: J.
+   Score: 0.886: LOCATION: NE
+   Score: 0.491: ORGANIZATION: NON Ascii text
+   Score: 0.768: ORGANIZATION: MENS B.
+   Score: 0.366: ORGANIZATION: NON Ascii text

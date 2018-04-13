@@ -1,0 +1,17 @@
+   Score: 0.226: PERSON: /////
+   Score: 0.491: PERSON: V
+   Score: 0.371: PERSON: CAv
+   Score: 1.421: ORGANIZATION: FROM LATCCMLL TO MODUK AIR
+   Score: 0.707: PERSON: NON Ascii text
+   Score: 0.320: ORGANIZATION: FROM LUTON AIRPORTS
+   Score: 0.700: ORGANIZATION: \
+   Score: 0.342: LOCATION: I//
+   Score: 0.792: ORGANIZATION: CXJ
+   Score: 0.572: ORGANIZATION: NON Ascii text
+   Score: 0.166: MISC: AED0
+   Score: 0.875: ORGANIZATION: CAM ACSCP
+   Score: 0.696: ORGANIZATION: CYD DD Ops
+   Score: 1.057: ORGANIZATION: RAF
+   Score: 0.723: ORGANIZATION: CAv DI
+   Score: 0.379: PERSON: CAv
+   Score: 0.238: ORGANIZATION: NON Ascii text

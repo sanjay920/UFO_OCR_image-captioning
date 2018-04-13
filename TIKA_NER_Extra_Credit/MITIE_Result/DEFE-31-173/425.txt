@@ -1,0 +1,4 @@
+   Score: 0.577: PERSON: Jul Lu/
+   Score: 0.207: ORGANIZATION: NON Ascii text
+   Score: 0.913: MISC: A
+   Score: 0.379: PERSON: NON Ascii text

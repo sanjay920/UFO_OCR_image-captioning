@@ -1,0 +1,5 @@
+NER_LOCATION: London
+NER_ORGANIZATION: Air Ministry
+NER_ORGANIZATION: Public Relations Office
+NER_ORGANIZATION: UFO
+NER_PERSON: Date I? July

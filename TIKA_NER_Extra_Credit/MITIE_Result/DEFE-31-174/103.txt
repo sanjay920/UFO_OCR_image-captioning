@@ -1,0 +1,7 @@
+   Score: 0.787: ORGANIZATION: Sighting
+   Score: 0.142: MISC: White
+   Score: 0.723: ORGANIZATION: NON Ascii text
+   Score: 0.322: PERSON: Angle of Sight
+   Score: 0.435: LOCATION: E
+   Score: 0.411: PERSON: marsh
+   Score: 1.099: ORGANIZATION: Radio

@@ -1,0 +1,41 @@
+   Score: 0.118: ORGANIZATION: NON Ascii text
+   Score: 0.872: MISC: Russians
+   Score: 0.755: LOCATION: America
+   Score: 0.727: ORGANIZATION: Freedom of Information Act
+   Score: 0.684: ORGANIZATION: Izvestia
+   Score: 0.680: PERSON: K.
+   Score: 0.529: ORGANIZATION: NON Ascii text
+   Score: 0.896: PERSON: Bill
+   Score: 0.805: ORGANIZATION: CAUSgUSA
+   Score: 0.411: ORGANIZATION: CABS
+   Score: 0.381: PERSON: J.Von Buttlar
+   Score: 1.204: LOCATION: Arlington
+   Score: 0.753: LOCATION: Virginia
+   Score: 0.734: LOCATION: USA
+   Score: 0.503: ORGANIZATION: Jackson Ltd
+   Score: 0.936: ORGANIZATION: CIA
+   Score: 0.359: MISC: UFO
+   Score: 0.442: ORGANIZATION: CAN
+   Score: 0.557: PERSON: Eeter Gersten
+   Score: 0.495: ORGANIZATION: NON Ascii text
+   Score: 0.239: MISC: UFO
+   Score: 0.865: LOCATION: Suffolk
+   Score: 0.462: ORGANIZATION: UFO
+   Score: 0.249: LOCATION: SKYCRASH
+   Score: 1.583: PERSON: Brenda Butler
+   Score: 0.464: ORGANIZATION: CAUS
+   Score: 0.131: MISC: PubliC-in
+   Score: 0.879: PERSON: Neville Spearman
+   Score: 0.195: ORGANIZATION: NON Ascii text
+   Score: 0.269: PERSON: Wlth
+   Score: 0.421: ORGANIZATION: NON Ascii text
+   Score: 0.888: PERSON: Marc UFO_21
+   Score: 1.022: LOCATION: Belgium
+   Score: 1.038: MISC: English
+   Score: 0.522: ORGANIZATION: NON Ascii text
+   Score: 0.587: ORGANIZATION: magazine DELVE NQJ
+   Score: 0.294: LOCATION: UFOs
+   Score: 0.714: ORGANIZATION: Shetland St
+   Score: 0.985: LOCATION: Ontario
+   Score: 1.104: LOCATION: Canada
+   Score: 0.559: ORGANIZATION: Freedom Of Information Act

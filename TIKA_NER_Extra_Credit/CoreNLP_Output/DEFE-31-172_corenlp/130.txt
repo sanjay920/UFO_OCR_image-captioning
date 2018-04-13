@@ -1,0 +1,9 @@
+NER_DATE: Thursday
+NER_LOCATION: Gallipoli
+NER_ORGANIZATION: ACS
+NER_ORGANIZATION: Army Historical Branch
+NER_ORGANIZATION: Nor olk Battalion
+NER_ORGANIZATION: Early of Clancarty
+NER_PERSON: Lord Strabolgi
+NER_PERSON: Klass
+NER_PERSON: Earl

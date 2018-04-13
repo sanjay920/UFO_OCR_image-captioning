@@ -1,0 +1,20 @@
+   Score: 1.100: ORGANIZATION: Time &
+   Score: 0.859: ORGANIZATION: Mar
+   Score: 0.565: ORGANIZATION: Sighting
+   Score: 0.501: MISC: Welsh
+   Score: 0.612: ORGANIZATION: Floor of Block of Flaf Location
+   Score: 0.159: PERSON: Binoculars
+   Score: 0.365: ORGANIZATION: E. Direction
+   Score: 0.613: LOCATION: Wembley
+   Score: 0.550: LOCATION: may Stadium
+   Score: 0.630: LOCATION: Wembley
+   Score: 0.334: PERSON: F. Angle of Sight
+   Score: 0.476: PERSON: Thrugh
+   Score: 0.590: PERSON: G. Distance
+   Score: 0.155: LOCATION: Neasden
+   Score: 0.621: PERSON: H. Movements
+   Score: 0.288: MISC: F
+   Score: 0.467: ORGANIZATION: J. Met
+   Score: 0.802: PERSON: K. Nearby Objects
+   Score: 0.861: LOCATION: Wembley Stadium
+   Score: 0.454: PERSON: marsh

@@ -1,0 +1,11 @@
+   Score: 0.633: PERSON: NON Ascii text
+   Score: 0.742: ORGANIZATION: mm .
+   Score: 1.011: PERSON: Ava
+   Score: 0.298: LOCATION: Wm .
+   Score: 0.440: PERSON: Jag
+   Score: 0.875: ORGANIZATION: MG WYQU
+   Score: 0.606: ORGANIZATION: OGCWWMIMUC
+   Score: 0.412: PERSON: NON Ascii text
+   Score: 0.543: ORGANIZATION: NON Ascii text
+   Score: 0.956: PERSON: ma
+   Score: 0.543: ORGANIZATION: DMJM

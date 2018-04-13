@@ -1,0 +1,14 @@
+   Score: 0.523: ORGANIZATION: THE AIR
+   Score: 0.427: ORGANIZATION: NON Ascii text
+   Score: 0.435: ORGANIZATION: Unexplained Lights RAF/CC
+   Score: 0.211: LOCATION: O3OOL
+   Score: 0.323: LOCATION: USAF
+   Score: 0.547: ORGANIZATION: RAF Hoodhridge
+   Score: 0.368: ORGANIZATION: patrolmen
+   Score: 0.368: MISC: Beta/gamma
+   Score: 0.556: PERSON: ] miTliroentgens
+   Score: 0.316: PERSON: NON Ascii text
+   Score: 0.274: ORGANIZATION: IALT
+   Score: 0.528: ORGANIZATION: USAF
+   Score: 0.377: PERSON: NON Ascii text
+   Score: 0.166: PERSON: NON Ascii text

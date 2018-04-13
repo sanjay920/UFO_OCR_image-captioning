@@ -1,0 +1,11 @@
+   Score: 0.608: ORGANIZATION: Time & ZSOEOOA
+   Score: 1.209: ORGANIZATION: Duration of Sighting
+   Score: 0.490: LOCATION: Observer Location
+   Score: 0.103: LOCATION: NAKED
+   Score: 0.355: ORGANIZATION: E. Direction
+   Score: 0.176: MISC: NON Ascii text
+   Score: 0.164: MISC: NON Ascii text
+   Score: 0.371: PERSON: F. Angle of Sight
+   Score: 0.749: ORGANIZATION: FT FROM WiNDOW H. Movements
+   Score: 0.394: PERSON: TELEPPONE
+   Score: 0.479: PERSON: marsh

@@ -1,0 +1,27 @@
+   Score: 1.403: LOCATION: London Airport
+   Score: 0.962: PERSON: Shciia Manning
+   Score: 0.403: ORGANIZATION: darbhaircd
+   Score: 0.511: ORGANIZATION: NON Ascii text
+   Score: 0.734: PERSON: Miss Manning
+   Score: 1.045: LOCATION: London Airport
+   Score: 0.153: ORGANIZATION: NON Ascii text
+   Score: 1.221: LOCATION: East
+   Score: 0.764: LOCATION: OH
+   Score: 0.891: PERSON: Miss Manning
+   Score: 0.305: ORGANIZATION: NON Ascii text
+   Score: 1.110: LOCATION: West Freugh
+   Score: 1.364: LOCATION: Scotland
+   Score: 0.416: ORGANIZATION: Epsom
+   Score: 0.235: LOCATION: Gravcsmd
+   Score: 0.266: LOCATION: Vvhli
+   Score: 0.416: MISC: Amurtci-zn
+   Score: 0.629: LOCATION: Mount Rainier
+   Score: 0.483: PERSON: NON Ascii text
+   Score: 0.371: MISC: UFOs
+   Score: 0.379: PERSON: Tho
+   Score: 0.321: MISC: : <1
+   Score: 0.339: PERSON: Bctwccn
+   Score: 0.718: ORGANIZATION: RAF Flying Rm-irw
+   Score: 0.449: ORGANIZATION: UFO
+   Score: 0.161: LOCATION: Amcrica
+   Score: 0.370: MISC: UFO

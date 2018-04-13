@@ -1,0 +1,8 @@
+   Score: 0.480: ORGANIZATION: r Staff
+   Score: 0.719: ORGANIZATION: Room-O
+   Score: 0.404: ORGANIZATION: riarch
+   Score: 0.225: PERSON: NON Ascii text
+   Score: 0.775: LOCATION: United Kingdom
+   Score: 0.330: ORGANIZATION: NON Ascii text
+   Score: 1.501: LOCATION: England
+   Score: 0.856: ORGANIZATION: NON Ascii text

@@ -1,0 +1,10 @@
+   Score: 0.188: ORGANIZATION: J/SY/OS
+   Score: 0.145: ORGANIZATION: Ar
+   Score: 0.228: ORGANIZATION: NON Ascii text
+   Score: 0.619: PERSON: Katmai o
+   Score: 0.721: PERSON: Liam C.
+   Score: 0.638: PERSON: NON Ascii text
+   Score: 0.216: PERSON: NON Ascii text
+   Score: 0.554: PERSON: G. Distance
+   Score: 0.509: PERSON: H. Movements
+   Score: 0.339: PERSON: F

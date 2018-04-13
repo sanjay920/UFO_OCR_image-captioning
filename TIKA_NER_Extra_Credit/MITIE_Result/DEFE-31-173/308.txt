@@ -1,0 +1,7 @@
+   Score: 0.501: PERSON: O J.
+   Score: 0.460: ORGANIZATION: lmist Meteorological
+   Score: 0.469: PERSON: NON Ascii text
+   Score: 0.289: ORGANIZATION: Telephone
+   Score: 0.403: PERSON: reservoin
+   Score: 0.280: PERSON: NON Ascii text
+   Score: 0.258: ORGANIZATION: \M DER

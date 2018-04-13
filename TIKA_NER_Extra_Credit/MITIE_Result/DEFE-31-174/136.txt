@@ -1,0 +1,9 @@
+   Score: 0.818: PERSON: M.
+   Score: 0.527: PERSON: SOIL/a A. Date
+   Score: 0.464: PERSON: Descript
+   Score: 0.829: PERSON: Mi
+   Score: 0.236: PERSON: U
+   Score: 0.654: PERSON: F. Angle of Sight
+   Score: 0.479: ORGANIZATION: J. Met
+   Score: 0.363: ORGANIZATION: M&mb AU Run
+   Score: 0.411: PERSON: marsh

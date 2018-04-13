@@ -1,0 +1,17 @@
+   Score: 0.355: ORGANIZATION: NON Ascii text
+   Score: 0.615: LOCATION: Whitehali London
+   Score: 0.081: LOCATION: Switchboard
+   Score: 0.355: PERSON: OUIWYWBD/Sec
+   Score: 0.745: LOCATION: United Kingdom
+   Score: 0.635: ORGANIZATION: Unid
+   Score: 0.270: LOCATION: UFOs
+   Score: 1.168: ORGANIZATION: Ministry of Defence
+   Score: 1.102: LOCATION: United Kingdom
+   Score: 0.813: LOCATION: UFOs
+   Score: 0.132: MISC: 55 ble de
+   Score: 0.357: ORGANIZATION: justi
+   Score: 0.398: PERSON: NON Ascii text
+   Score: 0.429: LOCATION: UFOs
+   Score: 1.172: ORGANIZATION: University of Colorado
+   Score: 0.687: PERSON: NON Ascii text
+   Score: 0.488: MISC: UFOs

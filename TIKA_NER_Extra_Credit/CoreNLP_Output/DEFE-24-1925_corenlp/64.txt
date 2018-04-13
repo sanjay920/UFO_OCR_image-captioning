@@ -1,0 +1,9 @@
+NER_DATE: December
+NER_LOCATION: Yorkshire
+NER_LOCATION: London
+NER_ORGANIZATION: L. RAF History Dept; Minisﬁry of Defence
+NER_ORGANIZATION: ND singapore Minneapolis AMSTERDA
+NER_ORGANIZATION: YUFOS Research Division
+NER_ORGANIZATION: UFO
+NER_PERCENT: 1.3%
+NER_PERSON: Ron Mariya Reesgyour

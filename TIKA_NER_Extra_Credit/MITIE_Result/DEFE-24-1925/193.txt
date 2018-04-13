@@ -1,0 +1,6 @@
+   Score: 0.431: ORGANIZATION: AS
+   Score: 0.612: ORGANIZATION: Air Staff
+   Score: 0.523: ORGANIZATION: Air
+   Score: 0.702: ORGANIZATION: Defence Intelligence
+   Score: 0.477: LOCATION: Wh1tehall
+   Score: 0.354: MISC: UFO

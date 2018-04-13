@@ -1,0 +1,2 @@
+   Score: 0.237: PERSON: NON Ascii text
+   Score: 0.217: PERSON: Slghtlng

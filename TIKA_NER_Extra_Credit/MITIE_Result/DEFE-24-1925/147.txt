@@ -1,0 +1,9 @@
+   Score: 0.683: ORGANIZATION: RAF
+   Score: 0.577: PERSON: VJyuNwiiunhngdon
+   Score: 0.232: LOCATION: Huntingdon
+   Score: 0.718: ORGANIZATION: GPTN
+   Score: 0.430: PERSON: Oxu
+   Score: 0.178: PERSON: Wyton
+   Score: 0.873: ORGANIZATION: Secretariat ( Air Staff
+   Score: 1.616: ORGANIZATION: Ministry of Defenca Main Building
+   Score: 0.668: LOCATION: Whitehall London

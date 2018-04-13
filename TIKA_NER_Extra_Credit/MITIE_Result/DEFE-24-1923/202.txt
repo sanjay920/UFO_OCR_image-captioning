@@ -1,0 +1,10 @@
+   Score: 0.410: PERSON: A. B. Ca
+   Score: 0.954: PERSON: J. K.
+   Score: 0.281: PERSON: NON Ascii text
+   Score: 0.502: LOCATION: NH
+   Score: 0.304: PERSON: NON Ascii text
+   Score: 0.283: MISC: F
+   Score: 0.122: MISC: bf
+   Score: 0.515: ORGANIZATION: NON Ascii text
+   Score: 0.905: ORGANIZATION: Icasogoea-agnaco Police
+   Score: 0.478: ORGANIZATION: IIO

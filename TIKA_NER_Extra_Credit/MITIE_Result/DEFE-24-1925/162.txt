@@ -1,0 +1,35 @@
+   Score: 0.332: ORGANIZATION: NON Ascii text
+   Score: 0.619: LOCATION: CO
+   Score: 0.543: ORGANIZATION: GNK
+   Score: 0.246: ORGANIZATION: CosmcIogy Newslink
+   Score: 0.505: LOCATION: USA
+   Score: 0.319: ORGANIZATION: ITORIAL
+   Score: 0.622: ORGANIZATION: UFO
+   Score: 1.243: PERSON: Ken Arnold
+   Score: 0.053: MISC: Condon Report
+   Score: 0.822: LOCATION: USA & Canada
+   Score: 1.588: PERSON: Edward Harris
+   Score: 1.086: PERSON: Alan Modermott
+   Score: 1.310: ORGANIZATION: Bxinsley le poer Trench Fred
+   Score: 0.895: PERSON: Gardner
+   Score: 1.055: PERSON: Graham Cowell
+   Score: 0.883: PERSON: Lionel Beer
+   Score: 1.423: PERSON: Mike Parry
+   Score: 0.996: PERSON: Norman Oliver
+   Score: 0.911: PERSON: Pat Barnes
+   Score: 1.007: PERSON: Roger Tripp
+   Score: 1.204: PERSON: Roy Lakee
+   Score: 1.375: PERSON: Beryl Wallace
+   Score: 0.759: ORGANIZATION: o n
+   Score: 0.809: PERSON: Janet Busell
+   Score: 0.683: ORGANIZATION: E.Harris
+   Score: 1.148: PERSON: Carol Halford
+   Score: 0.806: PERSON: Monka Swanson
+   Score: 1.209: PERSON: Leo Bartsch
+   Score: 1.245: PERSON: Alan Mcdermott
+   Score: 0.586: ORGANIZATION: CNL Address
+   Score: 0.844: ORGANIZATION: TH DUNMOW ESSEX
+   Score: 0.310: ORGANIZATION: ENGLA
+   Score: 0.376: PERSON: PhOto
+   Score: 0.561: ORGANIZATION: CH
+   Score: 0.438: ORGANIZATION: INFORMATION IN

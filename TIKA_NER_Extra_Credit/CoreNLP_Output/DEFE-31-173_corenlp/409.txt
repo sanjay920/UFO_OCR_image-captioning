@@ -1,0 +1,9 @@
+NER_DATE: November 1985 1900
+NER_LOCATION: South Easterly
+NER_LOCATION: Bedford Road
+NER_LOCATION: Victoria Promenade Northampton
+NER_LOCATION: Northampton
+NER_ORGANIZATION: Time
+NER_ORGANIZATION: Duration of Sighting
+NER_PERCENT: Apprdximately %
+NER_PERCENT: 6%

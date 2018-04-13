@@ -1,0 +1,13 @@
+   Score: 1.855: LOCATION: Britain
+   Score: 0.415: PERSON: Octaber
+   Score: 0.722: ORGANIZATION: News of The aorld
+   Score: 0.349: LOCATION: Tangham Wecd
+   Score: 0.324: LOCATION: R.A.F woodbridge
+   Score: 1.119: ORGANIZATION: United States Air Force
+   Score: 0.498: MISC: Secret
+   Score: 1.097: MISC: American
+   Score: 0.269: LOCATION: U.F.O.
+   Score: 0.730: ORGANIZATION: NON Ascii text
+   Score: 0.557: ORGANIZATION: B ritish Secret Service
+   Score: 1.009: MISC: American
+   Score: 0.382: LOCATION: U.F.O.

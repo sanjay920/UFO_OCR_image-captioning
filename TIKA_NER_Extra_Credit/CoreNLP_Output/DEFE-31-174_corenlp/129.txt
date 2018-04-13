@@ -1,0 +1,11 @@
+NER_MONEY: £9LQQ$V
+NER_MONEY: €AJL
+NER_MONEY: €90wa
+NER_ORGANIZATION: E. Direction
+NER_ORGANIZATION: J. Ibtcorologiczl Conditions During Observations
+NER_ORGANIZATION: P. Date & Nine of Receipt
+NER_ORGANIZATION: AIR Fer
+NER_ORGANIZATION: C. Enact Position of Observe
+NER_ORGANIZATION: H. Hovcments of Object
+NER_ORGANIZATION: Time Duration of Sighting
+NER_ORGANIZATION: Angular ulcvntion of Object G. Distance of Object

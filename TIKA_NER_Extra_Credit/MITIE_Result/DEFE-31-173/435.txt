@@ -1,0 +1,10 @@
+   Score: 0.206: PERSON: Outco~o<>to
+   Score: 0.517: ORGANIZATION: USWBCB
+   Score: 0.833: ORGANIZATION: OM
+   Score: 0.546: PERSON: mg OMYQ/env
+   Score: 0.146: ORGANIZATION: NON Ascii text
+   Score: 1.081: PERSON: F. Angle
+   Score: 0.406: LOCATION: Distanca
+   Score: 0.396: PERSON: F
+   Score: 0.546: PERSON: Iva
+   Score: 0.389: PERSON: NON Ascii text

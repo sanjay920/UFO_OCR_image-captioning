@@ -1,0 +1,5 @@
+NER_DATE: Wednesday 14 Dec 83
+NER_LOCATION: Glands
+NER_ORGANIZATION: Henley
+NER_ORGANIZATION: Nargrsve
+NER_ORGANIZATION: Duration of Sighting

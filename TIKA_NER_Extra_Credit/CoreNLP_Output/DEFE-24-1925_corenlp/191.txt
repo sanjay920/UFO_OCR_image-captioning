@@ -1,0 +1,16 @@
+NER_DATE: January 1981
+NER_DATE: january
+NER_DATE: 1980
+NER_DATE: January
+NER_LOCATION: United Kingdom
+NER_MONEY: d¢
+NER_ORGANIZATION: State for Defence
+NER_ORGANIZATION: Department
+NER_ORGANIZATION: RAF Woodbridgc
+NER_ORGANIZATION: RAF
+NER_ORGANIZATION: United Stazc
+NER_ORGANIZATION: United States Air Force
+NER_ORGANIZATION: Air Force
+NER_PERSON: Woodbridge
+NER_PERSON: Patrick Wan
+NER_PERSON: Stanley

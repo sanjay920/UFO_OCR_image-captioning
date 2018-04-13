@@ -1,0 +1,25 @@
+   Score: 0.406: PERSON: NON Ascii text
+   Score: 0.896: ORGANIZATION: Page
+   Score: 0.819: ORGANIZATION: Freedom of Information Act
+   Score: 1.079: LOCATION: America
+   Score: 1.029: ORGANIZATION: CIA
+   Score: 1.049: ORGANIZATION: National Security Agency
+   Score: 0.968: PERSON: Lawrence Fawcett
+   Score: 1.053: PERSON: Barry
+   Score: 1.303: PERSON: Greenwood
+   Score: 0.324: PERSON: Prentice~Hall
+   Score: 1.024: MISC: French
+   Score: 0.224: ORGANIZATION: GEPAN
+   Score: 0.441: PERSON: Mitterand
+   Score: 1.075: MISC: French
+   Score: 1.122: ORGANIZATION: NASA
+   Score: 0.503: ORGANIZATION: Russian Academy of Sciences
+   Score: 1.105: MISC: British
+   Score: 0.697: ORGANIZATION: UFO
+   Score: 0.915: MISC: Soviet
+   Score: 0.709: ORGANIZATION: British Ministry
+   Score: 0.919: ORGANIZATION: Ministry of Defence
+   Score: 0.979: MISC: British
+   Score: 1.193: MISC: British
+   Score: 1.016: MISC: British
+   Score: 1.241: LOCATION: Whitehall

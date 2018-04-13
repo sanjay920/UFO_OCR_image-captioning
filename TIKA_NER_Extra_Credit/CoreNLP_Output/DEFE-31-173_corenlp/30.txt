@@ -1,0 +1,10 @@
+NER_DATE: 1610
+NER_DATE: 1631
+NER_DATE: Sunday 3rd February, 1985
+NER_LOCATION: U.F.
+NER_LOCATION: Newcastle
+NER_MONEY: $0.00
+NER_ORGANIZATION: Newcastle
+NER_ORGANIZATION: HQ Admin Department
+NER_PERSON: Wolstanton Marsh
+NER_TIME: 4.30 p.m.

@@ -1,0 +1,4 @@
+NER_ORGANIZATION: cu TUC
+NER_ORGANIZATION: H A. Date
+NER_ORGANIZATION: Time & Duration of Sighting
+NER_ORGANIZATION: DObbS Weir Location

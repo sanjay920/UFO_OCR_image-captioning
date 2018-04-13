@@ -1,0 +1,10 @@
+   Score: 0.659: PERSON: O
+   Score: 0.221: PERSON: NON Ascii text
+   Score: 0.403: PERSON: ZEBographical
+   Score: 0.159: PERSON: Ir
+   Score: 0.245: PERSON: F
+   Score: 0.453: ORGANIZATION: NON Ascii text
+   Score: 0.272: PERSON: NON Ascii text
+   Score: 0.536: ORGANIZATION: TC
+   Score: 0.564: LOCATION: BACKGROUND
+   Score: 0.670: PERSON: NON Ascii text

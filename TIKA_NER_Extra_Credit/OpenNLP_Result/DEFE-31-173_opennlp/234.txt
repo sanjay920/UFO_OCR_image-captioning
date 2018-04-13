@@ -1,0 +1,2 @@
+NER_PERSON: D3 Q Name
+NER_PERSON: _ SIvNﬁVVmewk/v“

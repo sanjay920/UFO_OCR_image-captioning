@@ -1,0 +1,4 @@
+   Score: 0.543: ORGANIZATION: AqiiBackground
+   Score: 0.324: ORGANIZATION: NON Ascii text
+   Score: 0.857: PERSON: Mu
+   Score: 0.179: ORGANIZATION: PFQTQIFTFP

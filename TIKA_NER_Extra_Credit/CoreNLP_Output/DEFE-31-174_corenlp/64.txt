@@ -1,0 +1,7 @@
+NER_DATE: eader 11 Jul 86
+NER_ORGANIZATION: Sec
+NER_ORGANIZATION: Friend P. Date
+NER_ORGANIZATION: Dutu Operations Oﬁficer
+NER_ORGANIZATION: RAF Dutq Officer militarq
+NER_ORGANIZATION: H. Name & Address of Informant Mr London 40 N. Background of Informant
+NER_PERSON: Horren

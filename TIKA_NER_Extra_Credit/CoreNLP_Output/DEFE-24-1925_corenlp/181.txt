@@ -1,0 +1,37 @@
+NER_DATE: 1986
+NER_DATE: 1984
+NER_DATE: October 1982
+NER_DATE: 1862
+NER_DATE: 1972
+NER_DATE: 1982
+NER_DATE: 16th June 1972
+NER_DATE: 1908
+NER_DATE: October 1957
+NER_DATE: May 18th
+NER_DATE: very month 25 years ago ISTRA
+NER_LOCATION: Rita
+NER_LOCATION: Beryl
+NER_LOCATION: United States
+NER_LOCATION: America
+NER_LOCATION: Massachussets
+NER_MONEY: 2 million
+NER_ORGANIZATION: CNK
+NER_ORGANIZATION: Gene Duplantier 0f Canaﬂa
+NER_ORGANIZATION: FER
+NER_ORGANIZATION: Crain Communications Inc.
+NER_ORGANIZATION: Interplanetary Space Travel Research Assoc.
+NER_ORGANIZATION: York Astronomical Society
+NER_ORGANIZATION: Smithsonian
+NER_ORGANIZATION: Sib
+NER_PERSON: Beryl Wallace
+NER_PERSON: Rita
+NER_PERSON: Mike
+NER_PERSON: Martin Dawson
+NER_PERSON: Tuttle
+NER_PERSON: Kohoutek
+NER_PERSON: Mike Perry
+NER_PERSON: Halley
+NER_PERSON: Beryl wallace
+NER_PERSON: Edward Har
+NER_PERSON: Brian Marsden
+NER_PERSON: PARRY

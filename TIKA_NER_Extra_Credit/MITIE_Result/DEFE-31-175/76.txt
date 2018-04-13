@@ -1,0 +1,8 @@
+   Score: 0.401: ORGANIZATION: ObJect
+   Score: 0.684: ORGANIZATION: Spherical ObJect
+   Score: 0.303: ORGANIZATION: NON Ascii text
+   Score: 0.635: ORGANIZATION: Unknown Angle of Sight
+   Score: 0.458: ORGANIZATION: Unknown Distance
+   Score: 1.176: ORGANIZATION: Clear Sky Nearbg ObJects
+   Score: 0.346: PERSON: marsh
+   Score: 0.396: LOCATION: Floodlights

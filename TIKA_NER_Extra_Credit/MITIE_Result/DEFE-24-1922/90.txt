@@ -1,0 +1,12 @@
+   Score: 0.661: ORGANIZATION: NON Ascii text
+   Score: 0.722: ORGANIZATION: Duration of Sighting
+   Score: 0.516: ORGANIZATION: Pos 1t10n Observer
+   Score: 1.091: PERSON: F. Angle
+   Score: 0.553: PERSON: G. Distance
+   Score: 0.257: PERSON: Mn
+   Score: 0.609: PERSON: L. To
+   Score: 0.454: PERSON: M. Name
+   Score: 0.650: ORGANIZATION: AWM WWWJ
+   Score: 0.448: PERSON: N. Argy
+   Score: 1.167: PERSON: P. Date
+   Score: 0.527: ORGANIZATION: NON Ascii text

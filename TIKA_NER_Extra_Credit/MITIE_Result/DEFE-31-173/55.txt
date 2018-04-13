@@ -1,0 +1,5 @@
+   Score: 0.217: ORGANIZATION: NON Ascii text
+   Score: 0.874: ORGANIZATION: NON Ascii text
+   Score: 0.641: LOCATION: FL
+   Score: 0.768: ORGANIZATION: Ex Time of Receipt of Report
+   Score: 0.834: MISC: GMT

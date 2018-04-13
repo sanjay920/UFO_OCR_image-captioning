@@ -1,0 +1,4 @@
+   Score: 0.649: PERSON: E.
+   Score: 0.348: MISC: Wm 7
+   Score: 0.279: PERSON: NON Ascii text
+   Score: 0.416: PERSON: NON Ascii text

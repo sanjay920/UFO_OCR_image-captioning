@@ -1,0 +1,19 @@
+   Score: 0.591: ORGANIZATION: Dhratiou of Sightings
+   Score: 0.760: ORGANIZATION: Lacal Times
+   Score: 0.672: ORGANIZATION: AC
+   Score: 0.380: MISC: Taiwan-h
+   Score: 0.641: PERSON: NON Ascii text
+   Score: 0.555: PERSON: NON Ascii text
+   Score: 0.566: PERSON: %th@_
+   Score: 0.556: ORGANIZATION: NON Ascii text
+   Score: 0.285: PERSON: C. Eggct Position Observer
+   Score: 0.340: ORGANIZATION: SKA
+   Score: 0.302: PERSON: Obiect
+   Score: 0.418: PERSON: g >
+   Score: 0.664: PERSON: H. Hovenentg {Changes
+   Score: 0.552: LOCATION: E
+   Score: 0.548: ORGANIZATION: NON Ascii text
+   Score: 0.528: ORGANIZATION: AJKE
+   Score: 0.551: ORGANIZATION: AS
+   Score: 0.509: ORGANIZATION: 0
+   Score: 0.366: ORGANIZATION: FRLE

@@ -1,0 +1,11 @@
+   Score: 0.332: PERSON: Chic/
+   Score: 0.379: ORGANIZATION: STAFFORDSHRE POLKE
+   Score: 1.263: ORGANIZATION: Office / Tdon36W7
+   Score: 0.692: PERSON: Cann
+   Score: 0.650: PERSON: Stafford
+   Score: 0.930: PERSON: Ma
+   Score: 0.284: LOCATION: my Force
+   Score: 0.929: ORGANIZATION: London Air Traffic Control Centre . Porters Way
+   Score: 0.538: LOCATION: West Drayton
+   Score: 0.733: ORGANIZATION: Middlesex
+   Score: 0.209: PERSON: NON Ascii text

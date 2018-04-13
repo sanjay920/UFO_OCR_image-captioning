@@ -1,0 +1,7 @@
+   Score: 0.666: PERSON: K.
+   Score: 0.298: ORGANIZATION: Telephone
+   Score: 0.524: PERSON: NON Ascii text
+   Score: 0.603: PERSON: H
+   Score: 0.636: PERSON: L. Tc}
+   Score: 0.735: PERSON: O.
+   Score: 1.108: PERSON: P. Date

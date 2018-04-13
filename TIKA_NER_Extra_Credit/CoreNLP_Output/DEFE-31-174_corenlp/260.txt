@@ -1,0 +1,7 @@
+NER_ORGANIZATION: Department
+NER_ORGANIZATION: Ministry of Defence
+NER_ORGANIZATION: RAF
+NER_ORGANIZATION: Defence establishments
+NER_ORGANIZATION: Whitehall
+NER_ORGANIZATION: Air Staff Secretariats 2 & B
+NER_ORGANIZATION: Defence

@@ -1,0 +1,4 @@
+NER_MONEY: ££
+NER_MONEY: $cuv
+NER_MONEY: € K.
+NER_ORGANIZATION: Nearobz

@@ -1,0 +1,11 @@
+   Score: 0.269: PERSON: Soc
+   Score: 0.219: ORGANIZATION: NON Ascii text
+   Score: 0.585: PERSON: Nucber
+   Score: 0.294: PERSON: Wink
+   Score: 0.547: PERSON: Nu Brightness
+   Score: 0.350: PERSON: 038353er Geographical
+   Score: 0.888: ORGANIZATION: St
+   Score: 0.460: LOCATION: Mil
+   Score: 1.192: ORGANIZATION: Organ isati on The Press
+   Score: 1.183: ORGANIZATION: AND T133
+   Score: 0.155: MISC: NON Ascii text

@@ -1,0 +1,4 @@
+   Score: 0.523: PERSON: \u
+   Score: 0.741: PERSON: Wu
+   Score: 0.367: ORGANIZATION: NON Ascii text
+   Score: 0.802: PERSON: Ai

@@ -1,0 +1,14 @@
+   Score: 0.444: PERSON: I%%I III
+   Score: 0.350: PERSON: NON Ascii text
+   Score: 0.773: PERSON: Iggy
+   Score: 0.475: ORGANIZATION: DEVON ARI
+   Score: 0.770: PERSON: H. GLIDING
+   Score: 0.723: ORGANIZATION: PC Section
+   Score: 0.414: PERSON: g \
+   Score: 0.574: PERSON: P.
+   Score: 0.747: ORGANIZATION: LOCAL JUN
+   Score: 0.779: LOCATION: IA
+   Score: 0.846: ORGANIZATION: DSC
+   Score: 0.546: ORGANIZATION: AFDO
+   Score: 0.903: ORGANIZATION: GE
+   Score: 0.856: ORGANIZATION: RAF

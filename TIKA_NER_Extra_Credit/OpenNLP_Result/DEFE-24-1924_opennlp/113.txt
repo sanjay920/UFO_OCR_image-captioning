@@ -1,0 +1,6 @@
+NER_ORGANIZATION: American
+NER_ORGANIZATION: RACC HG STC‘ M. Name
+NER_ORGANIZATION: Squadron Leader Duty Operations Officer AF Ops
+NER_ORGANIZATION: Air Force
+NER_PERSON: 0'
+NER_PERSON: Shannon

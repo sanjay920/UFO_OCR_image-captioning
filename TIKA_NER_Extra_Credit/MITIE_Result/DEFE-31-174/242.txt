@@ -1,0 +1,12 @@
+   Score: 0.324: ORGANIZATION: M. .
+   Score: 0.444: ORGANIZATION: NON Ascii text
+   Score: 0.709: PERSON: a. \
+   Score: 0.545: ORGANIZATION: _.A
+   Score: 0.402: PERSON: NON Ascii text
+   Score: 0.679: PERSON: k.
+   Score: 0.652: PERSON: H.
+   Score: 0.300: PERSON: NON Ascii text
+   Score: 0.429: PERSON: VI
+   Score: 0.646: LOCATION: LA
+   Score: 1.017: ORGANIZATION: o o c
+   Score: 0.654: PERSON: V.

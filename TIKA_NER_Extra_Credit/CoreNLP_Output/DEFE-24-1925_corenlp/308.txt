@@ -1,0 +1,2 @@
+NER_LOCATION: Parliahent
+NER_ORGANIZATION: Congress

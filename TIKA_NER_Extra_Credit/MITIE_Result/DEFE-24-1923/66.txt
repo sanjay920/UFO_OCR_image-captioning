@@ -1,0 +1,8 @@
+   Score: 0.254: ORGANIZATION: NON Ascii text
+   Score: 0.600: PERSON: Qimu
+   Score: 0.489: ORGANIZATION: NON Ascii text
+   Score: 0.907: PERSON: v. xii
+   Score: 0.451: ORGANIZATION: QMKPDV
+   Score: 0.412: PERSON: mno Qoauamon
+   Score: 0.564: PERSON: NON Ascii text
+   Score: 0.803: PERSON: NON Ascii text

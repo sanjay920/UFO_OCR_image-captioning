@@ -1,0 +1,10 @@
+   Score: 0.667: PERSON: K. NEARBY OBJECTS
+   Score: 0.411: PERSON: marsh
+   Score: 1.235: ORGANIZATION: Stevenage Police Station
+   Score: 0.854: ORGANIZATION: METEOROLOGICAL
+   Score: 0.469: PERSON: Sqn Ldr
+   Score: 0.915: ORGANIZATION: GE
+   Score: 0.650: ORGANIZATION: RAF
+   Score: 0.792: ORGANIZATION: DI RAF
+   Score: 1.368: ORGANIZATION: File Rm
+   Score: 0.474: ORGANIZATION: II Metropole

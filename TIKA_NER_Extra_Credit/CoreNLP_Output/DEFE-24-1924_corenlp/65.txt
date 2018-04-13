@@ -1,0 +1,4 @@
+NER_ORGANIZATION: FAMILY Squadron Leader Duty Operations Officer Dat
+NER_ORGANIZATION: Sec
+NER_ORGANIZATION: Time of Receipt 251635A MAY 86 Q. Any Unusual Meteorological ‘ Conditions NIL
+NER_PERSON: MILTON KEYNES

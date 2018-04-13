@@ -1,0 +1,4 @@
+   Score: 0.617: PERSON: P.
+   Score: 0.585: ORGANIZATION: NON Ascii text
+   Score: 0.260: ORGANIZATION: LATCC
+   Score: 0.814: ORGANIZATION: Royal Navy

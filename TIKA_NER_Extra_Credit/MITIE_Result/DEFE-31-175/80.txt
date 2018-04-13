@@ -1,0 +1,9 @@
+   Score: 0.965: ORGANIZATION: Mins Description of ObJect
+   Score: 0.210: LOCATION: Haelsowen
+   Score: 0.612: ORGANIZATION: Angle of Sight
+   Score: 0.538: ORGANIZATION: Verg High Distance
+   Score: 0.187: PERSON: Bg
+   Score: 0.703: ORGANIZATION: E. F &
+   Score: 0.815: ORGANIZATION: Verg Clear Nearbg ObJects
+   Score: 0.340: PERSON: marsh
+   Score: 0.371: LOCATION: Floodlights

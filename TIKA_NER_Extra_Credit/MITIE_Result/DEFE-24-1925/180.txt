@@ -1,0 +1,25 @@
+   Score: 0.703: MISC: GMT
+   Score: 1.411: ORGANIZATION: NON Ascii text
+   Score: 0.842: LOCATION: ALDERBARAN
+   Score: 1.301: PERSON: Martin Dawson
+   Score: 0.286: ORGANIZATION: ALGOL
+   Score: 0.691: ORGANIZATION: NON Ascii text
+   Score: 0.870: PERSON: NON Ascii text
+   Score: 0.899: PERSON: Gene
+   Score: 0.663: ORGANIZATION: NON Ascii text
+   Score: 0.753: PERSON: Norman
+   Score: 1.498: LOCATION: England
+   Score: 0.393: PERSON: NON Ascii text
+   Score: 1.145: LOCATION: Earth
+   Score: 0.934: ORGANIZATION: AA
+   Score: 0.880: LOCATION: Earth
+   Score: 0.643: ORGANIZATION: tincticn cf
+   Score: 0.308: ORGANIZATION: Iooae
+   Score: 0.189: LOCATION: Oort
+   Score: 0.456: PERSON: Nemesis
+   Score: 0.845: MISC: Greek
+   Score: 0.404: LOCATION: Latin
+   Score: 0.235: PERSON: NON Ascii text
+   Score: 0.969: LOCATION: Earth
+   Score: 0.287: LOCATION: Pluto
+   Score: 0.315: LOCATION: Jupitey

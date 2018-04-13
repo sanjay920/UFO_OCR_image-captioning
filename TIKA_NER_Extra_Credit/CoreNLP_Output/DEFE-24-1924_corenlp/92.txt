@@ -1,0 +1,6 @@
+NER_DATE: April 86
+NER_MONEY: 10 pence
+NER_ORGANIZATION: Descriptiqn of Object White
+NER_ORGANIZATION: Time & '
+NER_ORGANIZATION: /E A. Date
+NER_ORGANIZATION: C. Exact Position of Observer Outdoors Location

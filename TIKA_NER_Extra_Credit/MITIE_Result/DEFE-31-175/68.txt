@@ -1,0 +1,6 @@
+   Score: 0.411: PERSON: M.
+   Score: 0.713: PERSON: Bate
+   Score: 0.309: PERSON: Remaras NQJhwa
+   Score: 0.263: PERSON: NON Ascii text
+   Score: 0.555: ORGANIZATION: SCC
+   Score: 0.629: ORGANIZATION: NON Ascii text

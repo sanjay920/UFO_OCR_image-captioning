@@ -1,0 +1,14 @@
+   Score: 0.411: PERSON: marsh
+   Score: 0.409: ORGANIZATION: WHOM
+   Score: 0.952: ORGANIZATION: Air Force C
+   Score: 0.594: ORGANIZATION: MOD Main Building
+   Score: 0.416: ORGANIZATION: METEOROLOGICAL
+   Score: 0.483: PERSON: B. REMARKS
+   Score: 0.492: PERSON: Sqn
+   Score: 0.961: ORGANIZATION: GE
+   Score: 0.651: ORGANIZATION: RAF
+   Score: 0.495: MISC: DI 55
+   Score: 0.936: ORGANIZATION: RAF
+   Score: 1.046: ORGANIZATION: File Rm Section
+   Score: 0.417: ORGANIZATION: RmSection
+   Score: 0.752: ORGANIZATION: Main Bldg Main Bldg Metropole

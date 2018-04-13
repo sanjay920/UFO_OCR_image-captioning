@@ -1,0 +1,14 @@
+   Score: 0.730: PERSON: K.
+   Score: 0.411: PERSON: marsh
+   Score: 0.566: ORGANIZATION: WHOM
+   Score: 0.887: ORGANIZATION: Police Station
+   Score: 0.339: LOCATION: Campbell Square
+   Score: 0.564: ORGANIZATION: Northampton
+   Score: 0.486: ORGANIZATION: Northampton
+   Score: 0.679: LOCATION: BACKGROUND
+   Score: 0.507: PERSON: NON Ascii text
+   Score: 0.909: ORGANIZATION: GE
+   Score: 0.843: ORGANIZATION: RAF
+   Score: 0.848: ORGANIZATION: RAF
+   Score: 0.629: ORGANIZATION: File RmSection
+   Score: 1.191: ORGANIZATION: NON Ascii text

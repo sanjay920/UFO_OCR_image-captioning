@@ -1,0 +1,4 @@
+   Score: 0.215: PERSON: JfUH
+   Score: 0.788: PERSON: NON Ascii text
+   Score: 0.296: ORGANIZATION: LUUR
+   Score: 0.586: ORGANIZATION: unidentifieda Milt

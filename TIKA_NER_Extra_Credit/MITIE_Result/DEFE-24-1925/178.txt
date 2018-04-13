@@ -1,0 +1,42 @@
+   Score: 0.470: PERSON: Von Crystal
+   Score: 0.275: PERSON: Hogben
+   Score: 0.837: PERSON: Dan auch
+   Score: 0.387: PERSON: Photo
+   Score: 0.551: ORGANIZATION: Crystal Hogben
+   Score: 0.321: ORGANIZATION: MAGIC SAUCER
+   Score: 0.235: PERSON: Ehe
+   Score: 0.720: PERSON: 1g Saucer
+   Score: 0.585: LOCATION: USA
+   Score: 0.200: PERSON: ELANLTARY
+   Score: 0.497: ORGANIZATION: *Georse Adamdd MUNDO
+   Score: 0.205: PERSON: Staa
+   Score: 0.158: PERSON: Sonne
+   Score: 0.658: ORGANIZATION: manohmal krank , und schlecht
+   Score: 0.234: PERSON: Ich das glauben
+   Score: 0.216: PERSON: Ihr zeitschriften
+   Score: 0.461: PERSON: frei und hat
+   Score: 0.506: ORGANIZATION: MUNDO MONITOR
+   Score: 1.176: PERSON: David Prockyer
+   Score: 0.328: MISC: UFOs
+   Score: 0.468: ORGANIZATION: CNK
+   Score: 1.002: LOCATION: America
+   Score: 0.789: PERSON: David
+   Score: 1.005: PERSON: David
+   Score: 1.047: PERSON: David
+   Score: 0.359: ORGANIZATION: CNK
+   Score: 0.868: PERSON: David Prodkter
+   Score: 0.242: ORGANIZATION: Vielen Jahren
+   Score: 1.198: PERSON: David
+   Score: 0.411: LOCATION: Fernsehe Musik
+   Score: 0.656: PERSON: Wissenschaft
+   Score: 0.251: PERSON: Nacste mal bringen
+   Score: 0.564: ORGANIZATION: NON Ascii text
+   Score: 0.396: PERSON: Sie
+   Score: 0.314: PERSON: Sie
+   Score: 0.634: PERSON: Newton Green
+   Score: 0.551: PERSON: Dunmow
+   Score: 0.750: ORGANIZATION: Essex
+   Score: 1.387: LOCATION: England
+   Score: 0.866: ORGANIZATION: Bitte senden eine International Post Schein
+   Score: 0.547: PERSON: Dankei
+   Score: 0.425: PERSON: White

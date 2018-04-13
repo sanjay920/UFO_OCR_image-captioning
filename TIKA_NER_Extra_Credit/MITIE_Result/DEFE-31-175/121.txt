@@ -1,0 +1,16 @@
+   Score: 0.999: PERSON: Melton
+   Score: 0.604: LOCATION: Malton
+   Score: 0.936: LOCATION: West
+   Score: 0.842: PERSON: Angle
+   Score: 0.679: PERSON: H. Movements
+   Score: 0.334: PERSON: F
+   Score: 0.367: ORGANIZATION: C. Meteorological
+   Score: 0.543: PERSON: K. Nearby
+   Score: 0.349: ORGANIZATION: Telephone
+   Score: 0.441: LOCATION: lake Swamp
+   Score: 0.423: PERSON: NON Ascii text
+   Score: 0.577: PERSON: C.
+   Score: 0.131: MISC: Ad5
+   Score: 0.291: ORGANIZATION: MWMM
+   Score: 0.518: ORGANIZATION: FILE
+   Score: 0.477: PERSON: -_

@@ -1,0 +1,8 @@
+NER_MONEY: €¢
+NER_MONEY: €°
+NER_ORGANIZATION: Time
+NER_ORGANIZATION: Duration of Sighting ﬁy‘&TIMNW A Description of Object /
+NER_PERCENT: 5%
+NER_PERCENT: 12%
+NER_PERCENT: /%
+NER_PERCENT: 5L%

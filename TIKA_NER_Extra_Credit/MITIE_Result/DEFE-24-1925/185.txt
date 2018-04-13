@@ -1,0 +1,11 @@
+   Score: 0.481: MISC: American Air Force Base
+   Score: 0.273: ORGANIZATION: NON Ascii text
+   Score: 0.566: LOCATION: USAF wbedhridge
+   Score: 0.216: PERSON: 8uffola
+   Score: 0.935: MISC: American
+   Score: 0.818: ORGANIZATION: PSFQIC
+   Score: 0.568: LOCATION: Cheshire
+   Score: 0.293: MISC: Investigatians
+   Score: 0.364: ORGANIZATION: E.Aofo St Mawgan
+   Score: 0.630: PERSON: zapy
+   Score: 0.524: ORGANIZATION: IQL

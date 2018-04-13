@@ -1,0 +1,5 @@
+   Score: 0.738: PERSON: Lia
+   Score: 0.509: PERSON: NON Ascii text
+   Score: 0.557: LOCATION: TX
+   Score: 0.549: PERSON: K. v
+   Score: 0.464: MISC: F .

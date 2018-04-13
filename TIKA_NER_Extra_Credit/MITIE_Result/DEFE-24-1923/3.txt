@@ -1,0 +1,4 @@
+   Score: 0.063: PERSON: NON Ascii text
+   Score: 0.419: ORGANIZATION: EQWVGOB
+   Score: 0.505: ORGANIZATION: D69CMS>JN
+   Score: 0.394: LOCATION: PAR

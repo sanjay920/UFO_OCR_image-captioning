@@ -1,0 +1,6 @@
+   Score: 0.897: ORGANIZATION: 9M
+   Score: 0.814: PERSON: NON Ascii text
+   Score: 0.544: PERSON: Kg
+   Score: 0.434: PERSON: Oat/
+   Score: 0.496: PERSON: Jae Way
+   Score: 0.262: ORGANIZATION: mg .

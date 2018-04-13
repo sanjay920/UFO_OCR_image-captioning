@@ -1,0 +1,8 @@
+   Score: 0.782: PERSON: Lo cati
+   Score: 0.667: ORGANIZATION: Wm 4M
+   Score: 0.989: PERSON: Ma
+   Score: 0.443: LOCATION: MA
+   Score: 0.703: PERSON: H. 11on
+   Score: 0.239: PERSON: F
+   Score: 0.405: ORGANIZATION: NON Ascii text
+   Score: 0.367: PERSON: NON Ascii text

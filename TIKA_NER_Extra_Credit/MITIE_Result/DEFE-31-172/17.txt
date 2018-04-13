@@ -1,0 +1,38 @@
+   Score: 0.705: ORGANIZATION: NON Ascii text
+   Score: 0.638: ORGANIZATION: NORAD
+   Score: 0.861: ORGANIZATION: CIA
+   Score: 0.522: PERSON: Viscount Long
+   Score: 1.328: ORGANIZATION: Ministry of Defence
+   Score: 0.815: ORGANIZATION: Ministry of l.1
+   Score: 0.809: PERSON: Orde
+   Score: 0.275: PERSON: Her Majes
+   Score: 0.746: ORGANIZATION: Service Force
+   Score: 0.753: ORGANIZATION: NON Ascii text
+   Score: 0.475: ORGANIZATION: Youth dvent 'ure Scheme
+   Score: 0.662: ORGANIZATION: Home Service
+   Score: 0.810: PERSON: Earl
+   Score: 0.323: LOCATION: Avon
+   Score: 0.925: PERSON: Roy
+   Score: 0.373: ORGANIZATION: Territorial Arn_
+   Score: 0.908: ORGANIZATION: House
+   Score: 0.542: ORGANIZATION: NON Ascii text
+   Score: 0.303: LOCATION: NON Ascii text
+   Score: 0.476: LOCATION: Avon
+   Score: 0.250: PERSON: Earl of Aron
+   Score: 0.608: ORGANIZATION: Youth Adventure Scheme
+   Score: 0.577: PERSON: Earl
+   Score: 0.345: ORGANIZATION: ILIS
+   Score: 0.872: PERSON: Earl
+   Score: 0.492: ORGANIZATION: Youth Adventure Scheme
+   Score: 0.812: PERSON: Earl
+   Score: 0.306: LOCATION: Avon
+   Score: 0.265: LOCATION: Lord
+   Score: 0.279: PERSON: Lord Iolloy
+   Score: 0.671: ORGANIZATION: Questi
+   Score: 0.228: PERSON: Ma}
+   Score: 0.971: MISC: British
+   Score: 0.032: ORGANIZATION: Parlia
+   Score: 0.375: LOCATION: Ilet
+   Score: 0.321: MISC: My Lords
+   Score: 0.533: LOCATION: United Kinedozn
+   Score: 0.871: MISC: British

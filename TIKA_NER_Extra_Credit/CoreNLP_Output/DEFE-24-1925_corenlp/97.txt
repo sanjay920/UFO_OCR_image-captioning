@@ -1,0 +1,7 @@
+NER_DATE: 1985
+NER_DATE: October 1985
+NER_DATE: September 1985
+NER_LOCATION: Yorkshire
+NER_ORGANIZATION: RAF
+NER_ORGANIZATION: ROYAL AIR FORCE Learning Nonhalﬂenon North Yorkshire DL7 9NJ Telephone Bedale Picasa
+NER_ORGANIZATION: Royal Air Force Leeming

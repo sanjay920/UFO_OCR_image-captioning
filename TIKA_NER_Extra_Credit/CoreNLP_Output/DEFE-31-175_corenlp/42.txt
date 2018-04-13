@@ -1,0 +1,5 @@
+NER_MONEY: pr¢
+NER_MONEY: ~¢yg74¢
+NER_MONEY: ﬂ¢
+NER_ORGANIZATION: Time & Duration of Sighting 20W
+NER_ORGANIZATION: FHM

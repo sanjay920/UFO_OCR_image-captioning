@@ -1,0 +1,3 @@
+   Score: 0.705: MISC: NON Ascii text
+   Score: 0.395: ORGANIZATION: NON Ascii text
+   Score: 0.569: ORGANIZATION: IE

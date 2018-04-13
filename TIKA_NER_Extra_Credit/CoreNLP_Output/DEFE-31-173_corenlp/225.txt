@@ -1,0 +1,4 @@
+NER_ORGANIZATION: Time of Receipt of Report
+NER_PERCENT: 631%
+NER_PERCENT: Informant %
+NER_PERSON: P. Dat

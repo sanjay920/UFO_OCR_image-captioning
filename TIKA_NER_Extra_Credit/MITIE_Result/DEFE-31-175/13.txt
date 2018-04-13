@@ -1,0 +1,9 @@
+   Score: 0.699: ORGANIZATION: NON Ascii text
+   Score: 0.678: ORGANIZATION: NON Ascii text
+   Score: 0.376: PERSON: NON Ascii text
+   Score: 0.304: PERSON: NON Ascii text
+   Score: 0.499: LOCATION: CI
+   Score: 0.313: ORGANIZATION: NON Ascii text
+   Score: 0.291: PERSON: NON Ascii text
+   Score: 0.746: PERSON: Hannah __durim
+   Score: 0.510: ORGANIZATION: AS

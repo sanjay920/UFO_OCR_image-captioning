@@ -1,0 +1,11 @@
+   Score: 0.205: ORGANIZATION: NEARBY OBJECTS
+   Score: 0.437: PERSON: marsh
+   Score: 1.051: PERSON: Spires
+   Score: 0.308: LOCATION: airfielda
+   Score: 0.305: PERSON: NON Ascii text
+   Score: 0.739: ORGANIZATION: INFORMANT
+   Score: 0.492: PERSON: \u
+   Score: 0.534: PERSON: Lg
+   Score: 1.029: ORGANIZATION: CIA
+   Score: 0.703: PERSON: Isa Ops
+   Score: 0.272: LOCATION: BA

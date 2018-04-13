@@ -1,0 +1,3 @@
+NER_LOCATION: A.
+NER_PERSON: H .5; . D,
+NER_PERSON: J ....... Iv

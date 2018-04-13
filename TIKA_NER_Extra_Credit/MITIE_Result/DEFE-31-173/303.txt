@@ -1,0 +1,21 @@
+   Score: 0.588: PERSON: E.
+   Score: 0.727: ORGANIZATION: S S
+   Score: 0.724: ORGANIZATION: F I;
+   Score: 0.904: ORGANIZATION: ACS
+   Score: 0.849: ORGANIZATION: RAF
+   Score: 0.350: PERSON: NON Ascii text
+   Score: 0.680: PERSON: NON Ascii text
+   Score: 1.021: PERSON: r.
+   Score: 0.869: LOCATION: NJ
+   Score: 0.763: PERSON: K. L. M.
+   Score: 1.261: ORGANIZATION: FT PPROX
+   Score: 0.742: ORGANIZATION: NON Ascii text
+   Score: 0.513: PERSON: A.
+   Score: 0.580: ORGANIZATION: SIC
+   Score: 0.329: PERSON: NON Ascii text
+   Score: 0.665: ORGANIZATION: AIR
+   Score: 0.608: ORGANIZATION: ROUTiNE
+   Score: 0.494: ORGANIZATION: NON Ascii text
+   Score: 0.553: PERSON: z.
+   Score: 0.320: ORGANIZATION: NON Ascii text
+   Score: 0.174: PERSON: NON Ascii text

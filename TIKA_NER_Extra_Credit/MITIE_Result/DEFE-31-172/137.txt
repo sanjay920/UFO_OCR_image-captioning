@@ -1,0 +1,6 @@
+   Score: 1.050: ORGANIZATION: BBC
+   Score: 0.416: LOCATION: UFOs
+   Score: 0.901: ORGANIZATION: Daily Express
+   Score: 1.013: LOCATION: Grenada
+   Score: 0.492: LOCATION: UFOs
+   Score: 1.037: ORGANIZATION: United Nations

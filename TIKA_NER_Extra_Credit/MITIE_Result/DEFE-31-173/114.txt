@@ -1,0 +1,21 @@
+   Score: 0.666: ORGANIZATION: C. D. O. P. Section
+   Score: 0.573: LOCATION: DATE
+   Score: 0.403: PERSON: NON Ascii text
+   Score: 0.880: ORGANIZATION: KC DESCRIPTION OF OBJECT
+   Score: 0.641: ORGANIZATION: PAC DJI7I
+   Score: 0.449: PERSON: 0an
+   Score: 0.513: PERSON: Geographica1 loca
+   Score: 0.205: ORGANIZATION: r INDoeKs
+   Score: 0.417: ORGANIZATION: HOW OBSERVED
+   Score: 0.441: ORGANIZATION: n b
+   Score: 0.508: PERSON: F
+   Score: 0.322: ORGANIZATION: 0
+   Score: 0.518: PERSON: NON Ascii text
+   Score: 0.429: LOCATION: MIL
+   Score: 0.400: PERSON: marsh
+   Score: 0.633: PERSON: lan
+   Score: 0.451: ORGANIZATION: Co/Jsmuc
+   Score: 0.330: ORGANIZATION: WHOM
+   Score: 0.384: PERSON: NON Ascii text
+   Score: 0.354: PERSON: NON Ascii text
+   Score: 0.754: MISC: NON Ascii text

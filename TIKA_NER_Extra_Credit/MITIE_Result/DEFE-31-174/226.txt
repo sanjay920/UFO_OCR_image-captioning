@@ -1,0 +1,8 @@
+   Score: 0.887: PERSON: O
+   Score: 1.016: PERSON: r. v
+   Score: 0.580: ORGANIZATION: NON Ascii text
+   Score: 0.348: ORGANIZATION: NON Ascii text
+   Score: 0.548: ORGANIZATION: Angle of Sight
+   Score: 0.596: LOCATION: E
+   Score: 0.972: PERSON: Hoving
+   Score: 0.411: PERSON: marsh

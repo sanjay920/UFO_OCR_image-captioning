@@ -1,0 +1,3 @@
+   Score: 0.249: PERSON: Col Halt
+   Score: 0.352: ORGANIZATION: MOD
+   Score: 0.501: ORGANIZATION: MOD

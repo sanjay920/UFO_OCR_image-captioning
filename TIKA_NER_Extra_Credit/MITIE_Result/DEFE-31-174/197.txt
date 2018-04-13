@@ -1,0 +1,5 @@
+   Score: 0.992: PERSON: Dy
+   Score: 0.361: PERSON: NON Ascii text
+   Score: 0.313: PERSON: I. -Lvl
+   Score: 0.520: LOCATION: IA
+   Score: 0.587: LOCATION: IA

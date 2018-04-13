@@ -1,0 +1,6 @@
+NER_DATE: Wednesday 2 October
+NER_DATE: 1500
+NER_DATE: August 1985
+NER_DATE: September 1985
+NER_ORGANIZATION: DGT
+NER_ORGANIZATION: House of Lords

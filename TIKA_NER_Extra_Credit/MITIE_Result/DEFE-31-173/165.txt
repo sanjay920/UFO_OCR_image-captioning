@@ -1,0 +1,11 @@
+   Score: 0.424: PERSON: Oblong
+   Score: 0.661: PERSON: _indoor/outdoor
+   Score: 0.709: ORGANIZATION: Comming
+   Score: 0.427: LOCATION: City
+   Score: 1.240: LOCATION: East London
+   Score: 0.326: LOCATION: ANGLE
+   Score: 0.442: LOCATION: Estimated Heights
+   Score: 0.287: LOCATION: DISTANCE
+   Score: 0.540: ORGANIZATION: High Gate MOVEMENTS
+   Score: 0.322: PERSON: F
+   Score: 0.273: PERSON: Hazey

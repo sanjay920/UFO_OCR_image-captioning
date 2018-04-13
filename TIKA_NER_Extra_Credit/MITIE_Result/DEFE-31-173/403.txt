@@ -1,0 +1,5 @@
+   Score: 0.600: PERSON: Rama
+   Score: 0.227: PERSON: Q{;<~
+   Score: 0.188: PERSON: Lama-W
+   Score: 0.260: PERSON: NON Ascii text
+   Score: 0.802: ORGANIZATION: OM

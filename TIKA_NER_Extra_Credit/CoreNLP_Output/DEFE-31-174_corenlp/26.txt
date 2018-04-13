@@ -1,0 +1,8 @@
+NER_DATE: ’1 Oct
+NER_LOCATION: Aberdeen
+NER_MONEY: 76¢
+NER_ORGANIZATION: MK Ho Movements
+NER_ORGANIZATION: Time 4!
+NER_ORGANIZATION: 3 Near Tree Tops Hotel
+NER_ORGANIZATION: Staﬁbmmv D
+NER_ORGANIZATION: Rmmd C. Exact Position of Observer Bottom of garden Location

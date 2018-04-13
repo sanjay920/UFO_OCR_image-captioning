@@ -1,0 +1,9 @@
+   Score: 0.398: PERSON: NON Ascii text
+   Score: 0.846: ORGANIZATION: A~VU
+   Score: 0.682: ORGANIZATION: NON Ascii text
+   Score: 1.527: ORGANIZATION: ARD SN VIA L
+   Score: 0.656: ORGANIZATION: AL
+   Score: 0.739: ORGANIZATION: UA
+   Score: 1.123: ORGANIZATION: GXJ
+   Score: 0.940: ORGANIZATION: Hauiarnu}
+   Score: 0.316: ORGANIZATION: A/C

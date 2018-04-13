@@ -1,0 +1,5 @@
+NER_MONEY: €ec
+NER_ORGANIZATION: Headquarters
+NER_PERCENT: E%
+NER_PERCENT: f%
+NER_PERSON: Tawthorn Lona

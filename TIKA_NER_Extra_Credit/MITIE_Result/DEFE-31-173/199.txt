@@ -1,0 +1,16 @@
+   Score: 0.929: ORGANIZATION: NON Ascii text
+   Score: 0.599: ORGANIZATION: NON Ascii text
+   Score: 0.862: ORGANIZATION: IO
+   Score: 0.372: MISC: 0 <1
+   Score: 0.817: PERSON: Lu
+   Score: 0.463: PERSON: H
+   Score: 0.313: ORGANIZATION: m <2
+   Score: 0.576: PERSON: NON Ascii text
+   Score: 0.790: PERSON: Lu
+   Score: 0.609: PERSON: \o o v
+   Score: 0.971: PERSON: Lu
+   Score: 0.610: MISC: NON Ascii text
+   Score: 0.809: PERSON: Lu
+   Score: 0.458: ORGANIZATION: O LEO
+   Score: 0.247: PERSON: I4
+   Score: 0.508: PERSON: =..;t

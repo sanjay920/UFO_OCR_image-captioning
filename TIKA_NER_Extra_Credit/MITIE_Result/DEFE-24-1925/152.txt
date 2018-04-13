@@ -1,0 +1,5 @@
+   Score: 0.242: PERSON: Patric
+   Score: 0.624: PERSON: Wan
+   Score: 0.765: PERSON: Sum {or Dcfcncc
+   Score: 0.280: ORGANIZATION: NON Ascii text
+   Score: 0.368: ORGANIZATION: L}RIOK

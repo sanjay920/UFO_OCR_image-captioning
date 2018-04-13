@@ -1,0 +1,9 @@
+NER_MONEY: ly¢
+NER_ORGANIZATION: Tina of Receipt
+NER_ORGANIZATION: Tmm
+NER_ORGANIZATION: mam
+NER_ORGANIZATION: G. Distance of Object
+NER_ORGANIZATION: Time Duration of Sighting
+NER_PERSON: J. Ectcorclo
+NER_PERSON: Kin
+NER_PERSON: H. Hovcmcnts

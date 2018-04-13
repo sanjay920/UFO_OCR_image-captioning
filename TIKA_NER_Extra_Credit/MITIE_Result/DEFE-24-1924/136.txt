@@ -1,0 +1,2 @@
+   Score: 0.277: PERSON: NON Ascii text
+   Score: 0.233: LOCATION: ILITARY

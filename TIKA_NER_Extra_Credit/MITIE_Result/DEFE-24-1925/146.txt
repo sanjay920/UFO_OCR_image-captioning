@@ -1,0 +1,8 @@
+   Score: 0.234: ORGANIZATION: ROYAL AIR
+   Score: 0.797: ORGANIZATION: GPTN
+   Score: 0.495: ORGANIZATION: r 'f
+   Score: 0.718: ORGANIZATION: Secretariat ( Air Staff
+   Score: 0.415: PERSON: Maln Bullduxg
+   Score: 0.554: MISC: UFO
+   Score: 0.151: LOCATION: Wyton
+   Score: 0.340: LOCATION: CC

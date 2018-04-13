@@ -1,0 +1,11 @@
+   Score: 0.713: PERSON: A. G. Gate
+   Score: 1.114: ORGANIZATION: Duration of Sighting Hidnignt
+   Score: 0.523: ORGANIZATION: Object Red
+   Score: 0.217: LOCATION: Shuttlewood
+   Score: 0.358: ORGANIZATION: Chesterfield
+   Score: 0.776: PERSON: Angle
+   Score: 0.731: ORGANIZATION: Distance Approx
+   Score: 0.680: ORGANIZATION: movement Meteorological
+   Score: 0.196: ORGANIZATION: Informant
+   Score: 1.313: ORGANIZATION: Yorkshire UFO Society
+   Score: 0.280: LOCATION: Chesterfield

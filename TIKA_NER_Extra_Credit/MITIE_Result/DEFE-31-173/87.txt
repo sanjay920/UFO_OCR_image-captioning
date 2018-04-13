@@ -1,0 +1,6 @@
+   Score: 0.206: ORGANIZATION: NON Ascii text
+   Score: 2.145: ORGANIZATION: Ministry of Defence Department
+   Score: 0.538: ORGANIZATION: Air
+   Score: 0.535: ORGANIZATION: Main Building Whitehall
+   Score: 0.396: LOCATION: LONDON
+   Score: 0.725: ORGANIZATION: HB

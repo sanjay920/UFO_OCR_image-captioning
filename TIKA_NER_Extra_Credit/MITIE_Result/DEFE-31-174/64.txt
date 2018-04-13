@@ -1,0 +1,11 @@
+   Score: 0.597: PERSON: L. To
+   Score: 0.914: ORGANIZATION: RAF
+   Score: 0.357: MISC: H. Name
+   Score: 0.477: LOCATION: London
+   Score: 0.966: PERSON: P. Date
+   Score: 0.398: PERSON: G. Anq
+   Score: 0.169: PERSON: Mr Horren
+   Score: 0.676: PERSON: ron eader
+   Score: 0.508: ORGANIZATION: AS
+   Score: 0.362: ORGANIZATION: AEN/GE
+   Score: 0.363: ORGANIZATION: AF Ops/ZIS/l

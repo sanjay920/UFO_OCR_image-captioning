@@ -1,0 +1,14 @@
+   Score: 0.464: LOCATION: FE
+   Score: 0.484: PERSON: M
+   Score: 0.362: MISC: Zulu
+   Score: 1.176: ORGANIZATION: Jet Propellor Military Civil Fighter Bomber Helicopter Light
+   Score: 0.289: PERSON: White
+   Score: 0.442: ORGANIZATION: Location of Complaint
+   Score: 0.758: ORGANIZATION: 1b
+   Score: 0.809: ORGANIZATION: NFU
+   Score: 0.491: ORGANIZATION: MOD Claims
+   Score: 0.576: ORGANIZATION: First Avenue House
+   Score: 1.137: LOCATION: London
+   Score: 0.447: PERSON: WC1V
+   Score: 0.521: ORGANIZATION: Block Capitals
+   Score: 0.382: PERSON: W

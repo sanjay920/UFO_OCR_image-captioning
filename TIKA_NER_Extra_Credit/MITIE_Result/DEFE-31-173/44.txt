@@ -1,0 +1,12 @@
+   Score: 0.964: PERSON: A.
+   Score: 0.735: PERSON: D. E. F. G. H.
+   Score: 1.059: ORGANIZATION: NON Ascii text
+   Score: 0.628: ORGANIZATION: ACS
+   Score: 0.490: ORGANIZATION: AS
+   Score: 1.068: ORGANIZATION: JOC AFDQ
+   Score: 0.688: ORGANIZATION: S n
+   Score: 0.707: ORGANIZATION: U... A S
+   Score: 0.367: ORGANIZATION: SectiOn
+   Score: 0.386: ORGANIZATION: ~PC
+   Score: 0.329: LOCATION: HOUSE
+   Score: 0.768: ORGANIZATION: SPOT LIGHTS

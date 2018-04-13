@@ -1,0 +1,23 @@
+   Score: 0.514: ORGANIZATION: AIR TRAFFIC
+   Score: 0.457: ORGANIZATION: FOPM
+   Score: 0.568: PERSON: A. DATE
+   Score: 0.207: ORGANIZATION: OP
+   Score: 0.348: ORGANIZATION: NON Ascii text
+   Score: 0.561: ORGANIZATION: NON Ascii text
+   Score: 0.407: PERSON: C. EXACT
+   Score: 0.534: PERSON: o nevi
+   Score: 0.523: PERSON: E. DIRECTION
+   Score: 0.738: PERSON: Leah
+   Score: 0.340: PERSON: ANGLlAR
+   Score: 0.299: PERSON: OBSERVER
+   Score: 0.249: PERSON: F
+   Score: 0.393: ORGANIZATION: JICAQ
+   Score: 0.411: PERSON: La K. NEARBY
+   Score: 0.628: PERSON: NON Ascii text
+   Score: 0.334: ORGANIZATION: MXJRESS
+   Score: 0.266: MISC: P. DATE AM
+   Score: 0.293: PERSON: NON Ascii text
+   Score: 0.866: ORGANIZATION: Air Traffic Control
+   Score: 0.706: ORGANIZATION: AIS
+   Score: 0.368: ORGANIZATION: LNCC
+   Score: 0.571: PERSON: Tho

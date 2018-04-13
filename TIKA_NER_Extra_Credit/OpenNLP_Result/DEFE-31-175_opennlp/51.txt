@@ -1,0 +1,5 @@
+NER_LOCATION: I987 Sheffield
+NER_LOCATION: Sheffield University
+NER_ORGANIZATION: Unidentified Aerial Phenomena
+NER_ORGANIZATION: PW
+NER_ORGANIZATION: Sheffield University

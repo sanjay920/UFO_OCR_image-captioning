@@ -1,0 +1,18 @@
+   Score: 0.679: PERSON: zaywph
+   Score: 0.526: ORGANIZATION: NON Ascii text
+   Score: 0.562: ORGANIZATION: NON Ascii text
+   Score: 0.512: ORGANIZATION: lg
+   Score: 0.740: ORGANIZATION: LATCCMIL MODUK AIR
+   Score: 0.825: ORGANIZATION: NON Ascii text
+   Score: 0.277: ORGANIZATION: NON Ascii text
+   Score: 0.608: ORGANIZATION: NK NK
+   Score: 0.532: PERSON: N. O. P. BT
+   Score: 0.913: ORGANIZATION: NON Ascii text
+   Score: 0.676: ORGANIZATION: DSC
+   Score: 0.408: ORGANIZATION: AFDO
+   Score: 0.378: ORGANIZATION: Acs
+   Score: 0.859: ORGANIZATION: GE
+   Score: 0.885: ORGANIZATION: RAF
+   Score: 0.951: ORGANIZATION: DSTI
+   Score: 0.207: LOCATION: I/
+   Score: 0.508: PERSON: NON Ascii text

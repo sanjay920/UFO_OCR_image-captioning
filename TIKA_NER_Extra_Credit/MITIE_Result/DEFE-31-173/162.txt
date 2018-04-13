@@ -1,0 +1,5 @@
+   Score: 0.098: ORGANIZATION: NON Ascii text
+   Score: 0.821: ORGANIZATION: 9c
+   Score: 0.293: PERSON: Sectioryctd
+   Score: 0.466: PERSON: NON Ascii text
+   Score: 0.786: PERSON: Ion

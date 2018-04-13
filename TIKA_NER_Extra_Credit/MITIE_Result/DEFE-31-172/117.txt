@@ -1,0 +1,14 @@
+   Score: 0.579: ORGANIZATION: S S
+   Score: 0.217: ORGANIZATION: u \
+   Score: 0.298: PERSON: NON Ascii text
+   Score: 1.086: ORGANIZATION: AISM LATCCMIL Section
+   Score: 0.837: PERSON: P.
+   Score: 0.488: LOCATION: THAI
+   Score: 0.707: ORGANIZATION: BT
+   Score: 0.784: ORGANIZATION: ' DSC
+   Score: 0.515: ORGANIZATION: AFDO
+   Score: 0.993: ORGANIZATION: ACS
+   Score: 0.848: ORGANIZATION: GE
+   Score: 0.973: ORGANIZATION: RAF
+   Score: 0.555: MISC: NON Ascii text
+   Score: 0.750: ORGANIZATION: DSTI

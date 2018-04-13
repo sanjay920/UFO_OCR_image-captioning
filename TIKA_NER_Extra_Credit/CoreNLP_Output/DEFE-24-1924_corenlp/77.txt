@@ -1,0 +1,18 @@
+NER_DATE: 1600
+NER_DATE: 0830
+NER_DATE: May 1986
+NER_DATE: 40
+NER_DATE: #1
+NER_DATE: 0900
+NER_LOCATION: Lymington
+NER_LOCATION: Hants
+NER_LOCATION: Brockenhurst
+NER_ORGANIZATION: ATC
+NER_ORGANIZATION: Southampton
+NER_ORGANIZATION: Time of Receipt of Report 13th
+NER_ORGANIZATION: Address of Informant Brockenhurst
+NER_ORGANIZATION: First Seen Moving East-West Angular Elevation of Object Could
+NER_ORGANIZATION: Eastleigh Police
+NER_ORGANIZATION: Time
+NER_ORGANIZATION: Observed Naked eye Direction
+NER_ORGANIZATION: Distance of Object

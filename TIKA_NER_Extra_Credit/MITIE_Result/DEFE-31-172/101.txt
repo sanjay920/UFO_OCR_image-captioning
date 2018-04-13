@@ -1,0 +1,13 @@
+   Score: 0.515: PERSON: NON Ascii text
+   Score: 0.518: ORGANIZATION: CXJ
+   Score: 0.651: PERSON: F. S
+   Score: 0.701: ORGANIZATION: GE
+   Score: 0.545: MISC: NON Ascii text
+   Score: 0.683: ORGANIZATION: ACSCP
+   Score: 0.985: ORGANIZATION: DST
+   Score: 0.119: LOCATION: LiKE-ClGAR
+   Score: 0.636: PERSON: C.
+   Score: 0.649: ORGANIZATION: NON Ascii text
+   Score: 0.681: PERSON: A.
+   Score: 0.788: PERSON: Bo
+   Score: 0.530: PERSON: L.

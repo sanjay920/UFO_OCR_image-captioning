@@ -1,0 +1,2 @@
+NER_ORGANIZATION: EIE
+NER_ORGANIZATION: Time & 250300A MAY 86 Duration of Sighting 5 MINS B. Description of Object

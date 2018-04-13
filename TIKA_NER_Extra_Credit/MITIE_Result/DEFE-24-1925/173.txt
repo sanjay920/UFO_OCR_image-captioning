@@ -1,0 +1,36 @@
+   Score: 0.990: ORGANIZATION: DIA
+   Score: 0.365: PERSON: M
+   Score: 1.346: LOCATION: Algiers
+   Score: 1.025: MISC: Algerian
+   Score: 1.341: LOCATION: Kuwait
+   Score: 0.539: MISC: UFO
+   Score: 0.721: ORGANIZATION: UFO
+   Score: 1.489: ORGANIZATION: USAF Security Service
+   Score: 0.440: ORGANIZATION: MIG
+   Score: 1.060: ORGANIZATION: National Security Agency
+   Score: 0.679: LOCATION: Info
+   Score: 0.382: MISC: UFO
+   Score: 0.494: ORGANIZATION: UFO
+   Score: 0.925: ORGANIZATION: NSA
+   Score: 0.653: PERSON: NON Ascii text
+   Score: 0.537: MISC: UFO
+   Score: 0.824: ORGANIZATION: U.S.Air Force
+   Score: 0.326: LOCATION: UFOs
+   Score: 1.258: LOCATION: Iran
+   Score: 0.917: ORGANIZATION: Air Force
+   Score: 0.423: MISC: UFOs
+   Score: 0.403: ORGANIZATION: JANAP
+   Score: 0.839: ORGANIZATION: Air Force Manual
+   Score: 0.365: MISC: Blue Book
+   Score: 1.277: ORGANIZATION: CIA
+   Score: 1.052: ORGANIZATION: U.S. Air Force
+   Score: 1.184: ORGANIZATION: Air Force
+   Score: 0.438: ORGANIZATION: Condon Committee
+   Score: 1.020: ORGANIZATION: University of Colorado
+   Score: 0.293: LOCATION: UFOs
+   Score: 0.515: MISC: UFOs
+   Score: 0.327: ORGANIZATION: ACTUAL
+   Score: 0.602: ORGANIZATION: UFO
+   Score: 0.262: LOCATION: UFOs
+   Score: 0.401: ORGANIZATION: WARRANT
+   Score: 0.714: PERSON: NON Ascii text

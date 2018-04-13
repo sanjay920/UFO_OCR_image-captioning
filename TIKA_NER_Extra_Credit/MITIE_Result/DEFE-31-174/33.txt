@@ -1,0 +1,13 @@
+   Score: 0.647: ORGANIZATION: SOP
+   Score: 0.982: PERSON: A. Date
+   Score: 0.630: ORGANIZATION: Sighting
+   Score: 0.596: ORGANIZATION: ObJect
+   Score: 0.432: ORGANIZATION: Milton Keynes
+   Score: 0.329: PERSON: F. Angle of Sight
+   Score: 0.470: PERSON: G. Distance
+   Score: 0.530: PERSON: H. Movements
+   Score: 0.516: ORGANIZATION: J. Met
+   Score: 0.386: PERSON: K. Nearbg ObJects
+   Score: 0.340: PERSON: marsh
+   Score: 0.346: LOCATION: Floodlights
+   Score: 1.375: MISC: Open

@@ -1,0 +1,9 @@
+   Score: 0.751: ORGANIZATION: NON Ascii text
+   Score: 0.561: PERSON: Dato
+   Score: 0.552: ORGANIZATION: Obser VGI
+   Score: 0.260: PERSON: V/Jz/a//
+   Score: 0.486: PERSON: /ch/
+   Score: 0.571: ORGANIZATION: >
+   Score: 0.630: LOCATION: Mo
+   Score: 0.381: ORGANIZATION: Volunccc
+   Score: 0.425: PERSON: A/y

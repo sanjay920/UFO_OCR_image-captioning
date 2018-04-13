@@ -1,0 +1,17 @@
+   Score: 0.606: PERSON: Eituwyafzy
+   Score: 1.077: ORGANIZATION: DEC
+   Score: 0.954: ORGANIZATION: SIC
+   Score: 0.979: ORGANIZATION: 2M
+   Score: 0.479: PERSON: B. ONE
+   Score: 0.623: PERSON: G. H. K. L. M. N. Ea
+   Score: 0.583: PERSON: H. T. N.
+   Score: 0.322: MISC: F 26F
+   Score: 1.123: ORGANIZATION: DSC
+   Score: 0.536: ORGANIZATION: AFDO
+   Score: 0.991: ORGANIZATION: SIC
+   Score: 0.889: ORGANIZATION: DS
+   Score: 0.686: ORGANIZATION: DST
+   Score: 0.870: ORGANIZATION: ACS
+   Score: 1.092: ORGANIZATION: GE
+   Score: 1.349: ORGANIZATION: RAF
+   Score: 0.156: PERSON: NON Ascii text

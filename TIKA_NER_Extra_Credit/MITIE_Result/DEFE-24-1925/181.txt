@@ -1,0 +1,36 @@
+   Score: 1.089: LOCATION: America
+   Score: 0.885: PERSON: Gene Duplantier
+   Score: 0.371: ORGANIZATION: COMET
+   Score: 0.579: ORGANIZATION: NON Ascii text
+   Score: 1.351: LOCATION: United States
+   Score: 0.720: ORGANIZATION: Crain Communications Inc
+   Score: 0.777: ORGANIZATION: CNK
+   Score: 0.828: PERSON: Halley
+   Score: 0.406: ORGANIZATION: British Television
+   Score: 1.160: MISC: British
+   Score: 0.356: ORGANIZATION: CNK
+   Score: 1.345: PERSON: Martin Dawson
+   Score: 0.785: ORGANIZATION: York Astronomical Society
+   Score: 0.546: PERSON: Kohoutek
+   Score: 0.689: PERSON: tarraa
+   Score: 1.426: PERSON: Martin Dawson
+   Score: 0.159: ORGANIZATION: NON Ascii text
+   Score: 1.582: PERSON: Brian Marsden
+   Score: 0.638: ORGANIZATION: NON Ascii text
+   Score: 0.391: LOCATION: Massachussets
+   Score: 0.884: PERSON: Swift Tuttle
+   Score: 0.338: MISC: UFO
+   Score: 1.444: PERSON: Beryl Wallace
+   Score: 0.454: ORGANIZATION: Issue
+   Score: 0.494: ORGANIZATION: CNK
+   Score: 0.823: PERSON: Beryl wallace
+   Score: 0.265: ORGANIZATION: Cosmology Newslink
+   Score: 0.671: PERSON: Rita
+   Score: 0.631: PERSON: Rita
+   Score: 0.309: PERSON: Beryl .
+   Score: 1.461: PERSON: Mike Perry
+   Score: 0.342: LOCATION: ISTRA
+   Score: 0.510: ORGANIZATION: ISTRA
+   Score: 0.386: PERSON: Sputnik
+   Score: 0.859: PERSON: Edward Har-
+   Score: 0.791: PERSON: Mike

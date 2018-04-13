@@ -1,0 +1,13 @@
+   Score: 0.919: ORGANIZATION: MANUAL
+   Score: 0.763: PERSON: L. Date
+   Score: 0.417: PERSON: NON Ascii text
+   Score: 0.359: PERSON: Lsom
+   Score: 0.672: ORGANIZATION: Object from Observer . ' Fog
+   Score: 0.611: PERSON: K. Nearby Objects
+   Score: 0.580: PERSON: NON Ascii text
+   Score: 0.106: PERSON: Volunteerezl
+   Score: 0.338: ORGANIZATION: HoosGNxFE
+   Score: 0.675: PERSON: other Witnesses
+   Score: 0.675: ORGANIZATION: QMWW
+   Score: 0.652: PERSON: P.
+   Score: 0.161: LOCATION: Receipt of Report

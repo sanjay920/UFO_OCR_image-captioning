@@ -1,0 +1,17 @@
+   Score: 0.488: ORGANIZATION: L.E{QKJL
+   Score: 0.423: PERSON: NON Ascii text
+   Score: 0.699: ORGANIZATION: MINESTRY OF DEFENCE Rex Main Building Whiteha
+   Score: 1.006: LOCATION: London
+   Score: 0.492: PERSON: Teiephane
+   Score: 0.397: ORGANIZATION: Direct Dialling
+   Score: 0.120: LOCATION: Switchboald
+   Score: 0.480: PERSON: D/Sec
+   Score: 0.665: MISC: UFO
+   Score: 0.562: LOCATION: Rendlesnam Forest
+   Score: 1.199: PERSON: Charles Halt
+   Score: 1.101: ORGANIZATION: United States Air Force
+   Score: 0.519: PERSON: Hohever
+   Score: 0.571: ORGANIZATION: Public Heoords Offine
+   Score: 0.722: PERSON: Ruskin
+   Score: 0.622: ORGANIZATION: Surrey
+   Score: 0.576: ORGANIZATION: UD

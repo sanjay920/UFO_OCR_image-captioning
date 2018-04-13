@@ -1,0 +1,28 @@
+   Score: 0.764: PERSON: NON Ascii text
+   Score: 0.392: PERSON: NON Ascii text
+   Score: 0.310: PERSON: NON Ascii text
+   Score: 0.816: PERSON: John
+   Score: 0.959: ORGANIZATION: EU
+   Score: 0.628: PERSON: Elaine
+   Score: 1.390: PERSON: John
+   Score: 0.224: PERSON: LIHJIKL
+   Score: 0.408: ORGANIZATION: \Ill LAIQ ESIKIUIIU
+   Score: 0.794: PERSON: John
+   Score: 0.519: PERSON: Juhn
+   Score: 1.133: PERSON: John
+   Score: 0.523: PERSON: NON Ascii text
+   Score: 0.864: PERSON: John
+   Score: 0.727: PERSON: Elaine
+   Score: 0.872: PERSON: John
+   Score: 0.805: PERSON: John van run
+   Score: 1.196: PERSON: John
+   Score: 0.825: PERSON: John mmpnrrw
+   Score: 0.589: LOCATION: M
+   Score: 0.227: PERSON: Iht
+   Score: 0.524: PERSON: NON Ascii text
+   Score: 0.197: LOCATION: NON Ascii text
+   Score: 0.390: PERSON: NON Ascii text
+   Score: 0.604: PERSON: Elaine
+   Score: 1.281: PERSON: John
+   Score: 0.380: PERSON: NON Ascii text
+   Score: 0.153: PERSON: NON Ascii text

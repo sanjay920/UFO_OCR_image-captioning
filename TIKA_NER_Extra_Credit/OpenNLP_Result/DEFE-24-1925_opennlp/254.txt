@@ -1,0 +1,4 @@
+NER_LOCATION: Augusta
+NER_LOCATION: Australia
+NER_ORGANIZATION: St. Johns Ave., Highfield Park, Illinois 60035, USA» UFO NEWSCLIPPING SERVICE, Route 1, an
+NER_PERSON: T W 459, Canada.

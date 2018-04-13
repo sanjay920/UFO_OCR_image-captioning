@@ -1,0 +1,13 @@
+   Score: 0.824: ORGANIZATION: LOOSE MINUTE DISS/108/15
+   Score: 0.980: PERSON: A. D/SEC
+   Score: 0.453: ORGANIZATION: AS
+   Score: 0.920: PERSON: B. D/US
+   Score: 0.632: ORGANIZATION: DGT
+   Score: 0.638: MISC: US
+   Score: 0.473: LOCATION: NON Ascii text
+   Score: 0.471: LOCATION: UFOs
+   Score: 0.736: MISC: US
+   Score: 0.533: MISC: UFO
+   Score: 0.457: ORGANIZATION: DIS
+   Score: 0.698: PERSON: alia
+   Score: 0.967: ORGANIZATION: Wg Cdr DISSc Section

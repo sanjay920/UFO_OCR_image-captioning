@@ -1,0 +1,4 @@
+NER_MONEY: $3 $73
+NER_MONEY: € Number
+NER_MONEY: $éﬂ
+NER_PERCENT: 510%

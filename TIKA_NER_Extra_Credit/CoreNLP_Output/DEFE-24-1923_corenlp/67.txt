@@ -1,0 +1,3 @@
+NER_DATE: £1g 85 2305
+NER_ORGANIZATION: Tlme of neceint 0f Resort
+NER_ORGANIZATION: Address of Informant

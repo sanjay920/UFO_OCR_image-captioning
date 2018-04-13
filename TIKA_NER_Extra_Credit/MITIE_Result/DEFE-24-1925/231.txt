@@ -1,0 +1,13 @@
+   Score: 0.250: LOCATION: METROPOLITAN
+   Score: 0.220: PERSON: JKVLI
+   Score: 0.519: LOCATION: Edgware Police Station
+   Score: 0.386: LOCATION: Stanmore
+   Score: 0.284: ORGANIZATION: wha
+   Score: 0.079: MISC: NON Ascii text
+   Score: 0.352: MISC: PC
+   Score: 0.170: PERSON: 5rcular
+   Score: 0.799: PERSON: sally
+   Score: 0.973: ORGANIZATION: SC
+   Score: 0.422: PERSON: Borehamy
+   Score: 0.686: PERSON: Hill
+   Score: 0.481: PERSON: Al

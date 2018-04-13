@@ -1,0 +1,9 @@
+   Score: 0.505: PERSON: Ge '
+   Score: 0.373: PERSON: marsh
+   Score: 0.318: ORGANIZATION: Greenford Police Station
+   Score: 0.214: PERSON: M. NAME
+   Score: 0.582: ORGANIZATION: Greenford Section
+   Score: 0.968: ORGANIZATION: GE
+   Score: 0.625: ORGANIZATION: RAF
+   Score: 0.461: MISC: DI 55
+   Score: 0.806: ORGANIZATION: Main Bldg Main Bldg Metropole

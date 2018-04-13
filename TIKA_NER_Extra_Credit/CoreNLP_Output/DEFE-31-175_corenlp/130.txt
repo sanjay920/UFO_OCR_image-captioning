@@ -1,0 +1,3 @@
+NER_MONEY: $76
+NER_ORGANIZATION: Motocrologiczl Conditions During Observations
+NER_ORGANIZATION: Time Duration of Sighting

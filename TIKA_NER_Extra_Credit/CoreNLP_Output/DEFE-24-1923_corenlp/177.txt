@@ -1,0 +1,9 @@
+NER_MONEY: Objects ¢
+NER_ORGANIZATION: E. Direction
+NER_ORGANIZATION: EL Nearby
+NER_ORGANIZATION: ect
+NER_ORGANIZATION: Rhoose Barry South Glamorgan CF55 9RD Ministry of Defence
+NER_ORGANIZATION: Time
+NER_ORGANIZATION: mam Reported M. Mama
+NER_PERCENT: 1%
+NER_PERCENT: 125%

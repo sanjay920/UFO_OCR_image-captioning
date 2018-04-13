@@ -1,0 +1,7 @@
+   Score: 1.005: ORGANIZATION: FLYTNG OBJECT
+   Score: 0.361: ORGANIZATION: NON Ascii text
+   Score: 0.281: ORGANIZATION: NAMEO
+   Score: 0.143: LOCATION: Nan/E
+   Score: 0.423: PERSON: Tilfl
+   Score: 0.339: LOCATION: Receipt of Report
+   Score: 0.542: MISC: M9

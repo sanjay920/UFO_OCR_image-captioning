@@ -1,0 +1,4 @@
+   Score: 0.281: ORGANIZATION: S S
+   Score: 1.547: ORGANIZATION: UT
+   Score: 0.657: MISC: NON Ascii text
+   Score: 0.346: PERSON: NON Ascii text

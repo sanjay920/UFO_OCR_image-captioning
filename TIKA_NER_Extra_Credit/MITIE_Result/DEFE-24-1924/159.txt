@@ -1,0 +1,5 @@
+   Score: 0.325: MISC: Main Building
+   Score: 0.641: PERSON: xnis Headquarters
+   Score: 0.297: ORGANIZATION: IOOQCOIIIQOCOOOIIOIIOIOO
+   Score: 0.676: ORGANIZATION: COO
+   Score: 0.260: PERSON: NON Ascii text

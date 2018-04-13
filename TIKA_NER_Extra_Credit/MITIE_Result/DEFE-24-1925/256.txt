@@ -1,0 +1,66 @@
+   Score: 0.525: ORGANIZATION: USO
+   Score: 0.986: PERSON: Brennan
+   Score: 0.330: PERSON: M. The Stars
+   Score: 0.598: ORGANIZATION: Thsmes & Hudson/1983O
+   Score: 0.554: ORGANIZATION: British Museuma Guide
+   Score: 0.702: ORGANIZATION: Mauaw WoLlo
+   Score: 0.421: PERSON: Maya Schlptures
+   Score: 0.435: MISC: F
+   Score: 0.942: PERSON: Burton
+   Score: 0.493: PERSON: NON Ascii text
+   Score: 0.414: PERSON: Sciamne
+   Score: 0.444: ORGANIZATION: Kent
+   Score: 0.269: ORGANIZATION: B&Hdom
+   Score: 0.836: PERSON: Cottrell
+   Score: 0.550: ORGANIZATION: La Land
+   Score: 0.136: LOCATION: Churchward
+   Score: 0.690: PERSON: Jo T19 Ch ]
+   Score: 0.417: PERSON: NON Ascii text
+   Score: 0.941: ORGANIZATION: Century
+   Score: 0.503: MISC: UFO
+   Score: 1.087: PERSON: Chapman
+   Score: 0.405: PERSON: Ra UFO
+   Score: 0.415: PERSON: Daniken
+   Score: 0.347: MISC: Eh V01
+   Score: 0.776: PERSON: MVJi
+   Score: 0.368: PERSON: Daniken
+   Score: 0.301: ORGANIZATION: Gland Desig Mo
+   Score: 0.871: PERSON: David
+   Score: 1.040: PERSON: Drake
+   Score: 0.285: PERSON: Won
+   Score: 0.147: MISC: Basin Hdc3rmon/3a
+   Score: 0.556: PERSON: Einstein
+   Score: 0.559: PERSON: Au
+   Score: 0.292: PERSON: Ac
+   Score: 0.906: ORGANIZATION: Do &
+   Score: 0.433: ORGANIZATION: Univcl
+   Score: 0.552: ORGANIZATION: NON Ascii text
+   Score: 0.303: PERSON: LTFQ;w
+   Score: 0.419: PERSON: Kerrcd
+   Score: 0.250: PERSON: Spacca Sackett
+   Score: 1.106: PERSON: Leslie
+   Score: 0.273: PERSON: Dc
+   Score: 0.610: PERSON: Landedo Herner
+   Score: 0.935: ORGANIZATION: Lnatto & JLHddS/19wjo
+   Score: 0.410: LOCATION: Val
+   Score: 0.682: PERSON: Ra
+   Score: 0.854: PERSON: Lon
+   Score: 0.219: PERSON: NON Ascii text
+   Score: 0.469: ORGANIZATION: {Jo
+   Score: 0.688: ORGANIZATION: New Enfiisn LiA
+   Score: 0.663: ORGANIZATION: Or%it BC
+   Score: 1.001: ORGANIZATION: Prlbhupa da
+   Score: 0.321: ORGANIZATION: PantherB
+   Score: 0.490: PERSON: Quanjer
+   Score: 0.185: PERSON: Randles
+   Score: 0.526: PERSON: Richar
+   Score: 0.923: PERSON: Smith
+   Score: 0.438: PERSON: Bellman
+   Score: 0.621: PERSON: Tomas
+   Score: 0.959: PERSON: Whitman
+   Score: 0.593: ORGANIZATION: u George
+   Score: 0.284: PERSON: Chippindale
+   Score: 0.369: PERSON: Ga Stonehonpe
+   Score: 0.950: PERSON: Gilbert
+   Score: 0.441: ORGANIZATION: NON Ascii text
+   Score: 0.581: PERSON: Graphya

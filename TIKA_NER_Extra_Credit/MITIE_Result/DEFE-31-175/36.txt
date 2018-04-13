@@ -1,0 +1,9 @@
+   Score: 1.419: ORGANIZATION: Duration of Sighting
+   Score: 0.390: ORGANIZATION: Red
+   Score: 0.791: ORGANIZATION: Approx
+   Score: 0.329: PERSON: Stationarg
+   Score: 0.446: LOCATION: North
+   Score: 0.373: ORGANIZATION: Angle of Sight
+   Score: 0.853: ORGANIZATION: Approx
+   Score: 0.520: ORGANIZATION: Nearbg ObJects
+   Score: 0.340: PERSON: marsh

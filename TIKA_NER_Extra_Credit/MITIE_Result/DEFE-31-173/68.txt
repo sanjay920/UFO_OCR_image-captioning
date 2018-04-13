@@ -1,0 +1,13 @@
+   Score: 0.571: PERSON: H. v
+   Score: 0.598: ORGANIZATION: J. K. L. M. N.
+   Score: 0.658: PERSON: P.
+   Score: 0.377: PERSON: NON Ascii text
+   Score: 0.990: PERSON: D.
+   Score: 0.929: ORGANIZATION: DURATIO
+   Score: 0.567: PERSON: NON Ascii text
+   Score: 0.444: ORGANIZATION: NON Ascii text
+   Score: 0.303: PERSON: F
+   Score: 0.569: PERSON: Tommi
+   Score: 0.913: ORGANIZATION: ATC
+   Score: 0.496: PERSON: tne Press
+   Score: 0.635: LOCATION: NM

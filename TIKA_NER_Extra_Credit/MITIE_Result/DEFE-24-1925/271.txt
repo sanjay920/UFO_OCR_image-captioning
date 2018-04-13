@@ -1,0 +1,3 @@
+   Score: 0.341: ORGANIZATION: b
+   Score: 0.441: ORGANIZATION: Downing Street
+   Score: 0.756: ORGANIZATION: No

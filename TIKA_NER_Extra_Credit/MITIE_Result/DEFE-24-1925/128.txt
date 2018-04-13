@@ -1,0 +1,5 @@
+   Score: 0.956: PERSON: Tu
+   Score: 0.514: PERSON: Vo __l
+   Score: 1.407: LOCATION: NW
+   Score: 0.638: PERSON: m \i
+   Score: 0.606: MISC: U.

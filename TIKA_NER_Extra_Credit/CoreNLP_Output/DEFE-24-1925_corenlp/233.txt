@@ -1,0 +1,2 @@
+NER_MONEY: $5
+NER_PERCENT: 3%

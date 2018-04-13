@@ -1,0 +1,13 @@
+   Score: 1.125: ORGANIZATION: Civil Aviation Authority Cardiff~Wa1 es Airport
+   Score: 0.371: PERSON: Barry South
+   Score: 1.032: ORGANIZATION: Ministry of Defence
+   Score: 0.481: ORGANIZATION: APO
+   Score: 0.880: ORGANIZATION: RAF
+   Score: 0.942: PERSON: A. Date
+   Score: 0.686: LOCATION: South East
+   Score: 0.947: ORGANIZATION: Object from Observer Movements of Object
+   Score: 0.409: ORGANIZATION: NON Ascii text
+   Score: 0.873: PERSON: Barry
+   Score: 1.096: ORGANIZATION: Cardiff ATC
+   Score: 0.656: ORGANIZATION: Witnesses Husband P. Date
+   Score: 0.445: ORGANIZATION: Receipt of Report

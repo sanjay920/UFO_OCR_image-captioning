@@ -1,0 +1,11 @@
+   Score: 0.870: ORGANIZATION: MINISTRY OF DEFENCE Main Building
+   Score: 0.825: LOCATION: Whitehall London
+   Score: 0.074: MISC: Switchboard
+   Score: 0.507: PERSON: Nam
+   Score: 0.502: ORGANIZATION: AQWJ
+   Score: 0.754: ORGANIZATION: NON Ascii text
+   Score: 0.414: PERSON: Gaarc
+   Score: 0.347: PERSON: NON Ascii text
+   Score: 0.600: ORGANIZATION: NON Ascii text
+   Score: 0.691: ORGANIZATION: NON Ascii text
+   Score: 0.663: MISC: NON Ascii text

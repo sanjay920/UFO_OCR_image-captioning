@@ -1,0 +1,17 @@
+   Score: 0.755: PERSON: A. Date
+   Score: 0.627: PERSON: B. Descrip-ion
+   Score: 0.435: PERSON: Obgett
+   Score: 0.565: PERSON: NON Ascii text
+   Score: 0.310: ORGANIZATION: NON Ascii text
+   Score: 0.407: MISC: NON Ascii text
+   Score: 1.147: ORGANIZATION: NON Ascii text
+   Score: 0.934: PERSON: Hind o ' F. Angle
+   Score: 0.385: PERSON: Jno
+   Score: 0.706: PERSON: G. Distance
+   Score: 0.387: ORGANIZATION: /OC>
+   Score: 0.493: ORGANIZATION: J. Met
+   Score: 1.200: PERSON: Hoving
+   Score: 0.719: ORGANIZATION: OuVWJ
+   Score: 0.676: PERSON: K. Nearby Objects
+   Score: 0.406: PERSON: marsh
+   Score: 0.344: LOCATION: g airfields

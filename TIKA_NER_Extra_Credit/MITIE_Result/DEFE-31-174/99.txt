@@ -1,0 +1,3 @@
+   Score: 0.562: LOCATION: HI
+   Score: 0.660: PERSON: M.
+   Score: 0.849: ORGANIZATION: FHA

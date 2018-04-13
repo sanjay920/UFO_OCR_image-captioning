@@ -1,0 +1,5 @@
+   Score: 0.736: ORGANIZATION: Sighting
+   Score: 0.652: ORGANIZATION: Angle of Sight
+   Score: 0.528: ORGANIZATION: Nearby ObJects
+   Score: 0.390: PERSON: marsh
+   Score: 0.207: MISC: Nai

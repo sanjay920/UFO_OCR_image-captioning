@@ -1,0 +1,15 @@
+   Score: 0.610: PERSON: Dot
+   Score: 0.846: PERSON: Qth
+   Score: 0.744: PERSON: Angle
+   Score: 0.416: MISC: I ' V
+   Score: 0.709: PERSON: G. Distanc 'e
+   Score: 0.534: PERSON: H. Movements
+   Score: 0.425: PERSON: E. F
+   Score: 0.405: PERSON: NON Ascii text
+   Score: 0.425: PERSON: NON Ascii text
+   Score: 0.390: PERSON: KC/J
+   Score: 0.393: PERSON: Sew
+   Score: 0.383: ORGANIZATION: NON Ascii text
+   Score: 0.490: ORGANIZATION: M
+   Score: 0.523: PERSON: Na
+   Score: 0.901: PERSON: NON Ascii text

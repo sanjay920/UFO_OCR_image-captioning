@@ -1,0 +1,9 @@
+NER_DATE: 4
+NER_DATE: July
+NER_DATE: December 1985
+NER_ORGANIZATION: Sec
+NER_ORGANIZATION: Public Records Office Ruskin Avenue Kew Richmond Surrey TW9
+NER_ORGANIZATION: Search Department
+NER_ORGANIZATION: UFO
+NER_PERCENT: 53%
+NER_PERCENT: 6%

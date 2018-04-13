@@ -1,0 +1,13 @@
+   Score: 0.763: PERSON: Ag Date
+   Score: 0.503: ORGANIZATION: Time &
+   Score: 0.414: LOCATION: Slghtlng
+   Score: 0.664: PERSON: O
+   Score: 0.427: LOCATION: Locaplon
+   Score: 1.021: LOCATION: Kingston Road
+   Score: 0.326: PERSON: Shoreditch
+   Score: 0.600: LOCATION: City
+   Score: 0.534: ORGANIZATION: Shoreditch Church F. Angle of Sight
+   Score: 0.499: PERSON: degrees G. Distance
+   Score: 0.736: PERSON: NON Ascii text
+   Score: 0.442: ORGANIZATION: J. Met
+   Score: 0.411: PERSON: marsh

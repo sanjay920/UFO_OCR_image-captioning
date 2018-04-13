@@ -1,0 +1,10 @@
+   Score: 0.390: PERSON: K. NEARBY OBJECTS
+   Score: 0.411: PERSON: marsh
+   Score: 0.913: ORGANIZATION: RAF
+   Score: 0.394: ORGANIZATION: METEOROLOGICAL
+   Score: 0.336: PERSON: Sqn Ldr
+   Score: 0.975: ORGANIZATION: GE
+   Score: 0.490: MISC: DI 55
+   Score: 1.164: ORGANIZATION: File Rm Section
+   Score: 0.734: ORGANIZATION: Rm Section
+   Score: 0.415: PERSON: Hain Bldg Netropole

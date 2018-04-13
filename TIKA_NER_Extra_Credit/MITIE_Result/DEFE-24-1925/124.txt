@@ -1,0 +1,8 @@
+   Score: 0.248: PERSON: NON Ascii text
+   Score: 0.514: PERSON: wG/EQ
+   Score: 0.803: PERSON: l.
+   Score: 0.282: ORGANIZATION: D&Drhwnw
+   Score: 1.270: ORGANIZATION: UN
+   Score: 0.740: LOCATION: Ga
+   Score: 0.833: PERSON: H. {Ugrta
+   Score: 0.461: ORGANIZATION: x. d a. inn

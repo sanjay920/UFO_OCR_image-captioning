@@ -1,0 +1,16 @@
+   Score: 0.716: LOCATION: Rudloe Manor
+   Score: 0.744: ORGANIZATION: UFO
+   Score: 0.798: ORGANIZATION: Secretariat ( Air Staff
+   Score: 0.925: ORGANIZATION: CAS
+   Score: 0.532: ORGANIZATION: Air Staff
+   Score: 0.658: ORGANIZATION: UFO
+   Score: 0.546: ORGANIZATION: AS
+   Score: 0.843: ORGANIZATION: Air Staff Secretariat
+   Score: 0.987: ORGANIZATION: Defence Secretariat
+   Score: 0.353: PERSON: NON Ascii text
+   Score: 0.345: ORGANIZATION: MOD
+   Score: 0.628: ORGANIZATION: UFO
+   Score: 0.434: LOCATION: MOD
+   Score: 0.363: ORGANIZATION: AS
+   Score: 0.446: ORGANIZATION: ADGE
+   Score: 0.744: ORGANIZATION: UFO

@@ -1,0 +1,5 @@
+   Score: 0.409: ORGANIZATION: S
+   Score: 0.785: PERSON: P.
+   Score: 0.271: ORGANIZATION: Cpo
+   Score: 1.024: ORGANIZATION: RAF
+   Score: 0.499: MISC: J <9

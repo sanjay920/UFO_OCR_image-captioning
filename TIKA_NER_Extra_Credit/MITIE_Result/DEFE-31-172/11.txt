@@ -1,0 +1,12 @@
+   Score: 0.522: ORGANIZATION: DPR
+   Score: 0.881: ORGANIZATION: RAF
+   Score: 0.592: ORGANIZATION: DPF
+   Score: 0.989: ORGANIZATION: RAF
+   Score: 0.887: ORGANIZATION: GE
+   Score: 0.622: ORGANIZATION: RAF
+   Score: 0.615: LOCATION: BUFORA
+   Score: 0.456: LOCATION: UFOs
+   Score: 0.510: LOCATION: UFOs
+   Score: 0.511: PERSON: Hansard
+   Score: 0.912: ORGANIZATION: House of Lords
+   Score: 0.296: ORGANIZATION: NON Ascii text

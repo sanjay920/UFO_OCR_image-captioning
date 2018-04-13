@@ -1,0 +1,5 @@
+   Score: 0.797: ORGANIZATION: OPEC
+   Score: 0.254: PERSON: Beade
+   Score: 0.819: PERSON: Angle
+   Score: 0.551: PERSON: H. Movements
+   Score: 0.342: PERSON: F

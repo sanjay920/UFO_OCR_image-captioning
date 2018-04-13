@@ -1,0 +1,4 @@
+   Score: 0.260: ORGANIZATION: ROYAL AIR FORCE Manston
+   Score: 0.457: LOCATION: Whitehall
+   Score: 0.369: MISC: UFO
+   Score: 0.411: PERSON: NON Ascii text

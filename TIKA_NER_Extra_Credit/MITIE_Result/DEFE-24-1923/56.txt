@@ -1,0 +1,22 @@
+   Score: 0.257: PERSON: LUTUN
+   Score: 0.547: PERSON: A. DATE
+   Score: 0.449: LOCATION: NON Ascii text
+   Score: 0.538: ORGANIZATION: NON Ascii text
+   Score: 0.592: PERSON: C. EXACT
+   Score: 0.567: PERSON: J.
+   Score: 0.498: PERSON: Jg F. ANGULAR
+   Score: 0.257: PERSON: F
+   Score: 0.639: PERSON: J.
+   Score: 0.414: LOCATION: LAJEINE
+   Score: 1.104: PERSON: K. NEARBY
+   Score: 0.364: PERSON: resevoir
+   Score: 0.472: ORGANIZATION: WHOM
+   Score: 0.522: PERSON: M. NAME
+   Score: 0.303: PERSON: N. ANY
+   Score: 0.239: ORGANIZATION: TE9A
+   Score: 0.610: PERSON: P. DATE
+   Score: 1.062: ORGANIZATION: LMJ M_ Air Traffic Control
+   Score: 0.640: ORGANIZATION: AIS
+   Score: 0.225: ORGANIZATION: LATCC
+   Score: 0.501: PERSON: NON Ascii text
+   Score: 0.534: PERSON: \a

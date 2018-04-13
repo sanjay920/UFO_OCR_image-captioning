@@ -1,0 +1,2 @@
+NER_LOCATION: M gamma;
+NER_ORGANIZATION: Nearby Objects. Telephone

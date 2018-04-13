@@ -1,0 +1,8 @@
+NER_LOCATION: America
+NER_ORGANIZATION: Russian Academy of Sciences
+NER_ORGANIZATION: National Security Agency,
+NER_ORGANIZATION: Ministry of Defence
+NER_ORGANIZATION: British Ministry of Defence
+NER_ORGANIZATION: UFO
+NER_PERSON: Lawrence Fawcett
+NER_PERSON: Barry 3. Greenwood

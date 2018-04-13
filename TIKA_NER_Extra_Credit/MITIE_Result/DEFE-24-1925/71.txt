@@ -1,0 +1,14 @@
+   Score: 0.262: PERSON: NON Ascii text
+   Score: 0.938: ORGANIZATION: Royal Electrical and Mechanical Engineers
+   Score: 0.306: LOCATION: Gasworks Bridge
+   Score: 0.538: ORGANIZATION: Aldershot
+   Score: 0.584: LOCATION: Waterloo
+   Score: 0.742: LOCATION: Camp Farm Road
+   Score: 0.359: LOCATION: Basingstoek Canal
+   Score: 1.131: ORGANIZATION: Aldershot News
+   Score: 1.168: ORGANIZATION: Surrey Investigation Group on Aerial Phenomena
+   Score: 0.245: ORGANIZATION: SIGAP
+   Score: 0.388: ORGANIZATION: AlderShOj
+   Score: 0.617: ORGANIZATION: News
+   Score: 0.735: LOCATION: America
+   Score: 0.504: ORGANIZATION: National Enquirer

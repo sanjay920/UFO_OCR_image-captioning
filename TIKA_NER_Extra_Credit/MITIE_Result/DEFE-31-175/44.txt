@@ -1,0 +1,9 @@
+   Score: 0.838: ORGANIZATION: Burnley Lanes
+   Score: 0.561: ORGANIZATION: Burnley & Pendle
+   Score: 0.406: ORGANIZATION: Burnley & Pendle
+   Score: 0.668: ORGANIZATION: PS
+   Score: 0.250: ORGANIZATION: Burnley
+   Score: 0.373: PERSON: Lancs
+   Score: 0.410: LOCATION: Afarmmia
+   Score: 0.453: ORGANIZATION: AS
+   Score: 0.370: PERSON: Fl E

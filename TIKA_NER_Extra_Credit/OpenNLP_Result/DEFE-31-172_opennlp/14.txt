@@ -1,0 +1,49 @@
+NER_DATE: 1931
+NER_DATE: December
+NER_DATE: 1982
+NER_DATE: 1970
+NER_DATE: 1980
+NER_DATE: last four years
+NER_DATE: last year
+NER_DATE: 1370
+NER_DATE: 1979
+NER_DATE: 1978
+NER_DATE: MARCH 1982
+NER_LOCATION: Lort
+NER_LOCATION: Lords
+NER_ORGANIZATION: Lord Ilatch of Lusby
+NER_ORGANIZATION: Government
+NER_ORGANIZATION: Ministry of Defence
+NER_ORGANIZATION: lvtinistry of Defence
+NER_ORGANIZATION: Commonwealth Ofticc
+NER_ORGANIZATION: Sceretnry of State
+NER_ORGANIZATION: House of Lords Thwart/
+NER_ORGANIZATION: trai
+NER_ORGANIZATION: the Ministry of Defence
+NER_ORGANIZATION: Earl
+NER_ORGANIZATION: The House
+NER_ORGANIZATION: Overs Has Service
+NER_ORGANIZATION: Defence
+NER_ORGANIZATION: UFO
+NER_PERSON: Hatch
+NER_PERSON: Lotti
+NER_PERSON: Viscount
+NER_ORGANIZATION: Viscount Leng: My Lords,
+NER_ORGANIZATION: Ministry of Defence?
+NER_ORGANIZATION: Citizens
+NER_ORGANIZATION: Ministry of Defence
+NER_ORGANIZATION: House
+NER_ORGANIZATION: Commonwealth Ofticc
+NER_ORGANIZATION: British Expatriates Supplementation Scheme
+NER_ORGANIZATION: Lord Wynne-Jones: My Lords,
+NER_ORGANIZATION: Lord
+NER_ORGANIZATION: Ministry of
+NER_ORGANIZATION: Overs Has Service Aid Scheme
+NER_ORGANIZATION: House of Lords
+NER_ORGANIZATION: Conservative Gt’tvernntent
+NER_ORGANIZATION: UFO
+NER_PERSON: Lord
+NER_PERSON: Lords. The. Earl
+NER_PERSON: Earl
+NER_PERSON: Lord Shelmersdae
+NER_PERSON: Lent Hatch

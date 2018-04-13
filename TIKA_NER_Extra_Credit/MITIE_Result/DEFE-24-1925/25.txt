@@ -1,0 +1,10 @@
+   Score: 0.601: PERSON: Valensole
+   Score: 1.011: LOCATION: France
+   Score: 0.473: PERSON: _ij
+   Score: 0.273: PERSON: Jr )
+   Score: 1.122: PERSON: M. Masse
+   Score: 0.749: PERSON: Masse
+   Score: 0.619: PERSON: Masse
+   Score: 0.576: ORGANIZATION: UFO
+   Score: 0.724: PERSON: Masse
+   Score: 0.141: PERSON: Scem

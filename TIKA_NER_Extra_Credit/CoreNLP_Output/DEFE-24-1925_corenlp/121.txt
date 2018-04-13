@@ -1,0 +1,4 @@
+NER_DATE: Monday
+NER_LOCATION: Worth
+NER_ORGANIZATION: thQ
+NER_TIME: evening

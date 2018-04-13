@@ -1,0 +1,3 @@
+NER_MONEY: gfi¢§¢i¢é§¢¢
+NER_MONEY: ....¢
+NER_ORGANIZATION: Emu

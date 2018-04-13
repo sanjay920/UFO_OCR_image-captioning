@@ -1,0 +1,27 @@
+   Score: 0.359: LOCATION: UFOs
+   Score: 0.352: ORGANIZATION: Project Blue Book
+   Score: 1.124: PERSON: Edward Ruppelt
+   Score: 0.432: PERSON: Ruppelt
+   Score: 0.307: MISC: Secret
+   Score: 1.214: ORGANIZATION: Air Force
+   Score: 0.570: ORGANIZATION: UFO
+   Score: 0.799: ORGANIZATION: NON Ascii text
+   Score: 0.268: ORGANIZATION: Legislative Liaison
+   Score: 1.361: PERSON: W. P. Fisher
+   Score: 1.026: ORGANIZATION: Air Force
+   Score: 0.836: ORGANIZATION: NON Ascii text
+   Score: 1.561: PERSON: George Freeman
+   Score: 0.440: PERSON: Captain Ruppelt
+   Score: 1.210: ORGANIZATION: Air Force
+   Score: 1.188: PERSON: Hoyt S. Vanderberg
+   Score: 0.331: ORGANIZATION: NON Ascii text
+   Score: 0.402: LOCATION: UFOs
+   Score: 0.165: LOCATION: UFOs
+   Score: 0.506: MISC: UFO
+   Score: 0.556: MISC: UFO
+   Score: 0.170: ORGANIZATION: green Venus
+   Score: 0.476: ORGANIZATION: UFO
+   Score: 0.535: MISC: Flying Saucers
+   Score: 0.901: LOCATION: Mars
+   Score: 0.773: MISC: US
+   Score: 0.265: LOCATION: UFOs

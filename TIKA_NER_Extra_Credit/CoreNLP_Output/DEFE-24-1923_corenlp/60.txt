@@ -1,0 +1,4 @@
+NER_LOCATION: Cassiopea
+NER_ORGANIZATION: Binoculars E. Direction
+NER_ORGANIZATION: Time 5
+NER_ORGANIZATION: Pegasus

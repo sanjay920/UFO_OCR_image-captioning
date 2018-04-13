@@ -1,0 +1,11 @@
+   Score: 0.417: ORGANIZATION: ObJect
+   Score: 0.322: ORGANIZATION: Red
+   Score: 0.256: PERSON: Indoon
+   Score: 0.796: ORGANIZATION: Brookward County First School
+   Score: 0.573: PERSON: Neath Hill
+   Score: 0.454: PERSON: Milton Kegnes
+   Score: 0.449: PERSON: Angle of Sight
+   Score: 0.260: ORGANIZATION: Directlg
+   Score: 0.614: PERSON: Bu
+   Score: 0.613: ORGANIZATION: Clear skg
+   Score: 0.346: PERSON: marsh

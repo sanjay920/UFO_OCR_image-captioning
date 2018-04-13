@@ -1,0 +1,23 @@
+   Score: 1.077: LOCATION: NW
+   Score: 0.334: PERSON: NON Ascii text
+   Score: 0.402: PERSON: NON Ascii text
+   Score: 0.375: ORGANIZATION: S XE
+   Score: 0.730: PERSON: D. E.
+   Score: 0.485: PERSON: NON Ascii text
+   Score: 0.617: PERSON: H. J. K.
+   Score: 0.609: PERSON: \i
+   Score: 0.667: PERSON: NON Ascii text
+   Score: 0.466: ORGANIZATION: NON Ascii text
+   Score: 1.186: ORGANIZATION: BT
+   Score: 0.676: PERSON: w. _
+   Score: 0.470: PERSON: NON Ascii text
+   Score: 0.953: ORGANIZATION: CXJ
+   Score: 0.963: ORGANIZATION: ACS
+   Score: 0.857: ORGANIZATION: SIC
+   Score: 0.401: ORGANIZATION: DSTI
+   Score: 0.749: ORGANIZATION: DSC
+   Score: 0.617: ORGANIZATION: AFDO
+   Score: 0.606: LOCATION: NY
+   Score: 0.495: ORGANIZATION: IUD
+   Score: 0.500: LOCATION: CARDIFF
+   Score: 0.535: PERSON: O

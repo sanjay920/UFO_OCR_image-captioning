@@ -1,0 +1,3 @@
+   Score: 0.744: PERSON: E. xpr
+   Score: 0.222: LOCATION: NON Ascii text
+   Score: 0.564: PERSON: V

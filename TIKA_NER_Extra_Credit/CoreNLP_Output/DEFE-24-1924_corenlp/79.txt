@@ -1,0 +1,5 @@
+NER_LOCATION: WALLSEND
+NER_ORGANIZATION: Sec
+NER_ORGANIZATION: M. Name & Address of Informant NEWCASTLE AIRPORT
+NER_ORGANIZATION: Time of Receipt 102225A MAY O. V Any Unusual Meteorological
+NER_ORGANIZATION: INVESTIGATION Squadron Leader Duty Operations Officer Date

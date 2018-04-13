@@ -1,0 +1,26 @@
+   Score: 1.444: PERSON: Barry Goldwater
+   Score: 0.904: ORGANIZATION: Air Force Reserves
+   Score: 0.244: LOCATION: UFOs
+   Score: 0.846: LOCATION: Wright-Patterson Air Force Base
+   Score: 1.036: LOCATION: Ohio
+   Score: 1.055: ORGANIZATION: NASA
+   Score: 0.427: ORGANIZATION: Federal Regulations
+   Score: 1.165: ORGANIZATION: CFR
+   Score: 1.142: LOCATION: Earth
+   Score: 1.271: ORGANIZATION: NASA
+   Score: 1.161: PERSON: Neil Hosenball
+   Score: 0.490: ORGANIZATION: UFO
+   Score: 0.341: MISC: $5,000.00
+   Score: 0.489: MISC: UFO
+   Score: 0.473: MISC: UFO
+   Score: 0.561: MISC: UFO
+   Score: 1.522: LOCATION: England
+   Score: 0.616: LOCATION: Rendlesham Forest
+   Score: 0.352: MISC: American Air Force Base
+   Score: 0.333: LOCATION: Bentwaters
+   Score: 0.612: MISC: US
+   Score: 1.300: ORGANIZATION: Air Force
+   Score: 0.342: ORGANIZATION: USAF
+   Score: 0.371: LOCATION: Rendlesham
+   Score: 1.121: MISC: British
+   Score: 1.722: PERSON: Brenda Butler

@@ -1,0 +1,4 @@
+   Score: 0.326: PERSON: Thalephozzo
+   Score: 0.822: ORGANIZATION: CW
+   Score: 0.463: PERSON: Ta
+   Score: 1.031: PERSON: Lou

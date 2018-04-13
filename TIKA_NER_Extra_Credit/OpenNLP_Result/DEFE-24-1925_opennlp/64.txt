@@ -1,0 +1,7 @@
+NER_ORGANIZATION: Second World War.The
+NER_ORGANIZATION: RAF History Dept; Minisﬁry
+NER_ORGANIZATION: AMSTERDA
+NER_ORGANIZATION: Second World
+NER_ORGANIZATION: YUFOS Research Division (Internationat)
+NER_ORGANIZATION: UFO
+NER_PERSON: Ron Mariya Reesgyour

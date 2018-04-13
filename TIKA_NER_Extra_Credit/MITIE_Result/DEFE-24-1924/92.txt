@@ -1,0 +1,7 @@
+   Score: 0.340: ORGANIZATION: OBJEC
+   Score: 0.355: ORGANIZATION: E. Direction
+   Score: 0.456: ORGANIZATION: F. Angle of Sight
+   Score: 0.465: ORGANIZATION: NON Ascii text
+   Score: 0.521: PERSON: J. Met
+   Score: 0.407: PERSON: marsh
+   Score: 1.099: ORGANIZATION: Radio

@@ -1,0 +1,13 @@
+   Score: 0.793: ORGANIZATION: NON Ascii text
+   Score: 0.177: PERSON: M
+   Score: 0.362: PERSON: marsh
+   Score: 0.203: PERSON: 0ft
+   Score: 0.404: ORGANIZATION: EDDIE OF RECEIPT
+   Score: 0.285: ORGANIZATION: METEOROLOGICAL
+   Score: 0.263: MISC: WW5
+   Score: 0.975: ORGANIZATION: GE
+   Score: 0.780: ORGANIZATION: RAF
+   Score: 0.944: ORGANIZATION: RAF
+   Score: 1.018: ORGANIZATION: File Rm Section
+   Score: 0.644: ORGANIZATION: Rm Section
+   Score: 0.836: ORGANIZATION: Main Bldg Main Bldg Metropole

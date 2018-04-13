@@ -1,0 +1,11 @@
+   Score: 0.956: ORGANIZATION: Ministry of Defence
+   Score: 0.524: LOCATION: RAF Woodbridge
+   Score: 0.381: ORGANIZATION: MOD
+   Score: 0.161: LOCATION: NON Ascii text
+   Score: 0.425: PERSON: Woodbridge
+   Score: 0.417: MISC: UFO
+   Score: 0.670: PERSON: Woodbridge
+   Score: 1.577: LOCATION: UK
+   Score: 0.447: ORGANIZATION: UFO
+   Score: 0.465: ORGANIZATION: MOD
+   Score: 0.617: PERSON: Woodbridge

@@ -1,0 +1,5 @@
+NER_LOCATION: Gatwick
+NER_LOCATION: Surrey
+NER_ORGANIZATION: Air Traffic'Control
+NER_ORGANIZATION: w. Sussex
+NER_ORGANIZATION: Horsham

@@ -1,0 +1,3 @@
+   Score: 0.313: PERSON: Hahkgo
+   Score: 0.414: PERSON: Iago
+   Score: 0.561: ORGANIZATION: NON Ascii text

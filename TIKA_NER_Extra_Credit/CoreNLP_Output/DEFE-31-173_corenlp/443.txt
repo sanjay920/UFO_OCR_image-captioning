@@ -1,0 +1,5 @@
+NER_DATE: June 1983
+NER_LOCATION: South Croydon
+NER_LOCATION: Surrey
+NER_TIME: night
+NER_TIME: 3am one morning

@@ -1,0 +1,10 @@
+   Score: 0.545: ORGANIZATION: Part#L
+   Score: 0.952: PERSON: NON Ascii text
+   Score: 0.175: LOCATION: C/QJ\A
+   Score: 0.606: PERSON: C. Enact
+   Score: 0.285: PERSON: E. Direction
+   Score: 0.707: PERSON: F. Angular
+   Score: 0.429: ORGANIZATION: Object from Observer
+   Score: 0.454: PERSON: J. Ibtcorologiczl
+   Score: 0.927: ORGANIZATION: -F Drrtrecc
+   Score: 0.601: ORGANIZATION: OWE

@@ -1,0 +1,15 @@
+   Score: 0.751: PERSON: K.
+   Score: 0.400: PERSON: marsh
+   Score: 1.063: PERSON: Spires
+   Score: 0.607: ORGANIZATION: TV
+   Score: 0.760: ORGANIZATION: NON Ascii text
+   Score: 0.205: ORGANIZATION: VOLUNTEEBED
+   Score: 0.496: MISC: PC
+   Score: 0.739: PERSON: dado Cloud
+   Score: 0.656: PERSON: R. REMARKS
+   Score: 0.422: MISC: DI 55
+   Score: 0.853: ORGANIZATION: RAF
+   Score: 0.592: ORGANIZATION: NON Ascii text
+   Score: 0.661: ORGANIZATION: Rm Section
+   Score: 0.652: ORGANIZATION: Rm Section
+   Score: 0.822: ORGANIZATION: Main Bldg Main Bldg Metropole

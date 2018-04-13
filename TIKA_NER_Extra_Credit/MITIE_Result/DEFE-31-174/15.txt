@@ -1,0 +1,16 @@
+   Score: 1.056: ORGANIZATION: Duration of Sighting G S SECS
+   Score: 0.522: MISC: NON Ascii text
+   Score: 0.242: ORGANIZATION: NON Ascii text
+   Score: 0.314: ORGANIZATION: NON Ascii text
+   Score: 0.770: ORGANIZATION: NON Ascii text
+   Score: 0.792: ORGANIZATION: MMX
+   Score: 0.484: ORGANIZATION: NON Ascii text
+   Score: 0.386: ORGANIZATION: ISQM
+   Score: 0.329: ORGANIZATION: Arc
+   Score: 0.586: PERSON: Aw Lem
+   Score: 0.908: ORGANIZATION: Ministry of Defence
+   Score: 0.816: ORGANIZATION: AIS
+   Score: 0.737: ORGANIZATION: Royal Air Force
+   Score: 0.305: ORGANIZATION: Main Building
+   Score: 0.468: LOCATION: Whitehall
+   Score: 0.846: PERSON: Alf

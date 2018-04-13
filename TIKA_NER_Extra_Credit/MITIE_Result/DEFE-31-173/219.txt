@@ -1,0 +1,11 @@
+   Score: 0.858: ORGANIZATION: Duration of Sighting
+   Score: 0.201: PERSON: Indetminate
+   Score: 0.811: ORGANIZATION: Centre Stirling Observer How Obseryed
+   Score: 0.286: PERSON: NON Ascii text
+   Score: 0.957: LOCATION: South
+   Score: 0.523: LOCATION: North West Object
+   Score: 1.397: ORGANIZATION: Observer Movements of Object Straight Line Meteorological
+   Score: 1.098: ORGANIZATION: Ministry of Defence
+   Score: 0.830: ORGANIZATION: AIS
+   Score: 0.897: ORGANIZATION: Royal Air Force
+   Score: 0.714: ORGANIZATION: Whitehall LONDON SW

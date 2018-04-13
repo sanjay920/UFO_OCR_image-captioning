@@ -1,0 +1,3 @@
+NER_DATE: January 1985
+NER_LOCATION: London
+NER_ORGANIZATION: Riliﬁury Barracks Knightsbridge

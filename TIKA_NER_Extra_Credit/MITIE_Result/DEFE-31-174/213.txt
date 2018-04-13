@@ -1,0 +1,7 @@
+   Score: 1.510: ORGANIZATION: CT
+   Score: 0.851: PERSON: O
+   Score: 0.624: PERSON: K.
+   Score: 0.896: ORGANIZATION: O O O
+   Score: 0.927: PERSON: NON Ascii text
+   Score: 1.211: PERSON: O. O
+   Score: 1.257: ORGANIZATION: O O O. O Eb

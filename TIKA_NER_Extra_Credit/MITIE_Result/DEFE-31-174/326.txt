@@ -1,0 +1,4 @@
+   Score: 0.460: ORGANIZATION: x. \
+   Score: 0.094: ORGANIZATION: NON Ascii text
+   Score: 0.533: ORGANIZATION: \I
+   Score: 0.401: ORGANIZATION: AN OOEPF

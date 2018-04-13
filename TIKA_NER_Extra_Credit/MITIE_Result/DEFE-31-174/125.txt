@@ -1,0 +1,14 @@
+   Score: 0.871: PERSON: Bi
+   Score: 0.335: PERSON: NON Ascii text
+   Score: 0.567: PERSON: NON Ascii text
+   Score: 0.468: ORGANIZATION: Object from Observer
+   Score: 0.088: MISC: NON Ascii text
+   Score: 0.690: PERSON: J. Ectcorclo;iczl
+   Score: 0.496: PERSON: C. Nearby
+   Score: 0.297: PERSON: I._.______i
+   Score: 0.432: PERSON: NON Ascii text
+   Score: 0.201: ORGANIZATION: Volunteercd
+   Score: 0.504: ORGANIZATION: NON Ascii text
+   Score: 0.756: PERSON: Tina
+   Score: 0.879: MISC: Italian
+   Score: 0.788: ORGANIZATION: sfo

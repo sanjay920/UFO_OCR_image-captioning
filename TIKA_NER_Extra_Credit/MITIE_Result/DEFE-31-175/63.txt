@@ -1,0 +1,27 @@
+   Score: 0.755: LOCATION: MI
+   Score: 0.362: LOCATION: Wm .
+   Score: 0.796: ORGANIZATION: NON Ascii text
+   Score: 0.430: PERSON: SUBJECTu
+   Score: 0.633: ORGANIZATION: LOCAL SEP
+   Score: 0.694: ORGANIZATION: TO
+   Score: 0.639: ORGANIZATION: INS
+   Score: 0.287: LOCATION: RICKHQNBNORTH
+   Score: 0.389: LOCATION: HERTFORDSHIRE
+   Score: 0.597: PERSON: NON Ascii text
+   Score: 0.539: LOCATION: NORTH EAST
+   Score: 0.246: PERSON: mg EIGHT
+   Score: 0.680: PERSON: J. CLoanEss
+   Score: 0.747: PERSON: K. Two
+   Score: 0.163: ORGANIZATION: BUILDINGS
+   Score: 0.807: ORGANIZATION: RAF
+   Score: 0.434: ORGANIZATION: NON Ascii text
+   Score: 0.416: ORGANIZATION: I Pass
+   Score: 0.279: LOCATION: NONE
+   Score: 0.746: PERSON: NON Ascii text
+   Score: 0.887: PERSON: Tu y X
+   Score: 0.326: MISC: NON Ascii text
+   Score: 0.354: PERSON: Soc
+   Score: 1.037: ORGANIZATION: CXJ
+   Score: 0.726: PERSON: M.
+   Score: 0.470: PERSON: }..;y~
+   Score: 0.649: PERSON: NON Ascii text

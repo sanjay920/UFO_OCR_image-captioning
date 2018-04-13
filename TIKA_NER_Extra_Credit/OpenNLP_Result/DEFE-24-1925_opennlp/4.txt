@@ -1,0 +1,2 @@
+NER_LOCATION: Boumc Avenue
+NER_PERSON: Marie Hill

@@ -1,0 +1,2 @@
+NER_MONEY: C¢ $90
+NER_MONEY: $UK

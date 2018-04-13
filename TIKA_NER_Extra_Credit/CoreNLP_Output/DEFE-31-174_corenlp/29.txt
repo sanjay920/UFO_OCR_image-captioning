@@ -1,0 +1,5 @@
+NER_DATE: Oct 0
+NER_ORGANIZATION: Sec
+NER_ORGANIZATION: Time of Receipt Reported
+NER_ORGANIZATION: Aberdeen Police M. Name & Address of.Informant SeCﬂon4O N. Background
+NER_PERSON: Ibne P. Date

@@ -1,0 +1,6 @@
+   Score: 0.227: PERSON: NON Ascii text
+   Score: 0.415: PERSON: TJ H
+   Score: 0.269: MISC: K. HIL n F
+   Score: 0.692: ORGANIZATION: NON Ascii text
+   Score: 0.328: ORGANIZATION: 'u PREHPCC
+   Score: 0.830: ORGANIZATION: AIR FC

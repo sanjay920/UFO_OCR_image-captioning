@@ -1,0 +1,11 @@
+   Score: 0.291: PERSON: Util
+   Score: 0.293: PERSON: l. UiHURL
+   Score: 0.279: ORGANIZATION: Btu .
+   Score: 0.775: ORGANIZATION: Ravens
+   Score: 0.125: ORGANIZATION: Btu
+   Score: 0.782: ORGANIZATION: NON Ascii text
+   Score: 0.855: ORGANIZATION: NAEU ALIXQN
+   Score: 0.569: ORGANIZATION: {Rt
+   Score: 0.683: ORGANIZATION: Spa {HG
+   Score: 0.672: ORGANIZATION: {A}
+   Score: 0.561: ORGANIZATION: TL

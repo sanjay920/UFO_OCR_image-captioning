@@ -1,0 +1,11 @@
+   Score: 0.328: LOCATION: 4
+   Score: 0.746: PERSON: Sam
+   Score: 0.695: MISC: GMT
+   Score: 0.538: MISC: NON Ascii text
+   Score: 0.467: ORGANIZATION: Object from Observer
+   Score: 0.425: ORGANIZATION: UV
+   Score: 0.541: ORGANIZATION: NP
+   Score: 0.857: ORGANIZATION: TA
+   Score: 0.479: ORGANIZATION: NON Ascii text
+   Score: 0.778: PERSON: Nady
+   Score: 0.542: LOCATION: Report

@@ -1,0 +1,17 @@
+NER_LOCATION: GwENT
+NER_MONEY: 2¢¢
+NER_MONEY: 2¢5¢
+NER_MONEY: O51¢3¢
+NER_MONEY: CAV¢
+NER_ORGANIZATION: y///
+NER_ORGANIZATION: USK
+NER_ORGANIZATION: GE
+NER_PERCENT: .11%
+NER_PERCENT: 2%
+NER_PERCENT: zRW%Vﬂzcwyyazmve¢m%w%%W%
+NER_PERCENT: /%
+NER_PERCENT: ,%
+NER_PERCENT: gaa%%zemM.y%%%wra%%%zbaywzzaawawwwAngwnggmwazmmmyg%%%%z%wwzwyw%ye22%zag.yga%VV%W%%%
+NER_PERCENT: 339%
+NER_PERSON: A. B. C. D. E. F. G. Ho Jo
+NER_PERSON: L. M. N. O.

@@ -1,0 +1,3 @@
+NER_LOCATION: Age
+NER_ORGANIZATION: M. Name
+NER_PERSON: Date..2.%¥¥.§5

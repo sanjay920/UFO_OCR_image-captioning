@@ -1,0 +1,11 @@
+   Score: 0.393: LOCATION: LR
+   Score: 0.658: ORGANIZATION: Duration of Sighting
+   Score: 0.398: PERSON: n ' V
+   Score: 0.932: PERSON: B. Descripti
+   Score: 0.567: PERSON: G. Distance
+   Score: 0.469: PERSON: Mmmg
+   Score: 0.817: PERSON: L. To
+   Score: 0.977: PERSON: Ami
+   Score: 0.484: PERSON: M. Name
+   Score: 0.888: PERSON: P. Date
+   Score: 0.981: ORGANIZATION: UNC

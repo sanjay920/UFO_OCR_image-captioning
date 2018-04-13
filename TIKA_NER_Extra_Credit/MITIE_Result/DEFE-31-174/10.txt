@@ -1,0 +1,9 @@
+   Score: 0.376: ORGANIZATION: Newton Nottingham
+   Score: 0.677: ORGANIZATION: MOD
+   Score: 0.342: PERSON: Attn Sec
+   Score: 0.401: ORGANIZATION: AS
+   Score: 0.217: PERSON: Person
+   Score: 0.303: LOCATION: Mansfield
+   Score: 0.469: ORGANIZATION: Mansfield
+   Score: 0.596: LOCATION: Pixton Village
+   Score: 0.549: LOCATION: Mansfield

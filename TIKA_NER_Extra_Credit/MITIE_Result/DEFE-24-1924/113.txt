@@ -1,0 +1,17 @@
+   Score: 0.438: PERSON: NON Ascii text
+   Score: 0.901: MISC: American
+   Score: 0.515: PERSON: Shannon
+   Score: 1.174: LOCATION: Ireland
+   Score: 0.375: ORGANIZATION: LATCC
+   Score: 0.551: PERSON: Lyneham Ops
+   Score: 0.936: ORGANIZATION: Air Force Cps
+   Score: 0.793: ORGANIZATION: NON Ascii text
+   Score: 0.197: ORGANIZATION: Hone
+   Score: 0.552: PERSON: Shannon
+   Score: 0.666: PERSON: P. Date
+   Score: 0.509: ORGANIZATION: Unusual Meteorological
+   Score: 0.586: ORGANIZATION: AS
+   Score: 0.813: ORGANIZATION: AEW/GE
+   Score: 0.566: ORGANIZATION: File AF
+   Score: 0.467: MISC: Duty Operations
+   Score: 0.339: MISC: AF Ops

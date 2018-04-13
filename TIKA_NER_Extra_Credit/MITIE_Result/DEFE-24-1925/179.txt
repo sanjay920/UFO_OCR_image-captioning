@@ -1,0 +1,37 @@
+   Score: 0.697: ORGANIZATION: INFORMATION FROM
+   Score: 0.869: PERSON: d Harris
+   Score: 0.850: ORGANIZATION: NON Ascii text
+   Score: 0.999: PERSON: Gene Duplantier
+   Score: 0.872: LOCATION: Canada
+   Score: 0.763: PERSON: t. Frustrating
+   Score: 0.249: PERSON: NON Ascii text
+   Score: 0.522: ORGANIZATION: Bayeux Tapestry
+   Score: 0.795: ORGANIZATION: Battle of Hastings
+   Score: 0.330: ORGANIZATION: NOVA ALGOL
+   Score: 0.862: ORGANIZATION: York astronomical Society
+   Score: 1.018: PERSON: NON Ascii text
+   Score: 0.556: ORGANIZATION: Le
+   Score: 0.618: LOCATION: Perihelion
+   Score: 0.655: LOCATION: South
+   Score: 0.875: PERSON: Trevor
+   Score: 0.421: ORGANIZATION: Sky
+   Score: 0.992: LOCATION: mid August
+   Score: 0.524: ORGANIZATION: Comet
+   Score: 0.627: PERSON: Giotto
+   Score: 1.261: ORGANIZATION: ESA
+   Score: 0.568: PERSON: Halley
+   Score: 0.587: PERSON: Kamikazi
+   Score: 0.463: PERSON: Man
+   Score: 0.112: ORGANIZATION: NON Ascii text
+   Score: 1.064: ORGANIZATION: York Astronomical Society
+   Score: 1.181: LOCATION: York
+   Score: 0.617: ORGANIZATION: TV
+   Score: 0.737: PERSON: NON Ascii text
+   Score: 0.322: LOCATION: COmet
+   Score: 0.550: ORGANIZATION: NON Ascii text
+   Score: 0.472: ORGANIZATION: Timeless
+   Score: 0.490: ORGANIZATION: DEC
+   Score: 0.386: LOCATION: Oak Grove
+   Score: 0.869: LOCATION: Pasadena
+   Score: 0.833: LOCATION: USA
+   Score: 0.335: PERSON: Califorh1a

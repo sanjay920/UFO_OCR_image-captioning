@@ -1,0 +1,15 @@
+   Score: 0.256: ORGANIZATION: MANUAL
+   Score: 0.337: MISC: NON Ascii text
+   Score: 0.515: PERSON: NON Ascii text
+   Score: 0.700: ORGANIZATION: O1OOZ
+   Score: 0.440: PERSON: ObJGCt Bright
+   Score: 0.175: LOCATION: NON Ascii text
+   Score: 0.347: ORGANIZATION: Object from Observer
+   Score: 0.424: PERSON: f. Meteorological
+   Score: 0.406: PERSON: C. Nearby Objects
+   Score: 0.934: ORGANIZATION: ATC Watch
+   Score: 0.320: ORGANIZATION: ScATCC
+   Score: 0.447: PERSON: Sherwood
+   Score: 0.636: LOCATION: Road
+   Score: 0.521: PERSON: Prestwick
+   Score: 0.310: PERSON: NON Ascii text

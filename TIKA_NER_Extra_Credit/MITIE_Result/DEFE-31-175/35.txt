@@ -1,0 +1,4 @@
+   Score: 0.817: ORGANIZATION: Essex
+   Score: 0.228: PERSON: Ldr
+   Score: 0.528: ORGANIZATION: AS
+   Score: 1.041: ORGANIZATION: AEN/OE DI

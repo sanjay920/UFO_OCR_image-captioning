@@ -1,0 +1,16 @@
+   Score: 0.553: ORGANIZATION: E D SIC
+   Score: 0.660: PERSON: D. NAKED
+   Score: 0.493: PERSON: E. TOWARDS
+   Score: 0.664: PERSON: G.
+   Score: 0.781: ORGANIZATION: OR
+   Score: 0.666: PERSON: J. CTEAR
+   Score: 0.813: PERSON: L.
+   Score: 0.511: PERSON: o. NONE
+   Score: 0.749: PERSON: P.
+   Score: 0.379: MISC: F
+   Score: 0.647: ORGANIZATION: CAB
+   Score: 0.164: PERSON: AFDo
+   Score: 0.826: ORGANIZATION: CAN
+   Score: 0.918: ORGANIZATION: GE
+   Score: 0.846: ORGANIZATION: RAF
+   Score: 0.496: PERSON: NON Ascii text

@@ -1,0 +1,15 @@
+   Score: 0.416: PERSON: NON Ascii text
+   Score: 0.597: PERSON: L. CMLJCNK64
+   Score: 1.015: PERSON: p. oLfamcIZr
+   Score: 0.630: ORGANIZATION: $UMA O 'Vgti}
+   Score: 0.509: ORGANIZATION: SVWQ
+   Score: 0.355: ORGANIZATION: NON Ascii text
+   Score: 0.491: ORGANIZATION: WU Lu
+   Score: 0.638: ORGANIZATION: 4v
+   Score: 0.417: PERSON: Vita
+   Score: 0.586: PERSON: Au
+   Score: 0.211: LOCATION: NJ d \
+   Score: 1.001: PERSON: Ly
+   Score: 0.340: ORGANIZATION: SZLvL
+   Score: 0.305: PERSON: NON Ascii text
+   Score: 0.260: PERSON: Mk

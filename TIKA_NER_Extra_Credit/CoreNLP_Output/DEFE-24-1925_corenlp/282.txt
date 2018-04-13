@@ -1,0 +1,12 @@
+NER_DATE: 1985
+NER_DATE: 3 1
+NER_DATE: February
+NER_DATE: 1933
+NER_LOCATION: London
+NER_LOCATION: United Kingdom
+NER_ORGANIZATION: Department
+NER_ORGANIZATION: the Ministry of Defence
+NER_ORGANIZATION: United Kingdom V1nistry of De
+NER_ORGANIZATION: University of Colorado
+NER_PERCENT: 2%
+NER_PERCENT: 90%

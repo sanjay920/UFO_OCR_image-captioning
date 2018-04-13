@@ -1,0 +1,20 @@
+   Score: 0.479: ORGANIZATION: Freedom of Information Act
+   Score: 0.803: ORGANIZATION: NON Ascii text
+   Score: 0.335: MISC: UFOs
+   Score: 1.236: ORGANIZATION: Air Force
+   Score: 0.574: LOCATION: UFOs
+   Score: 0.375: MISC: UFOs
+   Score: 0.535: ORGANIZATION: UFO
+   Score: 1.019: ORGANIZATION: New York Times
+   Score: 0.413: ORGANIZATION: NON Ascii text
+   Score: 0.884: ORGANIZATION: NRO
+   Score: 0.949: ORGANIZATION: Air Forces
+   Score: 1.017: ORGANIZATION: NSA
+   Score: 0.862: ORGANIZATION: NRO
+   Score: 0.535: ORGANIZATION: UFO
+   Score: 0.588: ORGANIZATION: NORAD
+   Score: 0.322: LOCATION: UFOs
+   Score: 0.217: LOCATION: UFOs
+   Score: 0.698: ORGANIZATION: NRO
+   Score: 0.458: MISC: UFO
+   Score: 0.386: MISC: UFOs

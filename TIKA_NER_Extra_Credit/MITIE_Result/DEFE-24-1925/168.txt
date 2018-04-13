@@ -1,0 +1,43 @@
+   Score: 0.678: ORGANIZATION: U T
+   Score: 0.310: ORGANIZATION: FMKES
+   Score: 0.510: ORGANIZATION: UFD
+   Score: 0.232: PERSON: NON Ascii text
+   Score: 0.582: ORGANIZATION: Sun
+   Score: 1.047: LOCATION: Earth
+   Score: 0.435: ORGANIZATION: EVNO
+   Score: 0.395: ORGANIZATION: EXPLANATION
+   Score: 0.443: PERSON: Ther
+   Score: 0.189: MISC: NON Ascii text
+   Score: 0.809: LOCATION: SPACE
+   Score: 0.142: PERSON: FOaMED BY AMINO
+   Score: 0.509: MISC: UFO
+   Score: 1.094: MISC: American
+   Score: 1.344: ORGANIZATION: Defence Ministry
+   Score: 1.140: ORGANIZATION: RAF
+   Score: 0.935: ORGANIZATION: NON Ascii text
+   Score: 0.424: ORGANIZATION: Bay
+   Score: 1.305: LOCATION: NON Ascii text
+   Score: 1.165: PERSON: Pauline Coombs
+   Score: 0.568: ORGANIZATION: UFO
+   Score: 0.313: ORGANIZATION: Ripplestone Farm
+   Score: 0.676: PERSON: Billy
+   Score: 0.623: ORGANIZATION: UFO
+   Score: 0.646: ORGANIZATION: UFO
+   Score: 0.218: LOCATION: DISCOVERED
+   Score: 0.209: ORGANIZATION: St Bride
+   Score: 0.473: LOCATION: Bay
+   Score: 1.076: PERSON: Rosa Grenville
+   Score: 0.312: ORGANIZATION: Havers Fort Hotel
+   Score: 1.267: PERSON: Eddie
+   Score: 0.540: LOCATION: Broadhaven
+   Score: 0.479: MISC: UFO
+   Score: 0.696: PERSON: hiohard Llwhelin
+   Score: 0.243: PERSON: NON Ascii text
+   Score: 0.847: ORGANIZATION: RAF
+   Score: 0.146: ORGANIZATION: NON Ascii text
+   Score: 0.349: LOCATION: Ealiametary Uhdereseore
+   Score: 1.625: PERSON: James wellbeloved
+   Score: 0.244: PERSON: Tory M. P.
+   Score: 0.264: PERSON: NON Ascii text
+   Score: 0.415: PERSON: Grenville
+   Score: 0.648: ORGANIZATION: DEFENCE

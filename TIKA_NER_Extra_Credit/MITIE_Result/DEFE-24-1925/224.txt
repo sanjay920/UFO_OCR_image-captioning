@@ -1,0 +1,8 @@
+   Score: 0.796: LOCATION: Whitehall London
+   Score: 0.341: PERSON: Solway Firth
+   Score: 0.876: ORGANIZATION: United Kingdom Ministry
+   Score: 0.333: LOCATION: UFOs
+   Score: 1.258: ORGANIZATION: Ministry of Defence
+   Score: 1.089: LOCATION: United Kingdom
+   Score: 0.738: LOCATION: UFOs
+   Score: 0.197: ORGANIZATION: , meteorological balloons

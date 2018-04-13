@@ -1,0 +1,6 @@
+   Score: 0.455: PERSON: brigacraosa
+   Score: 0.228: PERSON: NON Ascii text
+   Score: 0.399: PERSON: Tndcoro
+   Score: 0.476: PERSON: Stationar
+   Score: 0.362: PERSON: Lof
+   Score: 0.521: LOCATION: Mo

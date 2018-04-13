@@ -1,0 +1,9 @@
+   Score: 0.370: PERSON: NON Ascii text
+   Score: 0.787: ORGANIZATION: NON Ascii text
+   Score: 0.561: MISC: Qatari
+   Score: 0.958: PERSON: F. Angle
+   Score: 0.379: PERSON: NON Ascii text
+   Score: 0.172: PERSON: J&VI
+   Score: 0.528: PERSON: G. Distance
+   Score: 0.342: PERSON: F
+   Score: 0.634: PERSON: NON Ascii text

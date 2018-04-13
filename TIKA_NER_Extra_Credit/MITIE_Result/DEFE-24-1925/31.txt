@@ -1,0 +1,5 @@
+   Score: 0.764: ORGANIZATION: Secretariat ( Air Staff
+   Score: 0.588: ORGANIZATION: Room
+   Score: 0.493: ORGANIZATION: DEFENCE Main Building
+   Score: 0.352: ORGANIZATION: Whitehall London SW1A
+   Score: 0.995: LOCATION: North Yorkshire

@@ -1,0 +1,6 @@
+   Score: 0.652: ORGANIZATION: IE
+   Score: 0.256: PERSON: NON Ascii text
+   Score: 0.296: LOCATION: Dagenham
+   Score: 0.433: LOCATION: Rainham marshes
+   Score: 0.636: LOCATION: E
+   Score: 0.191: LOCATION: Iglouds

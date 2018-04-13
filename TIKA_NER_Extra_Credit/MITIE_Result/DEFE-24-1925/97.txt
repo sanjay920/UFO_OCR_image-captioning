@@ -1,0 +1,6 @@
+   Score: 0.892: ORGANIZATION: NON Ascii text
+   Score: 0.253: PERSON: Dotober
+   Score: 0.746: LOCATION: Almondbury
+   Score: 0.755: ORGANIZATION: Yorkshire
+   Score: 0.902: ORGANIZATION: Royal Air Force Leeming
+   Score: 0.748: ORGANIZATION: Yorkshire

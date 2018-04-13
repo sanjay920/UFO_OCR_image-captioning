@@ -1,0 +1,5 @@
+   Score: 0.513: PERSON: Al
+   Score: 0.704: PERSON: mg mgm
+   Score: 0.891: PERSON: M.
+   Score: 0.934: LOCATION: Va
+   Score: 1.106: PERSON: Lam

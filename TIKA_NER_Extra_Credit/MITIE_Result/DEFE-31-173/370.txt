@@ -1,0 +1,30 @@
+   Score: 0.430: PERSON: NON Ascii text
+   Score: 0.107: PERSON: NON Ascii text
+   Score: 0.394: PERSON: I/
+   Score: 0.261: PERSON: CAv
+   Score: 0.480: ORGANIZATION: FROM LATCCMIL
+   Score: 0.906: ORGANIZATION: MOOUK AIR
+   Score: 0.799: PERSON: NON Ascii text
+   Score: 0.351: ORGANIZATION: MINS
+   Score: 0.400: LOCATION: TIMElwINDOMS
+   Score: 0.583: ORGANIZATION: OBJECT SN OE
+   Score: 0.406: PERSON: D. IN CAR
+   Score: 0.306: LOCATION: MOBILE
+   Score: 0.474: LOCATION: STATIONARY
+   Score: 0.651: PERSON: F.
+   Score: 0.634: PERSON: H.
+   Score: 0.710: PERSON: J.
+   Score: 0.288: LOCATION: MIL
+   Score: 0.334: PERSON: N.
+   Score: 0.683: PERSON: NON Ascii text
+   Score: 0.858: ORGANIZATION: DEC
+   Score: 0.228: MISC: F
+   Score: 0.478: ORGANIZATION: CAB
+   Score: 0.610: ORGANIZATION: DSCKAFDO
+   Score: 1.055: ORGANIZATION: CAM ACS
+   Score: 0.914: ORGANIZATION: GE
+   Score: 0.462: ORGANIZATION: RAE
+   Score: 0.583: ORGANIZATION: CAV
+   Score: 0.697: ORGANIZATION: RC
+   Score: 0.470: PERSON: H. w
+   Score: 0.695: PERSON: H.

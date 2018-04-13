@@ -1,0 +1,9 @@
+   Score: 0.796: PERSON: Ni
+   Score: 0.563: PERSON: NON Ascii text
+   Score: 0.457: PERSON: NON Ascii text
+   Score: 0.353: ORGANIZATION: NON Ascii text
+   Score: 1.033: PERSON: V. : ' V
+   Score: 0.290: ORGANIZATION: NON Ascii text
+   Score: 0.420: PERSON: NON Ascii text
+   Score: 0.700: ORGANIZATION: NON Ascii text
+   Score: 0.523: ORGANIZATION: \V

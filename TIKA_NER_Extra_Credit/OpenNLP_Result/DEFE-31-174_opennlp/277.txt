@@ -1,0 +1,3 @@
+NER_ORGANIZATION: Defence Intelligence
+NER_ORGANIZATION: Air Defence
+NER_ORGANIZATION: Air Staff
