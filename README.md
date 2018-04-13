@@ -17,7 +17,7 @@ Large Scale OCR Extraction, Image Captioning and Object Recognition and Enrichme
     * This folder contains code for converting the parsed pdfs into a csv
     
 * <b>new_font_training</b>
-    * This folder contains code for training tesseract with new fonts
+    * This folder contains files for training tesseract with new fonts
     
 * <b>TIKA_NER_Extra_Credit</b>
     * This folder contains results of running Core NLP, Open NLP and MITIE on the parsed text
