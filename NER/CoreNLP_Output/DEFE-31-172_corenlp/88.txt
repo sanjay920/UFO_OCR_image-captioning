@@ -1,0 +1,9 @@
+NER_DATE: '33
+NER_MONEY: $ E.
+NER_ORGANIZATION: IJC
+NER_ORGANIZATION: J. Meteorological Conditions During Observations
+NER_ORGANIZATION: Time of Receipt of Report
+NER_ORGANIZATION: Time Duration of Sighting
+NER_ORGANIZATION: CBZ
+NER_ORGANIZATION: WEN F. Angular Elevation of Object
+NER_PERSON: Agar

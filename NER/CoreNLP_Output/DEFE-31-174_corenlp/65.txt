@@ -1,0 +1,2 @@
+NER_MONEY: '¢
+NER_ORGANIZATION: JUH Lmu & .3

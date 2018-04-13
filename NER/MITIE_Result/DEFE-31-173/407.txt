@@ -1,0 +1,4 @@
+   Score: 0.779: ORGANIZATION: Duration of Sighting
+   Score: 0.261: PERSON: SHAPED
+   Score: 0.187: ORGANIZATION: UBgEHVlwIUFb
+   Score: 1.110: PERSON: Sane

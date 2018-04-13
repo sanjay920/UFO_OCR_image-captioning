@@ -1,0 +1,6 @@
+NER_DATE: April 1986
+NER_DATE: December
+NER_DATE: March
+NER_DATE: August
+NER_LOCATION: London
+NER_LOCATION: North Yorkshire

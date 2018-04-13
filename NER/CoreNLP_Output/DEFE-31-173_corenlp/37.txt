@@ -1,0 +1,18 @@
+NER_DATE: Friday 15 February 1985
+NER_DATE: February 1985
+NER_LOCATION: Almondbury
+NER_LOCATION: Huddersfield
+NER_LOCATION: London
+NER_LOCATION: Castle Hill
+NER_MONEY: $5
+NER_ORGANIZATION: Holmfirth Police Station
+NER_ORGANIZATION: Huddersfield
+NER_ORGANIZATION: Department
+NER_ORGANIZATION: Ministry of Defence
+NER_ORGANIZATION: Emley Moor mast
+NER_ORGANIZATION: Administration Forwarded
+NER_ORGANIZATION: Control Room
+NER_ORGANIZATION: Manchester Air Traffic Control
+NER_ORGANIZATION: Whitehall
+NER_PERCENT: ‘%
+NER_PERSON: Emley

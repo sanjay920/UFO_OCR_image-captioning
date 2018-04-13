@@ -1,0 +1,5 @@
+   Score: 0.421: ORGANIZATION: u \
+   Score: 0.966: ORGANIZATION: GTE
+   Score: 0.382: ORGANIZATION: CQIK
+   Score: 0.488: PERSON: NON Ascii text
+   Score: 0.355: PERSON: NON Ascii text

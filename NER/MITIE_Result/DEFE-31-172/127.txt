@@ -1,0 +1,18 @@
+   Score: 0.348: ORGANIZATION: NON Ascii text
+   Score: 0.482: ORGANIZATION: DUS
+   Score: 0.538: ORGANIZATION: Air
+   Score: 0.391: PERSON: PS/USofS
+   Score: 0.526: PERSON: R
+   Score: 0.160: LOCATION: Ccpies
+   Score: 0.950: ORGANIZATION: RAF
+   Score: 0.838: ORGANIZATION: ACS
+   Score: 0.925: ORGANIZATION: RAF
+   Score: 0.245: ORGANIZATION: OpS
+   Score: 0.746: ORGANIZATION: GE ) 2b
+   Score: 0.784: ORGANIZATION: RAF
+   Score: 0.317: MISC: Placed
+   Score: 0.562: LOCATION: UFOs
+   Score: 0.359: MISC: UFOs
+   Score: 0.588: ORGANIZATION: HMG
+   Score: 0.610: MISC: UFO
+   Score: 0.281: LOCATION: UNCLASSIFIED

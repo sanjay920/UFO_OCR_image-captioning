@@ -1,0 +1,8 @@
+   Score: 0.911: PERSON: M. P.82
+   Score: 0.436: PERSON: C.J.Act
+   Score: 0.274: PERSON: C.Acl
+   Score: 0.295: PERSON: S.
+   Score: 0.363: PERSON: M.C. Rules
+   Score: 0.342: ORGANIZATION: Commuat
+   Score: 0.801: PERSON: frum
+   Score: 0.638: PERSON: OuJbCi

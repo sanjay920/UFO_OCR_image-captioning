@@ -1,0 +1,21 @@
+   Score: 0.164: PERSON: Baae
+   Score: 0.168: ORGANIZATION: Cneshirs
+   Score: 0.245: ORGANIZATION: EmA
+   Score: 0.223: LOCATION: NON Ascii text
+   Score: 0.425: ORGANIZATION: PEFQIC
+   Score: 0.552: PERSON: 80mg eottag&a
+   Score: 0.434: LOCATION: bara
+   Score: 0.116: LOCATION: NON Ascii text
+   Score: 0.448: ORGANIZATION: patches cf
+   Score: 0.495: PERSON: NON Ascii text
+   Score: 0.499: PERSON: NON Ascii text
+   Score: 0.152: ORGANIZATION: NON Ascii text
+   Score: 0.421: LOCATION: NON Ascii text
+   Score: 0.560: PERSON: NON Ascii text
+   Score: 0.277: PERSON: NON Ascii text
+   Score: 0.799: PERSON: Lute
+   Score: 0.415: PERSON: hava
+   Score: 0.585: LOCATION: Cctober
+   Score: 0.201: PERSON: ysu
+   Score: 0.452: PERSON: NON Ascii text
+   Score: 0.752: PERSON: Faithfull

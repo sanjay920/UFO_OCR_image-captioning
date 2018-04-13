@@ -1,0 +1,6 @@
+   Score: 0.266: PERSON: Sec
+   Score: 0.438: ORGANIZATION: AS
+   Score: 0.562: ORGANIZATION: Air Staff
+   Score: 0.523: ORGANIZATION: Air
+   Score: 0.550: LOCATION: Hhitehall
+   Score: 0.485: ORGANIZATION: UFO

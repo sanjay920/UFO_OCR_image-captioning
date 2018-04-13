@@ -1,0 +1,9 @@
+NER_DATE: 0230
+NER_DATE: July
+NER_DATE: July, 1650
+NER_ORGANIZATION: Chesterfield How Observed Naked eye & binoculars Direction
+NER_ORGANIZATION: Duration of Sighting Hidnignt
+NER_ORGANIZATION: Yorkshire UFO Society
+NER_ORGANIZATION: Chesterfield Police
+NER_ORGANIZATION: Distance Approx 5 mls Movements Very
+NER_PERCENT: 24.10%

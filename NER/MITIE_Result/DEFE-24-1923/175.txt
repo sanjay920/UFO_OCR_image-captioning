@@ -1,0 +1,18 @@
+   Score: 0.194: PERSON: NON Ascii text
+   Score: 0.260: LOCATION: NON Ascii text
+   Score: 0.602: PERSON: gar
+   Score: 0.559: ORGANIZATION: WJMA
+   Score: 1.010: PERSON: sffwxa Lama
+   Score: 0.390: LOCATION: WM
+   Score: 0.666: ORGANIZATION: I\\
+   Score: 0.635: PERSON: NON Ascii text
+   Score: 0.993: PERSON: Mani
+   Score: 0.858: PERSON: Angle
+   Score: 0.408: PERSON: G. Distance
+   Score: 0.408: ORGANIZATION: Landmark
+   Score: 0.774: PERSON: O
+   Score: 0.599: PERSON: E. Movements
+   Score: 0.320: PERSON: F
+   Score: 0.442: PERSON: @wz
+   Score: 0.287: ORGANIZATION: WM
+   Score: 0.507: PERSON: {i

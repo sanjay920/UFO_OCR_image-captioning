@@ -1,0 +1,8 @@
+   Score: 0.964: ORGANIZATION: Air Force Ops
+   Score: 0.312: MISC: M. Name
+   Score: 1.105: PERSON: O. Other Witnesses
+   Score: 0.589: PERSON: P. Date
+   Score: 0.463: ORGANIZATION: Unusual Meteorological
+   Score: 1.102: ORGANIZATION: AEW/GE DI
+   Score: 0.549: ORGANIZATION: ' File AF
+   Score: 0.329: MISC: AF Ops

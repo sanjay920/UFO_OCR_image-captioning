@@ -1,0 +1,4 @@
+NER_DATE: e 19 Apr 84
+NER_ORGANIZATION: Bldg Main Bldg Metropole
+NER_ORGANIZATION: GE
+NER_PERSON: Jen Ops

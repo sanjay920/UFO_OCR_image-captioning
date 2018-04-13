@@ -1,0 +1,3 @@
+NER_MONEY: $ ‘
+NER_ORGANIZATION: \T £31 wf /
+NER_PERSON: Milt n1

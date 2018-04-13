@@ -1,0 +1,6 @@
+   Score: 1.109: ORGANIZATION: Air Ministry Secret Intelligence Summary
+   Score: 0.382: MISC: UFOs
+   Score: 0.474: PERSON: Duncan Sandys
+   Score: 1.228: PERSON: Anthony Montague Brown
+   Score: 0.400: ORGANIZATION: PRO
+   Score: 0.803: ORGANIZATION: MoD

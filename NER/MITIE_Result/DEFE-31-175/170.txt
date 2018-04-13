@@ -1,0 +1,15 @@
+   Score: 0.414: ORGANIZATION: NON Ascii text
+   Score: 0.433: PERSON: CAv
+   Score: 0.890: ORGANIZATION: DEC
+   Score: 0.740: ORGANIZATION: FROM AIS
+   Score: 0.274: LOCATION: HANNERSNITH
+   Score: 0.900: LOCATION: LONDON
+   Score: 0.257: LOCATION: OUTDOORS
+   Score: 0.302: ORGANIZATION: N/K
+   Score: 0.893: ORGANIZATION: BT
+   Score: 0.430: PERSON: W. Wgw
+   Score: 0.920: ORGANIZATION: CXJ
+   Score: 0.981: ORGANIZATION: CAN ACS
+   Score: 0.627: PERSON: NON Ascii text
+   Score: 0.797: PERSON: NON Ascii text
+   Score: 0.568: PERSON: I.

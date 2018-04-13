@@ -1,0 +1,3 @@
+NER_DATE: '22
+NER_LOCATION: Northumberland
+NER_ORGANIZATION: Royal Air Force

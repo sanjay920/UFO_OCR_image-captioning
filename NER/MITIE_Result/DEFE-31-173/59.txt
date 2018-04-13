@@ -1,0 +1,10 @@
+   Score: 1.144: ORGANIZATION: IMCBD T
+   Score: 0.258: LOCATION: S Sea
+   Score: 0.523: ORGANIZATION: DESCRIPTION OF OBJECT
+   Score: 0.740: PERSON: Bumber
+   Score: 0.845: ORGANIZATION: NON Ascii text
+   Score: 0.211: PERSON: Estlmated Helghts
+   Score: 0.394: ORGANIZATION: WMMWIMW
+   Score: 0.140: ORGANIZATION: ~1andmark
+   Score: 0.344: PERSON: F
+   Score: 0.559: PERSON: NON Ascii text

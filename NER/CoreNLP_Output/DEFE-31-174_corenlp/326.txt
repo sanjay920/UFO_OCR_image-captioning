@@ -1,0 +1,2 @@
+NER_MONEY: $1.0
+NER_ORGANIZATION: \ \ x. \ \UE/FLyp Nmﬁcp

@@ -1,0 +1,7 @@
+   Score: 0.530: PERSON: NON Ascii text
+   Score: 0.487: PERSON: H.
+   Score: 0.482: ORGANIZATION: mm .
+   Score: 0.170: MISC: NON Ascii text
+   Score: 0.287: PERSON: NON Ascii text
+   Score: 0.353: ORGANIZATION: M
+   Score: 0.537: MISC: F

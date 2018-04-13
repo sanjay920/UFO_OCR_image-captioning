@@ -1,0 +1,2 @@
+   Score: 0.437: ORGANIZATION: NON Ascii text
+   Score: 0.625: PERSON: \V

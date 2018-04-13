@@ -1,0 +1,16 @@
+   Score: 0.404: ORGANIZATION: NON Ascii text
+   Score: 0.835: LOCATION: LA
+   Score: 0.307: PERSON: Sightii
+   Score: 0.660: ORGANIZATION: MAW EC
+   Score: 0.630: LOCATION: LA
+   Score: 0.691: ORGANIZATION: NON Ascii text
+   Score: 0.366: PERSON: NON Ascii text
+   Score: 0.726: PERSON: Wu
+   Score: 0.289: LOCATION: QM
+   Score: 0.209: MISC: NON Ascii text
+   Score: 0.266: MISC: NON Ascii text
+   Score: 0.931: PERSON: Wu
+   Score: 0.563: LOCATION: va
+   Score: 1.004: PERSON: Lu
+   Score: 0.627: ORGANIZATION: MAM
+   Score: 0.766: ORGANIZATION: NON Ascii text

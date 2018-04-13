@@ -1,0 +1,5 @@
+   Score: 1.480: ORGANIZATION: Ministry of Defence Department S4
+   Score: 0.627: ORGANIZATION: Air
+   Score: 0.489: ORGANIZATION: SWIA
+   Score: 0.918: ORGANIZATION: Ola/z POLICE
+   Score: 1.492: ORGANIZATION: Calderdale Division of this Force

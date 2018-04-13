@@ -1,0 +1,42 @@
+   Score: 0.421: ORGANIZATION: THIS COULD
+   Score: 0.276: LOCATION: SNEAK ATTACK
+   Score: 0.436: ORGANIZATION: ALL ASLEEP
+   Score: 0.629: ORGANIZATION: UFO
+   Score: 0.170: LOCATION: NON Ascii text
+   Score: 0.970: ORGANIZATION: Ministry
+   Score: 0.284: MISC: UFOs
+   Score: 0.362: ORGANIZATION: CNK
+   Score: 0.661: ORGANIZATION: IE
+   Score: 0.274: ORGANIZATION: UFO
+   Score: 0.486: ORGANIZATION: MOD
+   Score: 0.497: ORGANIZATION: MOD
+   Score: 0.424: LOCATION: BOTH AMERICA
+   Score: 0.966: LOCATION: Russia
+   Score: 0.372: ORGANIZATION: NON Ascii text
+   Score: 0.667: PERSON: Artur Shuttlewood
+   Score: 0.381: PERSON: Therse
+   Score: 0.438: ORGANIZATION: UFO Phenomenon
+   Score: 0.871: PERSON: Johannes Vbn Buttlar
+   Score: 1.031: ORGANIZATION: Germanyyjaecuses AI Central Intell1genoe Agency
+   Score: 0.802: LOCATION: Russia
+   Score: 0.654: ORGANIZATION: KGB
+   Score: 0.653: ORGANIZATION: UFO
+   Score: 0.522: PERSON: Vbn Buttlar
+   Score: 0.908: ORGANIZATION: *WHEN THE CIA
+   Score: 0.591: ORGANIZATION: UFO
+   Score: 0.455: MISC: RUSSIAN
+   Score: 1.003: ORGANIZATION: CIA
+   Score: 0.814: MISC: American
+   Score: 1.001: LOCATION: Moscow
+   Score: 0.465: ORGANIZATION: Sun
+   Score: 0.369: ORGANIZATION: UFO
+   Score: 0.612: ORGANIZATION: Has this
+   Score: 0.351: ORGANIZATION: UFO
+   Score: 0.872: PERSON: Hanger
+   Score: 1.080: LOCATION: America
+   Score: 1.323: LOCATION: Russia
+   Score: 1.370: LOCATION: Britain
+   Score: 0.429: PERSON: L1UGeneva
+   Score: 1.227: PERSON: Dan Kimball
+   Score: 0.900: MISC: US
+   Score: 0.912: PERSON: Rohert Jessup

@@ -1,0 +1,4 @@
+NER_MONEY: '¢
+NER_MONEY: 42tijnxJafﬂ4¢
+NER_ORGANIZATION: EIF
+NER_ORGANIZATION: Time of Receipt of Report

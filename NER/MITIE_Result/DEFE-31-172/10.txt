@@ -1,0 +1,8 @@
+   Score: 0.805: ORGANIZATION: House of Lords
+   Score: 0.223: MISC: UFOs Teresa
+   Score: 0.822: ORGANIZATION: House of Lords
+   Score: 0.371: MISC: UFOs
+   Score: 0.152: PERSON: Enclosures
+   Score: 0.643: ORGANIZATION: Code of Practice
+   Score: 0.298: ORGANIZATION: Data Protection Act
+   Score: 0.761: ORGANIZATION: Directorate of Air Staff

@@ -1,0 +1,43 @@
+   Score: 0.749: ORGANIZATION: Page
+   Score: 1.147: ORGANIZATION: Ministry of Defence
+   Score: 0.443: LOCATION: Rendlesham Forest
+   Score: 0.213: MISC: USAF Base
+   Score: 0.436: ORGANIZATION: RAF Woodbridge
+   Score: 0.095: LOCATION: NON Ascii text
+   Score: 0.726: PERSON: Charles Halt
+   Score: 1.010: ORGANIZATION: United States Air Force
+   Score: 0.670: ORGANIZATION: USAF
+   Score: 1.350: LOCATION: America
+   Score: 0.647: ORGANIZATION: Freedom of Information Act
+   Score: 0.351: ORGANIZATION: USAF
+   Score: 0.837: ORGANIZATION: Freedom of Information Act
+   Score: 0.943: MISC: American
+   Score: 0.439: PERSON: Halt
+   Score: 0.648: ORGANIZATION: USAF
+   Score: 0.685: ORGANIZATION: British Ministry
+   Score: 1.005: ORGANIZATION: Royal Air Force
+   Score: 0.940: ORGANIZATION: US Air Force
+   Score: 1.351: ORGANIZATION: Ministry of Defence
+   Score: 0.980: PERSON: Patrick Wall
+   Score: 1.446: PERSON: Brenda Butler
+   Score: 0.276: LOCATION: Dot Street
+   Score: 1.088: PERSON: Jenny Randles
+   Score: 0.502: PERSON: Neville Spearma
+   Score: 1.248: ORGANIZATION: Ministry of Defence
+   Score: 0.391: LOCATION: Forest
+   Score: 1.523: ORGANIZATION: Ministry of Defence
+   Score: 0.182: PERSON: Rendlesham
+   Score: 0.333: ORGANIZATION: RAF Woodbridge
+   Score: 0.639: ORGANIZATION: RAF Bentwaters
+   Score: 0.674: ORGANIZATION: RAF Lakenheath
+   Score: 0.649: PERSON: Woodbridge
+   Score: 0.511: ORGANIZATION: Bentwaters/Lakenheath
+   Score: 0.382: ORGANIZATION: RAF Woodbridge
+   Score: 0.423: LOCATION: SKYCRASH
+   Score: 0.691: ORGANIZATION: THE WORLD
+   Score: 0.654: LOCATION: Fleet Street
+   Score: 1.345: PERSON: Derek Jameson
+   Score: 0.963: PERSON: Keith Beabey
+   Score: 0.790: ORGANIZATION: THE WORLD
+   Score: 0.323: PERSON: Woodbridge
+   Score: 0.666: MISC: UFO

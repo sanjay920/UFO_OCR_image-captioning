@@ -1,0 +1,14 @@
+   Score: 0.411: PERSON: marsh
+   Score: 0.514: MISC: F OPS
+   Score: 0.358: PERSON: Astronomer
+   Score: 0.642: PERSON: O. OTHER
+   Score: 0.547: ORGANIZATION: DEC
+   Score: 0.549: ORGANIZATION: NON Ascii text
+   Score: 0.918: ORGANIZATION: GE
+   Score: 0.587: ORGANIZATION: RAF
+   Score: 0.459: MISC: DI 55
+   Score: 0.912: ORGANIZATION: RAF
+   Score: 0.545: ORGANIZATION: File
+   Score: 0.667: ORGANIZATION: Rm Section
+   Score: 0.748: ORGANIZATION: Rm Section
+   Score: 0.804: ORGANIZATION: Main Bldg Main Bldg Metropole

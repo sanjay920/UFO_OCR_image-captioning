@@ -1,0 +1,11 @@
+   Score: 0.420: PERSON: Mk
+   Score: 0.340: PERSON: Co1cnel Halt
+   Score: 0.353: MISC: Depa
+   Score: 0.683: LOCATION: dc fe
+   Score: 1.288: LOCATION: UK
+   Score: 0.437: PERSON: HQWever
+   Score: 0.384: MISC: Der war
+   Score: 0.422: ORGANIZATION: Main Eui
+   Score: 0.264: LOCATION: Whitehall SWlA
+   Score: 0.447: ORGANIZATION: g fa
+   Score: 1.129: PERSON: Li

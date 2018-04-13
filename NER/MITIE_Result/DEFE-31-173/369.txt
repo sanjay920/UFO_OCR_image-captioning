@@ -1,0 +1,26 @@
+   Score: 0.544: PERSON: NON Ascii text
+   Score: 0.402: PERSON: NON Ascii text
+   Score: 0.239: ORGANIZATION: CAVWB
+   Score: 0.543: ORGANIZATION: FCR CAV
+   Score: 0.697: ORGANIZATION: MODUK AIR UIN
+   Score: 0.312: LOCATION: LARGER
+   Score: 0.751: PERSON: NON Ascii text
+   Score: 0.170: PERSON: PONTYPOOL
+   Score: 0.762: ORGANIZATION: RAF
+   Score: 0.452: ORGANIZATION: AN AIR
+   Score: 0.685: PERSON: P.
+   Score: 0.834: ORGANIZATION: DEC
+   Score: 0.801: ORGANIZATION: CXJ
+   Score: 0.696: ORGANIZATION: DSC
+   Score: 0.438: ORGANIZATION: AFDO
+   Score: 0.658: ORGANIZATION: CAM
+   Score: 0.699: ORGANIZATION: ACS
+   Score: 0.408: PERSON: NON Ascii text
+   Score: 0.813: ORGANIZATION: GE
+   Score: 0.896: ORGANIZATION: RAF
+   Score: 0.538: ORGANIZATION: NON Ascii text
+   Score: 0.305: ORGANIZATION: CAv DSTI
+   Score: 0.314: PERSON: NON Ascii text
+   Score: 0.260: PERSON: NON Ascii text
+   Score: 0.463: ORGANIZATION: A&
+   Score: 0.684: ORGANIZATION: IACD

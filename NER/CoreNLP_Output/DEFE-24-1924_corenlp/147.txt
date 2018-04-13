@@ -1,0 +1,2 @@
+NER_ORGANIZATION: mam
+NER_PERSON: Lammwz

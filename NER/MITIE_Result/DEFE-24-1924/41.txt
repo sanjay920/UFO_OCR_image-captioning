@@ -1,0 +1,5 @@
+   Score: 0.540: PERSON: L. Ta
+   Score: 0.989: ORGANIZATION: RAF
+   Score: 0.423: MISC: Duty UGGicer
+   Score: 0.537: PERSON: Nat
+   Score: 1.602: ORGANIZATION: Witnesses Friend P. Date; Time

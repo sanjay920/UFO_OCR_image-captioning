@@ -1,0 +1,2 @@
+NER_ORGANIZATION: Air Force Operations Name
+NER_PERSON: Other WitneSSes Kextdoor

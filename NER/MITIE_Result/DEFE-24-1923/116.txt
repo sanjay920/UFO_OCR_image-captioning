@@ -1,0 +1,8 @@
+   Score: 0.379: PERSON: NON Ascii text
+   Score: 0.424: ORGANIZATION: 4
+   Score: 0.289: PERSON: NON Ascii text
+   Score: 0.548: PERSON: wtnuougb>xeuttuvn$rnlviu
+   Score: 0.383: ORGANIZATION: Ir
+   Score: 0.743: ORGANIZATION: NON Ascii text
+   Score: 0.249: MISC: NON Ascii text
+   Score: 0.461: PERSON: NON Ascii text

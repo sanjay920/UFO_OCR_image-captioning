@@ -1,0 +1,3 @@
+NER_ORGANIZATION: Church
+NER_ORGANIZATION: optical Naked Ege
+NER_ORGANIZATION: Time & 211945 Local Oct

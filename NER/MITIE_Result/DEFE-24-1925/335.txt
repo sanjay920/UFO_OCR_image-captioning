@@ -1,0 +1,6 @@
+   Score: 0.253: ORGANIZATION: ROYAL AIR FORCE Manston
+   Score: 0.564: ORGANIZATION: Kent CT1ZSBS
+   Score: 0.409: PERSON: Fleasae
+   Score: 0.344: PERSON: Em
+   Score: 0.476: ORGANIZATION: REEF
+   Score: 0.200: PERSON: Film negativaa

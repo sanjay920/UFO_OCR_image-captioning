@@ -1,0 +1,18 @@
+NER_LOCATION: Sweden
+NER_LOCATION: Hi .1! Churimn.
+NER_ORGANIZATION: House I’rep. School.
+NER_ORGANIZATION: House School
+NER_ORGANIZATION: Science Labora-
+NER_ORGANIZATION: Prc-Prcp‘ School
+NER_PERSON: Sue
+NER_PERSON: Frun P :u‘r. Hnl'y Birds
+NER_PERSON: C
+NER_PERSON: Kau- Donnhv,
+NER_PERSON: Edward
+NER_PERSON: Eilmm B "H“V‘v
+NER_PERSON: L
+NER_PERSON: Hunt
+NER_PERSON: Cuml-quy Mimhﬁ
+NER_PERSON: Peter Tilby.
+NER_PERSON: John Willard
+NER_PERSON: Yqu

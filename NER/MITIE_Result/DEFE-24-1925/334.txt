@@ -1,0 +1,11 @@
+   Score: 0.817: PERSON: Ji
+   Score: 0.558: ORGANIZATION: Bedfordshire
+   Score: 0.431: ORGANIZATION: PC
+   Score: 0.267: LOCATION: Hitohin
+   Score: 0.815: ORGANIZATION: MoD
+   Score: 0.189: ORGANIZATION: COUld Offer
+   Score: 0.212: LOCATION: Tpswioh
+   Score: 0.585: ORGANIZATION: MOD
+   Score: 0.549: PERSON: soufoe
+   Score: 0.221: MISC: NON Ascii text
+   Score: 0.633: ORGANIZATION: DS

@@ -1,0 +1,6 @@
+   Score: 0.198: ORGANIZATION: NON Ascii text
+   Score: 0.414: ORGANIZATION: ObEth_n
+   Score: 0.414: MISC: DEM
+   Score: 0.333: PERSON: Em-u
+   Score: 0.339: MISC: NON Ascii text
+   Score: 0.243: PERSON: NM5

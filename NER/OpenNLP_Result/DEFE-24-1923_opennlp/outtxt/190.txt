@@ -1,0 +1,4 @@
+NER_LOCATION: 3,...HV H; l 5. J r..
+NER_ORGANIZATION: l 5. J r..
+NER_PERSON: Jr .,.
+NER_PERSON: 5. J r.. v.3;

@@ -1,0 +1,4 @@
+   Score: 0.733: LOCATION: Kingston West
+   Score: 0.269: LOCATION: East Angle of Sight
+   Score: 0.519: ORGANIZATION: Blue
+   Score: 0.411: PERSON: marsh

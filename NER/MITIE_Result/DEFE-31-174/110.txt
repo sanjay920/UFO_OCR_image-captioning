@@ -1,0 +1,2 @@
+   Score: 0.945: ORGANIZATION: UN
+   Score: 0.437: PERSON: NON Ascii text

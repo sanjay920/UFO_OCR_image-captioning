@@ -1,0 +1,8 @@
+   Score: 0.604: MISC: J. {.4
+   Score: 0.230: MISC: LMWMW MM-
+   Score: 0.366: PERSON: >
+   Score: 0.471: PERSON: NON Ascii text
+   Score: 0.492: MISC: NON Ascii text
+   Score: 0.242: PERSON: NON Ascii text
+   Score: 0.355: PERSON: ;~
+   Score: 0.430: ORGANIZATION: NON Ascii text

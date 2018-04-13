@@ -1,0 +1,2 @@
+NER_DATE: £32
+NER_PERCENT: 2%

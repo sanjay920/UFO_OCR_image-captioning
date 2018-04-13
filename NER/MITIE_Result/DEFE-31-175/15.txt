@@ -1,0 +1,12 @@
+   Score: 0.253: PERSON: Scccassz
+   Score: 0.454: PERSON: NON Ascii text
+   Score: 0.866: ORGANIZATION: <5 AC .
+   Score: 0.752: ORGANIZATION: NATIONAL CHAT
+   Score: 0.417: ORGANIZATION: AFOR DCON
+   Score: 0.860: ORGANIZATION: DURATION
+   Score: 0.199: PERSON: -C
+   Score: 0.310: LOCATION: STATIONARY
+   Score: 0.556: PERSON: F. N/K -A
+   Score: 0.684: PERSON: NON Ascii text
+   Score: 0.394: ORGANIZATION: NON Ascii text
+   Score: 0.533: ORGANIZATION: ASMA

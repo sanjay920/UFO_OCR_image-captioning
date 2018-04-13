@@ -1,0 +1,3 @@
+NER_LOCATION: Efficac— Laatly,although Z
+NER_ORGANIZATION: USAF wbedhridge,8uffola. Information
+NER_ORGANIZATION: Fleet

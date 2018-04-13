@@ -1,0 +1,23 @@
+   Score: 0.707: PERSON: NON Ascii text
+   Score: 0.419: ORGANIZATION: NON Ascii text
+   Score: 0.516: PERSON: N. \\
+   Score: 0.250: PERSON: CAv
+   Score: 0.347: PERSON: NON Ascii text
+   Score: 0.911: ORGANIZATION: DEC
+   Score: 0.697: ORGANIZATION: BETNEEM
+   Score: 0.302: LOCATION: ANDINUMEROUS
+   Score: 0.739: ORGANIZATION: AND MOVED
+   Score: 0.709: PERSON: M. P. H.
+   Score: 0.442: LOCATION: NON Ascii text
+   Score: 0.329: PERSON: NON Ascii text
+   Score: 0.850: ORGANIZATION: NON Ascii text
+   Score: 0.400: MISC: F
+   Score: 0.597: ORGANIZATION: INIL
+   Score: 0.379: PERSON: SeCIIon
+   Score: 0.207: ORGANIZATION: NIL
+   Score: 0.454: MISC: S F
+   Score: 1.050: ORGANIZATION: CAB
+   Score: 0.881: ORGANIZATION: CXJ
+   Score: 1.002: ORGANIZATION: DSC
+   Score: 0.432: ORGANIZATION: AFDO
+   Score: 0.637: ORGANIZATION: ACS

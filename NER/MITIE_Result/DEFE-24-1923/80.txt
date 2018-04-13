@@ -1,0 +1,15 @@
+   Score: 0.263: PERSON: M
+   Score: 1.371: ORGANIZATION: Army Air Corps
+   Score: 0.393: ORGANIZATION: NON Ascii text
+   Score: 0.301: LOCATION: Middle Wailop
+   Score: 0.648: LOCATION: Middle Walla
+   Score: 0.381: PERSON: Bui
+   Score: 1.020: PERSON: Ma
+   Score: 0.560: PERSON: A. Telecon Col_
+   Score: 0.451: PERSON: NON Ascii text
+   Score: 0.433: PERSON: Fauw
+   Score: 0.405: ORGANIZATION: NON Ascii text
+   Score: 0.768: ORGANIZATION: HOD CS
+   Score: 0.485: PERSON: nenati
+   Score: 0.589: ORGANIZATION: BIKINI ATPL Atomic Explos Jion
+   Score: 0.880: ORGANIZATION: Avn Suds HQ DAAC

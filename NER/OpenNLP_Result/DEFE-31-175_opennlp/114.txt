@@ -1,0 +1,2 @@
+NER_ORGANIZATION: Defence Intelligence Staff-
+NER_PERSON: Nicholas Parsons. He

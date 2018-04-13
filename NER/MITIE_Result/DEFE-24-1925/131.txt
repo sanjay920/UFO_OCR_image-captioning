@@ -1,0 +1,4 @@
+   Score: 0.699: PERSON: L.
+   Score: 0.405: MISC: o 13
+   Score: 0.416: PERSON: Canberras
+   Score: 1.243: ORGANIZATION: OB

@@ -1,0 +1,3 @@
+   Score: 0.431: PERSON: J. Meteorological
+   Score: 0.282: ORGANIZATION: Telephone
+   Score: 1.033: PERSON: P. Date

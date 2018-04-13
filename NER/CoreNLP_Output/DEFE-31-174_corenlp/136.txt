@@ -1,0 +1,5 @@
+NER_MONEY: Qa-M¢
+NER_ORGANIZATION: Time & Duration of Sighting
+NER_ORGANIZATION: C. Exact Position of Observer ‘3dgkxfcéhunehthJUf Lwd
+NER_PERCENT: 77%
+NER_PERSON: SOIL/a A. Date

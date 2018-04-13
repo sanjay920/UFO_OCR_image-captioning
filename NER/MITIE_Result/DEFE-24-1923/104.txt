@@ -1,0 +1,2 @@
+   Score: 0.856: ORGANIZATION: NON Ascii text
+   Score: 0.428: MISC: NON Ascii text

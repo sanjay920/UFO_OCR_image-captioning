@@ -1,0 +1,7 @@
+   Score: 0.782: ORGANIZATION: Duration of Sighting
+   Score: 0.400: ORGANIZATION: IWRIL
+   Score: 0.872: LOCATION: va Havana
+   Score: 0.589: ORGANIZATION: NON Ascii text
+   Score: 0.160: ORGANIZATION: Letlmated Eelghts
+   Score: 0.683: PERSON: H. HOVDENTS
+   Score: 0.359: PERSON: Qlouds

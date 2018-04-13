@@ -1,0 +1,7 @@
+   Score: 0.475: ORGANIZATION: SKQ
+   Score: 0.599: ORGANIZATION: Aeronautical Information Section
+   Score: 0.728: ORGANIZATION: London Air Traffic C
+   Score: 0.312: MISC: Ccnprag Military
+   Score: 1.233: ORGANIZATION: Royal Air Force
+   Score: 0.314: LOCATION: West Drayton
+   Score: 0.314: LOCATION: West Drayton

@@ -1,0 +1,2 @@
+NER_LOCATION: Tel Kc:
+NER_PERSON: Date..?§.99§.§?

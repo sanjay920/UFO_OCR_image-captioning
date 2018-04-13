@@ -1,0 +1,20 @@
+   Score: 0.408: PERSON: REPRL
+   Score: 0.901: ORGANIZATION: CQSMOLOGY
+   Score: 0.400: PERSON: Mcdermott
+   Score: 0.185: PERSON: NON Ascii text
+   Score: 0.476: LOCATION: SPACE
+   Score: 0.622: PERSON: Gene Duplantiercxplains
+   Score: 0.415: ORGANIZATION: UFO
+   Score: 0.279: PERSON: NON Ascii text
+   Score: 0.220: ORGANIZATION: SS&S UFOzine
+   Score: 0.401: ORGANIZATION: Oddity
+   Score: 0.163: LOCATION: Ufoloqy
+   Score: 0.194: ORGANIZATION: CanoeptiOns
+   Score: 0.166: MISC: OVERTONES
+   Score: 0.554: LOCATION: WY
+   Score: 0.521: ORGANIZATION: UFO
+   Score: 0.980: PERSON: Ito
+   Score: 1.496: ORGANIZATION: FACI BY FRED
+   Score: 0.698: ORGANIZATION: Fwd
+   Score: 0.610: ORGANIZATION: Gudm FRGS
+   Score: 1.107: LOCATION: England

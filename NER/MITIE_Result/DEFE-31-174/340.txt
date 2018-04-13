@@ -1,0 +1,17 @@
+   Score: 0.688: PERSON: A. Date
+   Score: 0.229: ORGANIZATION: Sighting
+   Score: 0.384: MISC: mm WWI/1W
+   Score: 0.354: ORGANIZATION: DIM
+   Score: 0.103: MISC: NON Ascii text
+   Score: 0.209: PERSON: C.
+   Score: 0.669: ORGANIZATION: JLMM
+   Score: 0.781: ORGANIZATION: NON Ascii text
+   Score: 0.751: PERSON: F. Angle of Sight
+   Score: 0.236: PERSON: WM
+   Score: 0.794: PERSON: G. Distance
+   Score: 0.549: ORGANIZATION: F & G IQO
+   Score: 0.465: PERSON: J. Met
+   Score: 0.289: MISC: NON Ascii text
+   Score: 0.919: PERSON: K. Nearby Objects
+   Score: 0.411: PERSON: marsh
+   Score: 0.256: ORGANIZATION: Nb

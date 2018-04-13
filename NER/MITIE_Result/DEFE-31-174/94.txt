@@ -1,0 +1,10 @@
+   Score: 0.191: PERSON: NON Ascii text
+   Score: 0.920: ORGANIZATION: NON Ascii text
+   Score: 0.227: ORGANIZATION: Object giggziegfegg 'soggsa
+   Score: 0.560: LOCATION: Brockley
+   Score: 0.328: PERSON: F. Angle of Sight
+   Score: 0.390: PERSON: G. Distance
+   Score: 0.527: MISC: F &
+   Score: 0.438: ORGANIZATION: IJ
+   Score: 0.273: LOCATION: lake Nil
+   Score: 0.400: PERSON: marsh

@@ -1,0 +1,4 @@
+   Score: 0.924: LOCATION: London
+   Score: 0.205: ORGANIZATION: COAPLAIHT
+   Score: 0.582: ORGANIZATION: NON Ascii text
+   Score: 0.828: PERSON: olo " his Headquarters

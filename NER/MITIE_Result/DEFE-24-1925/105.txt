@@ -1,0 +1,6 @@
+   Score: 0.794: ORGANIZATION: Secretariat ( Air Staff
+   Score: 0.661: ORGANIZATION: Se MINISTRY OF DEFENCE Main Banding
+   Score: 0.883: LOCATION: London
+   Score: 0.115: MISC: Switchboard
+   Score: 0.481: PERSON: NON Ascii text
+   Score: 0.434: ORGANIZATION: AS

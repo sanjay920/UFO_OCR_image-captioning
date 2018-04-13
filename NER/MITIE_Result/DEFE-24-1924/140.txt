@@ -1,0 +1,8 @@
+   Score: 0.763: PERSON: w. 3U
+   Score: 0.373: PERSON: NON Ascii text
+   Score: 0.592: PERSON: Oi
+   Score: 0.584: PERSON: Ln wruonsv Em
+   Score: 0.520: PERSON: Cr
+   Score: 0.418: PERSON: >L
+   Score: 0.489: PERSON: NON Ascii text
+   Score: 0.341: PERSON: NON Ascii text

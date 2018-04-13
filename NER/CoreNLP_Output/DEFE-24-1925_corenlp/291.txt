@@ -1,0 +1,5 @@
+NER_DATE: the morning of 27 Dec 80
+NER_ORGANIZATION: USAF
+NER_ORGANIZATION: RAF Hoodhridge
+NER_PERCENT: and %
+NER_PERSON: Tike

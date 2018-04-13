@@ -1,0 +1,11 @@
+   Score: 0.274: ORGANIZATION: NON Ascii text
+   Score: 0.880: ORGANIZATION: Duration of Sighting
+   Score: 0.464: PERSON: g B.
+   Score: 0.443: PERSON: G. Distance
+   Score: 0.600: PERSON: J. Meteorological
+   Score: 0.422: PERSON: K. Nearbx
+   Score: 0.718: PERSON: Mimi
+   Score: 0.588: PERSON: L. To
+   Score: 0.539: PERSON: M. Name
+   Score: 0.659: ORGANIZATION: NON Ascii text
+   Score: 0.622: PERSON: J.

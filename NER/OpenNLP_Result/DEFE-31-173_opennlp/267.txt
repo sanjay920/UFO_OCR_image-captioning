@@ -1,0 +1,2 @@
+NER_LOCATION: Tel Section
+NER_PERSON: DI

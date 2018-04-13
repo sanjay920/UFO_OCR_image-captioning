@@ -1,0 +1,9 @@
+NER_DATE: April 86
+NER_DATE: November 85
+NER_DATE: April
+NER_ORGANIZATION: Sec
+NER_ORGANIZATION: 1 Squadron Leader Duty Operations Officer AF Ops
+NER_ORGANIZATION: M. Name & Address of Informant Air Force
+NER_ORGANIZATION: Time of Receipt
+NER_ORGANIZATION: UFO Society
+NER_PERSON: P. Date

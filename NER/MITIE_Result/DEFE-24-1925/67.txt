@@ -1,0 +1,16 @@
+   Score: 0.633: MISC: NON Ascii text
+   Score: 0.422: PERSON: NON Ascii text
+   Score: 0.261: PERSON: NON Ascii text
+   Score: 0.435: PERSON: *wwuu
+   Score: 0.341: LOCATION: Basingstoke Canal
+   Score: 0.803: LOCATION: Aldershot
+   Score: 0.625: ORGANIZATION: Hampshire
+   Score: 0.772: ORGANIZATION: Ministry of Defence
+   Score: 0.497: MISC: UFO
+   Score: 0.687: ORGANIZATION: Aldershot
+   Score: 0.291: MISC: NON Ascii text
+   Score: 1.001: ORGANIZATION: Army
+   Score: 0.252: ORGANIZATION: Royal Regiment
+   Score: 0.796: ORGANIZATION: Hampshire Regiment
+   Score: 1.016: MISC: Canadian
+   Score: 0.514: LOCATION: UFOs

@@ -1,0 +1,22 @@
+   Score: 0.483: PERSON: \i
+   Score: 0.736: PERSON: \u
+   Score: 0.504: ORGANIZATION: MODUK AIR
+   Score: 1.056: ORGANIZATION: DEC
+   Score: 0.213: ORGANIZATION: JUMBO
+   Score: 0.475: PERSON: D.
+   Score: 0.470: ORGANIZATION: NAKED
+   Score: 0.461: PERSON: I. ~.
+   Score: 0.875: ORGANIZATION: PACE
+   Score: 0.276: LOCATION: IIIORTHINO
+   Score: 1.197: ORGANIZATION: AMA
+   Score: 0.610: ORGANIZATION: AFDO
+   Score: 1.019: ORGANIZATION: CAN ACS
+   Score: 1.092: ORGANIZATION: RAF
+   Score: 0.691: ORGANIZATION: CAV
+   Score: 1.137: ORGANIZATION: CAV OSTI
+   Score: 0.387: ORGANIZATION: NON Ascii text
+   Score: 0.288: PERSON: NON Ascii text
+   Score: 0.674: PERSON: NON Ascii text
+   Score: 0.207: PERSON: NON Ascii text
+   Score: 0.406: PERSON: NON Ascii text
+   Score: 0.671: PERSON: ewii

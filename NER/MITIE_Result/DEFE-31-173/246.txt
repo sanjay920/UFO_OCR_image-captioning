@@ -1,0 +1,8 @@
+   Score: 0.308: ORGANIZATION: No 991C
+   Score: 0.307: LOCATION: CJ . Act
+   Score: 0.289: PERSON: C.Act
+   Score: 0.334: PERSON: S.
+   Score: 0.466: PERSON: M.C. Rules
+   Score: 0.611: LOCATION: Borehamwood
+   Score: 0.563: PERSON: Mill Hill
+   Score: 0.361: PERSON: M.P.82

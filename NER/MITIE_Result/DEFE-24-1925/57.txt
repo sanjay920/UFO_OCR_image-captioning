@@ -1,0 +1,20 @@
+   Score: 0.327: PERSON: NON Ascii text
+   Score: 0.615: PERSON: NON Ascii text
+   Score: 0.502: PERSON: NON Ascii text
+   Score: 0.418: PERSON: NON Ascii text
+   Score: 0.497: PERSON: Ci
+   Score: 0.679: PERSON: J/qu
+   Score: 0.397: ORGANIZATION: NON Ascii text
+   Score: 0.855: PERSON: Na
+   Score: 0.674: PERSON: Sheets : Ewe
+   Score: 0.318: PERSON: NON Ascii text
+   Score: 0.578: ORGANIZATION: UFD Sighting
+   Score: 1.369: LOCATION: America
+   Score: 0.269: PERSON: Jusi
+   Score: 0.982: MISC: A +
+   Score: 0.365: PERSON: ydu
+   Score: 0.574: MISC: LC} A
+   Score: 0.829: ORGANIZATION: NON Ascii text
+   Score: 0.282: LOCATION: AL
+   Score: 0.785: PERSON: NON Ascii text
+   Score: 0.229: MISC: Ser+emaer

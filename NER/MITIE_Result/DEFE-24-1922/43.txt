@@ -1,0 +1,8 @@
+   Score: 0.569: PERSON: NON Ascii text
+   Score: 0.400: PERSON: marsh
+   Score: 0.427: ORGANIZATION: WHOM
+   Score: 0.532: ORGANIZATION: RAF Shawbury
+   Score: 0.963: ORGANIZATION: GE
+   Score: 0.578: ORGANIZATION: RAF
+   Score: 0.782: ORGANIZATION: RAF
+   Score: 0.526: ORGANIZATION: File Rm

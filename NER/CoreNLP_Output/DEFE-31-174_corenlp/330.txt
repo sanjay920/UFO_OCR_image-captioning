@@ -1,0 +1,5 @@
+NER_LOCATION: Borehamwood
+NER_ORGANIZATION: SE Cf She-Clef C. Exact Position of Observer
+NER_ORGANIZATION: Time & gqichp
+NER_ORGANIZATION: Location
+NER_PERCENT: 30%

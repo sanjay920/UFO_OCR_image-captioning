@@ -1,0 +1,3 @@
+   Score: 0.232: ORGANIZATION: {a
+   Score: 1.057: ORGANIZATION: Royal Air Force Boulmer AHchk
+   Score: 0.354: PERSON: NON Ascii text

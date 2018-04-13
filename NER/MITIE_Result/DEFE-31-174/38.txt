@@ -1,0 +1,12 @@
+   Score: 0.344: PERSON: NON Ascii text
+   Score: 0.375: MISC: NON Ascii text
+   Score: 0.572: ORGANIZATION: RAF Valll
+   Score: 1.198: PERSON: Li
+   Score: 0.270: PERSON: NON Ascii text
+   Score: 0.425: MISC: NL Huni;uur
+   Score: 1.323: ORGANIZATION: NON Ascii text
+   Score: 0.626: ORGANIZATION: 21C lil 'r
+   Score: 0.870: ORGANIZATION: NON Ascii text
+   Score: 0.697: ORGANIZATION: UT
+   Score: 0.324: ORGANIZATION: NON Ascii text
+   Score: 0.527: ORGANIZATION: T y n

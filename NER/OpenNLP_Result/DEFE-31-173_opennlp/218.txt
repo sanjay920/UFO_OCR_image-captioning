@@ -1,0 +1,7 @@
+NER_LOCATION: North West
+NER_ORGANIZATION: Phone: AIS Military Royal Air Force LATCC Main
+NER_ORGANIZATION: Ministry of Defence
+NER_ORGANIZATION: BI S
+NER_ORGANIZATION: Object Straight Line Meteorological Conditions Clear During Observations
+NER_ORGANIZATION: First Seen
+NER_PERSON: I’W J . 1.17

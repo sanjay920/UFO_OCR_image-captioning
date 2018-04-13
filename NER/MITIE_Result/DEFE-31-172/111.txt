@@ -1,0 +1,12 @@
+   Score: 0.608: PERSON: K. NEARBY OBJECTS
+   Score: 0.400: PERSON: marsh
+   Score: 0.321: ORGANIZATION: NON Ascii text
+   Score: 0.120: PERSON: Sedmn40
+   Score: 0.872: ORGANIZATION: RAF Marnam
+   Score: 0.626: ORGANIZATION: Rm Section
+   Score: 1.010: ORGANIZATION: Main Bldg Main Bldg Sqn Ldr D00 Ops
+   Score: 0.879: ORGANIZATION: GE
+   Score: 0.749: ORGANIZATION: RAF
+   Score: 0.702: MISC: AF Ops DI 55
+   Score: 0.868: ORGANIZATION: RAF
+   Score: 0.602: ORGANIZATION: Metropole File

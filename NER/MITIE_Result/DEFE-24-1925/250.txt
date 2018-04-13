@@ -1,0 +1,31 @@
+   Score: 1.182: PERSON: MARY/Kevim McClure
+   Score: 0.376: MISC: Acquarian
+   Score: 0.550: ORGANIZATION: NNB ZRQ
+   Score: 0.330: ORGANIZATION: NON Ascii text
+   Score: 0.512: MISC: UFO
+   Score: 0.336: ORGANIZATION: Thames & Hudson
+   Score: 0.371: LOCATION: Bloomsbury Street
+   Score: 1.266: LOCATION: London
+   Score: 0.524: PERSON: WS1B
+   Score: 0.558: ORGANIZATION: New Age Press
+   Score: 0.836: LOCATION: USA
+   Score: 0.705: PERSON: Barker
+   Score: 0.872: PERSON: Barker
+   Score: 0.503: MISC: UFO
+   Score: 0.419: PERSON: Fater
+   Score: 0.875: ORGANIZATION: CU
+   Score: 0.364: ORGANIZATION: Rendleshem Forest
+   Score: 0.348: PERSON: FAIRY
+   Score: 0.736: PERSON: c. Cooper
+   Score: 1.127: PERSON: Cooper
+   Score: 0.849: PERSON: Gustave Dore
+   Score: 0.950: ORGANIZATION: WEATHER
+   Score: 0.332: ORGANIZATION: CLIEATTC
+   Score: 0.504: PERSON: Gribbin
+   Score: 0.582: ORGANIZATION: Penguin Books Ltd
+   Score: 0.860: LOCATION: Harmondsworth
+   Score: 0.808: ORGANIZATION: Middlesex
+   Score: 0.294: ORGANIZATION: NON Ascii text
+   Score: 0.190: ORGANIZATION: Greenhouse Effect
+   Score: 0.277: PERSON: Gribhin
+   Score: 0.491: PERSON: NON Ascii text

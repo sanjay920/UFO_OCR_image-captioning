@@ -1,0 +1,8 @@
+   Score: 0.415: PERSON: J. Meteorological
+   Score: 0.489: PERSON: K. Nearobz
+   Score: 0.476: ORGANIZATION: AW
+   Score: 0.640: PERSON: M. Name
+   Score: 1.121: ORGANIZATION: WMMA
+   Score: 0.422: ORGANIZATION: NON Ascii text
+   Score: 0.893: PERSON: P. Date
+   Score: 0.319: MISC: Tc

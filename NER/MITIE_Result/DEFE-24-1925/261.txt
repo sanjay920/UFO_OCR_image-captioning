@@ -1,0 +1,3 @@
+   Score: 0.278: PERSON: NON Ascii text
+   Score: 0.803: ORGANIZATION: your Department
+   Score: 0.281: PERSON: Corresponde

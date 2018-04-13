@@ -1,0 +1,14 @@
+   Score: 0.928: PERSON: A. Date
+   Score: 0.535: ORGANIZATION: PQSition of Observer
+   Score: 0.586: PERSON: NON Ascii text
+   Score: 0.311: PERSON: E. Direction
+   Score: 0.473: ORGANIZATION: ~LzM
+   Score: 0.662: PERSON: J.
+   Score: 0.388: PERSON: ~nwu
+   Score: 0.409: PERSON: NON Ascii text
+   Score: 0.568: PERSON: F. Angle of Sight
+   Score: 0.507: PERSON: G. Distance
+   Score: 0.506: PERSON: H. Movements
+   Score: 0.765: PERSON: J. Met
+   Score: 0.559: PERSON: Hr
+   Score: 0.398: PERSON: marsh

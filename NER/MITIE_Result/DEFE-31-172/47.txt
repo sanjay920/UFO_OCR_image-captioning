@@ -1,0 +1,2 @@
+   Score: 0.812: PERSON: Coleman
+   Score: 1.054: ORGANIZATION: NON Ascii text

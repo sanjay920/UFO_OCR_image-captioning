@@ -1,0 +1,11 @@
+   Score: 0.423: ORGANIZATION: DEFENCE Main Building
+   Score: 0.326: LOCATION: Whitehall London SW1A
+   Score: 0.444: PERSON: Telephon
+   Score: 0.384: ORGANIZATION: Direct Dialling
+   Score: 0.281: MISC: NON Ascii text
+   Score: 0.344: PERSON: Sec
+   Score: 0.320: ORGANIZATION: AS
+   Score: 0.996: ORGANIZATION: Public Relations Office
+   Score: 1.135: ORGANIZATION: Air Ministry
+   Score: 0.645: ORGANIZATION: Air Historical Branch
+   Score: 0.626: ORGANIZATION: UFO

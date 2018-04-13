@@ -1,0 +1,19 @@
+   Score: 0.644: ORGANIZATION: LOOSE MINUTE
+   Score: 0.356: PERSON: D/Sec
+   Score: 0.495: ORGANIZATION: AS
+   Score: 0.423: PERSON: PS/Minister
+   Score: 0.348: MISC: CENTRAL TELEVISION
+   Score: 0.992: ORGANIZATION: Central Television
+   Score: 0.331: ORGANIZATION: MOD
+   Score: 0.484: MISC: UFOs
+   Score: 0.603: ORGANIZATION: Central TV
+   Score: 0.720: PERSON: Mr C T Withers
+   Score: 0.648: LOCATION: Boscombe Down
+   Score: 0.432: MISC: UFO
+   Score: 0.449: ORGANIZATION: MOD
+   Score: 0.671: ORGANIZATION: DS
+   Score: 0.818: ORGANIZATION: HOD
+   Score: 0.680: ORGANIZATION: HOD
+   Score: 1.193: LOCATION: Whitehall
+   Score: 0.767: ORGANIZATION: RAF Hoodbridge
+   Score: 1.066: ORGANIZATION: Central Television

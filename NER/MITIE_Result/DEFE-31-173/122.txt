@@ -1,0 +1,14 @@
+   Score: 0.400: PERSON: marsh
+   Score: 0.480: ORGANIZATION: WHOM
+   Score: 1.288: ORGANIZATION: PC FOR
+   Score: 0.607: ORGANIZATION: GE
+   Score: 0.228: ORGANIZATION: HEATHROW
+   Score: 0.420: PERSON: Sqn
+   Score: 0.984: ORGANIZATION: GE
+   Score: 0.662: ORGANIZATION: RAF
+   Score: 0.495: MISC: DI 55
+   Score: 0.956: ORGANIZATION: RAF
+   Score: 1.080: ORGANIZATION: File Rm Section
+   Score: 0.689: ORGANIZATION: Rm Section
+   Score: 0.442: ORGANIZATION: Rm Section
+   Score: 1.001: ORGANIZATION: Main Bldg Main Bldg Metropole

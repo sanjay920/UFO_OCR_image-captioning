@@ -1,0 +1,7 @@
+NER_DATE: January 1905
+NER_DATE: December 1984
+NER_DATE: December
+NER_DATE: January 50
+NER_DATE: 1385
+NER_DATE: Wednesday the 35rd January
+NER_MONEY: $ matter

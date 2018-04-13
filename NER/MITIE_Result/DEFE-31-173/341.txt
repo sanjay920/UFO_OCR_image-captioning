@@ -1,0 +1,23 @@
+   Score: 0.850: ORGANIZATION: AIS
+   Score: 0.460: PERSON: NON Ascii text
+   Score: 0.497: ORGANIZATION: MODUK AIR
+   Score: 0.607: ORGANIZATION: AIR
+   Score: 0.646: PERSON: D.
+   Score: 1.064: ORGANIZATION: APPROX
+   Score: 0.442: ORGANIZATION: INIL
+   Score: 0.521: ORGANIZATION: EL .
+   Score: 0.372: PERSON: Lgsg
+   Score: 0.273: PERSON: NON Ascii text
+   Score: 0.370: PERSON: f s
+   Score: 0.206: LOCATION: ACTUALLY
+   Score: 0.870: ORGANIZATION: BT
+   Score: 0.337: PERSON: ~\
+   Score: 1.028: ORGANIZATION: NON Ascii text
+   Score: 0.167: ORGANIZATION: AFDo
+   Score: 0.922: ORGANIZATION: CAN
+   Score: 0.975: ORGANIZATION: ACS
+   Score: 0.537: PERSON: ~DD Ops
+   Score: 0.905: ORGANIZATION: GE
+   Score: 0.861: ORGANIZATION: RAF
+   Score: 0.427: ORGANIZATION: NON Ascii text
+   Score: 1.014: PERSON: l. S

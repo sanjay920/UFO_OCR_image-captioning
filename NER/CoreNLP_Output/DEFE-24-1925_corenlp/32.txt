@@ -1,0 +1,7 @@
+NER_DATE: April 1986
+NER_DATE: March
+NER_LOCATION: London
+NER_LOCATION: United Kingdom
+NER_LOCATION: Leicestershire
+NER_ORGANIZATION: Department
+NER_ORGANIZATION: the Ministry of Defence

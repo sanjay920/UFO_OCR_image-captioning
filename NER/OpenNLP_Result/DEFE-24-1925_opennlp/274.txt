@@ -1,0 +1,4 @@
+NER_LOCATION: Bentwaters Air Force Base
+NER_ORGANIZATION: Air Force’s Ofﬁce of Special Investi-
+NER_PERSON: Wallace
+NER_PERSON: Art Wallace. Wallace

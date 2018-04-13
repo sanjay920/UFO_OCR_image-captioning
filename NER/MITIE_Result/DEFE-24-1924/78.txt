@@ -1,0 +1,9 @@
+   Score: 0.603: ORGANIZATION: ROUND
+   Score: 0.492: LOCATION: Observer Location
+   Score: 0.930: ORGANIZATION: NAKED EYE Direction
+   Score: 0.298: ORGANIZATION: WEST TOWARDS
+   Score: 0.901: ORGANIZATION: MOON
+   Score: 0.820: ORGANIZATION: MOON
+   Score: 0.819: ORGANIZATION: FT Angle of Sight
+   Score: 0.411: PERSON: marsh
+   Score: 0.761: ORGANIZATION: MOON

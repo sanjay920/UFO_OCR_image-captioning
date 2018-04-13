@@ -1,0 +1,7 @@
+   Score: 0.604: PERSON: Switchbom
+   Score: 0.705: ORGANIZATION: RAF St Mawgan
+   Score: 0.335: ORGANIZATION: St Mawgan
+   Score: 0.974: ORGANIZATION: RAF St Mawgan
+   Score: 1.240: ORGANIZATION: Ministry of Defence
+   Score: 1.089: LOCATION: United Kingdom
+   Score: 1.351: LOCATION: UK

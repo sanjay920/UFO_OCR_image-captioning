@@ -1,0 +1,8 @@
+   Score: 0.181: PERSON: Ian/V
+   Score: 1.147: PERSON: ma
+   Score: 0.636: ORGANIZATION: o ec
+   Score: 0.731: ORGANIZATION: Ame
+   Score: 0.244: ORGANIZATION: Mucrraoan UJZYBMC
+   Score: 0.439: LOCATION: ANGLE
+   Score: 0.590: LOCATION: E
+   Score: 0.464: PERSON: NON Ascii text

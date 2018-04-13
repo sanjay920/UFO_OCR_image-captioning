@@ -1,0 +1,9 @@
+NER_DATE: ’ 33
+NER_ORGANIZATION: ‘ Date & Time of Receipt of Report
+NER_ORGANIZATION: DOWA
+NER_ORGANIZATION: I. Kctcorological Conditions During Observations
+NER_ORGANIZATION: VIZ
+NER_ORGANIZATION: H. Name & Address of Informant
+NER_ORGANIZATION: E. KOvemcnts of Object
+NER_ORGANIZATION: Time Duration of Sighting
+NER_PERCENT: 00%

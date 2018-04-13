@@ -1,0 +1,78 @@
+   Score: 0.189: ORGANIZATION: NON Ascii text
+   Score: 0.315: PERSON: Ichil
+   Score: 0.654: PERSON: Sue
+   Score: 0.440: PERSON: Donnhv
+   Score: 0.280: PERSON: NON Ascii text
+   Score: 0.574: PERSON: Ch l-irlu
+   Score: 0.440: PERSON: leuugh
+   Score: 0.465: PERSON: Wtyulv
+   Score: 0.294: ORGANIZATION: NON Ascii text
+   Score: 0.460: ORGANIZATION: Misc
+   Score: 0.692: PERSON: Hunt
+   Score: 0.116: PERSON: Urocfnra
+   Score: 1.096: PERSON: Hubbard
+   Score: 0.211: PERSON: Yn
+   Score: 0.599: PERSON: Il
+   Score: 0.440: PERSON: rridulu
+   Score: 0.261: PERSON: Angulu
+   Score: 0.565: PERSON: Llass
+   Score: 0.689: PERSON: NON Ascii text
+   Score: 0.477: PERSON: Kafhm
+   Score: 0.608: PERSON: Huv
+   Score: 0.269: PERSON: NON Ascii text
+   Score: 0.271: PERSON: *}u-Iu
+   Score: 0.785: PERSON: Kennedy
+   Score: 0.411: PERSON: ~.u.a
+   Score: 0.216: PERSON: NON Ascii text
+   Score: 0.341: PERSON: Luann
+   Score: 0.464: PERSON: Strauburrv
+   Score: 0.395: MISC: vmldH-u
+   Score: 0.255: PERSON: NON Ascii text
+   Score: 0.963: ORGANIZATION: 3M
+   Score: 0.173: PERSON: Suhml
+   Score: 0.606: ORGANIZATION: OHW
+   Score: 0.316: PERSON: NON Ascii text
+   Score: 0.468: PERSON: NON Ascii text
+   Score: 0.312: ORGANIZATION: Bi<Hup
+   Score: 0.457: PERSON: NON Ascii text
+   Score: 0.735: PERSON: Patricia Millier
+   Score: 0.571: PERSON: Churimn
+   Score: 0.591: PERSON: NON Ascii text
+   Score: 0.443: PERSON: Viginia Whiting
+   Score: 0.254: PERSON: Iv
+   Score: 0.560: PERSON: wun Hut
+   Score: 0.697: PERSON: yu
+   Score: 0.961: PERSON: David ~tn
+   Score: 0.485: ORGANIZATION: Jubaee Hull
+   Score: 0.687: PERSON: Hui
+   Score: 0.421: PERSON: Willhalll
+   Score: 0.369: PERSON: NON Ascii text
+   Score: 0.794: PERSON: A.
+   Score: 0.439: PERSON: MEHicr
+   Score: 0.299: PERSON: Izhestewruud
+   Score: 0.830: PERSON: Bishop
+   Score: 0.331: PERSON: Wallhmn
+   Score: 0.514: LOCATION: St Penn
+   Score: 0.486: LOCATION: Church
+   Score: 0.376: PERSON: NON Ascii text
+   Score: 1.355: PERSON: John Willard
+   Score: 0.416: PERSON: NON Ascii text
+   Score: 0.733: ORGANIZATION: House School
+   Score: 0.184: PERSON: Hardle
+   Score: 0.530: ORGANIZATION: Merchant
+   Score: 0.773: LOCATION: Venice
+   Score: 0.320: ORGANIZATION: NON Ascii text
+   Score: 1.047: ORGANIZATION: UN
+   Score: 1.291: PERSON: Peter Tilby
+   Score: 1.056: LOCATION: Nigeria
+   Score: 0.232: PERSON: White
+   Score: 0.149: ORGANIZATION: Airesiord
+   Score: 0.574: LOCATION: Cheemfoot
+   Score: 0.258: PERSON: NON Ascii text
+   Score: 0.297: PERSON: Cheesefoot Head
+   Score: 1.285: LOCATION: Sweden
+   Score: 0.895: MISC: British
+   Score: 0.353: PERSON: NON Ascii text
+   Score: 0.437: ORGANIZATION: NON Ascii text
+   Score: 0.857: ORGANIZATION: UPS
+   Score: 0.793: ORGANIZATION: Com

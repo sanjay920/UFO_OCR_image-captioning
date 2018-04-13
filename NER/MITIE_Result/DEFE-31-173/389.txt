@@ -1,0 +1,15 @@
+   Score: 0.405: LOCATION: UHIDzanrIED
+   Score: 0.449: ORGANIZATION: NON Ascii text
+   Score: 0.613: PERSON: Fumber
+   Score: 0.346: PERSON: OBSERVER
+   Score: 0.531: PERSON: _anton
+   Score: 0.486: LOCATION: Great Massimgham
+   Score: 0.455: ORGANIZATION: Between Great Massingham
+   Score: 0.327: PERSON: Raynham
+   Score: 0.874: PERSON: Anan
+   Score: 0.546: LOCATION: estlmated Heights
+   Score: 0.471: LOCATION: alandmark
+   Score: 0.577: LOCATION: E
+   Score: 0.303: PERSON: F
+   Score: 0.300: PERSON: Fell
+   Score: 0.470: PERSON: NON Ascii text

@@ -1,0 +1,5 @@
+   Score: 0.638: PERSON: Ho
+   Score: 0.481: LOCATION: Observer Location
+   Score: 0.642: ORGANIZATION: Angle of Sight
+   Score: 0.411: PERSON: marsh
+   Score: 0.202: PERSON: NON Ascii text

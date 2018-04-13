@@ -1,0 +1,4 @@
+   Score: 0.346: PERSON: NON Ascii text
+   Score: 0.475: PERSON: Angle of Sight
+   Score: 0.628: PERSON: Kile
+   Score: 0.411: PERSON: marsh

@@ -1,0 +1,11 @@
+   Score: 1.030: ORGANIZATION: Time &
+   Score: 0.613: PERSON: P
+   Score: 0.588: PERSON: NON Ascii text
+   Score: 0.293: ORGANIZATION: Observer gigfggg ' Lev1zes
+   Score: 0.324: PERSON: F. Angle of Sight
+   Score: 0.469: PERSON: G. Distance
+   Score: 0.342: MISC: E. F & G Moving
+   Score: 0.231: ORGANIZATION: Harlborough
+   Score: 0.370: ORGANIZATION: Bath
+   Score: 0.530: ORGANIZATION: J. Met
+   Score: 0.411: PERSON: marsh

@@ -1,0 +1,21 @@
+NER_DATE: November 1967
+NER_DATE: 1985
+NER_DATE: 1960s
+NER_DATE: December 1985
+NER_DATE: ' 25th of October 1967
+NER_LOCATION: Loadon
+NER_MONEY: $cientisis
+NER_MONEY: $ of
+NER_MONEY: $17
+NER_MONEY: e¢
+NER_ORGANIZATION: Rt Hen Merlvn u
+NER_ORGANIZATION: YLJFOS Research Division
+NER_ORGANIZATION: c/o Ministry of Defence
+NER_ORGANIZATION: Whitehall
+NER_ORGANIZATION: Secretary of State for Defence
+NER_PERSON: Alan Lve
+NER_PERSON: Mr Hestletine
+NER_PERSON: Rees
+NER_PERSON: Kain
+NER_PERSON: Michael ﬁestletine
+NER_PERSON: Hon Marlyn Rees

@@ -1,0 +1,11 @@
+   Score: 0.644: PERSON: L. To
+   Score: 0.711: PERSON: ma
+   Score: 0.540: ORGANIZATION: M&Tmbg WA
+   Score: 0.484: PERSON: M. Name
+   Score: 1.038: PERSON: P. Date
+   Score: 0.494: ORGANIZATION: Receipt
+   Score: 0.424: ORGANIZATION: Unusual Meteorological
+   Score: 0.505: ORGANIZATION: AS
+   Score: 0.813: ORGANIZATION: AEW/GE
+   Score: 0.467: MISC: Duty Operations
+   Score: 0.339: MISC: AF Ops

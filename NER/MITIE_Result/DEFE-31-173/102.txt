@@ -1,0 +1,12 @@
+   Score: 0.637: PERSON: Bunting
+   Score: 1.103: LOCATION: NW
+   Score: 0.294: PERSON: Drscnmxon
+   Score: 0.333: PERSON: NON Ascii text
+   Score: 0.812: PERSON: Zeb
+   Score: 0.389: PERSON: Nulva
+   Score: 0.318: MISC: NON Ascii text
+   Score: 0.316: LOCATION: NA
+   Score: 0.289: PERSON: NON Ascii text
+   Score: 0.189: ORGANIZATION: ANGIE
+   Score: 0.529: LOCATION: E
+   Score: 0.570: ORGANIZATION: Honda

@@ -1,0 +1,6 @@
+   Score: 0.509: PERSON: Peel/
+   Score: 0.304: PERSON: NON Ascii text
+   Score: 0.730: PERSON: D. Bow
+   Score: 0.554: PERSON: E. Da
+   Score: 0.523: PERSON: G. Dance
+   Score: 0.675: PERSON: NON Ascii text

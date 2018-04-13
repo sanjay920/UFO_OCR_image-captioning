@@ -1,0 +1,17 @@
+   Score: 0.261: ORGANIZATION: r/LC
+   Score: 0.659: PERSON: NON Ascii text
+   Score: 0.559: PERSON: b. Address
+   Score: 0.361: PERSON: c. Nearcsz
+   Score: 0.478: LOCATION: Moria
+   Score: 0.464: ORGANIZATION: GM
+   Score: 0.443: PERSON: raui
+   Score: 0.437: PERSON: NON Ascii text
+   Score: 0.127: ORGANIZATION: NON Ascii text
+   Score: 0.403: PERSON: alfaz
+   Score: 0.558: PERSON: NON Ascii text
+   Score: 0.188: ORGANIZATION: NON Ascii text
+   Score: 0.727: PERSON: A.
+   Score: 0.409: LOCATION: Antwan
+   Score: 0.535: ORGANIZATION: Magma
+   Score: 0.270: PERSON: NON Ascii text
+   Score: 0.239: ORGANIZATION: Namc Rank

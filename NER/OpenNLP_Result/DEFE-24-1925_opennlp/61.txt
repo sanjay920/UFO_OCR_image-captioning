@@ -1,0 +1,4 @@
+NER_LOCATION: §g,..,5
+NER_PERSON: Say Ma CG
+NER_PERSON: Mu
+NER_PERSON: Jaduuu Ina

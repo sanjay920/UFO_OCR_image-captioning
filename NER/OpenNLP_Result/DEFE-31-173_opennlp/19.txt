@@ -1,0 +1,2 @@
+NER_PERSON: W’é" W W'i [0/000
+NER_PERSON: Waéfé/W W W01

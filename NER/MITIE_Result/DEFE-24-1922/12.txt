@@ -1,0 +1,7 @@
+   Score: 0.576: PERSON: NON Ascii text
+   Score: 0.903: PERSON: NON Ascii text
+   Score: 0.236: ORGANIZATION: 55%
+   Score: 0.293: PERSON: NON Ascii text
+   Score: 0.405: PERSON: uni
+   Score: 0.733: PERSON: radin
+   Score: 0.835: PERSON: S. ono

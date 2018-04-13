@@ -1,0 +1,3 @@
+   Score: 0.371: ORGANIZATION: Ahdk7l
+   Score: 0.449: MISC: Duty Operations
+   Score: 0.348: PERSON: Cfficer

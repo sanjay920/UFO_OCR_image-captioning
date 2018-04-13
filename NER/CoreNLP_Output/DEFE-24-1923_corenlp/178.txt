@@ -1,0 +1,8 @@
+NER_DATE: 2000
+NER_DATE: Mar 85 1935
+NER_LOCATION: Wembley Stadium
+NER_LOCATION: Wembley
+NER_LOCATION: Neasden
+NER_ORGANIZATION: Time & 17
+NER_ORGANIZATION: TO A. Date
+NER_ORGANIZATION: C. Exact Position of Observer 5rd Floor of Block of Flaf Location

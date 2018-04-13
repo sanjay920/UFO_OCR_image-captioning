@@ -1,0 +1,40 @@
+   Score: 1.021: LOCATION: Whitehall
+   Score: 0.719: MISC: US
+   Score: 1.000: ORGANIZATION: American Freedom of Information Act
+   Score: 1.219: MISC: French
+   Score: 0.244: ORGANIZATION: GEPAN
+   Score: 0.957: ORGANIZATION: NON Ascii text
+   Score: 1.062: MISC: French
+   Score: 0.317: ORGANIZATION: CNES
+   Score: 0.802: ORGANIZATION: Centre National d ' Etudes Spatiales
+   Score: 1.003: MISC: French
+   Score: 0.521: ORGANIZATION: UFO
+   Score: 0.468: MISC: Soviet Press
+   Score: 0.773: MISC: Russians
+   Score: 0.883: ORGANIZATION: Moscow Aviation Institute
+   Score: 0.914: ORGANIZATION: Natlonal Academy of Sciences
+   Score: 0.594: ORGANIZATION: BrjtlSh MOD
+   Score: 1.286: LOCATION: Whitehall
+   Score: 0.866: MISC: French
+   Score: 0.619: MISC: US
+   Score: 0.212: LOCATION: Lord Hill-Norton
+   Score: 0.404: ORGANIZATION: RAF Woodbridge
+   Score: 0.933: ORGANIZATION: Cable News Network
+   Score: 0.421: PERSON: Halt
+   Score: 0.402: ORGANIZATION: USAF
+   Score: 0.104: ORGANIZATION: Orfordness
+   Score: 0.213: PERSON: Halt
+   Score: 0.657: ORGANIZATION: MOD
+   Score: 0.167: MISC: Halt
+   Score: 0.262: PERSON: Halt
+   Score: 0.527: LOCATION: RAF Woodbridge
+   Score: 0.421: LOCATION: Rendlesham Forest
+   Score: 0.324: ORGANIZATION: USAF
+   Score: 0.478: LOCATION: Suffolk
+   Score: 0.635: LOCATION: Woodbridge
+   Score: 0.714: ORGANIZATION: USAF
+   Score: 0.700: ORGANIZATION: RAF Watton
+   Score: 0.784: ORGANIZATION: RAF Woodbridge/Rendlesham Forest
+   Score: 0.416: ORGANIZATION: USAF
+   Score: 0.812: ORGANIZATION: USAF
+   Score: 1.768: LOCATION: Germany

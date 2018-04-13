@@ -1,0 +1,4 @@
+NER_MONEY: $2
+NER_ORGANIZATION: E. Direction
+NER_ORGANIZATION: E. Movements
+NER_ORGANIZATION: F. Angle of £3ng

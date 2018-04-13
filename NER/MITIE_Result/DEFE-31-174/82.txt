@@ -1,0 +1,8 @@
+   Score: 0.567: ORGANIZATION: NHL
+   Score: 0.199: PERSON: NON Ascii text
+   Score: 0.530: PERSON: A.
+   Score: 0.896: ORGANIZATION: {hm
+   Score: 0.569: ORGANIZATION: Yil
+   Score: 0.563: ORGANIZATION: HUUF
+   Score: 0.461: LOCATION: HI
+   Score: 0.616: ORGANIZATION: AGUH

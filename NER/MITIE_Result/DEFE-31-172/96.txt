@@ -1,0 +1,8 @@
+   Score: 0.780: ORGANIZATION: Duration of Sighting
+   Score: 0.431: ORGANIZATION: NON Ascii text
+   Score: 0.585: ORGANIZATION: OB OBSERVER
+   Score: 0.400: MISC: NON Ascii text
+   Score: 0.240: PERSON: NON Ascii text
+   Score: 0.379: LOCATION: NON Ascii text
+   Score: 0.297: PERSON: F
+   Score: 0.397: PERSON: Raze

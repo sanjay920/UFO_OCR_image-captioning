@@ -1,0 +1,2 @@
+NER_ORGANIZATION: MA Ania I_
+NER_PERSON: C’cﬂé-cx H 12’2me Wﬁt(

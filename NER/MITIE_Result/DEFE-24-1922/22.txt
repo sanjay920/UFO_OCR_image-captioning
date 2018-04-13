@@ -1,0 +1,9 @@
+   Score: 0.829: ORGANIZATION: E v E n
+   Score: 0.656: MISC: NON Ascii text
+   Score: 0.797: ORGANIZATION: AMP
+   Score: 0.473: ORGANIZATION: NON Ascii text
+   Score: 0.511: ORGANIZATION: TE
+   Score: 0.522: ORGANIZATION: 0AA LEV
+   Score: 0.332: ORGANIZATION: SIFATIFV
+   Score: 0.614: ORGANIZATION: DE EEEEETEE
+   Score: 0.565: ORGANIZATION: NON Ascii text

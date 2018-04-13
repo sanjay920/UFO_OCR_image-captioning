@@ -1,0 +1,13 @@
+   Score: 0.418: MISC: U-N
+   Score: 0.303: ORGANIZATION: BEAM
+   Score: 0.525: LOCATION: NM
+   Score: 0.391: ORGANIZATION: FL
+   Score: 0.860: LOCATION: FE
+   Score: 0.909: PERSON: J. K. L. H
+   Score: 0.545: PERSON: M. 4n
+   Score: 0.371: LOCATION: VA
+   Score: 0.615: ORGANIZATION: BT M@
+   Score: 0.584: PERSON: A/J/wl/zwiz
+   Score: 0.834: ORGANIZATION: JOC AFDQ
+   Score: 0.358: ORGANIZATION: Z6F
+   Score: 1.006: ORGANIZATION: Sec OAS

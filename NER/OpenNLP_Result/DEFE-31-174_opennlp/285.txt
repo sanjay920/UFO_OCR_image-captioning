@@ -1,0 +1,3 @@
+NER_LOCATION: Tel No:
+NER_LOCATION: Hu—
+NER_PERSON: Norma

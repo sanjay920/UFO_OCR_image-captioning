@@ -1,0 +1,9 @@
+   Score: 0.826: PERSON: NON Ascii text
+   Score: 0.453: PERSON: Noosoow
+   Score: 0.414: PERSON: NON Ascii text
+   Score: 0.466: PERSON: wwzJio
+   Score: 0.685: PERSON: Nu
+   Score: 0.402: PERSON: NON Ascii text
+   Score: 0.322: PERSON: NON Ascii text
+   Score: 0.446: LOCATION: MA
+   Score: 0.393: PERSON: JMON

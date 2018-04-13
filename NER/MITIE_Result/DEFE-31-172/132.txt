@@ -1,0 +1,6 @@
+   Score: 0.348: PERSON: Moon
+   Score: 0.768: ORGANIZATION: 2M
+   Score: 0.596: ORGANIZATION: Andromeda Galaxy
+   Score: 0.410: PERSON: Venus
+   Score: 0.424: ORGANIZATION: MeteorOIOgical
+   Score: 1.154: ORGANIZATION: Met Office

@@ -1,0 +1,5 @@
+   Score: 0.652: ORGANIZATION: NON Ascii text
+   Score: 0.459: ORGANIZATION: ACTIOz
+   Score: 0.910: ORGANIZATION: DSC
+   Score: 0.515: ORGANIZATION: NON Ascii text
+   Score: 1.027: ORGANIZATION: OJ

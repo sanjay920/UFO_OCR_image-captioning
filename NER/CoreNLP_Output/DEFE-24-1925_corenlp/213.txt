@@ -1,0 +1,5 @@
+NER_DATE: 8th July
+NER_LOCATION: EXETER
+NER_MONEY: I ¢
+NER_ORGANIZATION: ATC
+NER_ORGANIZATION: Civilian Aerial Phenomena Research Orwanization

@@ -1,0 +1,6 @@
+NER_LOCATION: Royal Air
+NER_ORGANIZATION: RAF Leeming
+NER_ORGANIZATION: 9NJ Telephone Bedale Picasa
+NER_ORGANIZATION: Royal Air Force
+NER_ORGANIZATION: ROYAL AIR FORCE Learning Nonhalﬂenon North Yorkshire
+NER_PERSON: Flashing

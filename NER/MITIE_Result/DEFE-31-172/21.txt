@@ -1,0 +1,9 @@
+   Score: 0.542: PERSON: NON Ascii text
+   Score: 0.554: PERSON: NON Ascii text
+   Score: 0.567: ORGANIZATION: North TIIIEEHEEEX
+   Score: 0.191: PERSON: NON Ascii text
+   Score: 0.318: LOCATION: ANGLE
+   Score: 0.282: ORGANIZATION: SIGHT Approx
+   Score: 0.742: ORGANIZATION: NON Ascii text
+   Score: 0.574: PERSON: yar
+   Score: 0.722: LOCATION: E

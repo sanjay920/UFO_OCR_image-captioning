@@ -1,0 +1,34 @@
+   Score: 0.417: PERSON: BALL~LIGHTNNLQGINiLGlai Zhiltsov
+   Score: 0.349: PERSON: Russ12n
+   Score: 0.670: ORGANIZATION: ba
+   Score: 0.216: PERSON: 1udes
+   Score: 0.682: ORGANIZATION: Soviet Union
+   Score: 0.158: ORGANIZATION: PUBLICITY
+   Score: 0.498: MISC: UFO
+   Score: 0.261: LOCATION: Vol
+   Score: 0.659: ORGANIZATION: Io
+   Score: 0.549: ORGANIZATION: HANGAR
+   Score: 0.505: PERSON: NON Ascii text
+   Score: 0.547: PERSON: Cnmmon
+   Score: 0.630: PERSON: Tyrrell
+   Score: 0.925: ORGANIZATION: ~Ia
+   Score: 1.303: PERSON: Bennett
+   Score: 1.109: ORGANIZATION: cf
+   Score: 0.451: PERSON: Lior 3f
+   Score: 0.421: PERSON: Spl
+   Score: 0.237: PERSON: Data 0L
+   Score: 1.005: MISC: British
+   Score: 0.702: PERSON: NON Ascii text
+   Score: 0.160: ORGANIZATION: I2I
+   Score: 0.611: PERSON: Socorro
+   Score: 0.334: ORGANIZATION: NON Ascii text
+   Score: 0.715: PERSON: Lonnie
+   Score: 0.279: ORGANIZATION: himsalf
+   Score: 0.180: PERSON: Podsv
+   Score: 0.786: ORGANIZATION: National Guard
+   Score: 0.418: PERSON: J
+   Score: 1.400: ORGANIZATION: UF
+   Score: 0.787: ORGANIZATION: havnclnpplnb Service
+   Score: 0.317: ORGANIZATION: Impact Toux
+   Score: 1.523: ORGANIZATION: IE
+   Score: 0.705: PERSON: Cither

@@ -1,0 +1,9 @@
+   Score: 0.426: PERSON: NON Ascii text
+   Score: 1.041: ORGANIZATION: Aberdeen
+   Score: 0.274: PERSON: M. Name
+   Score: 0.302: PERSON: Nam ghmn
+   Score: 1.117: ORGANIZATION: Witnesses Husband of Section
+   Score: 0.273: LOCATION: HOD
+   Score: 0.719: PERSON: P. Date
+   Score: 0.530: ORGANIZATION: AS
+   Score: 1.038: ORGANIZATION: AER/GE DI

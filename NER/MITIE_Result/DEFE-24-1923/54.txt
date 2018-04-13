@@ -1,0 +1,13 @@
+   Score: 0.838: LOCATION: LA
+   Score: 0.282: ORGANIZATION: APPROX
+   Score: 0.986: ORGANIZATION: CAR PARK
+   Score: 0.329: ORGANIZATION: BIRMIHEHHMAIRPDRT
+   Score: 0.445: MISC: F. 33
+   Score: 0.153: LOCATION: THIRTY
+   Score: 0.374: PERSON: J.
+   Score: 0.737: PERSON: L.
+   Score: 0.594: PERSON: H. SGT
+   Score: 0.380: ORGANIZATION: UHCLHS
+   Score: 0.469: PERSON: NON Ascii text
+   Score: 0.430: MISC: F .
+   Score: 1.055: ORGANIZATION: JDC aroo

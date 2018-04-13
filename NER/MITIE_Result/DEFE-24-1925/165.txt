@@ -1,0 +1,20 @@
+   Score: 0.338: ORGANIZATION: UFOs Cosmology Newslink
+   Score: 0.459: PERSON: EDWARD A. E. F.
+   Score: 0.602: ORGANIZATION: Expert Correspondents
+   Score: 0.390: PERSON: Fachmann
+   Score: 0.177: PERSON: schreiben , auf Deutsch
+   Score: 0.360: PERSON: : auf Bnglisch
+   Score: 0.637: PERSON: Avoir vous comissanee
+   Score: 0.276: PERSON: Cosmology Newsliek
+   Score: 0.574: LOCATION: Leytonstone Road
+   Score: 0.360: PERSON: Steatford
+   Score: 0.666: LOCATION: August
+   Score: 1.300: PERSON: Eric Jackson
+   Score: 0.757: ORGANIZATION: outhport Astronomical Society Eric lives
+   Score: 0.467: PERSON: iles
+   Score: 1.179: LOCATION: Southport
+   Score: 0.329: PERSON: Denebe
+   Score: 0.259: ORGANIZATION: south of ' Cephei
+   Score: 0.192: PERSON: Pegasi
+   Score: 0.606: LOCATION: South
+   Score: 0.275: LOCATION: Pegasi

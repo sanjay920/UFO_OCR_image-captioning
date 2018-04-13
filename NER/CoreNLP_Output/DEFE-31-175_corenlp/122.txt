@@ -1,0 +1,2 @@
+NER_DATE: July 2240
+NER_PERCENT: 4%

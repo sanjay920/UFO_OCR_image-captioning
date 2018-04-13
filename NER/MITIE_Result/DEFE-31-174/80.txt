@@ -1,0 +1,13 @@
+   Score: 0.505: PERSON: NON Ascii text
+   Score: 0.699: ORGANIZATION: DGT
+   Score: 0.593: ORGANIZATION: AS
+   Score: 0.633: ORGANIZATION: DST
+   Score: 0.904: ORGANIZATION: RAF
+   Score: 0.250: MISC: CENTRAL TELEVISION
+   Score: 0.971: ORGANIZATION: Central Television
+   Score: 0.512: LOCATION: RS
+   Score: 0.390: LOCATION: UFOs
+   Score: 0.569: ORGANIZATION: DS
+   Score: 0.396: PERSON: PS/Minister
+   Score: 0.539: ORGANIZATION: MB
+   Score: 0.332: ORGANIZATION: MB

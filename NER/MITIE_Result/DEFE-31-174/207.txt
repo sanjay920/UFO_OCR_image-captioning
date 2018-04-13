@@ -1,0 +1,13 @@
+   Score: 1.504: ORGANIZATION: Army Air Corps
+   Score: 0.598: ORGANIZATION: Wallop Stockbridge Hams
+   Score: 0.246: ORGANIZATION: Middle Wallop
+   Score: 0.466: ORGANIZATION: MOD
+   Score: 0.572: ORGANIZATION: RAF
+   Score: 0.846: PERSON: Ou
+   Score: 1.026: ORGANIZATION: D/DAAC/23/GA WHITEHALL LONDON Duo
+   Score: 0.452: PERSON: A. D/DAAC/23/GA
+   Score: 0.725: ORGANIZATION: CS
+   Score: 0.324: MISC: Rep
+   Score: 0.393: ORGANIZATION: b
+   Score: 0.416: ORGANIZATION: Regretably CS
+   Score: 0.697: ORGANIZATION: DAAC

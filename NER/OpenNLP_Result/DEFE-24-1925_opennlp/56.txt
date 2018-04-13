@@ -1,0 +1,3 @@
+NER_ORGANIZATION: Ministry of Defence, Main Buildi.ng, White:
+NER_ORGANIZATION: YUFOS Research Division (International)
+NER_ORGANIZATION: UFO

@@ -1,0 +1,12 @@
+   Score: 0.734: PERSON: Hammer
+   Score: 0.249: MISC: NON Ascii text
+   Score: 0.390: PERSON: Goographical
+   Score: 0.465: PERSON: mwm/ _Iv
+   Score: 0.459: PERSON: NON Ascii text
+   Score: 0.488: ORGANIZATION: LC
+   Score: 0.378: LOCATION: ANGLE
+   Score: 0.236: PERSON: B3r
+   Score: 0.930: ORGANIZATION: Asa/JAM
+   Score: 0.463: PERSON: Movin
+   Score: 1.237: ORGANIZATION: Ham
+   Score: 0.288: PERSON: IV/VLW/

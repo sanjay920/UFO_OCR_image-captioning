@@ -1,0 +1,6 @@
+NER_ORGANIZATION: gymjﬁy Squadron Leader ‘ Duty Operations Officer Date/
+NER_ORGANIZATION: Dwg
+NER_ORGANIZATION: Time of Receipt
+NER_ORGANIZATION: Eikn M. Name & Address of Informant N. Background of Informant
+NER_PERCENT: AFC%
+NER_PERCENT: 740%

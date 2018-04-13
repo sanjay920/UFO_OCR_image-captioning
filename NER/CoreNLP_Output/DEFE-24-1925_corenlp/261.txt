@@ -1,0 +1,2 @@
+NER_MONEY: _¢
+NER_ORGANIZATION: Department

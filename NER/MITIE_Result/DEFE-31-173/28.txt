@@ -1,0 +1,3 @@
+   Score: 0.514: ORGANIZATION: Unusual Meteorological
+   Score: 0.542: ORGANIZATION: AS
+   Score: 1.078: ORGANIZATION: AEW/GE DI

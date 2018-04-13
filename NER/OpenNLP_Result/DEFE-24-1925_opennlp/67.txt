@@ -1,0 +1,5 @@
+NER_ORGANIZATION: Army
+NER_ORGANIZATION: Queen's Royal Regiment
+NER_ORGANIZATION: Ministry of Defence
+NER_ORGANIZATION: UFO
+NER_PERSON: Aldershot

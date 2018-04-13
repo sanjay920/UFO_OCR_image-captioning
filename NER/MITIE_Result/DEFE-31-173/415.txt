@@ -1,0 +1,7 @@
+   Score: 0.427: PERSON: J. Meteorological
+   Score: 0.539: PERSON: NON Ascii text
+   Score: 0.334: ORGANIZATION: Telephone
+   Score: 0.677: PERSON: M. Name
+   Score: 0.301: ORGANIZATION: NON Ascii text
+   Score: 0.798: PERSON: P. Date
+   Score: 0.501: LOCATION: NW C\

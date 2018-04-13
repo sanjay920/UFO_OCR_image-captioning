@@ -1,0 +1,6 @@
+   Score: 0.481: PERSON: NON Ascii text
+   Score: 0.767: ORGANIZATION: MoD
+   Score: 0.634: ORGANIZATION: UFO
+   Score: 0.386: PERSON: NON Ascii text
+   Score: 0.928: ORGANIZATION: MoD
+   Score: 0.347: ORGANIZATION: UFO

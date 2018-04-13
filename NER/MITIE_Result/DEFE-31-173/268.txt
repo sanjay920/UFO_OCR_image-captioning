@@ -1,0 +1,11 @@
+   Score: 0.385: PERSON: OBSERVER
+   Score: 0.239: ORGANIZATION: Edgewere Road
+   Score: 0.624: ORGANIZATION: BOP OBSERVED
+   Score: 0.273: PERSON: NON Ascii text
+   Score: 0.366: ORGANIZATION: Easterly
+   Score: 0.130: ORGANIZATION: ANGLE
+   Score: 0.443: PERSON: Eatiiated Keighte
+   Score: 0.222: ORGANIZATION: ~1andmark
+   Score: 0.359: PERSON: Ciangee
+   Score: 0.472: PERSON: Qioude
+   Score: 0.387: ORGANIZATION: Clear

@@ -1,0 +1,6 @@
+NER_LOCATION: Plymouth
+NER_LOCATION: Ma Algae. Section
+NER_ORGANIZATION: RAF
+NER_ORGANIZATION: Air Treffic.Control
+NER_PERSON: Dear Sir,
+NER_PERSON: M Ma Algae. Section

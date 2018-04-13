@@ -1,0 +1,5 @@
+   Score: 0.743: PERSON: J.
+   Score: 0.338: ORGANIZATION: Telephone
+   Score: 1.056: PERSON: Spires
+   Score: 0.432: ORGANIZATION: Car/ME
+   Score: 0.194: PERSON: Roceiot

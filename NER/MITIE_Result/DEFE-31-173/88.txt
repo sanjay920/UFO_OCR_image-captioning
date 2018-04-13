@@ -1,0 +1,21 @@
+   Score: 0.614: ORGANIZATION: MINUTE
+   Score: 0.799: PERSON: Dale
+   Score: 0.141: ORGANIZATION: NON Ascii text
+   Score: 0.316: ORGANIZATION: NON Ascii text
+   Score: 0.342: PERSON: Otley Chevin
+   Score: 0.671: LOCATION: South
+   Score: 0.236: PERSON: Otley
+   Score: 0.613: LOCATION: Yeadon Airport
+   Score: 0.328: PERSON: Chevin
+   Score: 0.605: PERSON: NON Ascii text
+   Score: 0.523: LOCATION: South
+   Score: 0.222: PERSON: Otley
+   Score: 0.295: PERSON: Otley Chevin
+   Score: 1.240: LOCATION: North East
+   Score: 0.742: LOCATION: Wharfedale Valley
+   Score: 0.562: LOCATION: Almscliffe Crag
+   Score: 0.387: PERSON: Farnley Hall
+   Score: 0.060: PERSON: Knotford Nook
+   Score: 0.493: ORGANIZATION: Air Traffic Controller
+   Score: 0.498: LOCATION: Yeadon Airport
+   Score: 1.271: ORGANIZATION: Ministry of Defence

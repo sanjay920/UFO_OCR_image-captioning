@@ -1,0 +1,4 @@
+NER_LOCATION: Informant Air
+NER_ORGANIZATION: M.
+NER_ORGANIZATION: Name & Address of Informant Air Force Operatidns Weston-Super- Mare.
+NER_ORGANIZATION: Squadron Leader Duty Operations Officer AF Ops

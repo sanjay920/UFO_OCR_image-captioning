@@ -1,0 +1,8 @@
+   Score: 0.608: PERSON: K. NEARBY OBJECTS
+   Score: 0.411: PERSON: marsh
+   Score: 1.208: ORGANIZATION: AEW/GE Rm Section
+   Score: 0.760: ORGANIZATION: Rm Section
+   Score: 0.624: ORGANIZATION: Rm Section
+   Score: 0.539: MISC: DI 55
+   Score: 0.946: ORGANIZATION: RAF
+   Score: 0.791: ORGANIZATION: File Metropole

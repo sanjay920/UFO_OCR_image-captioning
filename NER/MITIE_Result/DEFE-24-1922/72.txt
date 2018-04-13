@@ -1,0 +1,10 @@
+   Score: 0.244: MISC: Orange
+   Score: 0.375: ORGANIZATION: OUtdOOP
+   Score: 0.491: LOCATION: Tomlntoul
+   Score: 0.424: PERSON: E. DIRECTION
+   Score: 0.407: LOCATION: North West
+   Score: 0.771: LOCATION: Grantown
+   Score: 0.497: LOCATION: Spey
+   Score: 0.443: PERSON: F.
+   Score: 0.192: ORGANIZATION: Lstlmated Eelghts
+   Score: 0.549: PERSON: G. DISTANCE

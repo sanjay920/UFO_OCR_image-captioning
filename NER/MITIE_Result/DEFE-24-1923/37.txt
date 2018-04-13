@@ -1,0 +1,6 @@
+   Score: 0.283: PERSON: H
+   Score: 0.554: PERSON: L. To
+   Score: 0.306: MISC: M. Name
+   Score: 0.393: PERSON: Witnesses P. Date
+   Score: 0.582: PERSON: Lore Squadron
+   Score: 0.791: ORGANIZATION: File AF

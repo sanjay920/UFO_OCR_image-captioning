@@ -1,0 +1,3 @@
+   Score: 0.751: PERSON: H.
+   Score: 0.704: ORGANIZATION: AEW/GE
+   Score: 0.358: MISC: AF Ops

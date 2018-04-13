@@ -1,0 +1,4 @@
+   Score: 0.338: PERSON: NON Ascii text
+   Score: 0.791: PERSON: NON Ascii text
+   Score: 0.542: PERSON: Jg CUM/
+   Score: 0.217: MISC: NON Ascii text

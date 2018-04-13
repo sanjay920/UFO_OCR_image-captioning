@@ -1,0 +1,2 @@
+   Score: 0.827: PERSON: O
+   Score: 0.308: PERSON: NON Ascii text

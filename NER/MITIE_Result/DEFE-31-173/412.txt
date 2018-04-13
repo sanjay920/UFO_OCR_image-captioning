@@ -1,0 +1,10 @@
+   Score: 0.713: ORGANIZATION: Duration
+   Score: 0.628: PERSON: Number
+   Score: 0.140: PERSON: COLOUR
+   Score: 0.144: PERSON: BLUE
+   Score: 0.332: PERSON: OBSERVER
+   Score: 0.604: MISC: HOTSPUR PARK IN
+   Score: 0.712: LOCATION: KINGSTON
+   Score: 0.414: LOCATION: LOOKING EAST
+   Score: 0.250: PERSON: Latlmated Helghta
+   Score: 0.219: ORGANIZATION: ~1andmark

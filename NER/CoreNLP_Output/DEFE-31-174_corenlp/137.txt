@@ -1,0 +1,7 @@
+NER_MONEY: n¢
+NER_ORGANIZATION: Sec
+NER_ORGANIZATION: Secﬂon40 Squadron Leader Duty Operations Officer AF Ops
+NER_ORGANIZATION: Time of Receipt
+NER_ORGANIZATION: mbq-14afg% Name & Address
+NER_PERCENT: /%
+NER_PERCENT: f%

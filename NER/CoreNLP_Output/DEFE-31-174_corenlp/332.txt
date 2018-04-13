@@ -1,0 +1,6 @@
+NER_DATE: 3
+NER_DATE: Kay 85' ' l
+NER_MONEY: €:
+NER_ORGANIZATION: RAF Rudloe Manor Whitehall Hawthorn
+NER_ORGANIZATION: LFA
+NER_ORGANIZATION: Headquarters

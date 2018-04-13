@@ -1,0 +1,9 @@
+   Score: 0.440: LOCATION: North Bank
+   Score: 0.386: MISC: NON Ascii text
+   Score: 0.570: LOCATION: South Bank;
+   Score: 0.227: ORGANIZATION: NON Ascii text
+   Score: 0.978: PERSON: Egan
+   Score: 0.268: LOCATION: Charing Cross Road
+   Score: 0.586: ORGANIZATION: GLC
+   Score: 0.375: ORGANIZATION: Eagically
+   Score: 0.718: PERSON: Shari

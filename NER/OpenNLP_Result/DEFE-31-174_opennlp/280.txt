@@ -1,0 +1,6 @@
+NER_LOCATION: United States
+NER_LOCATION: London
+NER_ORGANIZATION: Armed Forces, House of Lords,
+NER_ORGANIZATION: Ministry of Defence
+NER_ORGANIZATION: Civil Aviation Authority,
+NER_ORGANIZATION: UFO

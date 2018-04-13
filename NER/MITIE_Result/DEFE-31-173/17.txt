@@ -1,0 +1,15 @@
+   Score: 0.686: ORGANIZATION: CT
+   Score: 0.379: ORGANIZATION: NON Ascii text
+   Score: 0.414: PERSON: NON Ascii text
+   Score: 0.259: LOCATION: Wags
+   Score: 0.808: ORGANIZATION: Memo/owe_
+   Score: 0.798: ORGANIZATION: NON Ascii text
+   Score: 0.373: PERSON: NON Ascii text
+   Score: 0.660: PERSON: NON Ascii text
+   Score: 0.394: LOCATION: J/xtt/u
+   Score: 0.281: MISC: NON Ascii text
+   Score: 0.627: ORGANIZATION: IQQ
+   Score: 0.239: PERSON: NON Ascii text
+   Score: 0.568: ORGANIZATION: VW
+   Score: 0.455: ORGANIZATION: /A@ Coca
+   Score: 0.316: PERSON: Nn

@@ -1,0 +1,16 @@
+   Score: 0.617: ORGANIZATION: CS
+   Score: 0.322: PERSON: NON Ascii text
+   Score: 0.256: PERSON: Izmscp
+   Score: 0.188: PERSON: W
+   Score: 0.674: PERSON: Na Sm
+   Score: 0.680: PERSON: Shem C. Lxmt
+   Score: 0.360: LOCATION: Statiouan
+   Score: 0.529: ORGANIZATION: NON Ascii text
+   Score: 1.123: PERSON: NON Ascii text
+   Score: 0.940: PERSON: Fabio
+   Score: 0.633: ORGANIZATION: NON Ascii text
+   Score: 0.505: ORGANIZATION: IMAM
+   Score: 0.219: PERSON: L. Direction
+   Score: 0.436: ORGANIZATION: ImWL
+   Score: 0.389: PERSON: Wc
+   Score: 0.133: ORGANIZATION: NON Ascii text

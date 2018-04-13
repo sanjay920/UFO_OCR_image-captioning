@@ -1,0 +1,13 @@
+   Score: 0.189: PERSON: Hclsxon
+   Score: 0.501: LOCATION: Cornwall
+   Score: 0.097: LOCATION: Hclston
+   Score: 1.202: ORGANIZATION: SECN AS Room
+   Score: 0.886: ORGANIZATION: NON Ascii text
+   Score: 1.983: ORGANIZATION: Air Traffic Services Part
+   Score: 0.534: ORGANIZATION: Chap
+   Score: 0.432: ORGANIZATION: b
+   Score: 0.326: ORGANIZATION: Radar
+   Score: 0.497: ORGANIZATION: b
+   Score: 0.329: PERSON: J. VM
+   Score: 0.253: ORGANIZATION: RNA Culdrose
+   Score: 0.755: ORGANIZATION: ATC Radar

@@ -1,0 +1,9 @@
+   Score: 0.327: LOCATION: Brockenhurst
+   Score: 0.397: LOCATION: Lymington
+   Score: 0.545: ORGANIZATION: Object from Observer
+   Score: 0.689: ORGANIZATION: Southampton
+   Score: 0.987: ORGANIZATION: kts 10km+
+   Score: 1.188: ORGANIZATION: ATC
+   Score: 0.677: ORGANIZATION: Southampton
+   Score: 0.345: ORGANIZATION: Informant Brockenhurst
+   Score: 0.183: MISC: Receipt of Report

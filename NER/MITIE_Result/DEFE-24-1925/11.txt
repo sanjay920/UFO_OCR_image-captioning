@@ -1,0 +1,2 @@
+   Score: 0.468: MISC: UFO
+   Score: 0.265: MISC: NON Ascii text

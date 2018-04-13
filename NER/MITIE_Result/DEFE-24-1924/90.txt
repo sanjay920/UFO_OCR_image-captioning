@@ -1,0 +1,3 @@
+   Score: 0.251: PERSON: NON Ascii text
+   Score: 0.684: PERSON: Jam
+   Score: 0.494: PERSON: NON Ascii text

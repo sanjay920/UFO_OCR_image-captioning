@@ -1,0 +1,16 @@
+   Score: 0.621: PERSON: NON Ascii text
+   Score: 0.790: ORGANIZATION: NON Ascii text
+   Score: 0.624: PERSON: Kroc
+   Score: 0.440: ORGANIZATION: NON Ascii text
+   Score: 0.283: PERSON: Okaegk
+   Score: 0.651: LOCATION: MA
+   Score: 0.240: PERSON: Eta
+   Score: 0.967: PERSON: Leon
+   Score: 0.404: ORGANIZATION: NON Ascii text
+   Score: 0.341: LOCATION: Islet
+   Score: 0.206: MISC: Nearby Objectshp-u
+   Score: 0.402: PERSON: Ow
+   Score: 0.603: ORGANIZATION: SwN
+   Score: 0.282: PERSON: Ru
+   Score: 0.394: PERSON: Qua
+   Score: 1.220: PERSON: Dante

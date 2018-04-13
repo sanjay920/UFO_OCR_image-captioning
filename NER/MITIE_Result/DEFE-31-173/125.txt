@@ -1,0 +1,11 @@
+   Score: 0.308: PERSON: Humber
+   Score: 0.530: PERSON: White
+   Score: 0.319: PERSON: OBSERVER
+   Score: 0.299: ORGANIZATION: St Albans
+   Score: 0.548: ORGANIZATION: Luton
+   Score: 0.250: LOCATION: ANGLE
+   Score: 0.549: LOCATION: Estimated Heights
+   Score: 0.219: MISC: IE}
+   Score: 0.528: LOCATION: E
+   Score: 0.371: PERSON: F
+   Score: 0.346: LOCATION: Stationary

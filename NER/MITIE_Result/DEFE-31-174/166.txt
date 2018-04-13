@@ -1,0 +1,5 @@
+   Score: 0.476: ORGANIZATION: UNC FIN/19/Air
+   Score: 0.336: LOCATION: Egrnsley Town
+   Score: 0.614: PERSON: Angle
+   Score: 0.582: PERSON: Pi Kenn
+   Score: 0.173: ORGANIZATION: Apollo

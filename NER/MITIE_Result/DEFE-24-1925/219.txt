@@ -1,0 +1,20 @@
+   Score: 0.456: ORGANIZATION: DEFENCE Main Building
+   Score: 0.491: LOCATION: Whitehall London SW1A
+   Score: 0.534: ORGANIZATION: ZHB Telephone
+   Score: 0.457: PERSON: D/Sec
+   Score: 0.542: PERSON: Sec
+   Score: 0.437: ORGANIZATION: AS
+   Score: 0.649: ORGANIZATION: UFO
+   Score: 0.255: PERSON: Sec
+   Score: 0.516: ORGANIZATION: AS
+   Score: 0.584: ORGANIZATION: MOD
+   Score: 0.475: ORGANIZATION: AS
+   Score: 0.388: ORGANIZATION: MOD
+   Score: 0.572: ORGANIZATION: UFO
+   Score: 1.229: ORGANIZATION: CAA
+   Score: 1.175: LOCATION: UK
+   Score: 0.597: MISC: Secret
+   Score: 1.148: ORGANIZATION: Air Ministry
+   Score: 0.711: ORGANIZATION: Public Records Office
+   Score: 1.286: ORGANIZATION: Air Ministry
+   Score: 1.099: ORGANIZATION: Ministry of Defence

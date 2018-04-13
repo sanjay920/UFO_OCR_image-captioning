@@ -1,0 +1,2 @@
+NER_MONEY: € Gk
+NER_PERCENT: 9%

@@ -1,0 +1,3 @@
+NER_LOCATION: River Tyne.
+NER_ORGANIZATION: J G. Distance
+NER_PERSON: J J G. Distance

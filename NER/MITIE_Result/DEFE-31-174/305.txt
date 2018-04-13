@@ -1,0 +1,5 @@
+   Score: 1.415: ORGANIZATION: Air Force Operations Room
+   Score: 0.538: PERSON: Jesmond
+   Score: 0.974: ORGANIZATION: Newcastle
+   Score: 0.629: ORGANIZATION: Unusual Meteorological
+   Score: 0.627: ORGANIZATION: ASH/GE DI

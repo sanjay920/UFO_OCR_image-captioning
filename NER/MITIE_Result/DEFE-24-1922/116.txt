@@ -1,0 +1,6 @@
+   Score: 0.210: PERSON: NON Ascii text
+   Score: 0.314: ORGANIZATION: Telephone
+   Score: 0.428: PERSON: Ii
+   Score: 0.336: ORGANIZATION: NON Ascii text
+   Score: 1.003: ORGANIZATION: WWE
+   Score: 0.669: ORGANIZATION: NON Ascii text

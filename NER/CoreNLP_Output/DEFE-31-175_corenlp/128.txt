@@ -1,0 +1,7 @@
+NER_DATE: Mag 87
+NER_ORGANIZATION: Sec
+NER_ORGANIZATION: Southend ATC
+NER_ORGANIZATION: Name & Address of Informant SeCﬂ0n4O Background of Intormant
+NER_ORGANIZATION: Time of Receipt
+NER_ORGANIZATION: Mag 87 Any Unusual Meteorological
+NER_PERSON: Sqn Ldr Dutg

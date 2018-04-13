@@ -1,0 +1,2 @@
+NER_MONEY: $ks
+NER_ORGANIZATION: Time & Duration of Sighting Description of Object

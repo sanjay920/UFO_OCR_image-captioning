@@ -1,0 +1,7 @@
+   Score: 0.831: PERSON: B. Descrigtion
+   Score: 0.443: PERSON: NON Ascii text
+   Score: 1.007: PERSON: F. Angle
+   Score: 0.568: PERSON: NON Ascii text
+   Score: 0.489: PERSON: Distance .
+   Score: 0.546: PERSON: H. Movements
+   Score: 0.342: PERSON: F

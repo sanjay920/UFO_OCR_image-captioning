@@ -1,0 +1,20 @@
+   Score: 0.341: ORGANIZATION: NON Ascii text
+   Score: 1.447: ORGANIZATION: CAE
+   Score: 0.525: ORGANIZATION: ROUTINE
+   Score: 0.562: ORGANIZATION: PHENOMENA
+   Score: 0.191: PERSON: NAKED
+   Score: 0.724: PERSON: NON Ascii text
+   Score: 0.561: ORGANIZATION: x. OBJECTS
+   Score: 0.500: ORGANIZATION: MASTS
+   Score: 0.328: PERSON: NON Ascii text
+   Score: 0.953: LOCATION: SOURCE
+   Score: 0.263: PERSON: J-EENONENA
+   Score: 0.253: ORGANIZATION: ROYAL RADAR EST
+   Score: 0.421: ORGANIZATION: NON Ascii text
+   Score: 0.710: ORGANIZATION: CXJ
+   Score: 0.953: ORGANIZATION: DSC
+   Score: 0.603: ORGANIZATION: NON Ascii text
+   Score: 0.599: PERSON: M. >&$&
+   Score: 0.575: LOCATION: QR
+   Score: 0.219: ORGANIZATION: Sxx
+   Score: 0.415: ORGANIZATION: NON Ascii text

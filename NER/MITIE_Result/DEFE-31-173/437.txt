@@ -1,0 +1,20 @@
+   Score: 0.307: ORGANIZATION: $
+   Score: 0.571: ORGANIZATION: CAV
+   Score: 0.258: ORGANIZATION: AERiAi HHENONENA
+   Score: 0.674: ORGANIZATION: HINS
+   Score: 0.527: PERSON: NON Ascii text
+   Score: 0.666: ORGANIZATION: E. EAST F.
+   Score: 0.710: PERSON: K. HOUSES
+   Score: 0.254: PERSON: L. SUSSEX
+   Score: 0.413: PERSON: Y.
+   Score: 0.485: PERSON: NON Ascii text
+   Score: 0.359: PERSON: NON Ascii text
+   Score: 0.721: PERSON: V.
+   Score: 1.063: ORGANIZATION: DSC
+   Score: 0.403: ORGANIZATION: AEDO
+   Score: 0.672: ORGANIZATION: ACS
+   Score: 0.416: LOCATION: EE
+   Score: 0.787: ORGANIZATION: RAF
+   Score: 0.773: ORGANIZATION: DJ
+   Score: 0.660: PERSON: DSTi
+   Score: 0.256: PERSON: NON Ascii text

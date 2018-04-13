@@ -1,0 +1,20 @@
+   Score: 0.783: ORGANIZATION: NSC
+   Score: 0.763: PERSON: A.
+   Score: 0.287: PERSON: NON Ascii text
+   Score: 0.586: ORGANIZATION: AFOR
+   Score: 0.183: LOCATION: STATIONARY NAKED
+   Score: 0.903: ORGANIZATION: RAF
+   Score: 0.565: PERSON: NON Ascii text
+   Score: 0.338: PERSON: NON Ascii text
+   Score: 0.578: ORGANIZATION: VA \
+   Score: 0.743: ORGANIZATION: u A
+   Score: 0.313: PERSON: NON Ascii text
+   Score: 0.453: ORGANIZATION: NON Ascii text
+   Score: 0.851: ORGANIZATION: PAGE
+   Score: 0.903: ORGANIZATION: CXJ
+   Score: 0.512: ORGANIZATION: ~DSC
+   Score: 0.543: ORGANIZATION: AFDO
+   Score: 0.627: ORGANIZATION: ACS
+   Score: 0.919: ORGANIZATION: GE
+   Score: 1.016: ORGANIZATION: RAF
+   Score: 0.297: PERSON: CAv

@@ -1,0 +1,2 @@
+NER_LOCATION: L/.",'I‘f."
+NER_PERSON: K, O >'l (, I"

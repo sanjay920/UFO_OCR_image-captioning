@@ -1,0 +1,9 @@
+   Score: 0.600: PERSON: Q&Qg/
+   Score: 0.256: ORGANIZATION: Ac
+   Score: 0.233: PERSON: NON Ascii text
+   Score: 0.633: PERSON: NON Ascii text
+   Score: 0.324: PERSON: M
+   Score: 0.731: PERSON: A. RNAS Culdrose
+   Score: 0.735: ORGANIZATION: UFO
+   Score: 0.414: LOCATION: LATCG
+   Score: 0.402: ORGANIZATION: SecCAS

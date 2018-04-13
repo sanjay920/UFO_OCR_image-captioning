@@ -1,0 +1,3 @@
+   Score: 0.651: PERSON: J. ) Meteorological
+   Score: 0.274: ORGANIZATION: Telephone
+   Score: 0.436: PERSON: reservoin

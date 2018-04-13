@@ -1,0 +1,8 @@
+   Score: 0.593: PERSON: NON Ascii text
+   Score: 0.522: ORGANIZATION: IWMM
+   Score: 0.430: ORGANIZATION: Unushal Meteorological
+   Score: 0.314: ORGANIZATION: NON Ascii text
+   Score: 0.351: ORGANIZATION: La Squadron
+   Score: 0.499: MISC: Duty Operations
+   Score: 0.410: ORGANIZATION: SCC
+   Score: 0.673: ORGANIZATION: 57 File AF

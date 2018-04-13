@@ -1,0 +1,7 @@
+NER_LOCATION: Cal
+NER_MONEY: $HJ
+NER_MONEY: €REP
+NER_MONEY: $020
+NER_ORGANIZATION: Army Air Corps Middie Wallop Stockbridge Hants
+NER_ORGANIZATION: A. Telecon
+NER_ORGANIZATION: SDY Telephone Middle Wallop Military 40 Andover STD

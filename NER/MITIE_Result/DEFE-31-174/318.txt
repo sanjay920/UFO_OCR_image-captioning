@@ -1,0 +1,8 @@
+   Score: 0.434: ORGANIZATION: Time &
+   Score: 0.261: MISC: NON Ascii text
+   Score: 0.351: PERSON: F. Angle of Sight
+   Score: 0.647: PERSON: G. Distance
+   Score: 0.723: PERSON: H. Movements
+   Score: 0.828: LOCATION: East
+   Score: 0.648: PERSON: K. Nearby Objects
+   Score: 0.411: PERSON: marsh

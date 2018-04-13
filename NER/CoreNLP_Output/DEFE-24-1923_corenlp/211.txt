@@ -1,0 +1,7 @@
+NER_LOCATION: Billericay
+NER_ORGANIZATION: Time
+NER_ORGANIZATION: Duration of Sighting
+NER_PERCENT: Loc3%
+NER_PERCENT: 21.31%
+NER_PERSON: Ransden Heath
+NER_TIME: moonlight night

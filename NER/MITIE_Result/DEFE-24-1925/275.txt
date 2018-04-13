@@ -1,0 +1,17 @@
+   Score: 1.053: PERSON: Wallace
+   Score: 0.386: LOCATION: NON Ascii text
+   Score: 1.035: PERSON: Wallace
+   Score: 1.299: PERSON: Wallace
+   Score: 0.386: ORGANIZATION: NON Ascii text
+   Score: 1.352: PERSON: Wallace
+   Score: 1.184: PERSON: Wallace
+   Score: 1.138: PERSON: Wallace
+   Score: 1.295: PERSON: Wallace
+   Score: 1.054: PERSON: Wallace
+   Score: 1.479: PERSON: Wallace
+   Score: 0.566: MISC: UFO
+   Score: 1.261: PERSON: Wallace
+   Score: 0.957: ORGANIZATION: CIA
+   Score: 1.241: PERSON: Wallace
+   Score: 1.283: PERSON: Wallace
+   Score: 0.358: LOCATION: UFOs

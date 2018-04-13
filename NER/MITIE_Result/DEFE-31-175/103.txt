@@ -1,0 +1,2 @@
+   Score: 0.386: PERSON: Nagrhm
+   Score: 0.503: ORGANIZATION: NON Ascii text

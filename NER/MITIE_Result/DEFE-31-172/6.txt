@@ -1,0 +1,2 @@
+   Score: 0.088: PERSON: Umo
+   Score: 0.263: ORGANIZATION: NON Ascii text

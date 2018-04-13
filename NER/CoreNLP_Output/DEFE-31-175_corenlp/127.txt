@@ -1,0 +1,5 @@
+NER_DATE: Mag 87 5
+NER_DATE: 10
+NER_ORGANIZATION: Time &
+NER_ORGANIZATION: Exact Position of Observer Location
+NER_PERCENT: 45%

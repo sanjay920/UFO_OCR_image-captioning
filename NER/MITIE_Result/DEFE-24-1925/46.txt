@@ -1,0 +1,7 @@
+   Score: 0.807: LOCATION: SYDNEY
+   Score: 0.462: ORGANIZATION: HOLM MONTREA
+   Score: 0.427: ORGANIZATION: TC Lug
+   Score: 0.435: PERSON: NON Ascii text
+   Score: 0.340: PERSON: NON Ascii text
+   Score: 0.632: ORGANIZATION: grava YUFOS Research Division
+   Score: 0.451: ORGANIZATION: International

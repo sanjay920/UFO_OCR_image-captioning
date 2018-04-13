@@ -1,0 +1,2 @@
+NER_LOCATION: 2..
+NER_PERSON: Ram A .

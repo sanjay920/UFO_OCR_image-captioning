@@ -1,0 +1,5 @@
+   Score: 0.715: ORGANIZATION: DESCRIPTION
+   Score: 0.575: ORGANIZATION: Bright Star
+   Score: 1.231: LOCATION: Wellington
+   Score: 0.794: PERSON: Sutton Hill
+   Score: 0.295: PERSON: F

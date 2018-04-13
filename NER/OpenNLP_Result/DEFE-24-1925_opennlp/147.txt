@@ -1,0 +1,3 @@
+NER_LOCATION: London
+NER_ORGANIZATION: Ministry of Defenca Main
+NER_ORGANIZATION: 2EA Telephone Huntingdon

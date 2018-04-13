@@ -1,0 +1,5 @@
+   Score: 0.428: PERSON: Tl Ea
+   Score: 0.243: ORGANIZATION: NON Ascii text
+   Score: 0.869: PERSON: mg Aw
+   Score: 0.476: ORGANIZATION: NON Ascii text
+   Score: 0.576: PERSON: Eff

@@ -1,0 +1,2 @@
+NER_PERSON: \9 M
+NER_PERSON: O .

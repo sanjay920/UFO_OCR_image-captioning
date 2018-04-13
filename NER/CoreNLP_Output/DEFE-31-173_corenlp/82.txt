@@ -1,0 +1,8 @@
+NER_DATE: 1261
+NER_LOCATION: South South West
+NER_ORGANIZATION: ATCO
+NER_ORGANIZATION: Navaid/Aerodrome Date GMT Callsign/ Aircraft’s Operator Registration of SSR Code Aircraft
+NER_ORGANIZATION: National Air Traffic Services
+NER_ORGANIZATION: RTF FreQuencics Radar Equipment
+NER_ORGANIZATION: INVERNESS Duty Watch Runway
+NER_ORGANIZATION: Nr Newtonmore

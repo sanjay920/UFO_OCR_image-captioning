@@ -1,0 +1,13 @@
+   Score: 0.941: PERSON: K. NEARBY
+   Score: 0.841: PERSON: Woods
+   Score: 0.400: PERSON: marsh
+   Score: 0.294: PERSON: M. NAME
+   Score: 0.781: ORGANIZATION: VOLUNTEERED
+   Score: 0.606: PERSON: Inga
+   Score: 0.968: ORGANIZATION: GE
+   Score: 0.642: ORGANIZATION: RAF
+   Score: 0.500: MISC: DI 55
+   Score: 0.927: ORGANIZATION: RAF
+   Score: 0.555: ORGANIZATION: File Rm Section
+   Score: 0.722: ORGANIZATION: Rm Section
+   Score: 0.812: ORGANIZATION: Main Bldg Main Bldg Metropole

@@ -1,0 +1,17 @@
+   Score: 0.692: PERSON: NON Ascii text
+   Score: 0.908: ORGANIZATION: BIC
+   Score: 0.734: ORGANIZATION: NON Ascii text
+   Score: 0.337: ORGANIZATION: RED AND
+   Score: 0.135: PERSON: Smrllv LOUKFD
+   Score: 0.793: ORGANIZATION: FATF
+   Score: 0.220: PERSON: SENSTBIE
+   Score: 0.796: ORGANIZATION: THEN
+   Score: 0.648: ORGANIZATION: DEC
+   Score: 1.372: ORGANIZATION: UN
+   Score: 0.682: ORGANIZATION: NON Ascii text
+   Score: 1.231: ORGANIZATION: AC
+   Score: 0.801: ORGANIZATION: CY
+   Score: 0.646: MISC: US
+   Score: 0.993: PERSON: O
+   Score: 0.671: PERSON: {a
+   Score: 0.798: MISC: F T F

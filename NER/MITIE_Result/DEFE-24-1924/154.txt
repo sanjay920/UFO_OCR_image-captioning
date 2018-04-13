@@ -1,0 +1,21 @@
+   Score: 0.634: PERSON: NON Ascii text
+   Score: 0.811: PERSON: A. Date
+   Score: 0.763: ORGANIZATION: Tme & Oiaoo Emmi
+   Score: 0.624: ORGANIZATION: Object CZJWI CEQZL
+   Score: 0.579: ORGANIZATION: NON Ascii text
+   Score: 0.353: LOCATION: NON Ascii text
+   Score: 0.687: PERSON: Mpg
+   Score: 0.137: PERSON: NON Ascii text
+   Score: 0.399: PERSON: marsh
+   Score: 0.393: PERSON: E. Direction
+   Score: 0.221: ORGANIZATION: NON Ascii text
+   Score: 0.870: PERSON: F. Angle
+   Score: 0.369: PERSON: Slght
+   Score: 1.196: PERSON: G. Dlstance
+   Score: 0.837: PERSON: lam
+   Score: 0.338: PERSON: NON Ascii text
+   Score: 0.709: ORGANIZATION: J. Met
+   Score: 0.430: ORGANIZATION: Obs
+   Score: 0.562: PERSON: NON Ascii text
+   Score: 0.919: PERSON: K. Ngarby Objects
+   Score: 0.533: PERSON: NON Ascii text

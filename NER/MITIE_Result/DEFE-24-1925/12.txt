@@ -1,0 +1,15 @@
+   Score: 0.523: PERSON: M. Natuona
+   Score: 0.398: ORGANIZATION: 1
+   Score: 0.595: LOCATION: Heathrow Airport
+   Score: 1.031: LOCATION: London
+   Score: 0.962: ORGANIZATION: Middlesex MOD
+   Score: 0.497: ORGANIZATION: AFO
+   Score: 0.634: ORGANIZATION: Secretariat Division
+   Score: 1.654: ORGANIZATION: Ministry of Defence Main Building
+   Score: 0.395: ORGANIZATION: Whitehall London SW1A
+   Score: 0.581: ORGANIZATION: ATC Heathrow
+   Score: 0.490: MISC: UFO
+   Score: 0.750: ORGANIZATION: your Department
+   Score: 1.169: ORGANIZATION: ATC Ops
+   Score: 1.356: ORGANIZATION: Civil Aviation Authority
+   Score: 1.486: ORGANIZATION: Ministry of Defence Service

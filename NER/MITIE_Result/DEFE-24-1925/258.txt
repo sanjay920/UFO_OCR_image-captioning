@@ -1,0 +1,19 @@
+   Score: 0.345: PERSON: NON Ascii text
+   Score: 0.343: ORGANIZATION: O;LW
+   Score: 0.212: ORGANIZATION: IUUOI3UU
+   Score: 0.427: ORGANIZATION: UJUUOIO
+   Score: 0.312: ORGANIZATION: SJIA
+   Score: 0.702: ORGANIZATION: UQUOUIAQ UUI
+   Score: 0.596: ORGANIZATION: IA
+   Score: 0.276: ORGANIZATION: HJBG
+   Score: 0.286: ORGANIZATION: UUquI
+   Score: 0.495: ORGANIZATION: NON Ascii text
+   Score: 0.266: PERSON: NON Ascii text
+   Score: 0.999: PERSON: Jo
+   Score: 0.317: PERSON: NON Ascii text
+   Score: 0.380: ORGANIZATION: AQQ
+   Score: 0.447: PERSON: LUQ
+   Score: 0.569: PERSON: NON Ascii text
+   Score: 0.704: PERSON: L.
+   Score: 0.682: MISC: NON Ascii text
+   Score: 0.727: ORGANIZATION: NON Ascii text

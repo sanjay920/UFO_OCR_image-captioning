@@ -1,0 +1,7 @@
+NER_DATE: Monday 17 June
+NER_ORGANIZATION: Sec
+NER_ORGANIZATION: Tyne
+NER_ORGANIZATION: Name & Address of Informant Background of Informant
+NER_ORGANIZATION: Newcastle
+NER_ORGANIZATION: Time of Receipt
+NER_PERCENT: 1%

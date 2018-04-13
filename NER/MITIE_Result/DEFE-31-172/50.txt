@@ -1,0 +1,17 @@
+   Score: 0.594: ORGANIZATION: CAV
+   Score: 0.761: LOCATION: NJ
+   Score: 0.285: ORGANIZATION: \
+   Score: 0.777: ORGANIZATION: SIC
+   Score: 0.480: PERSON: A. E
+   Score: 0.449: PERSON: NON Ascii text
+   Score: 0.338: PERSON: NON Ascii text
+   Score: 0.312: ORGANIZATION: NON Ascii text
+   Score: 0.792: ORGANIZATION: NON Ascii text
+   Score: 0.555: ORGANIZATION: AFDO
+   Score: 0.956: ORGANIZATION: DS
+   Score: 0.336: ORGANIZATION: AfTION
+   Score: 0.908: ORGANIZATION: GE
+   Score: 1.084: ORGANIZATION: RAF
+   Score: 1.219: ORGANIZATION: SIC
+   Score: 1.147: ORGANIZATION: DSTH
+   Score: 0.535: ORGANIZATION: CAB

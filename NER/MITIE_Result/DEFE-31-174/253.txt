@@ -1,0 +1,4 @@
+   Score: 0.214: ORGANIZATION: NON Ascii text
+   Score: 1.143: ORGANIZATION: Initials & Data Section
+   Score: 0.392: MISC: W
+   Score: 0.649: ORGANIZATION: Tech IntUur

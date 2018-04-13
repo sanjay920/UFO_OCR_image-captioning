@@ -1,0 +1,9 @@
+   Score: 0.463: PERSON: marsh
+   Score: 0.222: ORGANIZATION: OUTDOOR
+   Score: 0.441: LOCATION: STATIONARY IE Location
+   Score: 0.394: LOCATION: GARDEN
+   Score: 0.159: PERSON: NAKED
+   Score: 0.375: ORGANIZATION: E. Direction
+   Score: 0.809: ORGANIZATION: RAF
+   Score: 0.345: ORGANIZATION: F. Angle of Sight
+   Score: 0.706: ORGANIZATION: TIAN

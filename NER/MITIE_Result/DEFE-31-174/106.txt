@@ -1,0 +1,6 @@
+   Score: 0.482: PERSON: NON Ascii text
+   Score: 0.971: ORGANIZATION: EU
+   Score: 1.022: ORGANIZATION: UN
+   Score: 0.875: PERSON: Hill
+   Score: 0.937: ORGANIZATION: NON Ascii text
+   Score: 0.690: PERSON: Fa

@@ -1,0 +1,13 @@
+   Score: 0.566: PERSON: NON Ascii text
+   Score: 0.426: PERSON: marsh
+   Score: 0.306: LOCATION: airfielda
+   Score: 0.537: ORGANIZATION: F&Q
+   Score: 0.544: ORGANIZATION: g Maln
+   Score: 0.875: ORGANIZATION: Me RAF File Rm
+   Score: 0.308: ORGANIZATION: METEOROLOGICAL
+   Score: 0.604: PERSON: w.
+   Score: 0.482: ORGANIZATION: NON Ascii text
+   Score: 0.855: ORGANIZATION: DB
+   Score: 0.952: ORGANIZATION: GE
+   Score: 0.650: ORGANIZATION: RAF
+   Score: 0.403: PERSON: Rm Rm

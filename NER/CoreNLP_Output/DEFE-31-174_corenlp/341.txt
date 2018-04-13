@@ -1,0 +1,4 @@
+NER_MONEY: $\
+NER_ORGANIZATION: Sec
+NER_ORGANIZATION: DQX Secﬂon40 Name & Address of Informant Background of Informant
+NER_ORGANIZATION: Time

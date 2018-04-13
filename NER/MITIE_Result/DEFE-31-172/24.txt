@@ -1,0 +1,26 @@
+   Score: 0.748: ORGANIZATION: NON Ascii text
+   Score: 0.571: ORGANIZATION: o In
+   Score: 0.477: ORGANIZATION: w~ \
+   Score: 0.163: PERSON: NON Ascii text
+   Score: 0.516: PERSON: NON Ascii text
+   Score: 0.344: ORGANIZATION: I\
+   Score: 0.315: ORGANIZATION: NON Ascii text
+   Score: 0.760: ORGANIZATION: Fhon RAF
+   Score: 0.317: ORGANIZATION: MODUK-AIR} HQRAFSC
+   Score: 0.290: ORGANIZATION: ELEVATION
+   Score: 0.452: ORGANIZATION: RNVR
+   Score: 0.574: ORGANIZATION: NON Ascii text
+   Score: 0.340: PERSON: NON Ascii text
+   Score: 0.625: ORGANIZATION: CAB
+   Score: 0.514: PERSON: Deva
+   Score: 0.770: ORGANIZATION: DSC
+   Score: 0.517: ORGANIZATION: AEDO
+   Score: 0.512: ORGANIZATION: CAM
+   Score: 0.722: ORGANIZATION: ACS
+   Score: 1.048: ORGANIZATION: SIC
+   Score: 0.546: ORGANIZATION: NON Ascii text
+   Score: 0.329: ORGANIZATION: NON Ascii text
+   Score: 0.417: ORGANIZATION: ANA
+   Score: 0.264: MISC: NON Ascii text
+   Score: 0.559: ORGANIZATION: NON Ascii text
+   Score: 1.031: PERSON: Ali

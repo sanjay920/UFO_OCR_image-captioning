@@ -1,0 +1,21 @@
+   Score: 0.618: PERSON: V.
+   Score: 0.507: ORGANIZATION: NON Ascii text
+   Score: 0.765: PERSON: NON Ascii text
+   Score: 0.452: PERSON: NON Ascii text
+   Score: 0.313: ORGANIZATION: NON Ascii text
+   Score: 0.225: ORGANIZATION: OCJOLO
+   Score: 0.494: PERSON: NON Ascii text
+   Score: 0.355: PERSON: NON Ascii text
+   Score: 0.526: ORGANIZATION: WO CzDSOCN 020C
+   Score: 0.521: PERSON: NON Ascii text
+   Score: 0.275: ORGANIZATION: NON Ascii text
+   Score: 0.419: LOCATION: OH
+   Score: 0.608: PERSON: H.
+   Score: 0.599: PERSON: NON Ascii text
+   Score: 0.475: PERSON: COrfOL
+   Score: 0.444: LOCATION: CO CQtOrCLOmC
+   Score: 0.546: PERSON: H. UEOMIV
+   Score: 0.548: PERSON: Jovluwrgrbg
+   Score: 0.349: ORGANIZATION: OCO
+   Score: 0.223: LOCATION: UMDWULOUC
+   Score: 0.504: PERSON: K.

@@ -1,0 +1,20 @@
+   Score: 0.551: ORGANIZATION: LO
+   Score: 0.331: ORGANIZATION: ILSG Ava
+   Score: 0.455: ORGANIZATION: NON Ascii text
+   Score: 0.302: PERSON: ava
+   Score: 0.410: PERSON: _i
+   Score: 0.565: ORGANIZATION: PXO
+   Score: 0.597: ORGANIZATION: NOELOV
+   Score: 0.297: ORGANIZATION: NOILQSlalSiG
+   Score: 0.307: ORGANIZATION: NON Ascii text
+   Score: 0.478: PERSON: NON Ascii text
+   Score: 0.539: ORGANIZATION: SIOVUOHOGS
+   Score: 0.477: ORGANIZATION: LaOdaa EEQNHG
+   Score: 0.504: ORGANIZATION: NOHJ AVMV
+   Score: 0.345: PERSON: xoaadv-saavmisva
+   Score: 0.220: PERSON: NON Ascii text
+   Score: 0.448: PERSON: NON Ascii text
+   Score: 0.161: ORGANIZATION: SBNIL
+   Score: 0.480: ORGANIZATION: NOILVHQG BHL
+   Score: 0.593: ORGANIZATION: OLSGH
+   Score: 0.352: PERSON: NON Ascii text

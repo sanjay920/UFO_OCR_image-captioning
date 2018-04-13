@@ -1,0 +1,7 @@
+   Score: 0.442: PERSON: gawk
+   Score: 0.578: ORGANIZATION: Aeronautical Information Section
+   Score: 0.873: ORGANIZATION: London Air Traffic Control Centre
+   Score: 1.222: ORGANIZATION: Royal Air Force
+   Score: 0.265: PERSON: West Drayton
+   Score: 0.316: LOCATION: West Drayton
+   Score: 0.181: MISC: NON Ascii text

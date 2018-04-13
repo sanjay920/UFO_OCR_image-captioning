@@ -1,0 +1,28 @@
+   Score: 0.901: ORGANIZATION: BI
+   Score: 0.302: LOCATION: UNUSUAL
+   Score: 0.405: PERSON: De
+   Score: 0.374: ORGANIZATION: M5 h. Movements
+   Score: 0.655: PERSON: Marduk
+   Score: 0.619: PERSON: Luau
+   Score: 0.868: LOCATION: Lima
+   Score: 0.546: LOCATION: NM
+   Score: 0.646: ORGANIZATION: NON Ascii text
+   Score: 0.437: PERSON: NON Ascii text
+   Score: 0.245: ORGANIZATION: NON Ascii text
+   Score: 0.408: PERSON: Nu
+   Score: 0.336: PERSON: NON Ascii text
+   Score: 0.232: ORGANIZATION: M ML m. Nwasy27
+   Score: 0.700: ORGANIZATION: M
+   Score: 0.312: PERSON: M
+   Score: 0.380: ORGANIZATION: NON Ascii text
+   Score: 0.676: PERSON: NON Ascii text
+   Score: 0.589: PERSON: Cam dubs/rut
+   Score: 0.283: PERSON: NON Ascii text
+   Score: 0.542: PERSON: NON Ascii text
+   Score: 0.714: PERSON: NON Ascii text
+   Score: 0.527: LOCATION: NY
+   Score: 0.608: PERSON: o 'KEn
+   Score: 0.304: PERSON: NON Ascii text
+   Score: 0.584: PERSON: NON Ascii text
+   Score: 0.511: PERSON: NON Ascii text
+   Score: 0.329: ORGANIZATION: UKLMU

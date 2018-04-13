@@ -1,0 +1,15 @@
+   Score: 0.968: ORGANIZATION: Newcastle
+   Score: 0.379: ORGANIZATION: Force Weekly Order
+   Score: 0.454: PERSON: Wolstanton Marsh
+   Score: 0.841: ORGANIZATION: Newcastle
+   Score: 0.367: PERSON: Staffs
+   Score: 0.501: PERSON: h. Direct
+   Score: 0.609: PERSON: j. Good
+   Score: 0.546: PERSON: k. Nil
+   Score: 0.693: ORGANIZATION: PC Section
+   Score: 1.213: ORGANIZATION: Newcastle
+   Score: 0.228: PERSON: Wolstanton
+   Score: 0.250: PERSON: Wolstanton
+   Score: 0.242: ORGANIZATION: Volstanton
+   Score: 0.403: PERSON: Porthill
+   Score: 1.155: ORGANIZATION: HQ Admin Department

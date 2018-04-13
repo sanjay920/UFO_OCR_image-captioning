@@ -1,0 +1,4 @@
+   Score: 0.468: ORGANIZATION: NON Ascii text
+   Score: 0.516: PERSON: NON Ascii text
+   Score: 0.567: ORGANIZATION: Kew Richmond Surrey
+   Score: 0.742: ORGANIZATION: UFO

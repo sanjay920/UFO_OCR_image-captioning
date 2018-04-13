@@ -1,0 +1,10 @@
+   Score: 0.421: PERSON: K. NEARBY OBJECTS
+   Score: 0.411: PERSON: marsh
+   Score: 0.319: PERSON: Bovingdon
+   Score: 0.724: PERSON: Sister in Law
+   Score: 0.633: ORGANIZATION: Rm Section
+   Score: 0.570: ORGANIZATION: Main Bldg Main Bldg Ops
+   Score: 0.874: ORGANIZATION: GE
+   Score: 0.793: ORGANIZATION: RAF
+   Score: 0.696: MISC: AF Ops DI 55
+   Score: 0.930: ORGANIZATION: RAF

@@ -1,0 +1,27 @@
+   Score: 0.577: PERSON: <u
+   Score: 0.548: PERSON: Ax
+   Score: 0.363: PERSON: x. ,
+   Score: 0.637: PERSON: NON Ascii text
+   Score: 0.352: ORGANIZATION: N.
+   Score: 0.585: PERSON: F. DIRECTLY
+   Score: 0.511: PERSON: E.
+   Score: 0.423: PERSON: Mu Section
+   Score: 0.356: PERSON: L. MAIDSTONE POLICE
+   Score: 0.769: ORGANIZATION: MODUK AlRI HQ
+   Score: 0.153: LOCATION: ROUTJNE/ROUTINE
+   Score: 0.461: PERSON: AiRi
+   Score: 0.604: ORGANIZATION: ZSFA MOV Section
+   Score: 1.041: ORGANIZATION: SIC
+   Score: 0.445: ORGANIZATION: OpsCGE
+   Score: 0.263: ORGANIZATION: RAH
+   Score: 0.730: ORGANIZATION: AIS
+   Score: 0.257: ORGANIZATION: UNCLAS
+   Score: 0.615: ORGANIZATION: CXJ
+   Score: 0.463: PERSON: NON Ascii text
+   Score: 0.550: MISC: NON Ascii text
+   Score: 0.607: PERSON: NON Ascii text
+   Score: 0.502: PERSON: Hmv
+   Score: 0.313: PERSON: NON Ascii text
+   Score: 0.611: PERSON: NON Ascii text
+   Score: 0.244: ORGANIZATION: NON Ascii text
+   Score: 0.272: PERSON: I...

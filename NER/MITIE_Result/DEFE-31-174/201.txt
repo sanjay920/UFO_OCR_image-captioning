@@ -1,0 +1,3 @@
+   Score: 0.774: ORGANIZATION: VF
+   Score: 0.630: ORGANIZATION: NON Ascii text
+   Score: 1.349: ORGANIZATION: O O O O O

@@ -1,0 +1,7 @@
+NER_ORGANIZATION: Civil Aviation Au?
+NER_ORGANIZATION: RAF Main
+NER_ORGANIZATION: RAF St Athan Local Police H-
+NER_ORGANIZATION: Ministry of Defence
+NER_ORGANIZATION: LOCAL
+NER_PERSON: Barry
+NER_PERSON: Observed Telescope

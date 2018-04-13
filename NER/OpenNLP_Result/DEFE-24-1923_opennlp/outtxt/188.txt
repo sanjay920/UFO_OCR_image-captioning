@@ -1,0 +1,2 @@
+NER_PERSON: W ,.
+NER_PERSON: .4

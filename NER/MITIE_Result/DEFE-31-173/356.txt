@@ -1,0 +1,12 @@
+   Score: 0.391: PERSON: K. NEARBY OBJECTS
+   Score: 0.418: PERSON: marsh
+   Score: 0.302: PERSON: Wilts
+   Score: 0.429: ORGANIZATION: METEOROLOGICAL
+   Score: 0.386: PERSON: Sqn
+   Score: 0.757: PERSON: Ken
+   Score: 0.401: MISC: DI 55
+   Score: 0.962: ORGANIZATION: RAF
+   Score: 0.855: ORGANIZATION: File Em Section
+   Score: 0.902: ORGANIZATION: Em Section
+   Score: 0.671: ORGANIZATION: Rm Section
+   Score: 0.494: ORGANIZATION: Main Bldg Main Bldg

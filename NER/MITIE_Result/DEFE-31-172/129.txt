@@ -1,0 +1,14 @@
+   Score: 0.315: PERSON: NON Ascii text
+   Score: 0.475: PERSON: Lord Strabolgi
+   Score: 0.472: ORGANIZATION: IOT
+   Score: 0.235: PERSON: DES
+   Score: 0.801: ORGANIZATION: Air
+   Score: 1.036: ORGANIZATION: RAF
+   Score: 1.036: ORGANIZATION: ACS
+   Score: 0.921: ORGANIZATION: RAF
+   Score: 0.658: ORGANIZATION: GE ) 2b
+   Score: 0.873: ORGANIZATION: RAF
+   Score: 0.720: ORGANIZATION: Head of S4
+   Score: 0.708: ORGANIZATION: Air
+   Score: 0.703: MISC: US
+   Score: 0.840: ORGANIZATION: RAF

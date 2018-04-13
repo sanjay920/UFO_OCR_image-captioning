@@ -1,0 +1,6 @@
+   Score: 0.550: ORGANIZATION: NON Ascii text
+   Score: 0.744: PERSON: H. V.
+   Score: 0.493: PERSON: A.
+   Score: 0.881: PERSON: Lula
+   Score: 0.907: LOCATION: Pa
+   Score: 1.135: PERSON: Lu

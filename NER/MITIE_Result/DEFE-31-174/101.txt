@@ -1,0 +1,13 @@
+   Score: 0.592: ORGANIZATION: NON Ascii text
+   Score: 0.871: PERSON: E.
+   Score: 1.142: PERSON: Ji
+   Score: 1.005: ORGANIZATION: EU
+   Score: 0.333: PERSON: I.ELMA
+   Score: 0.155: LOCATION: I~cI~i
+   Score: 0.223: ORGANIZATION: NON Ascii text
+   Score: 0.437: ORGANIZATION: I-IIENE
+   Score: 0.768: PERSON: J.
+   Score: 0.451: LOCATION: CI
+   Score: 0.610: MISC: NON Ascii text
+   Score: 0.503: ORGANIZATION: 1
+   Score: 0.649: PERSON: {in

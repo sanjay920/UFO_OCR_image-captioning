@@ -1,0 +1,11 @@
+   Score: 0.296: ORGANIZATION: EFATIC
+   Score: 0.247: PERSON: ElxnleL
+   Score: 0.325: PERSON: FL;_Ii
+   Score: 0.933: ORGANIZATION: UlHECTlON OF PEF SIGHTINL EOUFH CE Almrcmf
+   Score: 0.250: PERSON: DRY
+   Score: 0.600: LOCATION: FL
+   Score: 0.493: PERSON: Ji;_
+   Score: 0.608: ORGANIZATION: x x.
+   Score: 0.831: ORGANIZATION: NON Ascii text
+   Score: 0.283: PERSON: NON Ascii text
+   Score: 0.256: ORGANIZATION: WM

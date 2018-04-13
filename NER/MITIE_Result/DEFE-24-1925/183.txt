@@ -1,0 +1,23 @@
+   Score: 1.059: PERSON: Jo
+   Score: 1.081: LOCATION: England
+   Score: 0.517: PERSON: Devid
+   Score: 0.817: ORGANIZATION: MOON
+   Score: 0.269: PERSON: Moon
+   Score: 0.122: ORGANIZATION: NON Ascii text
+   Score: 0.234: PERSON: Glose-Moountere
+   Score: 0.326: ORGANIZATION: CNK
+   Score: 0.714: PERSON: Von D&niken
+   Score: 0.288: ORGANIZATION: Betty dc Barney
+   Score: 0.810: PERSON: Antonie Villas Boas
+   Score: 0.658: PERSON: Mwski
+   Score: 0.342: ORGANIZATION: MICK
+   Score: 0.264: PERSON: Aetheriue Mob
+   Score: 0.640: PERSON: Jesus
+   Score: 0.205: PERSON: NON Ascii text
+   Score: 0.702: PERSON: Oliver Well
+   Score: 0.681: ORGANIZATION: Belgrano
+   Score: 0.456: MISC: American Missile
+   Score: 0.858: MISC: British
+   Score: 0.353: PERSON: Newton Green
+   Score: 0.393: LOCATION: Great Dunmow
+   Score: 0.390: PERSON: NON Ascii text

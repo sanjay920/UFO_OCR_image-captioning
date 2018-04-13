@@ -1,0 +1,5 @@
+NER_DATE: Oct 87
+NER_ORGANIZATION: Sec
+NER_ORGANIZATION: Time of Receipt 230520 Local Oct 87 Ang Unusual Meteorological Nil Conditions
+NER_ORGANIZATION: Essex militaru
+NER_ORGANIZATION: Name & Address of Informant Secﬂon40 Essex Secﬂon40 Background of Informant

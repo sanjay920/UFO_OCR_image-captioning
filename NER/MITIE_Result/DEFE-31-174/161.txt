@@ -1,0 +1,4 @@
+   Score: 0.383: ORGANIZATION: NmoL
+   Score: 0.376: PERSON: M. Name
+   Score: 0.443: ORGANIZATION: File AF
+   Score: 0.686: ORGANIZATION: AF Ops

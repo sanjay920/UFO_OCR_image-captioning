@@ -1,0 +1,9 @@
+   Score: 0.412: PERSON: NON Ascii text
+   Score: 0.980: ORGANIZATION: ADOO
+   Score: 0.130: ORGANIZATION: Ar Op
+   Score: 0.447: ORGANIZATION: NON Ascii text
+   Score: 0.726: PERSON: P. Date
+   Score: 0.605: ORGANIZATION: Time of Receipt
+   Score: 0.814: ORGANIZATION: UnUSUal Meteorological
+   Score: 0.539: ORGANIZATION: AS
+   Score: 1.078: ORGANIZATION: AEW/GE DI

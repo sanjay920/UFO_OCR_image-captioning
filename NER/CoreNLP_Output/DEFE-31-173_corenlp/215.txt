@@ -1,0 +1,5 @@
+NER_DATE: Wednesday the 11th
+NER_DATE: July '84
+NER_DATE: Sunday 15th
+NER_LOCATION: N.W.
+NER_LOCATION: London

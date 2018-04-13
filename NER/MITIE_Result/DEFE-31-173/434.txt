@@ -1,0 +1,4 @@
+   Score: 0.419: PERSON: J. Meteorological
+   Score: 0.576: PERSON: K. Nearkbz
+   Score: 0.315: ORGANIZATION: Telephone
+   Score: 0.588: PERSON: O;$\- Ops Cereja

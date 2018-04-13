@@ -1,0 +1,14 @@
+   Score: 0.373: ORGANIZATION: NON Ascii text
+   Score: 1.169: ORGANIZATION: RAFSC
+   Score: 0.339: ORGANIZATION: INSTRUCTION
+   Score: 0.971: ORGANIZATION: Local Times
+   Score: 0.585: PERSON: Lg/
+   Score: 0.560: PERSON: Geogra3phical
+   Score: 0.554: PERSON: Hosmrz
+   Score: 0.827: PERSON: Di rectien
+   Score: 0.346: PERSON: Alandmark3
+   Score: 0.560: PERSON: MKka
+   Score: 0.403: PERSON: marsh
+   Score: 0.508: ORGANIZATION: Press
+   Score: 0.488: ORGANIZATION: UNCLASSIFIED
+   Score: 0.426: PERSON: NON Ascii text

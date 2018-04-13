@@ -1,0 +1,7 @@
+   Score: 0.591: PERSON: J. Meteomiogical
+   Score: 0.647: PERSON: K. Nearobz
+   Score: 0.275: ORGANIZATION: Telephone
+   Score: 0.361: PERSON: M. Name
+   Score: 0.314: PERSON: NON Ascii text
+   Score: 0.905: PERSON: Noam
+   Score: 1.022: PERSON: P. Date

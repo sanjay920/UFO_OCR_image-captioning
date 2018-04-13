@@ -1,0 +1,12 @@
+   Score: 0.582: PERSON: NumBEr
+   Score: 0.380: PERSON: OBSERVER
+   Score: 0.394: ORGANIZATION: SPORIE
+   Score: 1.158: LOCATION: NE
+   Score: 0.454: LOCATION: Norfolk
+   Score: 0.350: ORGANIZATION: OBSERVED
+   Score: 0.186: LOCATION: NON Ascii text
+   Score: 1.201: LOCATION: NE
+   Score: 0.270: LOCATION: NON Ascii text
+   Score: 0.148: LOCATION: NON Ascii text
+   Score: 0.325: PERSON: F
+   Score: 0.559: ORGANIZATION: Clear sky

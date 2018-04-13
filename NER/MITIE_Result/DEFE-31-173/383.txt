@@ -1,0 +1,9 @@
+   Score: 0.703: ORGANIZATION: Duration of Sighting
+   Score: 0.746: PERSON: Bumber
+   Score: 0.510: PERSON: Iindoor/outdoor
+   Score: 0.491: ORGANIZATION: Elgin
+   Score: 0.340: PERSON: Bishopsmill
+   Score: 0.175: PERSON: Lhanbryde
+   Score: 0.153: LOCATION: alandmark
+   Score: 0.277: MISC: F
+   Score: 0.140: ORGANIZATION: Little Clond

@@ -1,0 +1,6 @@
+NER_ORGANIZATION: Sec
+NER_ORGANIZATION: Squadron Leader Duty Operations Officer Date
+NER_ORGANIZATION: Name & Address of Informant Dobbs Weir
+NER_ORGANIZATION: Herts Background of Informant
+NER_ORGANIZATION: Time of Receipt
+NER_PERSON: Hoddesden

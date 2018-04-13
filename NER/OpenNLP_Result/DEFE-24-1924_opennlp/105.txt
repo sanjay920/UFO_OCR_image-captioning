@@ -1,0 +1,12 @@
+NER_LOCATION: United States
+NER_LOCATION: London
+NER_LOCATION: Buckingham Palace
+NER_ORGANIZATION: Royal
+NER_ORGANIZATION: RIHT
+NER_ORGANIZATION: Ministry of Defence
+NER_ORGANIZATION: Flying Saucer Review
+NER_ORGANIZATION: RAP Hilton. Burkinglum-
+NER_PERSON: VC-‘AO Incredibly, FOUR
+NER_PERSON: Charles
+NER_PERSON: Shannon
+NER_PERSON: Gordon Creighton.

@@ -1,0 +1,10 @@
+   Score: 0.426: PERSON: NON Ascii text
+   Score: 0.497: PERSON: NON Ascii text
+   Score: 0.424: ORGANIZATION: SffM PKGN/S/Na
+   Score: 0.278: PERSON: NON Ascii text
+   Score: 0.848: PERSON: NON Ascii text
+   Score: 0.205: ORGANIZATION: NON Ascii text
+   Score: 0.187: PERSON: T/V/
+   Score: 0.837: PERSON: Wu
+   Score: 0.662: PERSON: Eli
+   Score: 0.347: MISC: M 779/

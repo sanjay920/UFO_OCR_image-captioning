@@ -1,0 +1,25 @@
+NER_DATE: 1965
+NER_DATE: 1978
+NER_LOCATION: Weltraum
+NER_LOCATION: America
+NER_LOCATION: England
+NER_LOCATION: Essex
+NER_LOCATION: Wissenschaft
+NER_ORGANIZATION: Fernsehe Musik
+NER_ORGANIZATION: Fliegende Untertassen
+NER_ORGANIZATION: Crystal Hogben
+NER_ORGANIZATION: ups
+NER_ORGANIZATION: Bitte senden eine International Post Schein
+NER_ORGANIZATION: Saucer rmation Centre 19 USA
+NER_ORGANIZATION: UFO
+NER_ORGANIZATION: Newton Green
+NER_PERCENT: ist %
+NER_PERCENT: §%$%
+NER_PERCENT: 8%
+NER_PERSON: Hogben
+NER_PERSON: David Prodkter
+NER_PERSON: David
+NER_PERSON: Vielen Jahren
+NER_PERSON: Dan auch
+NER_PERSON: DAVID PROGKTER David Prockyer
+NER_PERSON: Sonne

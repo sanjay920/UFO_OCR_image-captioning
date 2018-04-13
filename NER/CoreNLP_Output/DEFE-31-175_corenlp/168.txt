@@ -1,0 +1,12 @@
+NER_MONEY: $ 06
+NER_MONEY: $66
+NER_MONEY: $35
+NER_ORGANIZATION: S4
+NER_ORGANIZATION: Name & Address of Informant
+NER_ORGANIZATION: Time of Receipt of Report
+NER_ORGANIZATION: Angular Elevation of Object
+NER_ORGANIZATION: W‘o‘ Movements of Object
+NER_ORGANIZATION: ~Lma
+NER_ORGANIZATION: Aggugmo W203 Distance of Object
+NER_ORGANIZATION: Time Durat‘ Si hting
+NER_ORGANIZATION: WHL Mouse How Observed

@@ -1,0 +1,16 @@
+   Score: 0.574: PERSON: O
+   Score: 0.464: ORGANIZATION: OBJEC
+   Score: 0.327: ORGANIZATION: Sighting
+   Score: 0.579: ORGANIZATION: Positicn of Observer Outdoors
+   Score: 0.327: ORGANIZATION: E. Direction
+   Score: 0.561: LOCATION: North
+   Score: 1.175: ORGANIZATION: BBC
+   Score: 0.912: LOCATION: Kettering
+   Score: 0.475: PERSON: Angle of Sight
+   Score: 0.482: PERSON: H. Movements
+   Score: 0.499: LOCATION: E
+   Score: 0.560: PERSON: J. Met
+   Score: 0.814: PERSON: K. Nearby Objects
+   Score: 1.120: MISC: Open
+   Score: 0.372: PERSON: NON Ascii text
+   Score: 0.364: PERSON: marsh

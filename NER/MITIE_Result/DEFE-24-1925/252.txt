@@ -1,0 +1,20 @@
+   Score: 0.275: PERSON: leynline Systems
+   Score: 0.408: ORGANIZATION: ULK
+   Score: 0.492: PERSON: Ois
+   Score: 0.686: PERSON: ree Ling
+   Score: 0.335: ORGANIZATION: UgK
+   Score: 0.404: ORGANIZATION: UFO
+   Score: 0.409: PERSON: L}1e
+   Score: 0.288: ORGANIZATION: OSEAP
+   Score: 0.459: PERSON: Lhan
+   Score: 0.448: ORGANIZATION: UFO
+   Score: 1.092: PERSON: Phillip Klass
+   Score: 0.548: PERSON: Jenny Randles
+   Score: 0.192: LOCATION: Tetal
+   Score: 0.350: ORGANIZATION: Finallyy
+   Score: 0.968: PERSON: Ling
+   Score: 0.530: PERSON: Euphrosyne
+   Score: 0.841: ORGANIZATION: Mist Agency
+   Score: 0.459: PERSON: Pughowenena
+   Score: 0.488: PERSON: NON Ascii text
+   Score: 0.337: ORGANIZATION: OSEAP
