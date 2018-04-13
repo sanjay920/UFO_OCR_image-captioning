@@ -1,5 +1,0 @@
-NER_ORGANIZATION: Air Force Cperaﬁions Room
-NER_ORGANIZATION: M. Name
-NER_PERSON: AEW/GE DI
-NER_PERSON: Date................. Copies
-NER_PERSON: Sec(AS)2

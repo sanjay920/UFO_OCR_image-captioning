@@ -1,4 +1,0 @@
-NER_LOCATION: Richmond Surrey
-NER_ORGANIZATION: Search Department
-NER_ORGANIZATION: PRO
-NER_ORGANIZATION: Public Records Office Ruskin Avenue Kew Richmond Surrey

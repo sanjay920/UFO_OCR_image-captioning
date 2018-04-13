@@ -1,1 +1,0 @@
-NER_PERSON: V J I J. V

@@ -1,4 +1,0 @@
-NER_LOCATION: London
-NER_ORGANIZATION: Air Traffic C
-NER_ORGANIZATION: Royal Air Force West Drayton Middlcscx
-NER_ORGANIZATION: Aeronautical Information Section

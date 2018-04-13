@@ -1,2 +1,0 @@
-NER_ORGANIZATION: the University of Egéifgrnia
-NER_ORGANIZATION: University of Egéifgrnia

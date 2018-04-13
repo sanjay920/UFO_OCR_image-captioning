@@ -1,6 +1,0 @@
-NER_LOCATION: North West
-NER_LOCATION: Naked
-NER_ORGANIZATION: Ministry of Defence
-NER_ORGANIZATION: Object Straight Line Meteorological Conditions Clear During Observations Nearby Objects
-NER_ORGANIZATION: Phone: AIS Military Royal Air Force
-NER_ORGANIZATION: First Seen

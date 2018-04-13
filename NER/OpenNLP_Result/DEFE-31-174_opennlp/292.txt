@@ -1,4 +1,0 @@
-NER_ORGANIZATION: Ministry of Defence
-NER_ORGANIZATION: RAF Main Building. Whitehall, London,
-NER_ORGANIZATION: MC Services Mlh.;..
-NER_ORGANIZATION: UFO

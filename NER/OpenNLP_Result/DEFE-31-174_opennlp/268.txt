@@ -1,4 +1,0 @@
-NER_LOCATION: Tel _
-NER_LOCATION: Sheffield
-NER_PERSON: Don
-NER_PERSON: Informants

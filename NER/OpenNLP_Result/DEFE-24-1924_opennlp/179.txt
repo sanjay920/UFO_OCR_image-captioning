@@ -1,5 +1,0 @@
-NER_LOCATION: Receipt
-NER_ORGANIZATION: AF Ops M. Name
-NER_PERSON: AEW/GE DI
-NER_PERSON: Date..?§.99?.§?......
-NER_PERSON: Sec(AS)2

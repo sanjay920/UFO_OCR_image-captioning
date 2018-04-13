@@ -1,5 +1,0 @@
-NER_LOCATION: Observer.
-NER_LOCATION: Volunteered.
-NER_ORGANIZATION: H.
-NER_ORGANIZATION: Name & Address of Informant.
-NER_ORGANIZATION: Bow Observed. NRKED E‘iE

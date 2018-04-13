@@ -1,4 +1,0 @@
-NER_ORGANIZATION: KA9
-NER_ORGANIZATION: Ministry of Defence Service
-NER_ORGANIZATION: ATC Watch
-NER_ORGANIZATION: National Air Traffic Services Atlantic House, Sherwood Road, Prestwick, Ayr

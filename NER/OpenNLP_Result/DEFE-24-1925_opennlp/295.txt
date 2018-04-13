@@ -1,5 +1,0 @@
-NER_LOCATION: Royal Air
-NER_ORGANIZATION: 3JF Telephone Please
-NER_ORGANIZATION: Royal Air Force
-NER_ORGANIZATION: M359? 0
-NER_PERSON: Commanding Your

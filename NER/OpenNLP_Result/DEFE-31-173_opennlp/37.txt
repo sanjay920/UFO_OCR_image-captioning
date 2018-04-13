@@ -1,6 +1,0 @@
-NER_LOCATION: Castle
-NER_LOCATION: Castle Hill,
-NER_LOCATION: Manchester Air
-NER_ORGANIZATION: Ministry of Defence, Department
-NER_ORGANIZATION: Manchester Air Traffic Control,
-NER_ORGANIZATION: Control Room

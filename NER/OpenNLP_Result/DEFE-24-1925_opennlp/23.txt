@@ -1,2 +1,0 @@
-NER_PERSON: Li
-NER_PERSON: m2». WW”

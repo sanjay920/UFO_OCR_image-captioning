@@ -1,2 +1,0 @@
-NER_ORGANIZATION: AF
-NER_ORGANIZATION: Squadron Leader Duty Operations Officer AF Ops

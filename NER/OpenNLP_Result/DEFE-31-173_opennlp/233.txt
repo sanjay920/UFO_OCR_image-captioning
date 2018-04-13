@@ -1,2 +1,0 @@
-NER_PERSON: WW: L \‘VSLNN
-NER_PERSON: Ray

@@ -1,3 +1,0 @@
-NER_ORGANIZATION: Department
-NER_ORGANIZATION: Ministry of Defence
-NER_ORGANIZATION: RAF St Mawgan

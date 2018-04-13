@@ -1,3 +1,0 @@
-NER_PERSON: AEW/GE DI
-NER_PERSON: Sec(AS)2
-NER_PERSON: Date....2.'.9°.t.§6..... AF Ops Copies

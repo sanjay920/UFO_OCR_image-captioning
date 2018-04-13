@@ -1,3 +1,0 @@
-NER_ORGANIZATION: Secret Intelligence Summary"
-NER_ORGANIZATION: Ministry
-NER_PERSON: Anthony Montague Browne, Esq.,

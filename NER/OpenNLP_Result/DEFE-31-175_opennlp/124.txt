@@ -1,3 +1,0 @@
-NER_LOCATION: Armed
-NER_ORGANIZATION: Security Guard
-NER_ORGANIZATION: Armed Forces Other

@@ -1,2 +1,0 @@
-NER_ORGANIZATION: Duty Operations Officer AF Ops
-NER_PERSON: Ho Conditions

@@ -1,5 +1,0 @@
-NER_LOCATION: London
-NER_LOCATION: U West
-NER_ORGANIZATION: Royal Air F
-NER_ORGANIZATION: Aeronautical Information Section
-NER_ORGANIZATION: London Air Traffic Control Centre

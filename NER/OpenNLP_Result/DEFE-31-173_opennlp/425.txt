@@ -1,2 +1,0 @@
-NER_LOCATION: RAM; (cm-1‘“ Z
-NER_PERSON: A?” M

@@ -1,4 +1,0 @@
-NER_LOCATION: Conclusion: Who
-NER_ORGANIZATION: United States,
-NER_ORGANIZATION: Air Force Project Sign
-NER_ORGANIZATION: UFO

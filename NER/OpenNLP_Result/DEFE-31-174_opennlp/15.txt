@@ -1,5 +1,0 @@
-NER_ORGANIZATION: Ministry of Defence
-NER_ORGANIZATION: Phone: AIS Military Royal Air Force
-NER_PERSON: W W 5L W 'W\ SPZJ’QWM
-NER_PERSON: W spam“
-NER_PERSON: Sighting G S SECS

@@ -1,2 +1,0 @@
-NER_ORGANIZATION: l
-NER_PERSON: A?“ J fix"

@@ -1,2 +1,0 @@
-NER_ORGANIZATION: OI Oojech F%‘Cxtilvaawm
-NER_PERSON: Da

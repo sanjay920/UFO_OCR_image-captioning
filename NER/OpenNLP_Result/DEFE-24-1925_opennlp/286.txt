@@ -1,6 +1,0 @@
-NER_LOCATION: UFOs
-NER_LOCATION: London
-NER_ORGANIZATION: Department
-NER_ORGANIZATION: United Kingdom Ministry of Defence
-NER_ORGANIZATION: University
-NER_ORGANIZATION: Ministry of Defence

@@ -1,8 +1,0 @@
-NER_LOCATION: Earth
-NER_LOCATION: Bradford Airport
-NER_LOCATION: England
-NER_ORGANIZATION: Leeds & Bradford Airport
-NER_ORGANIZATION: Air Ministry, Main Building, Ministry of Defence. Whitehall, London, SWI. Dear
-NER_ORGANIZATION: Society
-NER_ORGANIZATION: Ministry of Defence's
-NER_ORGANIZATION: Civil Aviation Authority

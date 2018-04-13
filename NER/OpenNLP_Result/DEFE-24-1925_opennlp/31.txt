@@ -1,3 +1,0 @@
-NER_LOCATION: London
-NER_LOCATION: North Yorkshire
-NER_ORGANIZATION: F1“; Telephone

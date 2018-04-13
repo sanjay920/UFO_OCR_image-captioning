@@ -1,2 +1,0 @@
-NER_ORGANIZATION: Air Defence
-NER_ORGANIZATION: Air Staff

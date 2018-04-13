@@ -1,2 +1,0 @@
-NER_ORGANIZATION: Ministry of Defence Main
-NER_ORGANIZATION: Press Office Section

@@ -1,4 +1,0 @@
-NER_PERSON: L L. )H"
-NER_PERSON: H -‘
-NER_PERSON: H m; Cf: T ' Tl,
-NER_PERSON: If” T

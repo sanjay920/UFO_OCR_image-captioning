@@ -1,2 +1,0 @@
-NER_ORGANIZATION: TL L*~€‘~IM& Ltl‘
-NER_PERSON: Mckvi

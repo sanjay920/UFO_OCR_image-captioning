@@ -1,5 +1,0 @@
-NER_LOCATION: (2Q \
-NER_PERSON: Der
-NER_PERSON: FL“...
-NER_PERSON: Li .nm.1,.,..-.,___..h
-NER_PERSON: 1,

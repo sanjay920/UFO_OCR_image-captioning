@@ -1,2 +1,0 @@
-NER_PERSON: Euuéxﬂ‘ Ma 3 ﬂag’x
-NER_PERSON: O D

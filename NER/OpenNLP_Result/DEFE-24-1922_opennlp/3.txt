@@ -1,4 +1,0 @@
-NER_LOCATION: Tel Ext
-NER_ORGANIZATION: DEM
-NER_ORGANIZATION: Pan __
-NER_PERSON: JClassificatIon K /‘4 [L IriIe Numbermosg

@@ -1,3 +1,0 @@
-NER_ORGANIZATION: Ministry of Defence
-NER_ORGANIZATION: Civil Aviation Authority
-NER_PERSON: Barry

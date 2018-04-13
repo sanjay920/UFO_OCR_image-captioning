@@ -1,3 +1,0 @@
-NER_LOCATION: N None.
-NER_ORGANIZATION: HOD Air Force Operations Name
-NER_PERSON: Date

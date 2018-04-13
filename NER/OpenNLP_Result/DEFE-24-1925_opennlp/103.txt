@@ -1,1 +1,0 @@
-NER_PERSON: Lord Hill-Norton.

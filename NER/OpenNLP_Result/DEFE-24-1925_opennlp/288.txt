@@ -1,2 +1,0 @@
-NER_ORGANIZATION: Ministry of Defence
-NER_PERSON: Patric}; Wan

@@ -1,1 +1,0 @@
-NER_PERSON: C Q C O C Cr]... C O C C O C .31. O O O C C O L. C .

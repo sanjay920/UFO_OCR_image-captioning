@@ -1,8 +1,0 @@
-NER_LOCATION: London
-NER_LOCATION: Britain
-NER_LOCATION: West Yorkshire. London
-NER_ORGANIZATION: Ministry of Defence,
-NER_ORGANIZATION: UFO Research Association.
-NER_ORGANIZATION: NLJ K JJUO
-NER_ORGANIZATION: British UFO Research ASsociation
-NER_ORGANIZATION: UFO

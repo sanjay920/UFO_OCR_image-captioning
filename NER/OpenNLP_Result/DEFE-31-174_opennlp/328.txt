@@ -1,5 +1,0 @@
-NER_LOCATION: Elstree;
-NER_LOCATION: Heath Row
-NER_ORGANIZATION: MOD Main Building,
-NER_ORGANIZATION: British Astronomical Association
-NER_PERSON: Astronomical

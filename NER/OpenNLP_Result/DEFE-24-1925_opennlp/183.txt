@@ -1,9 +1,0 @@
-NER_LOCATION: Moon
-NER_LOCATION: England
-NER_ORGANIZATION: CNK
-NER_ORGANIZATION: UFO
-NER_PERSON: Newton Green, Great Dunmow, Eeeex, Erigla‘nd,
-NER_PERSON: 6111, Von D&niken, Betty
-NER_PERSON: Lord Lucian?
-NER_PERSON: Printed Jo
-NER_PERSON: Oliver Well,

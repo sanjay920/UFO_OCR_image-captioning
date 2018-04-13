@@ -1,3 +1,0 @@
-NER_PERSON: O O. .3. O O 0,. Ce
-NER_PERSON: -2.
-NER_PERSON: Q C C .. C C.

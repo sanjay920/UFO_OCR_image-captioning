@@ -1,3 +1,0 @@
-NER_LOCATION: Naked
-NER_PERSON: Ben Sbn<rvoﬁ.
-NER_PERSON: C. Dirtmnmn.

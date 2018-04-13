@@ -1,2 +1,0 @@
-NER_LOCATION: W \
-NER_PERSON: M M W W W \

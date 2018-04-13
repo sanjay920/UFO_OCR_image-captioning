@@ -1,9 +1,0 @@
-NER_LOCATION: Informa-
-NER_ORGANIZATION: Community Relations Division, Lt. Colonel George Freeman,
-NER_ORGANIZATION: Air Force‘s
-NER_ORGANIZATION: Air
-NER_ORGANIZATION: Air Force‘s Chief, Civil Branch
-NER_ORGANIZATION: Air Force
-NER_ORGANIZATION: UFO
-NER_PERSON: Edward Ruppelt. Ruppelt
-NER_PERSON: George Freeman,

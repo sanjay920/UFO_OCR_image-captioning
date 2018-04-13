@@ -1,5 +1,0 @@
-NER_LOCATION: Huddersfield.
-NER_ORGANIZATION: About
-NER_ORGANIZATION: VMSGSS
-NER_PERSON: Cowpliffe,
-NER_PERSON: Huddersfield.

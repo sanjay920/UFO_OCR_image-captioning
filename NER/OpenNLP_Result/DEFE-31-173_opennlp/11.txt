@@ -1,4 +1,0 @@
-NER_LOCATION: Receipt
-NER_LOCATION: London
-NER_ORGANIZATION: Sun News
-NER_PERSON: Date..j7.m§?.§5

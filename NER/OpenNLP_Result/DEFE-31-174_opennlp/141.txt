@@ -1,5 +1,0 @@
-NER_LOCATION: .r....4.‘u\ . V “.a
-NER_PERSON: O O O O 0 Our...
-NER_PERSON: O O I O . Ln
-NER_PERSON: O O O O O 0
-NER_PERSON: WWI. J‘qﬂ‘a‘vs V

@@ -1,4 +1,0 @@
-NER_LOCATION: No SOund
-NER_ORGANIZATION: ATC
-NER_PERSON: Meteorological Conditions During Observations Good
-NER_PERSON: Tel. Lymington O Brockenhurst, Hants. Any Background InformatiOn

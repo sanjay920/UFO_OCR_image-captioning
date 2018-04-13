@@ -1,4 +1,0 @@
-NER_ORGANIZATION: M,
-NER_PERSON: Mn” W L. To
-NER_PERSON: G.
-NER_PERSON: Distance. V mF/Mw H . Moveme

@@ -1,2 +1,0 @@
-NER_ORGANIZATION: ROYAL AIR FORCE Coltishall Norwich Norfoik
-NER_PERSON: Commanding Your

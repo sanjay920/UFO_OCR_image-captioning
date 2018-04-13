@@ -1,2 +1,0 @@
-NER_PERSON: O O 0,. O O 030‘
-NER_PERSON: O O O O I

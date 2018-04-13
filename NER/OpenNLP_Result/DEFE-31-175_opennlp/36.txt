@@ -1,2 +1,0 @@
-NER_LOCATION: Naked Ege'
-NER_ORGANIZATION: Local Oct

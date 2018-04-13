@@ -1,2 +1,0 @@
-NER_ORGANIZATION: Ministry of Defence Department
-NER_PERSON: Dear Sir «

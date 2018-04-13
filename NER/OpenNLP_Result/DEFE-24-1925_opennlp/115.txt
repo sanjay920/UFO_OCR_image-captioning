@@ -1,2 +1,0 @@
-NER_LOCATION: Rendlesham Forest
-NER_ORGANIZATION: UK

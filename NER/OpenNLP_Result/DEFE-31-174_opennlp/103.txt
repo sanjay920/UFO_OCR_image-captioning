@@ -1,2 +1,0 @@
-NER_LOCATION: Movements
-NER_ORGANIZATION: White

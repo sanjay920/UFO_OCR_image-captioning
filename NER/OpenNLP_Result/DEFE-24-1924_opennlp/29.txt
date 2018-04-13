@@ -1,2 +1,0 @@
-NER_ORGANIZATION: OLD Telephone
-NER_ORGANIZATION: Civil Aviation Authority Control Tower, Gatwick Airport, West Sussex

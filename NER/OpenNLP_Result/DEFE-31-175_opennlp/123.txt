@@ -1,4 +1,0 @@
-NER_LOCATION: Naked
-NER_ORGANIZATION: White Light
-NER_ORGANIZATION: Over Newcastle Movements
-NER_ORGANIZATION: F & G

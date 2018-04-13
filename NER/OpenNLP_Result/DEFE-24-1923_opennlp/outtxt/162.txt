@@ -1,4 +1,0 @@
-NER_ORGANIZATION: HQ P&SS{UK),~'Fi.ying Complaints Flight
-NER_ORGANIZATION: WBJWE Lg Suﬁ
-NER_PERSON: H&Jcmg
-NER_PERSON: Award

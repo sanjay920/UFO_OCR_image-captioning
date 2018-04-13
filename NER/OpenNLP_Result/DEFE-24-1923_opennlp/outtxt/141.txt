@@ -1,2 +1,0 @@
-NER_ORGANIZATION: GM
-NER_PERSON: V M .... :2meng

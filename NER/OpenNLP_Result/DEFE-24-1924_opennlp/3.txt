@@ -1,3 +1,0 @@
-NER_LOCATION: .Cw..1:&r Em w:~m,m
-NER_PERSON: M
-NER_PERSON: _

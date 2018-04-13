@@ -1,3 +1,0 @@
-NER_LOCATION: N0
-NER_LOCATION: N IL
-NER_ORGANIZATION: Squadron Leader Duty Operations Officer AF Ops

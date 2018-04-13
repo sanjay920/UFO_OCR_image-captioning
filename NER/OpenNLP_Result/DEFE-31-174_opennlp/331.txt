@@ -1,3 +1,0 @@
-NER_ORGANIZATION: RAF Nivigator,
-NER_ORGANIZATION: Squadron Leader Duty Operations Officer AF Ops
-NER_PERSON: MOD, E lo‘FW-

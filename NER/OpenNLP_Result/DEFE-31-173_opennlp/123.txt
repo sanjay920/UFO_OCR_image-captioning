@@ -1,3 +1,0 @@
-NER_LOCATION: Orange
-NER_LOCATION: Heights
-NER_PERSON: 1ndoor/outdoor, H stationary. moving) Outdoor

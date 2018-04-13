@@ -1,2 +1,0 @@
-NER_LOCATION: Heights
-NER_LOCATION: Naked

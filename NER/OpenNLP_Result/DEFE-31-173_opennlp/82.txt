@@ -1,6 +1,0 @@
-NER_LOCATION: Naked
-NER_ORGANIZATION: SSR Code Aircraft
-NER_ORGANIZATION: National Air Traffic Services
-NER_ORGANIZATION: Agencies
-NER_PERSON: Weather Actual
-NER_PERSON: ADC/AFC

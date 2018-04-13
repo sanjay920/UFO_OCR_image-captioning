@@ -1,2 +1,0 @@
-NER_ORGANIZATION: Ministry of B&fence
-NER_PERSON: L $1111.32: (2-25m).sacauae

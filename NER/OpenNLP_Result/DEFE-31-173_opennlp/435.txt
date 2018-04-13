@@ -1,3 +1,0 @@
-NER_LOCATION: Outco~o<>to
-NER_LOCATION: L; Mk,
-NER_LOCATION: W'rﬁchom

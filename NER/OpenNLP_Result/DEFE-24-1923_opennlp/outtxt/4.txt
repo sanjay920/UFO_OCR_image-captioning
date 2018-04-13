@@ -1,2 +1,0 @@
-NER_LOCATION: CEJJqu‘.
-NER_PERSON: V W m,

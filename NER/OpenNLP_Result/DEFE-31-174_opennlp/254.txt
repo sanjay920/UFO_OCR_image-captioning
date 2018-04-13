@@ -1,2 +1,0 @@
-NER_ORGANIZATION: US
-NER_PERSON: Lord Hill-Norton

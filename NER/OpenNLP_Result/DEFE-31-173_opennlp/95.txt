@@ -1,2 +1,0 @@
-NER_LOCATION: To
-NER_PERSON: M 5’“th Description

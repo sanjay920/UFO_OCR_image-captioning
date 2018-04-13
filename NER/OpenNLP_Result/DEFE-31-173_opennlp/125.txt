@@ -1,3 +1,0 @@
-NER_LOCATION: Minutes - l W {.
-NER_LOCATION: Heights
-NER_ORGANIZATION: White

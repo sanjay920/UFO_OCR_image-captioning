@@ -1,4 +1,0 @@
-NER_ORGANIZATION: Air Force Ops, Main BUildiDS
-NER_PERSON: Date..?.§9Y.§§
-NER_PERSON: 2
-NER_PERSON: a0, W —<mend>

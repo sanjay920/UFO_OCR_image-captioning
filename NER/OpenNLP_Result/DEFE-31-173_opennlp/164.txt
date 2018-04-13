@@ -1,5 +1,0 @@
-NER_LOCATION: .8. I l HIE'LIGHT HANGING
-NER_LOCATION: 1 F l /
-NER_LOCATION: UIST, DRIMsDALE
-NER_LOCATION: SEP
-NER_PERSON: L IM//////9//////97////ﬁ//////°ﬂ?/////ﬁ/MWW//'////%W‘/M9% /'/////é?¢°///////ﬁ////x/’/////°////////9///%‘/////%WWW'

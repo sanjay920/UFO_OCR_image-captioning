@@ -1,4 +1,0 @@
-NER_ORGANIZATION: Department
-NER_ORGANIZATION: Air Staff Secretariatsl
-NER_ORGANIZATION: Ministry of Defence
-NER_ORGANIZATION: RAF Rudloe Manor?

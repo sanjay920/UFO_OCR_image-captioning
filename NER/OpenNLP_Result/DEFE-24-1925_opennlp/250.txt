@@ -1,3 +1,0 @@
-NER_ORGANIZATION: Penguin Books Ltd., Harmondsworth,
-NER_ORGANIZATION: UFO
-NER_PERSON: Jane Lew, WV

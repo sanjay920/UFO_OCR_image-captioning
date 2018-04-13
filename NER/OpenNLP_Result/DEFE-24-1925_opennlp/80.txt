@@ -1,2 +1,0 @@
-NER_PERSON: 1.. J . 3..
-NER_PERSON: C V r}

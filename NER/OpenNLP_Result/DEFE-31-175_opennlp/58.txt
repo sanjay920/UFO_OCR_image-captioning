@@ -1,4 +1,0 @@
-NER_LOCATION: U 3-. L
-NER_LOCATION: Nova
-NER_ORGANIZATION: U
-NER_ORGANIZATION: Squadron Leader Duty Operatioﬁs Cfficer AF COS ;:~:5~9-ng‘,‘1“§

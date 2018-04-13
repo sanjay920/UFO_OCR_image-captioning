@@ -1,1 +1,0 @@
-NER_PERSON: A» Z > O O O O O C -.. C C C O C C C C

@@ -1,3 +1,0 @@
-NER_LOCATION: Aberdeen Airport
-NER_LOCATION: Naked
-NER_PERSON: Weathei Actual

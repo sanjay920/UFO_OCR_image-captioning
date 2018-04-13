@@ -1,3 +1,0 @@
-NER_LOCATION: Cann’ock Road
-NER_ORGANIZATION: Air Traffic Control Centre. Porters Way. West Drayton, Middlesex, In,“
-NER_ORGANIZATION: Tdon36W7 c Cann’ock Road Our

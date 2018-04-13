@@ -1,5 +1,0 @@
-NER_LOCATION: North
-NER_ORGANIZATION: Air Traffic Control, Ronaldsway, Isle
-NER_ORGANIZATION: REPORT ENDS Ministry of Defence
-NER_ORGANIZATION: RAF Main Building, Whitehall, LONDON
-NER_PERSON: Stanley Mount, Peel

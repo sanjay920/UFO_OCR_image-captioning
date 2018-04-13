@@ -1,7 +1,0 @@
-NER_LOCATION: Tel 01
-NER_LOCATION: U A)
-NER_ORGANIZATION: Town
-NER_ORGANIZATION: MOD Claims, First Avenue
-NER_ORGANIZATION: Jet
-NER_ORGANIZATION: WC1V
-NER_ORGANIZATION: Propellor Military Civil Fighter Bomber Helicopter Light Camouflaged Silver White

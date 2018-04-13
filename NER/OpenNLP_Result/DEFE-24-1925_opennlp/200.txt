@@ -1,4 +1,0 @@
-NER_LOCATION: London
-NER_ORGANIZATION: Department
-NER_ORGANIZATION: Public Records Office
-NER_PERSON: Lord Trefgarne

@@ -1,2 +1,0 @@
-NER_ORGANIZATION: AAC Centre, Middle Hallop
-NER_PERSON: AFC

@@ -1,3 +1,0 @@
-NER_LOCATION: Huddresfield
-NER_ORGANIZATION: YUFDS Research Division (internationa!)
-NER_ORGANIZATION: Air Force,

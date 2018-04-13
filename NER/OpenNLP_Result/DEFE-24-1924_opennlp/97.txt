@@ -1,2 +1,0 @@
-NER_LOCATION: 7. \
-NER_PERSON: .1. V

@@ -1,4 +1,0 @@
-NER_LOCATION: DC
-NER_PERSON: C L r\ '4’
-NER_PERSON: 1-, K :C_
-NER_PERSON: Cu. K “-2 H r‘

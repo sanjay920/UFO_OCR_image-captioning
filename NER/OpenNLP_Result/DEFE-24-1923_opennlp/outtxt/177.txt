@@ -1,5 +1,0 @@
-NER_ORGANIZATION: Civil Ayiation Authority Cm‘diifwwal 85
-NER_ORGANIZATION: RAF Main
-NER_ORGANIZATION: Ba Description Of OBJECt
-NER_ORGANIZATION: Ministry of Defence
-NER_ORGANIZATION: EL Nearby Objects

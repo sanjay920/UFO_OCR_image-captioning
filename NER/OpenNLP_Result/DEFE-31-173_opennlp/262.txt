@@ -1,5 +1,0 @@
-NER_ORGANIZATION: Phone: AIS Military Royal Air Force LATCC
-NER_ORGANIZATION: MPSKELD EYE
-NER_ORGANIZATION: Ministry of Defence
-NER_ORGANIZATION: First Seen WEg-T' Angular Elezaticn
-NER_PERSON: Rich Object

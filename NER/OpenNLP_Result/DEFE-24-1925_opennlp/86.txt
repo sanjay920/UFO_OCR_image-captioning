@@ -1,2 +1,0 @@
-NER_ORGANIZATION: RAF Chivenor Name
-NER_ORGANIZATION: Distaqgg Movements Steady Meteorological

@@ -1,6 +1,0 @@
-NER_LOCATION: United States
-NER_LOCATION: Rendlesnam Forest
-NER_LOCATION: London
-NER_ORGANIZATION: Public Heoords Offine
-NER_ORGANIZATION: Public Records Ants,
-NER_PERSON: Charles Halt,

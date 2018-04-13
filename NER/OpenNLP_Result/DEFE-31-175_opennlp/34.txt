@@ -1,3 +1,0 @@
-NER_LOCATION: Sighting
-NER_ORGANIZATION: Ford End How Observed
-NER_ORGANIZATION: Local

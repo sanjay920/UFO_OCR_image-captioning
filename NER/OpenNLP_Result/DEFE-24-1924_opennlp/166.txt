@@ -1,2 +1,0 @@
-NER_ORGANIZATION: Air Force Operatiohs Date................. Copies
-NER_PERSON: 10

@@ -1,6 +1,0 @@
-NER_LOCATION: Royal Air
-NER_LOCATION: Upper Heyford Airport
-NER_LOCATION: Date
-NER_ORGANIZATION: Ministry of Defence
-NER_ORGANIZATION: Royal Air Force
-NER_ORGANIZATION: Oxford

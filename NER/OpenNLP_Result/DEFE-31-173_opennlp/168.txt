@@ -1,4 +1,0 @@
-NER_LOCATION: San Ldr
-NER_LOCATION: London
-NER_LOCATION: Scotland
-NER_ORGANIZATION: Tower Bridge

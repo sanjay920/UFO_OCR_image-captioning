@@ -1,3 +1,0 @@
-NER_ORGANIZATION: AOC Enclosure:
-NER_ORGANIZATION: House Uxbridge Middiesex U Telephonc Uxbl
-NER_ORGANIZATION: UFO

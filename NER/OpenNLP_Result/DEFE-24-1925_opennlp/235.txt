@@ -1,2 +1,0 @@
-NER_LOCATION: Number..........1.'.":] ...................................... S
-NER_ORGANIZATION: Edgwa

@@ -1,2 +1,0 @@
-NER_ORGANIZATION: Army Air Corps Middle Wallop Stockbridge Hants
-NER_ORGANIZATION: SDY Telephone Middle Waliop Military Andover STD Your

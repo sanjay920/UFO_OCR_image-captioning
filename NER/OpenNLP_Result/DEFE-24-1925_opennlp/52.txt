@@ -1,3 +1,0 @@
-NER_ORGANIZATION: Air Farce, Air
-NER_ORGANIZATION: "2f
-NER_PERSON: Victnr Gmddard,

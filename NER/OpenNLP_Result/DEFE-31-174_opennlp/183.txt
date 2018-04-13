@@ -1,2 +1,0 @@
-NER_LOCATION: London Airport
-NER_LOCATION: London

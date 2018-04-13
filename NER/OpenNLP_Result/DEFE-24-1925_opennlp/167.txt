@@ -1,9 +1,0 @@
-NER_ORGANIZATION: UFO
-NER_PERSON: Gene Duplantier, Exrﬁditor
-NER_PERSON: Rogers
-NER_PERSON: Gene Lemon,jv
-NER_PERSON: Gene Duplantiev
-NER_PERSON: Foresi W
-NER_PERSON: Gene Duplantier
-NER_PERSON: Guardsman
-NER_PERSON: W n:

@@ -1,5 +1,0 @@
-NER_LOCATION: Scarborough. At
-NER_ORGANIZATION: Ministry of Defence
-NER_ORGANIZATION: Royal Air Force Fylingdales, Nr Pickering, North Yorkshire Your Ref:
-NER_ORGANIZATION: NICAP
-NER_ORGANIZATION: Research

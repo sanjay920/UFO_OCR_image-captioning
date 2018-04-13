@@ -1,7 +1,0 @@
-NER_ORGANIZATION: Sec.(ASJ2
-NER_ORGANIZATION: Bristol
-NER_ORGANIZATION: Airport, Air Tra++ic Control. Section
-NER_ORGANIZATION: Bristol Airport, CAVOK. Nil
-NER_ORGANIZATION: Bristol Airport. Naked
-NER_ORGANIZATION: ATC Bristol Airport.
-NER_PERSON: Stanton Drew. Approximately Snm. ESE 0+

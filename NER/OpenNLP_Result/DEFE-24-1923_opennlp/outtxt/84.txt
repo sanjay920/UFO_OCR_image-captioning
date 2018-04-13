@@ -1,2 +1,0 @@
-NER_PERSON: Lawson Sum
-NER_PERSON: Wis W sma- WWCMNQEE‘

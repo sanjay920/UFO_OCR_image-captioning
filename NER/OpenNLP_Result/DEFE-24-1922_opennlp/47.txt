@@ -1,4 +1,0 @@
-NER_LOCATION: Yeadon Airport
-NER_ORGANIZATION: Ministry of
-NER_ORGANIZATION: Headquarters
-NER_ORGANIZATION: Air Traffic Controller

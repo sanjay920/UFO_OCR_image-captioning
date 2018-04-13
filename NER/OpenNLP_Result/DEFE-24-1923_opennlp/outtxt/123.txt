@@ -1,2 +1,0 @@
-NER_LOCATION: River Tyne.
-NER_LOCATION: Ore shape,

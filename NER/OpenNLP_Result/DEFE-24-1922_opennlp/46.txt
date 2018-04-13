@@ -1,5 +1,0 @@
-NER_ORGANIZATION: Otley Division of
-NER_ORGANIZATION: Gﬁ/
-NER_ORGANIZATION: Ministry of Defence Department
-NER_PERSON: <:¥F<3;Eg§;éhgz§
-NER_PERSON: Dear Sir Enclosed

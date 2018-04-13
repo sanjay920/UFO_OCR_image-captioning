@@ -1,5 +1,0 @@
-NER_LOCATION: London
-NER_ORGANIZATION: Administration
-NER_ORGANIZATION: Ministry of Defence Department
-NER_PERSON: Sowerby Bridge
-NER_PERSON: Az-“s

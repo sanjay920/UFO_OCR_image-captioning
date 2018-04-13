@@ -1,2 +1,0 @@
-NER_ORGANIZATION: whereve1
-NER_PERSON: Sam ELK?"

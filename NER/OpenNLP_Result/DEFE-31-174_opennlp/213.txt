@@ -1,4 +1,0 @@
-NER_PERSON: O O 0.. . O O O. O Eb 0
-NER_PERSON: C O C O O 0...... O .
-NER_PERSON: C O O O C u.
-NER_PERSON: O O C C 0

@@ -1,2 +1,0 @@
-NER_LOCATION: London
-NER_ORGANIZATION: Ministry of Defence

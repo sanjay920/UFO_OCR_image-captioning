@@ -1,2 +1,0 @@
-NER_ORGANIZATION: MOD
-NER_ORGANIZATION: Civilian Management

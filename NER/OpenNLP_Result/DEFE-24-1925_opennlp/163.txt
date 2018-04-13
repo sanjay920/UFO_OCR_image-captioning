@@ -1,4 +1,0 @@
-NER_LOCATION: Ufoloqy
-NER_LOCATION: Idaho
-NER_PERSON: W“
-NER_PERSON: Gene Duplantiercxplains

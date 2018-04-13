@@ -1,4 +1,0 @@
-NER_ORGANIZATION: COSMIC
-NER_PERSON: Edward Karrie, Editor. Vuv/f_
-NER_PERSON: David
-NER_PERSON: David Prookter,

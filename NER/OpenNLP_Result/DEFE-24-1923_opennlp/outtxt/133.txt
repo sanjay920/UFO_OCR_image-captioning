@@ -1,2 +1,0 @@
-NER_LOCATION: To
-NER_PERSON: CD‘S) L M. Name

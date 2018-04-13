@@ -1,5 +1,0 @@
-NER_LOCATION: United States
-NER_ORGANIZATION: RAF Woodbridgc
-NER_ORGANIZATION: Air Force
-NER_PERSON: Friend
-NER_PERSON: Patrick Wall

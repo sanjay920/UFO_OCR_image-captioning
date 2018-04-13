@@ -1,3 +1,0 @@
-NER_LOCATION: Wellington
-NER_LOCATION: Sutton Hill
-NER_PERSON: Sutton Hill

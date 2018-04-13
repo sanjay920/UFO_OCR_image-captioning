@@ -1,6 +1,0 @@
-NER_LOCATION: Hi
-NER_LOCATION: 5/ i. l
-NER_ORGANIZATION: DSTI D Air Def
-NER_PERSON: Lord Hill-Norton
-NER_PERSON: Lord Hill—Norton
-NER_PERSON: Lord Hill- Norton

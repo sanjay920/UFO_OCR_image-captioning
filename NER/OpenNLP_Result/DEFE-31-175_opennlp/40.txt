@@ -1,2 +1,0 @@
-NER_LOCATION: DIbe
-NER_PERSON: Iago

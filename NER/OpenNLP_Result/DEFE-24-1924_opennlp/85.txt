@@ -1,3 +1,0 @@
-NER_ORGANIZATION: AF Ops Copies
-NER_ORGANIZATION: AFOPS Tel-No. M. Name
-NER_PERSON: Date....9.M?¥.§§
