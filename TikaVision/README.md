@@ -1,42 +1,49 @@
-Tika vision
+<b><h3>Tika vision</h3></b>
 
 1) Need python3 and pip3 to run this part
 
-2) Create a virtual env 'hw2Vision' in this directory
+2) Create a virtual env 'hw2Vision' in this directory   
 	virtualenv hw2Vision
 
-3) Next activate the virtual environment by running the below commands.
-	source virtualenve hw2Vision/bin/activate
+3) Next activate the virtual environment by running the below commands:   
+	source virtualenv hw2Vision/bin/activate
 
 4) Next install the necessary packages using pip3
 
 	pip3 install -U requirements.txt
 
-5) In another terminal make sure that tika vision and caption dockers are running. and then endpoints are accessible
+5) In another terminal make sure that tika vision and caption dockers are running and the endpoints are accessible.   
+The steps to activate the docker are here:
+* <h4> Tika Vision </h4> https://wiki.apache.org/tika/TikaAndVision#Step_2._Create_a_Tika-Config_XML_to_enable_Tensorflow_parser
+* <h4> Image Caption </h4> https://wiki.apache.org/tika/ImageCaption
+
+<b>Step 1:</b> First extract the classes for each url and write it into a csv.   
+
+Columns - Classes, URL   
+
+1) To achieve this execute extract_classes_async.py in the terminal with python 3   
+2) Some of the requests to the TIKA vision API may time out. In that case we make note of that and try to extract the details in the next run   
+3) Once the script runs, it creates a csv named <u>"data_set_v2_with_classes.csv"</u>
+4) Re-run async_test.py to get urls which failed in the previous run   
+5) Once this is done, we will have the classes for all the urls passed   
 
 
-
-Step 1: First extract the classes for each url and write it into a csv.
-
-Columns - Classes, URL, Case_ID
-
-1) To achieve this execute async_test.py in the terminal with python 3.
-2) Some of the requests to the TIKA vision API may time out. In that case we make note of that and try to extract the details in the next run.
-3) Once the script runs, this creates a csv by the name "data_set_v2.csv"
-4) Re run async_test.py again for the urls which failed in the previous run.
-5) Once this is done, we will have the classes for all the urls passed.
-
-
-Step 2: Second, we need to extract captions for each url and write it into a new csv.
+<b>Step 2:</b> Secondly we need to extract captions for each url and write it into a new csv.
 
 Columns - URL, Caption
 
-1) Make sure Tika caption docker is up and running in a terminal window, ensure that we have access to the endpoint
+1) Make sure <b>Tika caption docker</b> is up and running in a terminal window, ensure that we have access to the endpoint
 
-2) From the previous step, we can get a list of all the urls that were processed. This is stored in the file "all_url.txt"
+2) From the previous step, we have a list of all the urls that were processed. These are stored in the file <u>"all_url.txt"</u>
 
-3) Now for each url in this, we try to find the captions from the tika caption API.
+3) For each url in this, we try to find the captions using tika caption API.
 
-4) Once the script runs completely, we will have a csv "data_set_v2_with_caption.csv"
+4) Once the script runs completely, we will have a csv <u>"data_set_v2_with_caption.csv"</u>
 
-5)
+5) Once this is done, we will have the caption for all the urls passed
+
+<b>Step 3:</b> Once we have these files going through step1 and step2, we can merge these into single csv by running merge_data_sets.py   
+
+merge_data_sets.py merges the two files as pandas dataframes and we merge them based on the common column <b>"URL"<b>
+
+<b>Step 4:</b> Run post_processing.py
