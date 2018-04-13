@@ -17,3 +17,5 @@ Start CoreNLP client: java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreN
 
 6) Run shapes_field notebook. Reads in merged_PDF_images.csv. This notebook will look for common shapes in each UFO entry and add to entry if shape is detected. Writes out to PA2_UFO_sightings.csv
 
+7) Run 'Merge PA2 UFOs with PA1 UFOs.ipynb'. This will merge ../ufo_dataset_initial.csv and UFO_sightings.csv. This notebook will produce UFO_sightings.csv and UFO_sightings.tsv
+
